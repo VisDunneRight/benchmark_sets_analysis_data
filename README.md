@@ -1,2 +1,3 @@
-# Benchmark-Datasets
-Benchmark datasets for graph visualization project
+# Benchmark Datasets
+
+A collection of datasets used in graph visualization research
