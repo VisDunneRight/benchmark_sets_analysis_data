@@ -121,12 +121,52 @@ def read_kegg():
 				json.dump(graph, f)
 
 
+def read_webcompute():
+	for wfile in os.listdir("../data/webcompute"):
+		if wfile != "clean":
+			# with open(f"../data/webcompute/{wfile}", "r") as fd1:
+			# 	lines = list(fd1.readlines())
+			# 	if " graph [\n" in lines:
+			# 		asdf = lines.index(" graph [\n")
+			# 		lines.insert(asdf + 1, "\tmultigraph\t1\n")
+			# 		print(lines)
+			# 	# if "graph\n" in lines:
+			# 	# 	asdf = lines.index("graph\n")
+			# 	# 	lines.insert(asdf + 2, "\tmultigraph\t1\n")
+			# 	# 	print(lines)
+			# 	# elif "graph [\n" in lines:
+			# 	# 	asdf = lines.index("graph [\n")
+			# 	# 	lines.insert(asdf + 1, "\tmultigraph\t1\n")
+			# 	# 	print(lines)
+			# 	else:
+			# 		print(wfile)
+			# with open(f"../data/webcompute/{wfile}", "w") as fd1:
+			# 	fd1.writelines(lines)
+
+			print(wfile)
+			g = nx.read_gml("../data/webcompute/" + wfile, label=None)
+			graph = {"nodes": [], "links": []}
+			for v in g.nodes:
+				graph["nodes"].append({"id": v})
+			for e in g.edges:
+				graph["links"].append({"nodes": [e[0], e[1]], "directed": True})
+			with open(f"../data/webcompute/clean/{wfile.replace('.graphml', '.json')}", 'w') as f:
+				json.dump(graph, f)
+
+
+def read_airlines():
+	pass
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
 	# read_rome()
 	# read_north()
-	read_kegg()
+	# read_kegg()
+	read_webcompute()
+
+
 
 	# for fil in os.listdir("../data/north"):
 	# 	if os.path.splitext(f"../data/north/{fil}")[1] == ".json":
