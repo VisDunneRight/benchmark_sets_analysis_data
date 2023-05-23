@@ -2,6 +2,8 @@ import networkx as nx
 import json
 import os
 import re
+import shutil
+import xml.etree.ElementTree as ET
 
 
 def read_storyline():
@@ -21,7 +23,7 @@ def read_storyline():
 								graph["links"].append({"nodes": [nm + "_" + str(tstep-1), nm + "_" + str(tstep)], "directed": True})
 							name_tsteps[nm] = tstep
 					tstep += 1
-			with open(f"../data/Storylines/{sname.replace('.txt', '.json')}", 'w') as f:
+			with open(f"../data/Storylines/clean/{sname.replace('.txt', '.json')}", 'w') as f:
 				json.dump(graph, f)
 
 
@@ -63,7 +65,7 @@ def read_scotch():
 								if (lk[1], lk[0]) not in link_seen:
 									link_seen.add(lk)
 									graph["links"].append({"nodes": [lk[0], lk[1]], "value": sep[2 * i + 3], "directed": False})
-			with open(f"../data/scotch/{sname.replace('.src', '.json')}", 'w') as f:
+			with open(f"../data/scotch/clean/{sname.replace('.src', '.json')}", 'w') as f:
 				json.dump(graph, f)
 
 
@@ -76,7 +78,7 @@ def read_rome():
 				graph["nodes"].append({"id": v.replace('n', '')})
 			for e in g.edges:
 				graph["links"].append({"nodes": [e[0].replace('n', ''), e[1].replace('n', '')], "directed": False})
-			with open(f"../data/rome/{gfile.replace('.graphml', '.json')}", 'w') as f:
+			with open(f"../data/rome/clean/{gfile.replace('.graphml', '.json')}", 'w') as f:
 				json.dump(graph, f)
 
 
@@ -89,7 +91,33 @@ def read_north():
 				graph["nodes"].append({"id": v.replace('n', '')})
 			for e in g.edges:
 				graph["links"].append({"nodes": [e[0].replace('n', ''), e[1].replace('n', '')], "directed": True})
-			with open(f"../data/north/{gfile.replace('.graphml', '.json')}", 'w') as f:
+			with open(f"../data/north/clean/{gfile.replace('.graphml', '.json')}", 'w') as f:
+				json.dump(graph, f)
+
+
+def read_kegg():
+	for kfile in os.listdir("../data/KEGG pathways"):
+		if os.path.splitext(kfile)[1] == ".xml":
+			tree = ET.parse(f"../data/KEGG pathways/{kfile}")
+			root = tree.getroot()
+			graph = {"nodes": [], "links": []}
+			for child in root:
+				if child.tag == 'metabolites':
+					for metabolite in child:
+						name = metabolite.find('name').text
+						formula = metabolite.find('formula').text
+						description = metabolite.find('description').text
+						graph["nodes"].append({"id": name, "formula": formula, "desciption": description})
+				elif child.tag == 'reactions':
+					for reaction in child:
+						id = reaction.find('id').text
+						name = reaction.find('name').text
+						reactant = reaction.find('reactant').text
+						product = reaction.find('product').text
+						reversible = reaction.find('reversible').text
+						subsystem = reaction.find('subsystem').text
+						graph["links"].append({"nodes": [reactant, product], "directed": True if reversible == "false" else False, "reaction_id": id, "reaction_name": name, "reversible": reversible, "subsystem": subsystem})
+			with open(f"../data/KEGG pathways/clean/{kfile.replace('.xml', '.json')}", 'w') as f:
 				json.dump(graph, f)
 
 
@@ -97,4 +125,9 @@ if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
 	# read_rome()
-	read_north()
+	# read_north()
+	read_kegg()
+
+	# for fil in os.listdir("../data/north"):
+	# 	if os.path.splitext(f"../data/north/{fil}")[1] == ".json":
+	# 		shutil.move(f"../data/north/{fil}", f"../data/north/clean/{fil}")
