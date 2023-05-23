@@ -68,17 +68,33 @@ def read_scotch():
 
 
 def read_rome():
-	for gfile in os.listdir("../data/rome")[:1]:
+	for gfile in os.listdir("../data/rome"):
 		if os.path.splitext(gfile)[1] == ".graphml":
 			g = nx.read_graphml(f"../data/rome/{gfile}")
 			graph = {"nodes": [], "links": []}
 			for v in g.nodes:
 				graph["nodes"].append({"id": v.replace('n', '')})
 			for e in g.edges:
-				graph["links"].append({})
+				graph["links"].append({"nodes": [e[0].replace('n', ''), e[1].replace('n', '')], "directed": False})
+			with open(f"../data/rome/{gfile.replace('.graphml', '.json')}", 'w') as f:
+				json.dump(graph, f)
+
+
+def read_north():
+	for gfile in os.listdir("../data/north"):
+		if os.path.splitext(gfile)[1] == ".graphml":
+			g = nx.read_graphml(f"../data/north/{gfile}")
+			graph = {"nodes": [], "links": []}
+			for v in g.nodes:
+				graph["nodes"].append({"id": v.replace('n', '')})
+			for e in g.edges:
+				graph["links"].append({"nodes": [e[0].replace('n', ''), e[1].replace('n', '')], "directed": True})
+			with open(f"../data/north/{gfile.replace('.graphml', '.json')}", 'w') as f:
+				json.dump(graph, f)
 
 
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
-	read_rome()
+	# read_rome()
+	read_north()
