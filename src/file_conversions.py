@@ -151,6 +151,21 @@ def read_airlines():
 				json.dump(graph, f)
 
 
+def read_chess():
+	with open("../data/chess/chess.json") as f:
+		gr = json.load(f)
+		graph = {"nodes": [], "links": []}
+		idct = 0
+		for i, chessline in enumerate(gr):
+			for j, move in enumerate(chessline):
+				graph["nodes"].append({"id": idct, "piece": move["level"], "move_count": move["type"]})
+				if j > 0:
+					graph["links"].append({"nodes": [idct-1, idct], "directed": True})
+				idct += 1
+	with open(f"../data/chess/clean/chess.json", 'w') as f:
+		json.dump(graph, f)
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -158,7 +173,8 @@ if __name__ == '__main__':
 	# read_north()
 	# read_kegg()
 	# read_webcompute()
-	read_airlines()
+	# read_airlines()
+	read_chess()
 
 
 	# for fil in os.listdir("../data/north"):
