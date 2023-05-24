@@ -217,6 +217,18 @@ def read_mid():
 		json.dump(graph, f)
 
 
+def read_greenhouse_gas():
+	with open("../data/world-greenhouse-gas-emissions/ilp_case.json") as f:
+		gr = json.load(f)
+		graph = {"nodes": [], "links": []}
+		for nd in gr["nodes"]:
+			graph["nodes"].append({"id": nd["name"]})
+		for ed in gr["links"]:
+			graph["links"].append({"nodes": [ed["source"], ed["target"]], "directed": True, "value": ed["value"]})
+	with open("../data/world-greenhouse-gas-emissions/clean/wri_data.json", 'w') as f:
+		json.dump(graph, f)
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -226,7 +238,8 @@ if __name__ == '__main__':
 	# read_webcompute()
 	# read_airlines()
 	# read_chess()
-	read_mid()
+	# read_mid()
+	read_greenhouse_gas()
 
 	# for fil in os.listdir("../data/north"):
 	# 	if os.path.splitext(f"../data/north/{fil}")[1] == ".json":
