@@ -297,6 +297,24 @@ def create_complete_bipartite_graphs():
 				json.dump(graph, f)
 
 
+def create_knowncr():
+	# Ci x Cj
+	for i in range(3, 8):
+		j = i
+		while i*j <= 250:
+			graph = {"nodes": [], "links": []}
+			for ip in range(i):
+				for jp in range(j):
+					graph["nodes"].append({"id": f"{ip}_{jp}"})
+			for ip in range(i):
+				for jp in range(j):
+					graph["links"].append({"nodes": [f"{ip}_{jp}", f"{ip}_{(jp + 1) % j}"], "directed": False})
+					graph["links"].append({"nodes": [f"{ip}_{jp}", f"{(ip + 1) % i}_{jp}"], "directed": False})
+			with open(f"../data/knownCR/clean/C{i}_x_C{j}.json", 'w') as f:
+				json.dump(graph, f)
+			j += 1
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -309,10 +327,8 @@ if __name__ == '__main__':
 	# read_mid()
 	# read_greenhouse_gas()
 	# read_tree_of_life()
-	create_complete_graphs()
-	create_complete_bipartite_graphs()
+	# create_complete_graphs()
+	# create_complete_bipartite_graphs()
+	create_knowncr()
 
-
-	# for fil in os.listdir("../data/north"):
-	# 	if os.path.splitext(f"../data/north/{fil}")[1] == ".json":
-	# 		shutil.move(f"../data/north/{fil}", f"../data/north/clean/{fil}")
+	exit()
