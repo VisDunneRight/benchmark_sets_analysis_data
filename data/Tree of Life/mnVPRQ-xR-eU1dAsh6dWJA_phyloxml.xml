@@ -1,5 +1,5 @@
-<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.phyloxml.org" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd">
-<phylogeny rooted="true"><clade>
+<clade>
+<name>Tree root</name>
 <clade>
 <name>Bacteria</name>
 <branch_length>1.34959</branch_length>
@@ -1194,7 +1194,9 @@
 <name>Lactobacillus plantarum</name>
 <branch_length>0.14371</branch_length>
 </clade>
-</clade></clade></clade></clade></clade></clade><clade>
+</clade></clade></clade></clade></clade></clade>
+<clade>
+<name>Archaea and Eucharyota</name>
 <branch_length>0.88776</branch_length>
 <clade>
 <name>Eukaryota</name>
@@ -1376,7 +1378,8 @@
 <name>Giardia lamblia</name>
 <branch_length>0.55482</branch_length>
 </clade>
-</clade><clade>
+</clade>
+<clade>
 <name>Archaea</name>
 <branch_length>0.43325</branch_length>
 <confidence type="bootstrap">100</confidence>
@@ -1416,7 +1419,8 @@
 <name>Pyrobaculum aerophilum</name>
 <branch_length>0.55514</branch_length>
 </clade>
-</clade></clade><clade>
+</clade></clade>
+<clade>
 <name>Euryarchaeota</name>
 <branch_length>0.11833</branch_length>
 <confidence type="bootstrap">99</confidence>
@@ -1432,7 +1436,8 @@
 <name>Thermoplasma acidophilum</name>
 <branch_length>0.09785</branch_length>
 </clade>
-</clade><clade>
+</clade>
+<clade>
 <name>Euryarchaeota</name>
 <branch_length>0.06815</branch_length>
 <confidence type="bootstrap">62</confidence>
@@ -1488,7 +1493,8 @@
 <name>Pyrococcus furiosus</name>
 <branch_length>0.02366</branch_length>
 </clade>
-</clade></clade><clade>
+</clade></clade>
+<clade>
 <name>Euryarchaeota</name>
 <branch_length>0.10395</branch_length>
 <confidence type="bootstrap">100</confidence>
@@ -1516,4 +1522,4 @@
 <name>Methanosarcina mazei</name>
 <branch_length>0.03087</branch_length>
 </clade>
-</clade></clade></clade></clade></clade></clade></clade></clade></phylogeny></phyloxml>
+</clade></clade></clade></clade></clade></clade></clade></clade>

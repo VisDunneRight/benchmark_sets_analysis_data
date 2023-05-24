@@ -229,6 +229,50 @@ def read_greenhouse_gas():
 		json.dump(graph, f)
 
 
+def read_tree_of_life():
+	tree = ET.parse("../data/Tree of Life/mnVPRQ-xR-eU1dAsh6dWJA_phyloxml.xml")
+	root = tree.getroot()
+	graph = {"nodes": [], "links": []}
+	found_names = set()
+
+	def traverse(node):
+		node_info = {'tag': node.tag, 'value': "", 'children': []}
+		for child in node:
+			if child.tag == "clade":
+				node_info['children'].append(traverse(child))
+				# cname = child.find("name")
+				# if cname is not None:
+				# 	graph["links"].append({"nodes": [node_info['value'], cname.text], "directed": True})
+			elif child.tag == "name":
+				xname = child.text
+				while xname in found_names:
+					if not (xname[-8:] == "subclade" or "#" in xname):
+						xname += " subclade"
+					elif xname[-1] == 'e':
+						xname += '#2'
+					else:
+						nex = str(int(xname[xname.index('#')+1:]) + 1)
+						xname = xname[:xname.index('#')+1]
+						xname += nex
+				found_names.add(xname)
+				node_info["value"] = xname
+				graph["nodes"].append({"id": xname})
+		return node_info
+
+	tree_structure = traverse(root)
+	bfsq = tree_structure["children"]
+	while bfsq:
+		next_q = bfsq.copy()
+		bfsq.clear()
+		for nd in next_q:
+			for cld in nd["children"]:
+				graph["links"].append({"nodes": [nd['value'], cld["value"]], "directed": True})
+				bfsq.append(cld)
+
+	with open("../data/Tree of Life/clean/tree_of_life.json", 'w') as f:
+		json.dump(graph, f)
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -239,7 +283,9 @@ if __name__ == '__main__':
 	# read_airlines()
 	# read_chess()
 	# read_mid()
-	read_greenhouse_gas()
+	# read_greenhouse_gas()
+	read_tree_of_life()
+
 
 	# for fil in os.listdir("../data/north"):
 	# 	if os.path.splitext(f"../data/north/{fil}")[1] == ".json":
