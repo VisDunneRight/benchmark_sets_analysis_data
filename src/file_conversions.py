@@ -1,5 +1,5 @@
 import csv
-
+import itertools
 import networkx as nx
 import json
 import os
@@ -273,6 +273,17 @@ def read_tree_of_life():
 		json.dump(graph, f)
 
 
+def create_complete_graphs():
+	for i in range(5, 51):
+		graph = {"nodes": [], "links": []}
+		for j in range(i):
+			graph["nodes"].append({"id": j})
+		for j, k in itertools.combinations(list(range(i)), 2):
+			graph["links"].append({"nodes": [j, k], "directed": False})
+		with open(f"../data/complete graphs/clean/complete_{i}.json", 'w') as f:
+			json.dump(graph, f)
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -284,7 +295,8 @@ if __name__ == '__main__':
 	# read_chess()
 	# read_mid()
 	# read_greenhouse_gas()
-	read_tree_of_life()
+	# read_tree_of_life()
+	create_complete_graphs()
 
 
 	# for fil in os.listdir("../data/north"):
