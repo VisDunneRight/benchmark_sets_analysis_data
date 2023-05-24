@@ -1,3 +1,5 @@
+import csv
+
 import networkx as nx
 import json
 import os
@@ -166,6 +168,55 @@ def read_chess():
 		json.dump(graph, f)
 
 
+def read_mid():
+	with open("../data/MID/MIDB_5.0.csv") as f:
+		rdr = csv.reader(f)
+		next(rdr)
+		graph = {"nodes": [], "links": []}
+		cur_disp = 2
+		last_disp_people = [[], []]
+		last_disp_dates = ["", ""]
+		seen_people = set()
+		for ln in rdr:
+			if ln[1] not in seen_people:
+				graph["nodes"].append({"id": ln[1]})
+				seen_people.add(ln[1])
+			if int(ln[0]) != cur_disp:
+				graph["links"].append({"nodes": [nd for subl in last_disp_people for nd in subl], "sideA": last_disp_people[0], "sideB": last_disp_people[1], "directed": True, "start": last_disp_dates[0], "end": last_disp_dates[1]})
+				last_disp_people = [[], []]
+			if int(ln[9]) == 1:
+				last_disp_people[0].append(ln[1])
+			else:
+				last_disp_people[1].append(ln[1])
+			cur_disp = int(ln[0])
+			last_disp_dates = [f"{ln[4] if ln[4] != str(-9) else '?'}/{ln[3] if ln[3] != str(-9) else '?'}/{ln[5]}", f"{ln[7] if ln[7] != str(-9) else '?'}/{ln[6] if ln[6] != str(-9) else '?'}/{ln[8]}"]
+	with open(f"../data/MID/clean/midb.json", 'w') as f:
+		json.dump(graph, f)
+	with open("../data/MID/MIDIP_5.01.csv") as f:
+		rdr = csv.reader(f)
+		next(rdr)
+		graph = {"nodes": [], "links": []}
+		cur_disp = 3551001
+		last_disp_people = [[], []]
+		last_disp_dates = ["", ""]
+		seen_people = set()
+		for ln in rdr:
+			if ln[2] not in seen_people:
+				graph["nodes"].append({"id": ln[2]})
+				seen_people.add(ln[2])
+			if int(ln[1]) != cur_disp:
+				graph["links"].append({"nodes": [nd for subl in last_disp_people for nd in subl], "sideA": last_disp_people[0], "sideB": last_disp_people[1], "directed": True, "start": last_disp_dates[0], "end": last_disp_dates[1], "dispute_id": ln[0]})
+				last_disp_people = [[], []]
+			if int(ln[10]) == 1:
+				last_disp_people[0].append(ln[2])
+			else:
+				last_disp_people[1].append(ln[2])
+			cur_disp = int(ln[1])
+			last_disp_dates = [f"{ln[5] if ln[5] != str(-9) else '?'}/{ln[4] if ln[4] != str(-9) else '?'}/{ln[6]}", f"{ln[8] if ln[8] != str(-9) else '?'}/{ln[7] if ln[7] != str(-9) else '?'}/{ln[9]}"]
+	with open(f"../data/MID/clean/midip.json", 'w') as f:
+		json.dump(graph, f)
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -174,8 +225,8 @@ if __name__ == '__main__':
 	# read_kegg()
 	# read_webcompute()
 	# read_airlines()
-	read_chess()
-
+	# read_chess()
+	read_mid()
 
 	# for fil in os.listdir("../data/north"):
 	# 	if os.path.splitext(f"../data/north/{fil}")[1] == ".json":
