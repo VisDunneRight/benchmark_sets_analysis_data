@@ -124,26 +124,6 @@ def read_kegg():
 def read_webcompute():
 	for wfile in os.listdir("../data/webcompute"):
 		if wfile != "clean":
-			# with open(f"../data/webcompute/{wfile}", "r") as fd1:
-			# 	lines = list(fd1.readlines())
-			# 	if " graph [\n" in lines:
-			# 		asdf = lines.index(" graph [\n")
-			# 		lines.insert(asdf + 1, "\tmultigraph\t1\n")
-			# 		print(lines)
-			# 	# if "graph\n" in lines:
-			# 	# 	asdf = lines.index("graph\n")
-			# 	# 	lines.insert(asdf + 2, "\tmultigraph\t1\n")
-			# 	# 	print(lines)
-			# 	# elif "graph [\n" in lines:
-			# 	# 	asdf = lines.index("graph [\n")
-			# 	# 	lines.insert(asdf + 1, "\tmultigraph\t1\n")
-			# 	# 	print(lines)
-			# 	else:
-			# 		print(wfile)
-			# with open(f"../data/webcompute/{wfile}", "w") as fd1:
-			# 	fd1.writelines(lines)
-
-			print(wfile)
 			g = nx.read_gml("../data/webcompute/" + wfile, label=None)
 			graph = {"nodes": [], "links": []}
 			for v in g.nodes:
@@ -155,7 +135,20 @@ def read_webcompute():
 
 
 def read_airlines():
-	pass
+	for afile in os.listdir("../data/airlines-migration-air traffic"):
+		if afile != "clean":
+			with open(f"../data/airlines-migration-air traffic/{afile}") as f:
+				gr = json.load(f)
+				graph = {"nodes": [], "links": []}
+				for nd in gr["nodes"]:
+					if "tooltip" in nd:
+						graph["nodes"].append({"id": nd["id"], "x": nd["x"], "y": nd["y"], "tooltip": nd["tooltip"]})
+					else:
+						graph["nodes"].append({"id": nd["id"], "x": nd["x"], "y": nd["y"]})
+				for eg in gr["links"]:
+					graph["links"].append({"nodes": [eg["source"], eg["target"]], "directed": gr["directed"]})
+			with open(f"../data/airlines-migration-air traffic/clean/{afile}", 'w') as f:
+				json.dump(graph, f)
 
 
 if __name__ == '__main__':
@@ -164,8 +157,8 @@ if __name__ == '__main__':
 	# read_rome()
 	# read_north()
 	# read_kegg()
-	read_webcompute()
-
+	# read_webcompute()
+	read_airlines()
 
 
 	# for fil in os.listdir("../data/north"):
