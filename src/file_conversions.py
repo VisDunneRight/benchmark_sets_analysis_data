@@ -314,6 +314,57 @@ def create_knowncr():
 				json.dump(graph, f)
 			j += 1
 
+	# Petersen graphs P(j, 2) and P(j, 3) for 9 <= j <= 125
+	for i in range(2, 4):
+		for j in range(9, 126):
+			graph = {"nodes": [], "links": []}
+			for k in range(j):
+				graph["nodes"].append({"id": f"0_{k}"})
+				graph["nodes"].append({"id": f"1_{k}"})
+				graph["links"].append({"nodes": [f"0_{k}", f"0_{(k + 1) % j}"], "directed": False})
+				graph["links"].append({"nodes": [f"0_{k}", f"1_{k}"], "directed": False})
+				graph["links"].append({"nodes": [f"1_{k}", f"1_{(k + i) % j}"], "directed": False})
+			with open(f"../data/knownCR/clean/P({j},{i}).json", 'w') as f:
+				json.dump(graph, f)
+
+	# Gi x Pj
+	for gfile in os.listdir("../data/knownCR"):
+		if os.path.splitext(gfile)[1] == ".graph6":
+			gr = nx.read_graph6(f"../data/knownCR/{gfile}")
+			gr_num = gfile[gfile.index('_') + 1:gfile.index('.')]
+			graph = {"nodes": [], "links": []}
+			for j in range(3, 50):
+				for ig in range(5):
+					for ij in range(j+1):
+						graph["nodes"].append({"id": f"{ig}_{ij}"})
+				for ig in range(5):
+					for ij in range(j):
+						graph["links"].append({"nodes": [f"{ig}_{ij}", f"{ig}_{ij+1}"], "directed": False})
+				for ij in range(j+1):
+					for e1, e2 in gr.edges():
+						graph["links"].append({"nodes": [f"{e1}_{ij}", f"{e2}_{ij}"], "directed": False})
+				with open(f"../data/knownCR/clean/G{gr_num}_x_P{j}.json", 'w') as f:
+					json.dump(graph, f)
+
+	# Gi x Cj
+	for gfile in os.listdir("../data/knownCR"):
+		if os.path.splitext(gfile)[1] == ".graph6":
+			gr = nx.read_graph6(f"../data/knownCR/{gfile}")
+			gr_num = gfile[gfile.index('_') + 1:gfile.index('.')]
+			graph = {"nodes": [], "links": []}
+			for j in range(3, 51):
+				for ig in range(5):
+					for ij in range(j):
+						graph["nodes"].append({"id": f"{ig}_{ij}"})
+				for ig in range(5):
+					for ij in range(j):
+						graph["links"].append({"nodes": [f"{ig}_{ij}", f"{ig}_{(ij+1) % j}"], "directed": False})
+				for ij in range(j):
+					for e1, e2 in gr.edges():
+						graph["links"].append({"nodes": [f"{e1}_{ij}", f"{e2}_{ij}"], "directed": False})
+				with open(f"../data/knownCR/clean/G{gr_num}_x_C{j}.json", 'w') as f:
+					json.dump(graph, f)
+
 
 if __name__ == '__main__':
 	# read_storyline()
@@ -329,6 +380,6 @@ if __name__ == '__main__':
 	# read_tree_of_life()
 	# create_complete_graphs()
 	# create_complete_bipartite_graphs()
-	create_knowncr()
+	# create_knowncr()
 
 	exit()
