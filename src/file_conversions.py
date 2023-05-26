@@ -6,6 +6,8 @@ import os
 import re
 import shutil
 import xml.etree.ElementTree as ET
+from Bio import Phylo
+import newick
 
 
 def read_storyline():
@@ -366,6 +368,59 @@ def create_knowncr():
 					json.dump(graph, f)
 
 
+def read_evolution():
+	for efile in os.listdir("../data/evolution"):
+		if os.path.splitext(efile)[1] == ".nex":
+			with open(f"../data/evolution/{efile}") as f:
+				hostfound = False
+				for ln in f.readlines():
+					if ln[:5] == "\tTREE":
+						if not hostfound:
+							hstr = "host"
+							hostfound = True
+						else:
+							hstr = "parasite"
+						treestr = ln[ln.index('=') + 2:-1]
+						graph = extract_tree_structure_newick(treestr)
+						with open(f"../data/evolution/clean/{os.path.splitext(efile)[0]}_{hstr}.json", 'w') as fd:
+							json.dump(graph, fd)
+
+
+def extract_tree_structure_newick(newick_string):
+	tree = newick.loads(newick_string)
+	graph = {"nodes": [], "links": []}
+
+	def traverse(node):
+		# Create a dictionary to store the node's information
+		if node.name is None:
+			node_info = {'name': f"root", 'children': []}
+		else:
+			node_info = {'name': node.name, 'children': []}
+		for child in node.descendants:
+			node_info['children'].append(traverse(child))
+		return node_info
+
+	tree_structure = traverse(tree[0])
+	bfsq = [tree_structure]
+	tree_structure["name"] = "root_0"
+	d_ct = 1
+	while bfsq:
+		next_q = bfsq.copy()
+		bfsq.clear()
+		for nd in next_q:
+			if "." in nd["name"]:
+				graph["nodes"].append({"id": nd["name"], "host_node": nd["name"][:nd["name"].index(".")]})
+			else:
+				graph["nodes"].append({"id": nd["name"]})
+			for cld in nd["children"]:
+				if cld["name"] == 'root':
+					cld["name"] = f"root_{d_ct}"
+					d_ct += 1
+				graph["links"].append({"nodes": [nd['name'], cld["name"]], "directed": True})
+				bfsq.append(cld)
+	return graph
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -381,5 +436,6 @@ if __name__ == '__main__':
 	# create_complete_graphs()
 	# create_complete_bipartite_graphs()
 	# create_knowncr()
+	read_evolution()
 
 	exit()
