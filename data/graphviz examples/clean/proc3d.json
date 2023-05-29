@@ -1,0 +1,772 @@
+{
+  "nodes": [
+    {
+      "label": "\"22316\\nksh\"",
+      "pname": "\"ksh\"",
+      "kind": "\"proc\"",
+      "id": "22316"
+    },
+    {
+      "label": "\"22324\\nnmake\"",
+      "pname": "\"nmake\"",
+      "kind": "\"proc\"",
+      "id": "22324"
+    },
+    {
+      "label": "\"22337\\nksh\"",
+      "pname": "\"ksh\"",
+      "kind": "\"proc\"",
+      "id": "22337"
+    },
+    {
+      "label": "\"22342\\nksh\"",
+      "pname": "\"ksh\"",
+      "kind": "\"proc\"",
+      "id": "22342"
+    },
+    {
+      "label": "\"22343\\ngcc\"",
+      "pname": "\"gcc\"",
+      "kind": "\"proc\"",
+      "id": "22343"
+    },
+    {
+      "label": "\"22344\\nksh\"",
+      "pname": "\"ksh\"",
+      "kind": "\"proc\"",
+      "id": "22344"
+    },
+    {
+      "label": "\"22345\\ngcc\"",
+      "pname": "\"gcc\"",
+      "kind": "\"proc\"",
+      "id": "22345"
+    },
+    {
+      "label": "\"22346\\ncpp\"",
+      "pname": "\"cpp\"",
+      "kind": "\"proc\"",
+      "id": "22346"
+    },
+    {
+      "label": "\"22347\\ncc1\"",
+      "pname": "\"cc1\"",
+      "kind": "\"proc\"",
+      "id": "22347"
+    },
+    {
+      "label": "\"22348\\ncpp\"",
+      "pname": "\"cpp\"",
+      "kind": "\"proc\"",
+      "id": "22348"
+    },
+    {
+      "label": "\"93736-32246\\n/home/ek/work/src/lefty/lefty.c\"",
+      "fname": "\"/home/ek/work/src/lefty/lefty.c\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "93736-32246"
+    },
+    {
+      "label": "\"22349\\nksh\"",
+      "pname": "\"ksh\"",
+      "kind": "\"proc\"",
+      "id": "22349"
+    },
+    {
+      "label": "\"22350\\ncc1\"",
+      "pname": "\"cc1\"",
+      "kind": "\"proc\"",
+      "id": "22350"
+    },
+    {
+      "label": "\"93627-32246\\n/home/ek/work/src/lefty/gfxview.c\"",
+      "fname": "\"/home/ek/work/src/lefty/gfxview.c\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "93627-32246"
+    },
+    {
+      "label": "\"22351\\nas\"",
+      "pname": "\"as\"",
+      "kind": "\"proc\"",
+      "id": "22351"
+    },
+    {
+      "label": "\"22352\\ngcc\"",
+      "pname": "\"gcc\"",
+      "kind": "\"proc\"",
+      "id": "22352"
+    },
+    {
+      "label": "\"22353\\nksh\"",
+      "pname": "\"ksh\"",
+      "kind": "\"proc\"",
+      "id": "22353"
+    },
+    {
+      "label": "\"22354\\nksh\"",
+      "pname": "\"ksh\"",
+      "kind": "\"proc\"",
+      "id": "22354"
+    },
+    {
+      "label": "\"22355\\ngcc\"",
+      "pname": "\"gcc\"",
+      "kind": "\"proc\"",
+      "id": "22355"
+    },
+    {
+      "label": "\"22356\\ncpp\"",
+      "pname": "\"cpp\"",
+      "kind": "\"proc\"",
+      "id": "22356"
+    },
+    {
+      "label": "\"22357\\nas\"",
+      "pname": "\"as\"",
+      "kind": "\"proc\"",
+      "id": "22357"
+    },
+    {
+      "label": "\"22358\\nksh\"",
+      "pname": "\"ksh\"",
+      "kind": "\"proc\"",
+      "id": "22358"
+    },
+    {
+      "label": "\"22359\\ngcc\"",
+      "pname": "\"gcc\"",
+      "kind": "\"proc\"",
+      "id": "22359"
+    },
+    {
+      "label": "\"22360\\ncpp\"",
+      "pname": "\"cpp\"",
+      "kind": "\"proc\"",
+      "id": "22360"
+    },
+    {
+      "label": "\"22361\\ncc1\"",
+      "pname": "\"cc1\"",
+      "kind": "\"proc\"",
+      "id": "22361"
+    },
+    {
+      "label": "\"93645-32246\\n/home/ek/work/src/lefty/txtview.c\"",
+      "fname": "\"/home/ek/work/src/lefty/txtview.c\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "93645-32246"
+    },
+    {
+      "label": "\"22362\\ngcc\"",
+      "pname": "\"gcc\"",
+      "kind": "\"proc\"",
+      "id": "22362"
+    },
+    {
+      "label": "\"22363\\nksh\"",
+      "pname": "\"ksh\"",
+      "kind": "\"proc\"",
+      "id": "22363"
+    },
+    {
+      "label": "\"22365\\ncc1\"",
+      "pname": "\"cc1\"",
+      "kind": "\"proc\"",
+      "id": "22365"
+    },
+    {
+      "label": "\"22366\\ngcc\"",
+      "pname": "\"gcc\"",
+      "kind": "\"proc\"",
+      "id": "22366"
+    },
+    {
+      "label": "\"93638-32246\\n/home/ek/work/src/lefty/internal.c\"",
+      "fname": "\"/home/ek/work/src/lefty/internal.c\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "93638-32246"
+    },
+    {
+      "label": "\"22367\\ncpp\"",
+      "pname": "\"cpp\"",
+      "kind": "\"proc\"",
+      "id": "22367"
+    },
+    {
+      "label": "\"22368\\nksh\"",
+      "pname": "\"ksh\"",
+      "kind": "\"proc\"",
+      "id": "22368"
+    },
+    {
+      "label": "\"22369\\nas\"",
+      "pname": "\"as\"",
+      "kind": "\"proc\"",
+      "id": "22369"
+    },
+    {
+      "label": "\"93642-32246\\n/home/ek/work/src/lefty/lex.c\"",
+      "fname": "\"/home/ek/work/src/lefty/lex.c\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "93642-32246"
+    },
+    {
+      "label": "\"22371\\ncpp\"",
+      "pname": "\"cpp\"",
+      "kind": "\"proc\"",
+      "id": "22371"
+    },
+    {
+      "label": "\"22372\\ngcc\"",
+      "pname": "\"gcc\"",
+      "kind": "\"proc\"",
+      "id": "22372"
+    },
+    {
+      "label": "\"22373\\ncc1\"",
+      "pname": "\"cc1\"",
+      "kind": "\"proc\"",
+      "id": "22373"
+    },
+    {
+      "label": "\"88860-32246\\n/home/ek/dev/src/lefty/stringify.c\"",
+      "fname": "\"/home/ek/dev/src/lefty/stringify.c\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "88860-32246"
+    },
+    {
+      "label": "\"22374\\nas\"",
+      "pname": "\"as\"",
+      "kind": "\"proc\"",
+      "id": "22374"
+    },
+    {
+      "label": "\"22375\\nas\"",
+      "pname": "\"as\"",
+      "kind": "\"proc\"",
+      "id": "22375"
+    },
+    {
+      "label": "\"22376\\ncc1\"",
+      "pname": "\"cc1\"",
+      "kind": "\"proc\"",
+      "id": "22376"
+    },
+    {
+      "label": "\"93626-32246\\n/home/ek/work/src/lefty/exec.c\"",
+      "fname": "\"/home/ek/work/src/lefty/exec.c\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "93626-32246"
+    },
+    {
+      "label": "\"22377\\ncpp\"",
+      "pname": "\"cpp\"",
+      "kind": "\"proc\"",
+      "id": "22377"
+    },
+    {
+      "label": "\"22378\\nas\"",
+      "pname": "\"as\"",
+      "kind": "\"proc\"",
+      "id": "22378"
+    },
+    {
+      "label": "\"22379\\ncc1\"",
+      "pname": "\"cc1\"",
+      "kind": "\"proc\"",
+      "id": "22379"
+    },
+    {
+      "label": "\"93643-32246\\n/home/ek/work/src/lefty/parse.c\"",
+      "fname": "\"/home/ek/work/src/lefty/parse.c\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "93643-32246"
+    },
+    {
+      "label": "\"22380\\nas\"",
+      "pname": "\"as\"",
+      "kind": "\"proc\"",
+      "id": "22380"
+    },
+    {
+      "label": "\"22381\\nas\"",
+      "pname": "\"as\"",
+      "kind": "\"proc\"",
+      "id": "22381"
+    },
+    {
+      "label": "\"37592-32246\\n/home/ek/dev/src/lefty/exec.h\"",
+      "fname": "\"/home/ek/dev/src/lefty/exec.h\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "37592-32246"
+    },
+    {
+      "label": "\"135504-32246\\n/home/ek/work/sun4/lefty/display.o\"",
+      "fname": "\"/home/ek/work/sun4/lefty/display.o\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "135504-32246"
+    }
+  ],
+  "links": [
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22316",
+        "22324"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22324",
+        "22337"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22324",
+        "93642-32246"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22337",
+        "22342"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22337",
+        "22344"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22337",
+        "22349"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22337",
+        "22353"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22337",
+        "22354"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22337",
+        "22358"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22337",
+        "22363"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22337",
+        "22368"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22342",
+        "22343"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22343",
+        "22346"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22343",
+        "22347"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22343",
+        "22351"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22344",
+        "22345"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22345",
+        "22348"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22345",
+        "22350"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22345",
+        "22357"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22346",
+        "93736-32246"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22348",
+        "93627-32246"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22349",
+        "22352"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22352",
+        "22356"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22352",
+        "22361"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22352",
+        "22369"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22353",
+        "22355"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22354",
+        "22359"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22355",
+        "22360"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22355",
+        "22365"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22355",
+        "22374"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22356",
+        "93645-32246"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22358",
+        "22362"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22359",
+        "22375"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22360",
+        "93638-32246"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22362",
+        "22367"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22362",
+        "22373"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22362",
+        "22378"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22363",
+        "22366"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22366",
+        "22371"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22366",
+        "22376"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22366",
+        "22380"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22367",
+        "88860-32246"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22368",
+        "22372"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22371",
+        "93626-32246"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22371",
+        "37592-32246"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22372",
+        "22377"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22372",
+        "22379"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22372",
+        "22381"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22375",
+        "135504-32246"
+      ],
+      "directed": true
+    },
+    {
+      "\n": null,
+      "key": 0,
+      "nodes": [
+        "22377",
+        "93643-32246"
+      ],
+      "directed": true
+    }
+  ]
+}

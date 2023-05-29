@@ -1,0 +1,49 @@
+{
+  "nodes": [
+    {
+      "id": "a1"
+    },
+    {
+      "id": "b2"
+    },
+    {
+      "id": "c2"
+    },
+    {
+      "id": "a3"
+    },
+    {
+      "id": "b3"
+    }
+  ],
+  "links": [
+    {
+      "lhead": "clusterB",
+      "key": 0,
+      "nodes": [
+        "a1",
+        "b2"
+      ],
+      "directed": true
+    },
+    {
+      "ltail": "clusterC",
+      "key": 0,
+      "nodes": [
+        "c2",
+        "a3"
+      ],
+      "directed": true
+    },
+    {
+      "ltail": "clusterB",
+      "lhead": "clusterA",
+      "key": 0,
+      "nodes": [
+        "b3",
+        "a3"
+      ],
+      "directed": true
+    }
+  ]
+}

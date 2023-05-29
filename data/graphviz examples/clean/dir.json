@@ -1,0 +1,68 @@
+{
+  "nodes": [
+    {
+      "id": "a"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "e"
+    },
+    {
+      "id": "f"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "a",
+        "b"
+      ],
+      "directed": true
+    },
+    {
+      "dir": "forward",
+      "key": 0,
+      "nodes": [
+        "a",
+        "c"
+      ],
+      "directed": true
+    },
+    {
+      "dir": "back",
+      "key": 0,
+      "nodes": [
+        "a",
+        "d"
+      ],
+      "directed": true
+    },
+    {
+      "dir": "both",
+      "key": 0,
+      "nodes": [
+        "a",
+        "e"
+      ],
+      "directed": true
+    },
+    {
+      "dir": "none",
+      "key": 0,
+      "nodes": [
+        "a",
+        "f"
+      ],
+      "directed": true
+    }
+  ]
+}

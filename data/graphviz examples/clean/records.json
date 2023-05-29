@@ -1,0 +1,125 @@
+{
+  "nodes": [
+    {
+      "label": "\"<bala> Graphs can\\lbe fun\\l|<f1> mid|<f2> right\\r\"",
+      "id": "a"
+    },
+    {
+      "label": "\"<left>   |<mid> b |   \"",
+      "id": "b"
+    },
+    {
+      "label": "\"<p1>   | c |<p2>   \"",
+      "id": "c"
+    },
+    {
+      "label": "\"<p1>   | x |<p2>   \"",
+      "id": "x"
+    },
+    {
+      "label": "\"<p1>   | y |<p2>   \"",
+      "id": "y"
+    },
+    {
+      "label": "\"   | z |<p2>   \"",
+      "id": "z"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "a:bala"
+    },
+    {
+      "id": "b:left"
+    },
+    {
+      "id": "a:f1"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "a:f2"
+    },
+    {
+      "id": "y:\"p1"
+    },
+    {
+      "id": "c:\"p1"
+    },
+    {
+      "id": "b:mid"
+    },
+    {
+      "id": "x:\"p1"
+    },
+    {
+      "id": "c:\"p2"
+    },
+    {
+      "id": "y:\"p2"
+    },
+    {
+      "id": "z:\"p2"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "a:bala",
+        "b:left"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "b:left",
+        "z:\"p2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a:f1",
+        "d"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a:f2",
+        "y:\"p1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "c:\"p1",
+        "d"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "b:mid",
+        "x:\"p1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "c:\"p2",
+        "y:\"p2"
+      ],
+      "directed": true
+    }
+  ]
+}

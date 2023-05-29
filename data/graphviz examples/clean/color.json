@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "color": "green",
+      "id": "abc"
+    },
+    {
+      "color": "\"0.2,0.8,0.8\"",
+      "id": "def"
+    },
+    {
+      "color": "\"#FF0000\"",
+      "id": "ghi"
+    },
+    {
+      "color": "\"#FF00007F\"",
+      "id": "kl"
+    },
+    {
+      "color": "yellow",
+      "fontcolor": "\"#FF00007F\"",
+      "id": "mno"
+    },
+    {
+      "label": "mno",
+      "color": "yellow",
+      "fontcolor": "\"#FF0000\"",
+      "id": "pqr"
+    }
+  ],
+  "links": [
+    {
+      "color": "\"red:blue:#00FF00\"",
+      "key": 0,
+      "nodes": [
+        "abc",
+        "def"
+      ],
+      "directed": true
+    }
+  ]
+}

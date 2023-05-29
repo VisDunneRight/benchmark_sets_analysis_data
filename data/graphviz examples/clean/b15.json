@@ -1,0 +1,1773 @@
+{
+  "nodes": [
+    {
+      "label": "\" <In> Stand | | <Normal> Normal | | <Target> Target \"",
+      "id": "Stand"
+    },
+    {
+      "label": "\" <In> FaceBack | | <Always> Always \"",
+      "id": "FaceBack"
+    },
+    {
+      "label": "\" <In> Strafe | | <Always> Always \"",
+      "id": "Strafe"
+    },
+    {
+      "label": "\" <In> JumpVertical | | <Normal> Normal | | <Target> Target \"",
+      "id": "JumpVertical"
+    },
+    {
+      "label": "\" <In> JumpRunning | | <Normal> Normal | | <Target> Target \"",
+      "id": "JumpRunning"
+    },
+    {
+      "label": "\" <In> MidJump | | <Normal> Normal | | <Target> Target \"",
+      "id": "MidJump"
+    },
+    {
+      "label": "\" <In> MidJumpFaceBack | | <Normal> Normal \"",
+      "id": "MidJumpFaceBack"
+    },
+    {
+      "label": "\" <In> LandVertical | | <Normal> Normal | | <Target> Target \"",
+      "id": "LandVertical"
+    },
+    {
+      "label": "\" <In> LandRunning | | <Normal> Normal | | <Target> Target \"",
+      "id": "LandRunning"
+    },
+    {
+      "label": "\" <In> Fall | | <Normal> Normal | | <Target> Target \"",
+      "id": "Fall"
+    },
+    {
+      "label": "\" <In> FallFaceBack | | <Normal> Normal \"",
+      "id": "FallFaceBack"
+    },
+    {
+      "label": "\" <In> Flight | | <Normal> Normal | | <Target> Target | | <Target> Target | | <Target> Target \"",
+      "id": "Flight"
+    },
+    {
+      "label": "\" <In> FlightToHover | | <Normal> Normal | | <Target> Target \"",
+      "id": "FlightToHover"
+    },
+    {
+      "label": "\" <In> FlightStrafe | | <Normal> Normal \"",
+      "id": "FlightStrafe"
+    },
+    {
+      "label": "\" <In> HoverToFlight | | <Normal> Normal | | <Target> Target \"",
+      "id": "HoverToFlight"
+    },
+    {
+      "id": "Stand:Normal"
+    },
+    {
+      "id": "FPMStand:In"
+    },
+    {
+      "id": "Fall:In"
+    },
+    {
+      "id": "JumpVertical:In"
+    },
+    {
+      "id": "Walk:In"
+    },
+    {
+      "id": "Strafe:In"
+    },
+    {
+      "id": "FaceBack:In"
+    },
+    {
+      "id": "Stand:Target"
+    },
+    {
+      "id": "FaceBack:Always"
+    },
+    {
+      "id": "Stand:In"
+    },
+    {
+      "id": "Walk:Normal"
+    },
+    {
+      "id": "JumpRunning:In"
+    },
+    {
+      "id": "WalkStepUp:In"
+    },
+    {
+      "id": "WalkStepDown:In"
+    },
+    {
+      "id": "Run:In"
+    },
+    {
+      "id": "Walk:Target"
+    },
+    {
+      "id": "WalkStepUp:Normal"
+    },
+    {
+      "id": "WalkStepDown:Normal"
+    },
+    {
+      "id": "Run:Normal"
+    },
+    {
+      "id": "RunToStop:In"
+    },
+    {
+      "id": "RunStepUp:In"
+    },
+    {
+      "id": "RunStepDown:In"
+    },
+    {
+      "id": "Run:Target"
+    },
+    {
+      "id": "RunToStop:Always"
+    },
+    {
+      "id": "RunStepUp:Normal"
+    },
+    {
+      "id": "RunStepDown:Normal"
+    },
+    {
+      "id": "Strafe:Always"
+    },
+    {
+      "id": "JumpVertical:Normal"
+    },
+    {
+      "id": "MidJump:In"
+    },
+    {
+      "id": "JumpVertical:Target"
+    },
+    {
+      "id": "JumpRunning:Normal"
+    },
+    {
+      "id": "JumpRunning:Target"
+    },
+    {
+      "id": "MidJump:Normal"
+    },
+    {
+      "id": "HoverRest:In"
+    },
+    {
+      "id": "MidJumpFaceBack:In"
+    },
+    {
+      "id": "MidJump:Target"
+    },
+    {
+      "id": "MidJumpFaceBack:Normal"
+    },
+    {
+      "id": "FallFaceBack:In"
+    },
+    {
+      "id": "LandVertical:Normal"
+    },
+    {
+      "id": "LandVertical:Target"
+    },
+    {
+      "id": "LandRunning:Normal"
+    },
+    {
+      "id": "LandRunning:Target"
+    },
+    {
+      "id": "Fall:Normal"
+    },
+    {
+      "id": "LandVertical:In"
+    },
+    {
+      "id": "LandRunning:In"
+    },
+    {
+      "id": "Fall:Target"
+    },
+    {
+      "id": "FallFaceBack:Normal"
+    },
+    {
+      "id": "HoverRest:Normal"
+    },
+    {
+      "id": "FPMHover:In"
+    },
+    {
+      "id": "HoverToFlight:In"
+    },
+    {
+      "id": "HoverStrafe:In"
+    },
+    {
+      "id": "HoverForward:In"
+    },
+    {
+      "id": "HoverRest:Target"
+    },
+    {
+      "id": "HoverForward:Normal"
+    },
+    {
+      "id": "HoverForwardToStop:In"
+    },
+    {
+      "id": "HoverFaceBack:In"
+    },
+    {
+      "id": "HoverForward:Target"
+    },
+    {
+      "id": "HoverForwardToStop:Normal"
+    },
+    {
+      "id": "HoverForwardToStop:Target"
+    },
+    {
+      "id": "HoverFaceBack:Normal"
+    },
+    {
+      "id": "HoverStrafe:Normal"
+    },
+    {
+      "id": "HoverStrafeToStop:In"
+    },
+    {
+      "id": "HoverStrafe:Target"
+    },
+    {
+      "id": "HoverStrafeToStop:Normal"
+    },
+    {
+      "id": "HoverStrafeToStop:Target"
+    },
+    {
+      "id": "HoverToFlight:Normal"
+    },
+    {
+      "id": "Flight:In"
+    },
+    {
+      "id": "HoverToFlight:Target"
+    },
+    {
+      "id": "Flight:Normal"
+    },
+    {
+      "id": "FlightStrafe:In"
+    },
+    {
+      "id": "FlightToHover:In"
+    },
+    {
+      "id": "Flight:Target"
+    },
+    {
+      "id": "FlightToHover:Normal"
+    },
+    {
+      "id": "FlightToHover:Target"
+    },
+    {
+      "id": "FlightStrafe:Normal"
+    },
+    {
+      "id": "FPMStand:Always"
+    },
+    {
+      "id": "FPMStep:In"
+    },
+    {
+      "id": "FPMRotate:In"
+    },
+    {
+      "id": "FPMRotate:Always"
+    },
+    {
+      "id": "FPMStep:Always"
+    },
+    {
+      "id": "FPMCenter:In"
+    },
+    {
+      "id": "FPMCenter:Always"
+    },
+    {
+      "id": "FPMHover:Always"
+    },
+    {
+      "id": "FPMHoverStep:In"
+    },
+    {
+      "id": "FPMHoverRotate:In"
+    },
+    {
+      "id": "FPMHoverRotate:Always"
+    },
+    {
+      "id": "FPMHoverStep:Always"
+    },
+    {
+      "id": "FPMHoverCenter:In"
+    },
+    {
+      "id": "FPMHoverCenter:Always"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "Stand:Normal",
+        "FPMStand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Stand:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Stand:Normal",
+        "JumpVertical:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Stand:Normal",
+        "Walk:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Stand:Normal",
+        "Strafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Stand:Normal",
+        "FaceBack:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Stand:Target",
+        "FPMStand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Stand:Target",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Stand:Target",
+        "JumpVertical:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Stand:Target",
+        "Walk:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FaceBack:Always",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FaceBack:Always",
+        "JumpVertical:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FaceBack:Always",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Normal",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "Walk:Normal",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Normal",
+        "JumpRunning:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Normal",
+        "WalkStepUp:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Normal",
+        "WalkStepDown:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Normal",
+        "Run:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Normal",
+        "Strafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Normal",
+        "FaceBack:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Target",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Target",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "Walk:Target",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Target",
+        "JumpRunning:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Target",
+        "WalkStepUp:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Target",
+        "WalkStepDown:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Walk:Target",
+        "Run:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "WalkStepUp:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "WalkStepUp:Normal",
+        "Walk:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "WalkStepDown:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "WalkStepDown:Normal",
+        "Walk:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Normal",
+        "RunToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "Run:Normal",
+        "RunToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Normal",
+        "Walk:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Normal",
+        "JumpRunning:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Normal",
+        "RunStepUp:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Normal",
+        "RunStepDown:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Normal",
+        "Strafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Normal",
+        "FaceBack:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Target",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Target",
+        "RunToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "Run:Target",
+        "RunToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Target",
+        "Walk:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Target",
+        "JumpRunning:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Target",
+        "RunStepUp:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Run:Target",
+        "RunStepDown:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RunToStop:Always",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RunToStop:Always",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "RunToStop:Always",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RunToStop:Always",
+        "Run:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RunToStop:Always",
+        "Walk:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RunStepUp:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RunStepUp:Normal",
+        "Run:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RunStepDown:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RunStepDown:Normal",
+        "Run:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Strafe:Always",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Strafe:Always",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "Strafe:Always",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Strafe:Always",
+        "Run:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "JumpVertical:Normal",
+        "MidJump:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "JumpVertical:Target",
+        "MidJump:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "JumpRunning:Normal",
+        "MidJump:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "JumpRunning:Target",
+        "MidJump:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MidJump:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MidJump:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MidJump:Normal",
+        "MidJumpFaceBack:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MidJump:Target",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MidJump:Target",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MidJumpFaceBack:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MidJumpFaceBack:Normal",
+        "FallFaceBack:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MidJumpFaceBack:Normal",
+        "MidJump:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LandVertical:Normal",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LandVertical:Target",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LandRunning:Normal",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LandRunning:Normal",
+        "Run:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LandRunning:Target",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LandRunning:Target",
+        "Run:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Fall:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Fall:Normal",
+        "LandVertical:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Fall:Normal",
+        "LandRunning:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Fall:Normal",
+        "FallFaceBack:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Fall:Target",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Fall:Target",
+        "LandVertical:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Fall:Target",
+        "LandRunning:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FallFaceBack:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FallFaceBack:Normal",
+        "LandVertical:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FallFaceBack:Normal",
+        "LandRunning:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FallFaceBack:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverRest:Normal",
+        "FPMHover:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverRest:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverRest:Normal",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverRest:Normal",
+        "HoverStrafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverRest:Normal",
+        "HoverForward:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverRest:Target",
+        "FPMHover:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverRest:Target",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverRest:Target",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverRest:Target",
+        "HoverStrafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverRest:Target",
+        "HoverForward:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForward:Normal",
+        "HoverForwardToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "HoverForward:Normal",
+        "HoverForwardToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForward:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForward:Normal",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForward:Normal",
+        "HoverStrafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForward:Normal",
+        "HoverFaceBack:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForward:Target",
+        "HoverForwardToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "HoverForward:Target",
+        "HoverForwardToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForward:Target",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForward:Target",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForward:Target",
+        "HoverStrafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForwardToStop:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "HoverForwardToStop:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForwardToStop:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForwardToStop:Normal",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForwardToStop:Normal",
+        "HoverStrafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForwardToStop:Normal",
+        "HoverForward:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForwardToStop:Target",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "HoverForwardToStop:Target",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForwardToStop:Target",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForwardToStop:Target",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForwardToStop:Target",
+        "HoverStrafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverForwardToStop:Target",
+        "HoverForward:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverFaceBack:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverFaceBack:Normal",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverFaceBack:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafe:Normal",
+        "HoverStrafeToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "HoverStrafe:Normal",
+        "HoverStrafeToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafe:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafe:Normal",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafe:Normal",
+        "HoverForward:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafe:Target",
+        "HoverStrafeToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "HoverStrafe:Target",
+        "HoverStrafeToStop:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafe:Target",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafe:Target",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafe:Target",
+        "HoverForward:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafeToStop:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "HoverStrafeToStop:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafeToStop:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafeToStop:Normal",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafeToStop:Normal",
+        "HoverStrafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafeToStop:Normal",
+        "HoverForward:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafeToStop:Target",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "HoverStrafeToStop:Target",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafeToStop:Target",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafeToStop:Target",
+        "HoverToFlight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafeToStop:Target",
+        "HoverStrafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverStrafeToStop:Target",
+        "HoverForward:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverToFlight:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverToFlight:Normal",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverToFlight:Normal",
+        "Flight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverToFlight:Target",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverToFlight:Target",
+        "Fall:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "HoverToFlight:Target",
+        "Flight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Flight:Normal",
+        "FlightStrafe:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Flight:Normal",
+        "FlightToHover:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Flight:Target",
+        "FlightToHover:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "Flight:Target",
+        "FlightToHover:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FlightToHover:Normal",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FlightToHover:Target",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FlightStrafe:Normal",
+        "Flight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "FlightStrafe:Normal",
+        "Flight:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FlightStrafe:Normal",
+        "FlightToHover:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMStand:Always",
+        "Stand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMStand:Always",
+        "FPMStep:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMStand:Always",
+        "FPMRotate:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMRotate:Always",
+        "FPMStep:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMRotate:Always",
+        "FPMStand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMStep:Always",
+        "FPMCenter:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMCenter:Always",
+        "FPMStep:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMCenter:Always",
+        "FPMStand:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMHover:Always",
+        "HoverRest:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMHover:Always",
+        "FPMHoverStep:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMHover:Always",
+        "FPMHoverRotate:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMHoverRotate:Always",
+        "FPMHoverStep:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMHoverRotate:Always",
+        "FPMHover:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMHoverStep:Always",
+        "FPMHoverCenter:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMHoverCenter:Always",
+        "FPMHoverStep:In"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FPMHoverCenter:Always",
+        "FPMHover:In"
+      ],
+      "directed": true
+    }
+  ]
+}

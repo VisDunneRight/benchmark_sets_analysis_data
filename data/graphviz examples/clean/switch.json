@@ -1,0 +1,126 @@
+{
+  "nodes": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "4"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "5"
+    },
+    {
+      "id": "e"
+    },
+    {
+      "id": "6"
+    },
+    {
+      "id": "f"
+    },
+    {
+      "id": "7"
+    },
+    {
+      "id": "g"
+    },
+    {
+      "id": "8"
+    },
+    {
+      "id": "h"
+    }
+  ],
+  "links": [
+    {
+      "color": "\"#0000ff\"",
+      "key": 0,
+      "nodes": [
+        "1",
+        "a"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"#ff0000\"",
+      "key": 0,
+      "nodes": [
+        "2",
+        "b"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"#ffff00\"",
+      "key": 0,
+      "nodes": [
+        "3",
+        "c"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"#00ff00\"",
+      "key": 0,
+      "nodes": [
+        "4",
+        "d"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"#000000\"",
+      "key": 0,
+      "nodes": [
+        "5",
+        "e"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"#00ffff\"",
+      "key": 0,
+      "nodes": [
+        "6",
+        "f"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"#ffffff\"",
+      "key": 0,
+      "nodes": [
+        "7",
+        "g"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"#ff00ff\"",
+      "key": 0,
+      "nodes": [
+        "8",
+        "h"
+      ],
+      "directed": true
+    }
+  ]
+}

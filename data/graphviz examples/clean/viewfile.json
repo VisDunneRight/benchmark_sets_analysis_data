@@ -1,0 +1,423 @@
+{
+  "nodes": [
+    {
+      "color": "green",
+      "id": "atoi"
+    },
+    {
+      "color": "green",
+      "id": "chkmalloc"
+    },
+    {
+      "color": "green",
+      "id": "close"
+    },
+    {
+      "color": "blue",
+      "id": "error"
+    },
+    {
+      "color": "blue",
+      "id": "exit"
+    },
+    {
+      "color": "green",
+      "id": "fclose"
+    },
+    {
+      "color": "red",
+      "id": "fgets"
+    },
+    {
+      "color": "green",
+      "id": "fopen"
+    },
+    {
+      "color": "blue",
+      "id": "fprintf"
+    },
+    {
+      "color": "blue",
+      "id": "free"
+    },
+    {
+      "color": "blue",
+      "id": "free_list"
+    },
+    {
+      "color": "green",
+      "id": "fstat"
+    },
+    {
+      "color": "green",
+      "id": "getopt"
+    },
+    {
+      "color": "green",
+      "id": "init_list"
+    },
+    {
+      "color": "green",
+      "id": "insert_list"
+    },
+    {
+      "color": "green",
+      "id": "main"
+    },
+    {
+      "color": "blue",
+      "id": "makeargs"
+    },
+    {
+      "color": "green",
+      "id": "makepairs"
+    },
+    {
+      "color": "green",
+      "id": "malloc"
+    },
+    {
+      "color": "green",
+      "id": "open"
+    },
+    {
+      "color": "red",
+      "id": "printf"
+    },
+    {
+      "color": "green",
+      "id": "read"
+    },
+    {
+      "color": "green",
+      "id": "rewind"
+    },
+    {
+      "color": "green",
+      "id": "viewline"
+    },
+    {
+      "color": "green",
+      "id": "viewlines"
+    },
+    {
+      "color": "green",
+      "id": "walk_list"
+    },
+    {
+      "color": "green",
+      "id": "write"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "chkmalloc",
+        "malloc"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "chkmalloc",
+        "error"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "error",
+        "exit"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "error",
+        "fprintf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "error",
+        "error"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "fclose",
+        "close"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "fgets",
+        "fstat"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "fgets",
+        "read"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "fopen",
+        "open"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "free_list",
+        "free"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "init_list",
+        "chkmalloc"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "insert_list",
+        "chkmalloc"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "main",
+        "fgets"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "main",
+        "getopt"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "main",
+        "makeargs"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "main",
+        "makepairs"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "main",
+        "chkmalloc"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "main",
+        "error"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "main",
+        "viewlines"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "makeargs",
+        "chkmalloc"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "makepairs",
+        "atoi"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "makepairs",
+        "init_list"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "makepairs",
+        "insert_list"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "makepairs",
+        "chkmalloc"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "printf",
+        "write"
+      ],
+      "directed": true
+    },
+    {
+      "color": "red",
+      "key": 0,
+      "nodes": [
+        "viewline",
+        "fgets"
+      ],
+      "directed": true
+    },
+    {
+      "color": "red",
+      "key": 0,
+      "nodes": [
+        "viewline",
+        "printf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "viewline",
+        "rewind"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "viewlines",
+        "fclose"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "viewlines",
+        "fopen"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "viewlines",
+        "walk_list"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "viewlines",
+        "viewline"
+      ],
+      "directed": true
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "nodes": [
+        "walk_list",
+        "error"
+      ],
+      "directed": true
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "nodes": [
+        "walk_list",
+        "viewline"
+      ],
+      "directed": true
+    }
+  ]
+}

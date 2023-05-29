@@ -1,0 +1,153 @@
+{
+  "nodes": [
+    {
+      "id": "course"
+    },
+    {
+      "id": "institute"
+    },
+    {
+      "id": "student"
+    },
+    {
+      "id": "code"
+    },
+    {
+      "id": "grade"
+    },
+    {
+      "id": "number"
+    },
+    {
+      "id": "C-I"
+    },
+    {
+      "id": "S-C"
+    },
+    {
+      "id": "S-I"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "name0"
+    },
+    {
+      "id": "name1"
+    },
+    {
+      "id": "name2"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "course",
+        "name0"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "course",
+        "code"
+      ],
+      "directed": false
+    },
+    {
+      "label": "\"n\"",
+      "len": "1.00",
+      "key": 0,
+      "nodes": [
+        "course",
+        "C-I"
+      ],
+      "directed": false
+    },
+    {
+      "label": "\"n\"",
+      "len": "1.00",
+      "key": 0,
+      "nodes": [
+        "course",
+        "S-C"
+      ],
+      "directed": false
+    },
+    {
+      "label": "\"1\"",
+      "len": "1.00",
+      "key": 0,
+      "nodes": [
+        "institute",
+        "C-I"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "institute",
+        "name1"
+      ],
+      "directed": false
+    },
+    {
+      "label": "\"1\"",
+      "len": "1.00",
+      "key": 0,
+      "nodes": [
+        "institute",
+        "S-I"
+      ],
+      "directed": false
+    },
+    {
+      "label": "\"n\"",
+      "len": "1.00",
+      "key": 0,
+      "nodes": [
+        "student",
+        "S-I"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "student",
+        "grade"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "student",
+        "name2"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "student",
+        "number"
+      ],
+      "directed": false
+    },
+    {
+      "label": "\"m\"",
+      "len": "1.00",
+      "key": 0,
+      "nodes": [
+        "student",
+        "S-C"
+      ],
+      "directed": false
+    }
+  ]
+}

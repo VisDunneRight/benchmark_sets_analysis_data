@@ -1,0 +1,202 @@
+{
+  "nodes": [
+    {
+      "style": "bold",
+      "id": "b"
+    },
+    {
+      "style": "dashed",
+      "id": "c"
+    },
+    {
+      "style": "dotted",
+      "id": "d"
+    },
+    {
+      "style": "\"setlinewidth(3)\"",
+      "id": "e"
+    },
+    {
+      "style": "invis",
+      "id": "f"
+    },
+    {
+      "style": "solid",
+      "id": "g"
+    },
+    {
+      "shape": "box",
+      "style": "\"bold,rounded\"",
+      "id": "B"
+    },
+    {
+      "shape": "diamond",
+      "style": "\"dashed,rounded\"",
+      "id": "C"
+    },
+    {
+      "style": "\"dotted,rounded\"",
+      "id": "D"
+    },
+    {
+      "style": "\"setlinewidth(3),rounded\"",
+      "id": "E"
+    },
+    {
+      "style": "\"bold,rounded,diagonals\"",
+      "id": "BD"
+    },
+    {
+      "shape": "diamond",
+      "style": "\"dashed,rounded,diagonals\"",
+      "id": "CD"
+    },
+    {
+      "style": "\"dotted,rounded,diagonals\"",
+      "id": "DD"
+    },
+    {
+      "style": "\"setlinewidth(3),rounded,diagonals\"",
+      "id": "ED"
+    },
+    {
+      "style": "\"filled, bold,rounded,diagonals\"",
+      "id": "BFD"
+    },
+    {
+      "style": "\"filled, dashed,rounded,diagonals\"",
+      "id": "CFD"
+    },
+    {
+      "style": "\"filled, dotted,rounded,diagonals\"",
+      "id": "DFD"
+    },
+    {
+      "style": "\"filled, setlinewidth(3),rounded,diagonals\"",
+      "id": "EFD"
+    },
+    {
+      "id": "a"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "B",
+        "BD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "C",
+        "CD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "D",
+        "DD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "E",
+        "ED"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "BD",
+        "BFD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "CD",
+        "CFD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "DD",
+        "DFD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ED",
+        "EFD"
+      ],
+      "directed": true
+    },
+    {
+      "style": "bold",
+      "key": 0,
+      "nodes": [
+        "a",
+        "b"
+      ],
+      "directed": true
+    },
+    {
+      "style": "dashed",
+      "key": 0,
+      "nodes": [
+        "a",
+        "c"
+      ],
+      "directed": true
+    },
+    {
+      "style": "dotted",
+      "key": 0,
+      "nodes": [
+        "a",
+        "d"
+      ],
+      "directed": true
+    },
+    {
+      "style": "\"setlinewidth(3)\"",
+      "key": 0,
+      "nodes": [
+        "a",
+        "e"
+      ],
+      "directed": true
+    },
+    {
+      "style": "invis",
+      "key": 0,
+      "nodes": [
+        "a",
+        "f"
+      ],
+      "directed": true
+    },
+    {
+      "style": "solid",
+      "key": 0,
+      "nodes": [
+        "a",
+        "g"
+      ],
+      "directed": true
+    }
+  ]
+}

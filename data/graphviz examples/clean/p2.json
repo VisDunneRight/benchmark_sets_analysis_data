@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "run"
+    },
+    {
+      "id": "intr"
+    },
+    {
+      "id": "runbl"
+    },
+    {
+      "id": "runmem"
+    },
+    {
+      "id": "kernel"
+    },
+    {
+      "id": "zombie"
+    },
+    {
+      "id": "sleep"
+    },
+    {
+      "id": "swap"
+    },
+    {
+      "id": "runswap"
+    },
+    {
+      "id": "new"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "run",
+        "intr"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "run",
+        "runbl"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "run",
+        "runmem"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "intr",
+        "runbl"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "runmem",
+        "kernel"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "runmem",
+        "runswap"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "runmem",
+        "new"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "runmem",
+        "sleep"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kernel",
+        "zombie"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kernel",
+        "sleep"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "sleep",
+        "swap"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "swap",
+        "runswap"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "runswap",
+        "new"
+      ],
+      "directed": false
+    }
+  ]
+}

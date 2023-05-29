@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "T"
+    },
+    {
+      "id": "H"
+    }
+  ],
+  "links": [
+    {
+      "arrowhead": "dot",
+      "arrowsize": "2.2",
+      "key": 0,
+      "nodes": [
+        "T",
+        "H"
+      ],
+      "directed": true
+    }
+  ]
+}

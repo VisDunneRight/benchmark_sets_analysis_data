@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "height": "2.0",
+      "id": "c"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "d"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "c",
+        "b"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a",
+        "b"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "b",
+        "d"
+      ],
+      "directed": true
+    }
+  ]
+}

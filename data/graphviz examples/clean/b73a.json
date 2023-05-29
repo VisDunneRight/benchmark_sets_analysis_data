@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "label": "\"{<port1>1}|{<port2>2}|{<port3>3}\"",
+      "shape": "\"record\"",
+      "id": "gvds_array0"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "gvds_array0\":port2"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "gvds_array0\":port2",
+        "gvds_array0"
+      ],
+      "directed": true
+    }
+  ]
+}

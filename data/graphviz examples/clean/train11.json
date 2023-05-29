@@ -1,0 +1,267 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "st9"
+    },
+    {
+      "id": "st10"
+    },
+    {
+      "id": "st8"
+    },
+    {
+      "id": "st0"
+    },
+    {
+      "id": "st7"
+    },
+    {
+      "id": "st6"
+    },
+    {
+      "id": "st5"
+    },
+    {
+      "id": "st4"
+    },
+    {
+      "id": "st3"
+    },
+    {
+      "id": "st2"
+    },
+    {
+      "id": "st1"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"11/1\"",
+      "key": 0,
+      "nodes": [
+        "st9",
+        "st9"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"10/1\"",
+      "key": 0,
+      "nodes": [
+        "st9",
+        "st10"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"10/1\"",
+      "key": 0,
+      "nodes": [
+        "st10",
+        "st10"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"00/-\"",
+      "key": 0,
+      "nodes": [
+        "st10",
+        "st0"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"10/1\"",
+      "key": 0,
+      "nodes": [
+        "st8",
+        "st8"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"00/-\"",
+      "key": 0,
+      "nodes": [
+        "st8",
+        "st0"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"01/-\"",
+      "key": 0,
+      "nodes": [
+        "st0",
+        "st2"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"10/-\"",
+      "key": 0,
+      "nodes": [
+        "st0",
+        "st1"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"00/0\"",
+      "key": 0,
+      "nodes": [
+        "st0",
+        "st0"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"10/1\"",
+      "key": 0,
+      "nodes": [
+        "st7",
+        "st8"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"00/1\"",
+      "key": 0,
+      "nodes": [
+        "st7",
+        "st7"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"01/1\"",
+      "key": 0,
+      "nodes": [
+        "st6",
+        "st6"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"00/-\"",
+      "key": 0,
+      "nodes": [
+        "st6",
+        "st0"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"01/1\"",
+      "key": 0,
+      "nodes": [
+        "st5",
+        "st6"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"11/1\"",
+      "key": 0,
+      "nodes": [
+        "st5",
+        "st5"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"01/1\"",
+      "key": 0,
+      "nodes": [
+        "st4",
+        "st4"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"00/-\"",
+      "key": 0,
+      "nodes": [
+        "st4",
+        "st0"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"01/1\"",
+      "key": 0,
+      "nodes": [
+        "st3",
+        "st4"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"00/1\"",
+      "key": 0,
+      "nodes": [
+        "st3",
+        "st3"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"11/1\"",
+      "key": 0,
+      "nodes": [
+        "st2",
+        "st9"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"00/1\"",
+      "key": 0,
+      "nodes": [
+        "st2",
+        "st7"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"01/1\"",
+      "key": 0,
+      "nodes": [
+        "st2",
+        "st2"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"11/1\"",
+      "key": 0,
+      "nodes": [
+        "st1",
+        "st5"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"00/1\"",
+      "key": 0,
+      "nodes": [
+        "st1",
+        "st3"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"10/1\"",
+      "key": 0,
+      "nodes": [
+        "st1",
+        "st1"
+      ],
+      "directed": true
+    }
+  ]
+}

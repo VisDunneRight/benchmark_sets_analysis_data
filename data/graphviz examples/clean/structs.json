@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "shape": "record",
+      "label": "\"<f0> left|<f1> middle|<f2> right\"",
+      "id": "struct1"
+    },
+    {
+      "shape": "record",
+      "label": "\"<f0> one|<f1> two\"",
+      "id": "struct2"
+    },
+    {
+      "shape": "record",
+      "label": "\"hello\\nworld |{ b |{c|<here> d|e}| f}| g | h\"",
+      "id": "struct3"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "struct1:f1"
+    },
+    {
+      "id": "struct2:f0"
+    },
+    {
+      "id": "struct1:f2"
+    },
+    {
+      "id": "struct3:here"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "struct1:f1",
+        "struct2:f0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "struct1:f2",
+        "struct3:here"
+      ],
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "shape": "record",
+      "label": "\"<p0>WFSt|1571 \tas Ref: 1338 \tD\"",
+      "id": "N11"
+    },
+    {
+      "id": "N11ne"
+    },
+    {
+      "id": "N11:p0"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "N11ne",
+        "N11:p0"
+      ],
+      "directed": true
+    }
+  ]
+}

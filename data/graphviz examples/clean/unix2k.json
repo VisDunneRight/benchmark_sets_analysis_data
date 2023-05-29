@@ -1,0 +1,590 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "5th Edition"
+    },
+    {
+      "id": "6th Edition"
+    },
+    {
+      "id": "PWB 1.0"
+    },
+    {
+      "id": "LSX"
+    },
+    {
+      "id": "1 BSD"
+    },
+    {
+      "id": "Mini Unix"
+    },
+    {
+      "id": "Wollongong"
+    },
+    {
+      "id": "Interdata"
+    },
+    {
+      "id": "Unix/TS 3.0"
+    },
+    {
+      "id": "PWB 2.0"
+    },
+    {
+      "id": "7th Edition"
+    },
+    {
+      "id": "8th Edition"
+    },
+    {
+      "id": "32V"
+    },
+    {
+      "id": "V7M"
+    },
+    {
+      "id": "Ultrix-11"
+    },
+    {
+      "id": "Xenix"
+    },
+    {
+      "id": "UniPlus+"
+    },
+    {
+      "id": "9th Edition"
+    },
+    {
+      "id": "10th Edition"
+    },
+    {
+      "id": "2 BSD"
+    },
+    {
+      "id": "2.8 BSD"
+    },
+    {
+      "id": "2.9 BSD"
+    },
+    {
+      "id": "3 BSD"
+    },
+    {
+      "id": "4 BSD"
+    },
+    {
+      "id": "4.1 BSD"
+    },
+    {
+      "id": "4.2 BSD"
+    },
+    {
+      "id": "4.3 BSD"
+    },
+    {
+      "id": "Ultrix-32"
+    },
+    {
+      "id": "4.4 BSD"
+    },
+    {
+      "id": "FreeBSD"
+    },
+    {
+      "id": "NetBSD"
+    },
+    {
+      "id": "OpenBSD"
+    },
+    {
+      "id": "PWB 1.2"
+    },
+    {
+      "id": "USG 1.0"
+    },
+    {
+      "id": "CB Unix 1"
+    },
+    {
+      "id": "USG 2.0"
+    },
+    {
+      "id": "CB Unix 2"
+    },
+    {
+      "id": "CB Unix 3"
+    },
+    {
+      "id": "Unix/TS++"
+    },
+    {
+      "id": "PDP-11 Sys V"
+    },
+    {
+      "id": "USG 3.0"
+    },
+    {
+      "id": "Unix/TS 1.0"
+    },
+    {
+      "id": "TS 4.0"
+    },
+    {
+      "id": "System V.0"
+    },
+    {
+      "id": "System V.2"
+    },
+    {
+      "id": "System V.3"
+    },
+    {
+      "id": "System V.4"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "5th Edition",
+        "6th Edition"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "5th Edition",
+        "PWB 1.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6th Edition",
+        "LSX"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6th Edition",
+        "1 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6th Edition",
+        "Mini Unix"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6th Edition",
+        "Wollongong"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6th Edition",
+        "Interdata"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "PWB 1.0",
+        "PWB 1.2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "PWB 1.0",
+        "USG 1.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1 BSD",
+        "2 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Interdata",
+        "Unix/TS 3.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Interdata",
+        "PWB 2.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Interdata",
+        "7th Edition"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Unix/TS 3.0",
+        "TS 4.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "PWB 2.0",
+        "Unix/TS 3.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "7th Edition",
+        "8th Edition"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "7th Edition",
+        "32V"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "7th Edition",
+        "V7M"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "7th Edition",
+        "Ultrix-11"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "7th Edition",
+        "Xenix"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "7th Edition",
+        "UniPlus+"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "8th Edition",
+        "9th Edition"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "32V",
+        "3 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "V7M",
+        "Ultrix-11"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "9th Edition",
+        "10th Edition"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "2 BSD",
+        "2.8 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "2.8 BSD",
+        "Ultrix-11"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "2.8 BSD",
+        "2.9 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "3 BSD",
+        "4 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4 BSD",
+        "4.1 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4.1 BSD",
+        "4.2 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4.1 BSD",
+        "2.8 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4.1 BSD",
+        "8th Edition"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4.2 BSD",
+        "4.3 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4.2 BSD",
+        "Ultrix-32"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4.3 BSD",
+        "4.4 BSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4.4 BSD",
+        "FreeBSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4.4 BSD",
+        "NetBSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4.4 BSD",
+        "OpenBSD"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "PWB 1.2",
+        "PWB 2.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "USG 1.0",
+        "CB Unix 1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "USG 1.0",
+        "USG 2.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "CB Unix 1",
+        "CB Unix 2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "USG 2.0",
+        "USG 3.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "CB Unix 2",
+        "CB Unix 3"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "CB Unix 3",
+        "Unix/TS++"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "CB Unix 3",
+        "PDP-11 Sys V"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "CB Unix 3",
+        "TS 4.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Unix/TS++",
+        "TS 4.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "USG 3.0",
+        "Unix/TS 3.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Unix/TS 1.0",
+        "Unix/TS 3.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TS 4.0",
+        "System V.0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "System V.0",
+        "System V.2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "System V.2",
+        "System V.3"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "System V.3",
+        "System V.4"
+      ],
+      "directed": true
+    }
+  ]
+}

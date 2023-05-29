@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "cluster_foo"
+    },
+    {
+      "id": "label_xxxxxxx"
+    },
+    {
+      "id": "columns_foo_insider:foo"
+    },
+    {
+      "id": "label_foo"
+    }
+  ],
+  "links": [
+    {
+      "lhead": "\"cluster_foo\"",
+      "key": 0,
+      "nodes": [
+        "cluster_foo",
+        "label_xxxxxxx"
+      ],
+      "directed": true
+    },
+    {
+      "lhead": "\"cluster_foo\"",
+      "key": 0,
+      "nodes": [
+        "columns_foo_insider:foo",
+        "label_foo"
+      ],
+      "directed": true
+    }
+  ]
+}

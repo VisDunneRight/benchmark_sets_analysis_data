@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "label": "\"<f0> |<f1> G|<f2> \"",
+      "id": "node0"
+    },
+    {
+      "label": "\"<f0> |<f1> E|<f2> \"",
+      "id": "node1"
+    },
+    {
+      "label": "\"<f0> |<f1> B|<f2> \"",
+      "id": "node2"
+    },
+    {
+      "label": "\"<f0> |<f1> F|<f2> \"",
+      "id": "node3"
+    },
+    {
+      "label": "\"<f0> |<f1> R|<f2> \"",
+      "id": "node4"
+    },
+    {
+      "label": "\"<f0> |<f1> H|<f2> \"",
+      "id": "node5"
+    },
+    {
+      "label": "\"<f0> |<f1> Y|<f2> \"",
+      "id": "node6"
+    },
+    {
+      "label": "\"<f0> |<f1> A|<f2> \"",
+      "id": "node7"
+    },
+    {
+      "label": "\"<f0> |<f1> C|<f2> \"",
+      "id": "node8"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "node0\":f2"
+    },
+    {
+      "id": "node4\":f1"
+    },
+    {
+      "id": "node0\":f0"
+    },
+    {
+      "id": "node1\":f1"
+    },
+    {
+      "id": "node1\":f0"
+    },
+    {
+      "id": "node2\":f1"
+    },
+    {
+      "id": "node1\":f2"
+    },
+    {
+      "id": "node3\":f1"
+    },
+    {
+      "id": "node2\":f2"
+    },
+    {
+      "id": "node8\":f1"
+    },
+    {
+      "id": "node2\":f0"
+    },
+    {
+      "id": "node7\":f1"
+    },
+    {
+      "id": "node4\":f2"
+    },
+    {
+      "id": "node6\":f1"
+    },
+    {
+      "id": "node4\":f0"
+    },
+    {
+      "id": "node5\":f1"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "node0\":f2",
+        "node4\":f1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "node0\":f0",
+        "node1\":f1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "node1\":f0",
+        "node2\":f1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "node1\":f2",
+        "node3\":f1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "node2\":f2",
+        "node8\":f1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "node2\":f0",
+        "node7\":f1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "node4\":f2",
+        "node6\":f1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "node4\":f0",
+        "node5\":f1"
+      ],
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "nodes": [
+    {
+      "id": "aaa"
+    },
+    {
+      "id": "bbb"
+    },
+    {
+      "id": "BBB"
+    },
+    {
+      "id": "AAA"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "aaa",
+        "bbb"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "aaa",
+        "BBB"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "AAA",
+        "BBB"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "AAA",
+        "bbb"
+      ],
+      "directed": true
+    }
+  ]
+}

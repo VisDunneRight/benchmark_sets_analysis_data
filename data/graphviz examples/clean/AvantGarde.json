@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {
+      "fontname": "\"AvantGarde-Book\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"AvantGarde-Book\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "1"
+    },
+    {
+      "fontname": "\"AvantGarde-BookOblique\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"AvantGarde-BookOblique\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "2"
+    },
+    {
+      "fontname": "\"AvantGarde-Demi\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"AvantGarde-Demi\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "3"
+    },
+    {
+      "fontname": "\"AvantGarde-DemiOblique\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"AvantGarde-DemiOblique\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "4"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "1",
+        "2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "2",
+        "3"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "3",
+        "4"
+      ],
+      "directed": true
+    }
+  ]
+}

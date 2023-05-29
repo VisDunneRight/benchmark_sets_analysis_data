@@ -1,0 +1,162 @@
+{
+  "nodes": [
+    {
+      "id": "Hef1a"
+    },
+    {
+      "id": "TRE"
+    },
+    {
+      "id": "UAS"
+    },
+    {
+      "label": "\"Hef1a-LacOid\"",
+      "id": "Hef1aLacOid"
+    },
+    {
+      "label": "\"Gal4-VP16\"",
+      "id": "Gal4VP16"
+    },
+    {
+      "id": "LacI"
+    },
+    {
+      "id": "rtTA3"
+    },
+    {
+      "id": "DeltamCherry"
+    },
+    {
+      "shape": "oval",
+      "style": "filled",
+      "colorscheme": "rdbu5",
+      "color": "2",
+      "label": "\"\"",
+      "id": "product"
+    },
+    {
+      "shape": "oval",
+      "label": "\"LacI repression\"",
+      "fontcolor": "black",
+      "style": "dotted",
+      "id": "repression"
+    },
+    {
+      "label": "\"rtTA3 + Doxycycline\"",
+      "id": "combination"
+    },
+    {
+      "label": "\"LacI\"",
+      "id": "LacIprotein"
+    },
+    {
+      "label": "\"rtTA3\"",
+      "id": "rtTA3protein"
+    },
+    {
+      "label": "\"Gal4-VP16\"",
+      "id": "Gal4VP16protein"
+    },
+    {
+      "id": "\\n\t\\n\t\\n\t\t\\n"
+    },
+    {
+      "id": "IPTG"
+    },
+    {
+      "id": "Doxycycline"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "Gal4VP16",
+        "Gal4VP16protein"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LacI",
+        "LacIprotein"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "rtTA3",
+        "rtTA3protein"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "DeltamCherry",
+        "product"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "tee",
+      "key": 0,
+      "nodes": [
+        "repression",
+        "Hef1aLacOid"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "combination",
+        "TRE"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LacIprotein",
+        "repression"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "rtTA3protein",
+        "combination"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Gal4VP16protein",
+        "UAS"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "tee",
+      "key": 0,
+      "nodes": [
+        "IPTG",
+        "repression"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Doxycycline",
+        "combination"
+      ],
+      "directed": true
+    }
+  ]
+}

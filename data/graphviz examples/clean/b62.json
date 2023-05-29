@@ -1,0 +1,31 @@
+{
+  "nodes": [
+    {
+      "id": "routine1"
+    },
+    {
+      "id": "routine2"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "routine1",
+        "routine2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "routine1",
+        "routine2"
+      ],
+      "directed": true
+    }
+  ]
+}

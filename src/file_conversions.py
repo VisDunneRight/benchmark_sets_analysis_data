@@ -8,6 +8,7 @@ import shutil
 import xml.etree.ElementTree as ET
 from Bio import Phylo
 import newick
+import graphviz
 
 
 def read_storyline():
@@ -421,6 +422,24 @@ def extract_tree_structure_newick(newick_string):
 	return graph
 
 
+def read_graphviz():
+	for gfile in os.listdir("../data/graphviz examples"):
+		if os.path.splitext(gfile)[1] == ".gv":
+			print(gfile)
+			gr = nx.node_link_data(nx.nx_pydot.read_dot("../data/graphviz examples/" + gfile))
+			is_dir = gr["directed"]
+			del gr["directed"]
+			del gr["multigraph"]
+			del gr["graph"]
+			for ed in gr["links"]:
+				ed["nodes"] = [ed["source"], ed["target"]]
+				del ed["source"]
+				del ed["target"]
+				ed["directed"] = is_dir
+			with open("../data/graphviz examples/clean/" + gfile.replace(".gv", ".json"), 'w') as fd:
+				json.dump(gr, fd, indent=2)
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -436,6 +455,7 @@ if __name__ == '__main__':
 	# create_complete_graphs()
 	# create_complete_bipartite_graphs()
 	# create_knowncr()
-	read_evolution()
+	# read_evolution()
+	read_graphviz()
 
 	exit()

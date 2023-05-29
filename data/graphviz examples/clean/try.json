@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "t"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "q"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "t",
+        "a"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "b",
+        "q"
+      ],
+      "directed": true
+    }
+  ]
+}

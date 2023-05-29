@@ -1,0 +1,1014 @@
+{
+  "nodes": [
+    {
+      "color": "\"0.000 1.000 1.000\"",
+      "id": "cmpa"
+    },
+    {
+      "color": "\"0.201 0.753 1.000\"",
+      "id": "wline"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "insert"
+    },
+    {
+      "color": "\"0.355 0.563 1.000\"",
+      "id": "rline"
+    },
+    {
+      "color": "\"0.408 0.498 1.000\"",
+      "id": "sort"
+    },
+    {
+      "color": "\"0.449 0.447 1.000\"",
+      "id": "qsort"
+    },
+    {
+      "color": "\"0.499 0.386 1.000\"",
+      "id": "write"
+    },
+    {
+      "color": "\"0.578 0.289 1.000\"",
+      "id": "read"
+    },
+    {
+      "color": "\"0.590 0.273 1.000\"",
+      "id": "msort"
+    },
+    {
+      "color": "\"0.603 0.258 1.000\"",
+      "id": "merge"
+    },
+    {
+      "color": "\"0.628 0.227 1.000\"",
+      "id": "unlink"
+    },
+    {
+      "color": "\"0.641 0.212 1.000\"",
+      "id": "filbuf"
+    },
+    {
+      "color": "\"0.641 0.212 1.000\"",
+      "id": "open"
+    },
+    {
+      "color": "\"0.647 0.204 1.000\"",
+      "id": "sbrk"
+    },
+    {
+      "color": "\"0.647 0.204 1.000\"",
+      "id": "signal"
+    },
+    {
+      "color": "\"0.647 0.204 1.000\"",
+      "id": "moncontrol"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "xflsbuf"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "flsbuf"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "div"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "cmpsave"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "rem"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "setfil"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "close"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "fclose"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "fflush"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "setbuf"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "endopen"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "findiop"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "fopen"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "mul"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "newfile"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "sigblock"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "sigsetmask"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "sigvec"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "udiv"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "urem"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "brk"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "getfreehdr"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "strlen"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "umul"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "doprnt"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "copyproto"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "creat"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "demote"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "exit"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "free"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "getpagesize"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "getpid"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "initree"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "localeconv"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "main"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "malloc"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "morecore"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "oldfile"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "on_exit"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "profil"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "putfreehdr"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "safeoutfil"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "sprintf"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "term"
+    },
+    {
+      "id": "start"
+    }
+  ],
+  "links": [
+    {
+      "color": "\"0.649 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "wline",
+        "flsbuf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "insert",
+        "cmpa"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "insert",
+        "getfreehdr"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.649 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "rline",
+        "filbuf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.619 0.714 0.714\"",
+      "key": 0,
+      "nodes": [
+        "sort",
+        "msort"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "sort",
+        "filbuf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "sort",
+        "newfile"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "sort",
+        "fclose"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "sort",
+        "setbuf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "sort",
+        "setfil"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "qsort",
+        "cmpa"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "msort",
+        "qsort"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "msort",
+        "insert"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "msort",
+        "wline"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "msort",
+        "div"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "msort",
+        "cmpsave"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "merge",
+        "insert"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "merge",
+        "rline"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "merge",
+        "wline"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "merge",
+        "unlink"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "merge",
+        "fopen"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "merge",
+        "fclose"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "merge",
+        "setfil"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "merge",
+        "mul"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "merge",
+        "setbuf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "merge",
+        "cmpsave"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "filbuf",
+        "read"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "signal",
+        "sigvec"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "moncontrol",
+        "profil"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "xflsbuf",
+        "write"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.649 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "flsbuf",
+        "xflsbuf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "setfil",
+        "div"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "setfil",
+        "rem"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.642 0.704 0.704\"",
+      "key": 0,
+      "nodes": [
+        "fclose",
+        "fflush"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "fclose",
+        "close"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.635 0.707 0.707\"",
+      "key": 0,
+      "nodes": [
+        "fflush",
+        "xflsbuf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "endopen",
+        "open"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.639 0.705 0.705\"",
+      "key": 0,
+      "nodes": [
+        "fopen",
+        "endopen"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "fopen",
+        "findiop"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.634 0.707 0.707\"",
+      "key": 0,
+      "nodes": [
+        "newfile",
+        "fopen"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "newfile",
+        "setfil"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "sigvec",
+        "sigblock"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "sigvec",
+        "sigsetmask"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "getfreehdr",
+        "sbrk"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "doprnt",
+        "urem"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "doprnt",
+        "udiv"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "doprnt",
+        "strlen"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "doprnt",
+        "localeconv"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "free",
+        "insert"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.348 0.839 0.839\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "sort"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.515 0.762 0.762\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "merge"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.647 0.702 0.702\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "term"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "signal"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "sbrk"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "unlink"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "newfile"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "fclose"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "close"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "brk"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "setbuf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "copyproto"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "initree"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "safeoutfil"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "getpid"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "sprintf"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "creat"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "rem"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "main",
+        "oldfile"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.325 0.850 0.850\"",
+      "key": 0,
+      "nodes": [
+        "malloc",
+        "morecore"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "malloc",
+        "demote"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "morecore",
+        "sbrk"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "morecore",
+        "getfreehdr"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "morecore",
+        "free"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "morecore",
+        "getpagesize"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "morecore",
+        "putfreehdr"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "morecore",
+        "udiv"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "morecore",
+        "umul"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.325 0.850 0.850\"",
+      "key": 0,
+      "nodes": [
+        "on_exit",
+        "malloc"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "sprintf",
+        "doprnt"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "term",
+        "unlink"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "term",
+        "signal"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "term",
+        "setfil"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "nodes": [
+        "term",
+        "exit"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.002 0.999 0.999\"",
+      "key": 0,
+      "nodes": [
+        "start",
+        "main"
+      ],
+      "directed": true
+    },
+    {
+      "color": "\"0.649 0.701 0.701\"",
+      "key": 0,
+      "nodes": [
+        "start",
+        "on_exit"
+      ],
+      "directed": true
+    }
+  ]
+}

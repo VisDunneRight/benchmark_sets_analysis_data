@@ -1,0 +1,397 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "1972"
+    },
+    {
+      "id": "1976"
+    },
+    {
+      "id": "1978"
+    },
+    {
+      "id": "1980"
+    },
+    {
+      "id": "1982"
+    },
+    {
+      "id": "1984"
+    },
+    {
+      "id": "1986"
+    },
+    {
+      "id": "1988"
+    },
+    {
+      "id": "1990"
+    },
+    {
+      "id": "future"
+    },
+    {
+      "id": "Thompson"
+    },
+    {
+      "id": "Mashey"
+    },
+    {
+      "id": "Bourne"
+    },
+    {
+      "id": "csh"
+    },
+    {
+      "id": "tcsh"
+    },
+    {
+      "id": "ksh"
+    },
+    {
+      "id": "esh"
+    },
+    {
+      "id": "vsh"
+    },
+    {
+      "id": "System-V"
+    },
+    {
+      "id": "v9sh"
+    },
+    {
+      "id": "rc"
+    },
+    {
+      "id": "Bash"
+    },
+    {
+      "id": "ksh-i"
+    },
+    {
+      "id": "KornShell"
+    },
+    {
+      "id": "Formshell"
+    },
+    {
+      "id": "POSIX"
+    },
+    {
+      "id": "ksh-POSIX"
+    },
+    {
+      "id": "Perl"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "1972",
+        "1976"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1976",
+        "1978"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1978",
+        "1980"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1980",
+        "1982"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1982",
+        "1984"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1984",
+        "1986"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1984",
+        "v9sh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1986",
+        "1988"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1988",
+        "1990"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1988",
+        "rc"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1990",
+        "future"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Thompson",
+        "Mashey"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Thompson",
+        "Bourne"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Thompson",
+        "csh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Bourne",
+        "ksh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Bourne",
+        "esh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Bourne",
+        "vsh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Bourne",
+        "System-V"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Bourne",
+        "v9sh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Bourne",
+        "Bash"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Bourne",
+        "Formshell"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "csh",
+        "tcsh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "csh",
+        "ksh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ksh",
+        "ksh-i"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "esh",
+        "ksh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "vsh",
+        "ksh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "System-V",
+        "POSIX"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "v9sh",
+        "rc"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "v9sh",
+        "tcsh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "rc",
+        "KornShell"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ksh-i",
+        "Bash"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ksh-i",
+        "KornShell"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "KornShell",
+        "Bash"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "KornShell",
+        "POSIX"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "KornShell",
+        "ksh-POSIX"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "KornShell",
+        "Perl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Formshell",
+        "ksh"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Formshell",
+        "csh"
+      ],
+      "directed": true
+    }
+  ]
+}

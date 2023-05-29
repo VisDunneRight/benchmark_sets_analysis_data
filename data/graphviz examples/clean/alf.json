@@ -1,0 +1,234 @@
+{
+  "nodes": [
+    {
+      "label": "\"\\n\\nDecl|{name|access|decl_flags|extern_c_linkage}\"",
+      "id": "Decl"
+    },
+    {
+      "label": "\"Nontype_decl|{type}\"",
+      "id": "Nontype_decl"
+    },
+    {
+      "label": "\"Defined_decl|{linkage}\"",
+      "id": "Defined_decl"
+    },
+    {
+      "label": "\"Data_decl|{storage_class}\"",
+      "id": "Data_decl"
+    },
+    {
+      "label": "\"Function_decl|{formals|defaults}\"",
+      "id": "Function_decl"
+    },
+    {
+      "label": "\"Data|{initializer}\"",
+      "id": "Data"
+    },
+    {
+      "label": "\"Function|{body}\"",
+      "id": "Function"
+    },
+    {
+      "label": "\"Constructor|{member_initializers}\"",
+      "id": "Constructor"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Aggregate"
+    },
+    {
+      "id": "Type_decl"
+    },
+    {
+      "id": "Class"
+    },
+    {
+      "id": "Union"
+    },
+    {
+      "id": "Defn"
+    },
+    {
+      "id": "Data_member"
+    },
+    {
+      "id": "Enum"
+    },
+    {
+      "id": "Enumerator"
+    },
+    {
+      "id": "Destructor"
+    },
+    {
+      "id": "Template_type_arg"
+    },
+    {
+      "id": "Typedef"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "Nontype_decl",
+        "Decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Defined_decl",
+        "Nontype_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Data_decl",
+        "Defined_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Function_decl",
+        "Defined_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Data",
+        "Data_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Data",
+        "Defn"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Function",
+        "Defn"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Function",
+        "Function_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Constructor",
+        "Function"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Aggregate",
+        "Type_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Type_decl",
+        "Decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Class",
+        "Aggregate"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Union",
+        "Aggregate"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Defn",
+        "Defined_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Data_member",
+        "Nontype_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Enum",
+        "Type_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Enumerator",
+        "Nontype_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Destructor",
+        "Function"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Template_type_arg",
+        "Type_decl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Typedef",
+        "Type_decl"
+      ],
+      "directed": true
+    }
+  ]
+}

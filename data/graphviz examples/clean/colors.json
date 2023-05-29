@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "fontcolor": "yellow",
+      "fillcolor": "blue",
+      "color": "orange",
+      "id": "ddddddd"
+    },
+    {
+      "id": "eeeee"
+    }
+  ],
+  "links": [
+    {
+      "labelfontcolor": "chocolate",
+      "headlabel": "headlabel",
+      "label": "flue",
+      "fontcolor": "green",
+      "color": "lightblue",
+      "key": 0,
+      "nodes": [
+        "ddddddd",
+        "eeeee"
+      ],
+      "directed": true
+    }
+  ]
+}

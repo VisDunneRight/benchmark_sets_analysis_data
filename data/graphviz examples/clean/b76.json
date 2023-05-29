@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {
+      "id": "n0"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "n0",
+        "n0"
+      ],
+      "directed": true
+    }
+  ]
+}

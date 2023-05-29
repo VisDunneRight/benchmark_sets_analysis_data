@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "c"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "a",
+        "b"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"long long long\"",
+      "key": 0,
+      "nodes": [
+        "c",
+        "b"
+      ],
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "4"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "0",
+        "1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1",
+        "2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "2",
+        "3"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "3",
+        "4"
+      ],
+      "directed": true
+    }
+  ]
+}

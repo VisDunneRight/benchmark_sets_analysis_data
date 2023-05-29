@@ -1,0 +1,584 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Trapezium"
+    },
+    {
+      "id": "A"
+    },
+    {
+      "id": "B"
+    },
+    {
+      "id": "C"
+    },
+    {
+      "id": "D"
+    },
+    {
+      "id": "E"
+    },
+    {
+      "id": "F"
+    },
+    {
+      "id": "G"
+    },
+    {
+      "id": "H"
+    },
+    {
+      "id": "I"
+    },
+    {
+      "id": "J"
+    },
+    {
+      "id": "K"
+    },
+    {
+      "id": "L"
+    },
+    {
+      "id": "M"
+    },
+    {
+      "id": "N"
+    },
+    {
+      "id": "O"
+    },
+    {
+      "id": "P"
+    },
+    {
+      "id": "Q"
+    },
+    {
+      "id": "R"
+    },
+    {
+      "id": "S"
+    },
+    {
+      "id": "T"
+    },
+    {
+      "id": "U"
+    },
+    {
+      "id": "V"
+    },
+    {
+      "id": "W"
+    },
+    {
+      "id": "X"
+    },
+    {
+      "id": "Y"
+    },
+    {
+      "id": "Z"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "e"
+    },
+    {
+      "id": "f"
+    },
+    {
+      "id": "g"
+    },
+    {
+      "id": "h"
+    },
+    {
+      "id": "i"
+    },
+    {
+      "id": "j"
+    },
+    {
+      "id": "k"
+    },
+    {
+      "id": "l"
+    },
+    {
+      "id": "m"
+    },
+    {
+      "id": "n"
+    },
+    {
+      "id": "o"
+    },
+    {
+      "id": "p"
+    },
+    {
+      "id": "q"
+    },
+    {
+      "id": "r"
+    },
+    {
+      "id": "s"
+    },
+    {
+      "id": "t"
+    },
+    {
+      "id": "u"
+    },
+    {
+      "id": "v"
+    },
+    {
+      "id": "w"
+    },
+    {
+      "id": "x"
+    },
+    {
+      "id": "y"
+    },
+    {
+      "id": "z"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "A"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "B"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "C"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "D"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "E"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "F"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "G"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "H"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "I"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "J"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "K"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "L"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "M"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "N"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "O"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "P"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "Q"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "R"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "S"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "T"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "U"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "V"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "W"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "X"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "Y"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trapezium",
+        "Z"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "b",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "c",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "d",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "e",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "f",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "g",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "h",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "i",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "j",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "k",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "l",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "m",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "n",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "o",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "p",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "q",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "r",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "s",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "t",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "u",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "v",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "w",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "x",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "y",
+        "Trapezium"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "z",
+        "Trapezium"
+      ],
+      "directed": true
+    }
+  ]
+}

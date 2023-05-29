@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "width": "3",
+      "id": "n"
+    },
+    {
+      "width": "3",
+      "nojustify": "true",
+      "id": "m"
+    },
+    {
+      "nojustify": "true",
+      "id": "b"
+    },
+    {
+      "shape": "record",
+      "label": "\"{aaaaaaaaaaaaaa\\n | bbbbbb\\nddd\\l}\"",
+      "id": "l"
+    },
+    {
+      "nojustify": "true",
+      "shape": "record",
+      "label": "\"{aaaaaaaaaaaaaa\\n | bbbbbb\\nddd\\l}\"",
+      "id": "p"
+    },
+    {
+      "id": "a"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "n",
+        "m"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "l",
+        "p"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a",
+        "b"
+      ],
+      "directed": true
+    }
+  ]
+}

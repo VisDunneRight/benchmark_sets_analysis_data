@@ -1,0 +1,71 @@
+{
+  "nodes": [
+    {
+      "label": "\"Empty\"",
+      "id": "empty"
+    },
+    {
+      "label": "\"Stolen\"",
+      "id": "stolen"
+    },
+    {
+      "label": "\"Waiting\"",
+      "id": "waiting"
+    },
+    {
+      "label": "\"Full\"",
+      "id": "full"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"return\"",
+      "key": 0,
+      "nodes": [
+        "empty",
+        "full"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"dispatch\"",
+      "wt": "28",
+      "key": 0,
+      "nodes": [
+        "empty",
+        "stolen"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"return\"",
+      "key": 0,
+      "nodes": [
+        "stolen",
+        "full"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"touch\"",
+      "key": 0,
+      "nodes": [
+        "stolen",
+        "waiting"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"return\"",
+      "key": 0,
+      "nodes": [
+        "waiting",
+        "full"
+      ],
+      "directed": true
+    }
+  ]
+}

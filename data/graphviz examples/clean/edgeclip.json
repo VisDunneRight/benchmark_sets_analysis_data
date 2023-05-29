@@ -1,0 +1,54 @@
+{
+  "nodes": [
+    {
+      "id": "ab"
+    },
+    {
+      "id": "cd"
+    },
+    {
+      "id": "CD"
+    },
+    {
+      "id": "AB"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "ab",
+        "cd"
+      ],
+      "directed": true
+    },
+    {
+      "tailclip": "false",
+      "key": 0,
+      "nodes": [
+        "ab",
+        "CD"
+      ],
+      "directed": true
+    },
+    {
+      "headclip": "false",
+      "key": 0,
+      "nodes": [
+        "AB",
+        "CD"
+      ],
+      "directed": true
+    },
+    {
+      "tailclip": "false",
+      "headclip": "false",
+      "key": 0,
+      "nodes": [
+        "AB",
+        "cd"
+      ],
+      "directed": true
+    }
+  ]
+}

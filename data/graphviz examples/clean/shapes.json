@@ -1,0 +1,362 @@
+{
+  "nodes": [
+    {
+      "shape": "box",
+      "id": "a"
+    },
+    {
+      "shape": "polygon",
+      "id": "b"
+    },
+    {
+      "shape": "ellipse",
+      "id": "c"
+    },
+    {
+      "shape": "circle",
+      "id": "d"
+    },
+    {
+      "shape": "point",
+      "id": "e"
+    },
+    {
+      "shape": "egg",
+      "id": "f"
+    },
+    {
+      "shape": "triangle",
+      "id": "g"
+    },
+    {
+      "shape": "plaintext",
+      "id": "h"
+    },
+    {
+      "shape": "diamond",
+      "id": "i"
+    },
+    {
+      "shape": "trapezium",
+      "id": "j"
+    },
+    {
+      "shape": "parallelogram",
+      "id": "k"
+    },
+    {
+      "shape": "house",
+      "id": "l"
+    },
+    {
+      "shape": "pentagon",
+      "id": "m"
+    },
+    {
+      "shape": "hexagon",
+      "id": "n"
+    },
+    {
+      "shape": "septagon",
+      "id": "o"
+    },
+    {
+      "shape": "octagon",
+      "id": "p"
+    },
+    {
+      "shape": "doublecircle",
+      "id": "q"
+    },
+    {
+      "shape": "doubleoctagon",
+      "id": "r"
+    },
+    {
+      "shape": "tripleoctagon",
+      "id": "s"
+    },
+    {
+      "shape": "invtriangle",
+      "id": "t"
+    },
+    {
+      "shape": "invtrapezium",
+      "id": "u"
+    },
+    {
+      "shape": "invhouse",
+      "id": "v"
+    },
+    {
+      "shape": "Mdiamond",
+      "id": "w"
+    },
+    {
+      "shape": "Msquare",
+      "id": "x"
+    },
+    {
+      "shape": "Mcircle",
+      "id": "y"
+    },
+    {
+      "shape": "rect",
+      "id": "z"
+    },
+    {
+      "shape": "rectangle",
+      "id": "1"
+    },
+    {
+      "shape": "none",
+      "id": "2"
+    },
+    {
+      "shape": "note",
+      "id": "3"
+    },
+    {
+      "shape": "tab",
+      "id": "4"
+    },
+    {
+      "shape": "box3d",
+      "id": "5"
+    },
+    {
+      "shape": "component",
+      "id": "6"
+    },
+    {
+      "shape": "folder",
+      "id": "7"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "a",
+        "b"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "b",
+        "c"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "c",
+        "d"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "d",
+        "e"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "e",
+        "f"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "f",
+        "g"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "h",
+        "i"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "i",
+        "j"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "j",
+        "k"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "k",
+        "l"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "l",
+        "m"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "m",
+        "n"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "o",
+        "p"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "p",
+        "q"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "q",
+        "r"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "r",
+        "s"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "s",
+        "t"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "t",
+        "u"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "v",
+        "w"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "w",
+        "x"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "x",
+        "y"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "y",
+        "z"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "z",
+        "1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1",
+        "2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "3",
+        "4"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4",
+        "5"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "5",
+        "6"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6",
+        "7"
+      ],
+      "directed": true
+    }
+  ]
+}

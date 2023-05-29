@@ -1,0 +1,28 @@
+{
+  "nodes": [
+    {
+      "label": "\"<f0> foo | x | <f1> bar\"",
+      "id": "a"
+    },
+    {
+      "label": "\"a | { <f0> foo | x | <f1> bar } | b\"",
+      "id": "b"
+    },
+    {
+      "id": "a:f0"
+    },
+    {
+      "id": "b:f1"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "a:f0",
+        "b:f1"
+      ],
+      "directed": true
+    }
+  ]
+}

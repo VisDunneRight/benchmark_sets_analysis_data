@@ -1,0 +1,179 @@
+{
+  "nodes": [
+    {
+      "label": "\"22690\\n?\"",
+      "pname": "\"?\"",
+      "kind": "\"proc\"",
+      "id": "22690"
+    },
+    {
+      "label": "\"22692\\ndotty\"",
+      "pname": "\"dotty\"",
+      "kind": "\"proc\"",
+      "id": "22692"
+    },
+    {
+      "label": "\"116842+2595\\n/home/ek/work/sun4/bin/dotty\"",
+      "fname": "\"/home/ek/work/sun4/bin/dotty\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "116842+2595"
+    },
+    {
+      "label": "\"22693\\nlefty\"",
+      "pname": "\"lefty\"",
+      "kind": "\"proc\"",
+      "id": "22693"
+    },
+    {
+      "label": "\"182440-1\\n182441-1\\npipe\"",
+      "fontsize": "\"7\"",
+      "fname": "\"pipe\"",
+      "shape": "\"doublecircle\"",
+      "subkind": "\"pipe\"",
+      "kind": "\"file\"",
+      "id": "182440-1"
+    },
+    {
+      "label": "\"182442-1\\n182443-1\\npipe\"",
+      "fontsize": "\"7\"",
+      "fname": "\"pipe\"",
+      "shape": "\"doublecircle\"",
+      "subkind": "\"pipe\"",
+      "kind": "\"file\"",
+      "id": "182442-1"
+    },
+    {
+      "label": "\"22694\\ndot\"",
+      "pname": "\"dot\"",
+      "kind": "\"proc\"",
+      "id": "22694"
+    },
+    {
+      "label": "\"4761+2595\\n/home/ek/pm2.dot\"",
+      "fname": "\"/home/ek/pm2.dot\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "4761+2595"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "22690",
+        "22692"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"back\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "22692",
+        "116842+2595"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "22692",
+        "22693"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"back\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "22693",
+        "182440-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"forward\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "22693",
+        "182442-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "22693",
+        "22694"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"back\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "22693",
+        "4761+2595"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"forward\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "22694",
+        "182440-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"back\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "22694",
+        "182442-1"
+      ],
+      "directed": true
+    }
+  ]
+}

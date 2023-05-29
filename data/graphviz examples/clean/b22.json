@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {
+      "shape": "plaintext",
+      "label": "\"DC 1\"",
+      "id": "dc1"
+    },
+    {
+      "shape": "plaintext",
+      "label": "\"DC 10\"",
+      "id": "dc10"
+    },
+    {
+      "shape": "plaintext",
+      "label": "\"DC 100\"",
+      "id": "dc100"
+    },
+    {
+      "shape": "plaintext",
+      "label": "\"NOTHING\"",
+      "id": "no_dc"
+    }
+  ],
+  "links": []
+}

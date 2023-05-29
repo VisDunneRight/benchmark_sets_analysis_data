@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "color": "\"/ylgn7/5\"",
+      "id": "ylgn7"
+    },
+    {
+      "color": "\"/X11/thistle\"",
+      "id": "X11"
+    },
+    {
+      "color": "\"/X11/indigo\"",
+      "id": "indigo"
+    },
+    {
+      "color": "\"magenta\"",
+      "id": "magenta"
+    }
+  ],
+  "links": []
+}

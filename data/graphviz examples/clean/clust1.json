@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "x"
+    },
+    {
+      "id": "a0"
+    },
+    {
+      "id": "b0"
+    },
+    {
+      "id": "a1"
+    },
+    {
+      "id": "a3"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "x",
+        "a0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "x",
+        "b0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a1",
+        "a3"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a3",
+        "a0"
+      ],
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Ext_1"
+    },
+    {
+      "id": "Act_1"
+    },
+    {
+      "id": "Act_3"
+    },
+    {
+      "id": "Ext_2"
+    },
+    {
+      "id": "Ext_3"
+    },
+    {
+      "id": "Act_24"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "Ext_1",
+        "Act_1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Act_3",
+        "Ext_2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Ext_3",
+        "Act_24"
+      ],
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "nodes": [
+    {
+      "layer": "\"pvt\"",
+      "id": "node1"
+    },
+    {
+      "layer": "\"all\"",
+      "id": "node2"
+    },
+    {
+      "layer": "\"pvt+ofc\"",
+      "id": "node3"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "node4"
+    }
+  ],
+  "links": [
+    {
+      "layer": "\"pvt+all\"",
+      "key": 0,
+      "nodes": [
+        "node2",
+        "node3"
+      ],
+      "directed": true
+    },
+    {
+      "layer": "3",
+      "key": 0,
+      "nodes": [
+        "node2",
+        "node4"
+      ],
+      "directed": true
+    }
+  ]
+}

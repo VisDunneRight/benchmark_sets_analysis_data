@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "fontname": "Symbol",
+      "label": "\"&alpha;&beta;&gamma;&delta;&epsilon;&zeta;&eta;&theta;&iota;&kappa;&lambda;&mu;&nu;&xi;&omicron;&pi;&rho;&sigmaf;&sigma;&tau;&upsilon;&phi;&chi;&psi;&omega;&upsih;&piv;\"",
+      "id": "greek"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "i"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "greek",
+        "a"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "greek",
+        "i"
+      ],
+      "directed": true
+    }
+  ]
+}

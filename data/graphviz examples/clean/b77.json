@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "1"
+    },
+    {
+      "id": "6"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "4"
+    },
+    {
+      "id": "5"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "1",
+        "6"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6",
+        "3"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6",
+        "5"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "2",
+        "3"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "4",
+        "5"
+      ],
+      "directed": false
+    }
+  ]
+}

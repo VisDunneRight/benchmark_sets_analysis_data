@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "label": "\"\"",
+      "shapefile": "\"graphs/jcr.gif\"",
+      "id": "n"
+    },
+    {
+      "width": "3",
+      "height": "3",
+      "label": "\"\"",
+      "shapefile": "\"graphs/jcr.gif\"",
+      "id": "x"
+    },
+    {
+      "id": "m"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "n",
+        "x"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "m",
+        "n"
+      ],
+      "directed": true
+    }
+  ]
+}

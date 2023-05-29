@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "style": "filled",
+      "shape": "DFDbox",
+      "id": "a"
+    },
+    {
+      "id": "b"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "a",
+        "b"
+      ],
+      "directed": true
+    }
+  ]
+}

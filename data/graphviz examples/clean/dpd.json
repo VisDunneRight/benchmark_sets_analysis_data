@@ -1,0 +1,981 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Marden"
+    },
+    {
+      "id": "ldt"
+    },
+    {
+      "id": "kg"
+    },
+    {
+      "id": "hg"
+    },
+    {
+      "id": "Cannon"
+    },
+    {
+      "id": "ggt"
+    },
+    {
+      "id": "Epstein"
+    },
+    {
+      "id": "Conway"
+    },
+    {
+      "id": "kt"
+    },
+    {
+      "id": "lat"
+    },
+    {
+      "id": "vd"
+    },
+    {
+      "id": "Taylor"
+    },
+    {
+      "id": "crys"
+    },
+    {
+      "id": "gcv"
+    },
+    {
+      "id": "fd"
+    },
+    {
+      "id": "Almgren"
+    },
+    {
+      "id": "Freedman"
+    },
+    {
+      "id": "ds"
+    },
+    {
+      "id": "Milnor"
+    },
+    {
+      "id": "cd"
+    },
+    {
+      "id": "Douady"
+    },
+    {
+      "id": "Hubard"
+    },
+    {
+      "id": "fg"
+    },
+    {
+      "id": "Mandelbrot"
+    },
+    {
+      "id": "Wilks"
+    },
+    {
+      "id": "sg"
+    },
+    {
+      "id": "gv"
+    },
+    {
+      "id": "cg"
+    },
+    {
+      "id": "Dobkin"
+    },
+    {
+      "id": "Chazelle"
+    },
+    {
+      "id": "Peskin"
+    },
+    {
+      "id": "Tarjan"
+    },
+    {
+      "id": "Mumford"
+    },
+    {
+      "id": "cv"
+    },
+    {
+      "id": "Thurston"
+    },
+    {
+      "id": "dv"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "Marden",
+        "ldt"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Marden",
+        "kg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Marden",
+        "hg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "Cannon"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "Epstein"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "Freedman"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "Milnor"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "Thurston"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "ds"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "ggt"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "hg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "kt"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "cd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "Cannon"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "Epstein"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "Douady"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "Hubard"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "Mandelbrot"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "Mumford"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "Thurston"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "kt"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "cd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "fg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "hg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "vd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "hg",
+        "Epstein"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "hg",
+        "Conway"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "hg",
+        "Milnor"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "hg",
+        "Tarjan"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "hg",
+        "kt"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "hg",
+        "ggt"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "hg",
+        "lat"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "hg",
+        "vd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "hg",
+        "cg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Cannon",
+        "ggt"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ggt",
+        "Epstein"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ggt",
+        "Conway"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ggt",
+        "Thurston"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ggt",
+        "ds"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ggt",
+        "lat"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Conway",
+        "kt"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Conway",
+        "lat"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Conway",
+        "vd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kt",
+        "Milnor"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kt",
+        "Thurston"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "lat",
+        "crys"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "lat",
+        "vd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "vd",
+        "Taylor"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "vd",
+        "Almgren"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "vd",
+        "Dobkin"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "vd",
+        "Chazelle"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "vd",
+        "Thurston"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "vd",
+        "crys"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "vd",
+        "gcv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "vd",
+        "cv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "vd",
+        "cv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Taylor",
+        "crys"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Taylor",
+        "gcv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Taylor",
+        "fd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "crys",
+        "Almgren"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "crys",
+        "Mumford"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "crys",
+        "fd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "crys",
+        "gcv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gcv",
+        "Almgren"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gcv",
+        "Freedman"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gcv",
+        "Peskin"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gcv",
+        "Mumford"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gcv",
+        "cv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gcv",
+        "fd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gcv",
+        "cg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "fd",
+        "Almgren"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "fd",
+        "Peskin"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "fd",
+        "cg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Freedman",
+        "ds"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ds",
+        "Milnor"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ds",
+        "Douady"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ds",
+        "Hubard"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ds",
+        "cd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ds",
+        "fg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ds",
+        "sg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Milnor",
+        "cd"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cd",
+        "Douady"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cd",
+        "Hubard"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cd",
+        "Mandelbrot"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cd",
+        "Wilks"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cd",
+        "Thurston"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cd",
+        "fg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Hubard",
+        "fg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "fg",
+        "Mandelbrot"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "fg",
+        "sg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Wilks",
+        "sg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Wilks",
+        "gv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Wilks",
+        "cg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "sg",
+        "dv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "sg",
+        "gv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "sg",
+        "cv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gv",
+        "Dobkin"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gv",
+        "Chazelle"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gv",
+        "Peskin"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gv",
+        "Thurston"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "gv",
+        "cv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cg",
+        "Dobkin"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cg",
+        "Chazelle"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cg",
+        "Tarjan"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cg",
+        "Mumford"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cg",
+        "Thurston"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "cg",
+        "cv"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Mumford",
+        "cv"
+      ],
+      "directed": false
+    }
+  ]
+}

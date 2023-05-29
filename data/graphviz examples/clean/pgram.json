@@ -1,0 +1,795 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Parallelogram"
+    },
+    {
+      "id": "A"
+    },
+    {
+      "id": "B"
+    },
+    {
+      "id": "C"
+    },
+    {
+      "id": "D"
+    },
+    {
+      "id": "E"
+    },
+    {
+      "id": "F"
+    },
+    {
+      "id": "G"
+    },
+    {
+      "id": "H"
+    },
+    {
+      "id": "I"
+    },
+    {
+      "id": "J"
+    },
+    {
+      "id": "K"
+    },
+    {
+      "id": "L"
+    },
+    {
+      "id": "M"
+    },
+    {
+      "id": "N"
+    },
+    {
+      "id": "O"
+    },
+    {
+      "id": "P"
+    },
+    {
+      "id": "Q"
+    },
+    {
+      "id": "R"
+    },
+    {
+      "id": "S"
+    },
+    {
+      "id": "T"
+    },
+    {
+      "id": "U"
+    },
+    {
+      "id": "V"
+    },
+    {
+      "id": "W"
+    },
+    {
+      "id": "X"
+    },
+    {
+      "id": "Y"
+    },
+    {
+      "id": "Z"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "Octagon"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "e"
+    },
+    {
+      "id": "f"
+    },
+    {
+      "id": "g"
+    },
+    {
+      "id": "h"
+    },
+    {
+      "id": "i"
+    },
+    {
+      "id": "j"
+    },
+    {
+      "id": "k"
+    },
+    {
+      "id": "l"
+    },
+    {
+      "id": "m"
+    },
+    {
+      "id": "n"
+    },
+    {
+      "id": "o"
+    },
+    {
+      "id": "p"
+    },
+    {
+      "id": "q"
+    },
+    {
+      "id": "r"
+    },
+    {
+      "id": "s"
+    },
+    {
+      "id": "t"
+    },
+    {
+      "id": "u"
+    },
+    {
+      "id": "v"
+    },
+    {
+      "id": "w"
+    },
+    {
+      "id": "x"
+    },
+    {
+      "id": "y"
+    },
+    {
+      "id": "z"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "A"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "B"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "C"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "D"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "E"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "F"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "G"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "H"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "I"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "J"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "K"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "L"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "M"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "N"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "O"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "P"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "Q"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "R"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "S"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "T"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "U"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "V"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "W"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "X"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "Y"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "Z"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 1,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 2,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 3,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 4,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 5,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 6,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 7,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 8,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 9,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 10,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 11,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 12,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 13,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 14,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 15,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 16,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 17,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 18,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 19,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 20,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 21,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 22,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 23,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 24,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 25,
+      "nodes": [
+        "Parallelogram",
+        "Octagon"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "b",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "c",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "d",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "e",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "f",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "g",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "h",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "i",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "j",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "k",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "l",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "m",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "n",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "o",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "p",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "q",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "r",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "s",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "t",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "u",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "v",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "w",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "x",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "y",
+        "Parallelogram"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "z",
+        "Parallelogram"
+      ],
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "nodes": [
+    {
+      "fontname": "\"AvantGarde-Book\"",
+      "id": "AvantGarde-Book"
+    },
+    {
+      "fontname": "\"AvantGarde-Demi\"",
+      "id": "AvantGarde-Demi"
+    },
+    {
+      "fontname": "\"AvantGarde-BookOblique\"",
+      "id": "AvantGarde-BookOblique"
+    },
+    {
+      "fontname": "\"AvantGarde-DemiOblique\"",
+      "id": "AvantGarde-DemiOblique"
+    },
+    {
+      "fontname": "\"Bookman-Light\"",
+      "id": "Bookman-Light"
+    },
+    {
+      "fontname": "\"Bookman-Demi\"",
+      "id": "Bookman-Demi"
+    },
+    {
+      "fontname": "\"Bookman-LightItalic\"",
+      "id": "Bookman-LightItalic"
+    },
+    {
+      "fontname": "\"Bookman-DemiItalic\"",
+      "id": "Bookman-DemiItalic"
+    },
+    {
+      "fontname": "\"Courier\"",
+      "id": "Courier"
+    },
+    {
+      "fontname": "\"Courier-Bold\"",
+      "id": "Courier-Bold"
+    },
+    {
+      "fontname": "\"Courier-Oblique\"",
+      "id": "Courier-Oblique"
+    },
+    {
+      "fontname": "\"Courier-BoldOblique\"",
+      "id": "Courier-BoldOblique"
+    },
+    {
+      "fontname": "\"Helvetica\"",
+      "id": "Helvetica"
+    },
+    {
+      "fontname": "\"Helvetica-Bold\"",
+      "id": "Helvetica-Bold"
+    },
+    {
+      "fontname": "\"Helvetica-Oblique\"",
+      "id": "Helvetica-Oblique"
+    },
+    {
+      "fontname": "\"Helvetica-BoldOblique\"",
+      "id": "Helvetica-BoldOblique"
+    },
+    {
+      "fontname": "\"Helvetica-Narrow\"",
+      "id": "Helvetica-Narrow"
+    },
+    {
+      "fontname": "\"Helvetica-Narrow-Bold\"",
+      "id": "Helvetica-Narrow-Bold"
+    },
+    {
+      "fontname": "\"Helvetica-Narrow-Oblique\"",
+      "id": "Helvetica-Narrow-Oblique"
+    },
+    {
+      "fontname": "\"Helvetica-Narrow-BoldOblique\"",
+      "id": "Helvetica-Narrow-BoldOblique"
+    },
+    {
+      "fontname": "\"NewCenturySchlbk-Roman\"",
+      "id": "NewCenturySchlbk-Roman"
+    },
+    {
+      "fontname": "\"NewCenturySchlbk-Bold\"",
+      "id": "NewCenturySchlbk-Bold"
+    },
+    {
+      "fontname": "\"NewCenturySchlbk-Italic\"",
+      "id": "NewCenturySchlbk-Italic"
+    },
+    {
+      "fontname": "\"NewCenturySchlbk-BoldItalic\"",
+      "id": "NewCenturySchlbk-BoldItalic"
+    },
+    {
+      "fontname": "\"Palatino-Roman\"",
+      "id": "Palatino-Roman"
+    },
+    {
+      "fontname": "\"Palatino-Bold\"",
+      "id": "Palatino-Bold"
+    },
+    {
+      "fontname": "\"Palatino-Italic\"",
+      "id": "Palatino-Italic"
+    },
+    {
+      "fontname": "\"Palatino-BoldItalic\"",
+      "id": "Palatino-BoldItalic"
+    },
+    {
+      "fontname": "\"Times-Roman\"",
+      "id": "Times-Roman"
+    },
+    {
+      "fontname": "\"Times-Bold\"",
+      "id": "Times-Bold"
+    },
+    {
+      "fontname": "\"Times-Italic\"",
+      "id": "Times-Italic"
+    },
+    {
+      "fontname": "\"Times-BoldItalic\"",
+      "id": "Times-BoldItalic"
+    },
+    {
+      "fontname": "\"ZapfChancery-MediumItalic\"",
+      "id": "ZapfChancery-MediumItalic"
+    },
+    {
+      "fontname": "\"ZapfDingbats\"",
+      "id": "ZapfDingbats"
+    },
+    {
+      "fontname": "\"Symbol\"",
+      "id": "Symbol"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "AvantGarde-Book",
+        "AvantGarde-Demi"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "AvantGarde-Demi",
+        "AvantGarde-BookOblique"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "AvantGarde-BookOblique",
+        "AvantGarde-DemiOblique"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Bookman-Light",
+        "Bookman-Demi"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Bookman-Demi",
+        "Bookman-LightItalic"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Bookman-LightItalic",
+        "Bookman-DemiItalic"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Courier",
+        "Courier-Bold"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Courier-Bold",
+        "Courier-Oblique"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Courier-Oblique",
+        "Courier-BoldOblique"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Helvetica",
+        "Helvetica-Bold"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Helvetica-Bold",
+        "Helvetica-Oblique"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Helvetica-Oblique",
+        "Helvetica-BoldOblique"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Helvetica-Narrow",
+        "Helvetica-Narrow-Bold"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Helvetica-Narrow-Bold",
+        "Helvetica-Narrow-Oblique"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Helvetica-Narrow-Oblique",
+        "Helvetica-Narrow-BoldOblique"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "NewCenturySchlbk-Roman",
+        "NewCenturySchlbk-Bold"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "NewCenturySchlbk-Bold",
+        "NewCenturySchlbk-Italic"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "NewCenturySchlbk-Italic",
+        "NewCenturySchlbk-BoldItalic"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Palatino-Roman",
+        "Palatino-Bold"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Palatino-Bold",
+        "Palatino-Italic"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Palatino-Italic",
+        "Palatino-BoldItalic"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Times-Roman",
+        "Times-Bold"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Times-Bold",
+        "Times-Italic"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Times-Italic",
+        "Times-BoldItalic"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ZapfDingbats",
+        "ZapfChancery-MediumItalic"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Symbol",
+        "ZapfDingbats"
+      ],
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "nodes": [
+    {
+      "shape": "box",
+      "fontcolor": "forestgreen",
+      "id": "task15"
+    },
+    {
+      "shape": "box",
+      "id": "task16"
+    },
+    {
+      "shape": "box",
+      "id": "task17"
+    },
+    {
+      "shape": "box",
+      "id": "task18"
+    },
+    {
+      "shape": "box",
+      "id": "task19"
+    },
+    {
+      "shape": "box",
+      "id": "task20"
+    },
+    {
+      "shape": "box",
+      "id": "task21"
+    },
+    {
+      "shape": "box",
+      "id": "task95"
+    },
+    {
+      "shape": "box",
+      "id": "task31"
+    },
+    {
+      "shape": "box",
+      "id": "task32"
+    },
+    {
+      "shape": "box",
+      "id": "task33"
+    },
+    {
+      "shape": "box",
+      "id": "task34"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "task15",
+        "task16"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "task15",
+        "task17"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "task15",
+        "task18"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "task15",
+        "task19"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "task15",
+        "task20"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "task15",
+        "task21"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "task15",
+        "task95"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "task15",
+        "task31"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "task31",
+        "task32"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "task31",
+        "task33"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "task31",
+        "task34"
+      ],
+      "directed": true
+    }
+  ]
+}

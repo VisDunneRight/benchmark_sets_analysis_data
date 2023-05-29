@@ -1,0 +1,49 @@
+{
+  "nodes": [
+    {
+      "label": "<\n<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n  <TR><TD>left</TD><TD PORT=\"f1\">mid dle</TD><TD PORT=\"f2\">right</TD></TR>\n</TABLE>>",
+      "id": "struct1"
+    },
+    {
+      "label": "<\n<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n  <TR><TD PORT=\"f0\">one</TD><TD>two</TD></TR>\n</TABLE>>",
+      "id": "struct2"
+    },
+    {
+      "label": "<\n<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\" CELLPADDING=\"4\">\n  <TR> \n    <TD ROWSPAN=\"3\">hello<BR/>world</TD>\n    <TD COLSPAN=\"3\">b</TD>\n    <TD ROWSPAN=\"3\">g</TD>\n    <TD ROWSPAN=\"3\">h</TD>\n  </TR>\n  <TR>\n    <TD>c</TD><TD PORT=\"here\">d</TD><TD>e</TD>\n  </TR>\n  <TR>\n    <TD COLSPAN=\"3\">f</TD>\n  </TR>\n</TABLE>>",
+      "id": "struct3"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "struct1:f1"
+    },
+    {
+      "id": "struct2:f0"
+    },
+    {
+      "id": "struct1:f2"
+    },
+    {
+      "id": "struct3:here"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "struct1:f1",
+        "struct2:f0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "struct1:f2",
+        "struct3:here"
+      ],
+      "directed": true
+    }
+  ]
+}

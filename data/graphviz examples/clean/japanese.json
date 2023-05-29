@@ -1,0 +1,102 @@
+{
+  "nodes": [
+    {
+      "label": "\"\u4e0b\u99c4\u914d\u5217\"",
+      "id": "getas"
+    },
+    {
+      "label": "\"\u65b0\u4e0b\u99c4\u914d\u5217\"",
+      "id": "new_getas"
+    },
+    {
+      "label": "\"\u65e5\u548c\u4e0b\u99c4\u914d\u5217\"",
+      "id": "getas_in_fine_weather"
+    },
+    {
+      "label": "\"\u9ed2\u5857\u308a\u4e0b\u99c4\u914d\u5217\"",
+      "id": "black_lacquered_getas"
+    },
+    {
+      "label": "\"\u9ed2\u5857\u308a\u6850\u4e0b\u99c4\u914d\u5217\"",
+      "id": "black_lacquered_getas_made_of_paulownia"
+    },
+    {
+      "label": "\"\u5857\u308a\u4e0b\u99c4\u914d\u5217\"",
+      "id": "lacquered_getas"
+    },
+    {
+      "label": "\"\u65b0JIS\u4e0b\u99c4\u914d\u5217\"",
+      "id": "new_JIS_getas"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "getas",
+        "getas_in_fine_weather"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "getas",
+        "lacquered_getas"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "getas",
+        "new_JIS_getas"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "getas",
+        "new_getas"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "black_lacquered_getas",
+        "black_lacquered_getas_made_of_paulownia"
+      ],
+      "directed": true
+    },
+    {
+      "style": "dotted",
+      "key": 0,
+      "nodes": [
+        "black_lacquered_getas",
+        "getas_in_fine_weather"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "black_lacquered_getas_made_of_paulownia",
+        "black_lacquered_getas"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "lacquered_getas",
+        "black_lacquered_getas"
+      ],
+      "directed": true
+    }
+  ]
+}

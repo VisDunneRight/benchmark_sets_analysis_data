@@ -1,0 +1,88 @@
+{
+  "nodes": [
+    {
+      "shape": "Mdiamond",
+      "id": "start"
+    },
+    {
+      "shape": "Msquare",
+      "id": "end"
+    },
+    {
+      "id": "a0"
+    },
+    {
+      "id": "b0"
+    },
+    {
+      "id": "a1"
+    },
+    {
+      "id": "b3"
+    },
+    {
+      "id": "b2"
+    },
+    {
+      "id": "a3"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "start",
+        "a0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "start",
+        "b0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a1",
+        "b3"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "b3",
+        "end"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "b2",
+        "a3"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a3",
+        "a0"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a3",
+        "end"
+      ],
+      "directed": true
+    }
+  ]
+}

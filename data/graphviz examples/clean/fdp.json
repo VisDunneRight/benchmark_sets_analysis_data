@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "e"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "D"
+    },
+    {
+      "id": "clusterB"
+    },
+    {
+      "id": "clusterC"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "e",
+        "clusterB"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "d",
+        "D"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "clusterB",
+        "clusterC"
+      ],
+      "directed": false
+    }
+  ]
+}

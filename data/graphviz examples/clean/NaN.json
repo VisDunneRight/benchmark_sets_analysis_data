@@ -1,0 +1,1205 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "AbstractMemory"
+    },
+    {
+      "id": "Memory"
+    },
+    {
+      "id": "AliasedMemory"
+    },
+    {
+      "id": "Architecture"
+    },
+    {
+      "id": "ROOT"
+    },
+    {
+      "id": "Assembly"
+    },
+    {
+      "id": "AtomProperties"
+    },
+    {
+      "id": "NRAtom"
+    },
+    {
+      "id": "AtomWr"
+    },
+    {
+      "id": "Wr"
+    },
+    {
+      "id": "Break"
+    },
+    {
+      "id": "Target"
+    },
+    {
+      "id": "Breakpoint"
+    },
+    {
+      "id": "Event"
+    },
+    {
+      "id": "CDB"
+    },
+    {
+      "id": "Thread"
+    },
+    {
+      "id": "CommonFrame"
+    },
+    {
+      "id": "ControlOps"
+    },
+    {
+      "id": "InterpF"
+    },
+    {
+      "id": "Displayed"
+    },
+    {
+      "id": "InterpTypes"
+    },
+    {
+      "id": "ETimer"
+    },
+    {
+      "id": "RTHeapRep"
+    },
+    {
+      "id": "EventHandler"
+    },
+    {
+      "id": "StandardEvents"
+    },
+    {
+      "id": "Expression"
+    },
+    {
+      "id": "ExpressionServer"
+    },
+    {
+      "id": "FollowBreakpoint"
+    },
+    {
+      "id": "Formatter"
+    },
+    {
+      "id": "Frame"
+    },
+    {
+      "id": "FrameClass"
+    },
+    {
+      "id": "IntIntTbl"
+    },
+    {
+      "id": "Interp"
+    },
+    {
+      "id": "InterpScan"
+    },
+    {
+      "id": "TokenStream"
+    },
+    {
+      "id": "List"
+    },
+    {
+      "id": "LoadState"
+    },
+    {
+      "id": "LoadStateRep"
+    },
+    {
+      "id": "LocationRep"
+    },
+    {
+      "id": "MC68Frame"
+    },
+    {
+      "id": "MC68GCommonFrame"
+    },
+    {
+      "id": "MUTEX"
+    },
+    {
+      "id": "MipsFrame"
+    },
+    {
+      "id": "MipsGCommonFrame"
+    },
+    {
+      "id": "NopBreakpoint"
+    },
+    {
+      "id": "PSFormatter"
+    },
+    {
+      "id": "PSInterp"
+    },
+    {
+      "id": "PSLoadState"
+    },
+    {
+      "id": "PSMemory"
+    },
+    {
+      "id": "ProtectedWire"
+    },
+    {
+      "id": "Wire"
+    },
+    {
+      "id": "RTHeap"
+    },
+    {
+      "id": "Rd"
+    },
+    {
+      "id": "RdClass"
+    },
+    {
+      "id": "RegisterMemory"
+    },
+    {
+      "id": "Scope"
+    },
+    {
+      "id": "SourceLoc"
+    },
+    {
+      "id": "SourceMap"
+    },
+    {
+      "id": "SparcFrame"
+    },
+    {
+      "id": "SparcGCommonFrame"
+    },
+    {
+      "id": "StreamWire"
+    },
+    {
+      "id": "Symbol"
+    },
+    {
+      "id": "TThread"
+    },
+    {
+      "id": "TargetF"
+    },
+    {
+      "id": "TargetState"
+    },
+    {
+      "id": "TextRd"
+    },
+    {
+      "id": "TextWr"
+    },
+    {
+      "id": "Trap"
+    },
+    {
+      "id": "TrapMemory"
+    },
+    {
+      "id": "UFileRd"
+    },
+    {
+      "id": "UFileWr"
+    },
+    {
+      "id": "UnixHandler"
+    },
+    {
+      "id": "UserBreak"
+    },
+    {
+      "id": "VaxFrame"
+    },
+    {
+      "id": "VaxGCommonFrame"
+    },
+    {
+      "id": "WrClass"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "AbstractMemory",
+        "Memory"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Memory",
+        "Displayed"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Memory",
+        "InterpTypes"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "AliasedMemory",
+        "AliasedMemory"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "AliasedMemory",
+        "Memory"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Architecture",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Assembly",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "AtomProperties",
+        "NRAtom"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "NRAtom",
+        "AtomProperties"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "NRAtom",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "AtomWr",
+        "Wr"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Wr",
+        "WrClass"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Break",
+        "Break"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Break",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Target",
+        "Displayed"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Target",
+        "Event"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Target",
+        "FrameClass"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Target",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Target",
+        "TThread"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Target",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Target",
+        "TargetF"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Target",
+        "Thread"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Breakpoint",
+        "Breakpoint"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Breakpoint",
+        "Event"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Breakpoint",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Event",
+        "Event"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Event",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Event",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "CDB",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "CDB",
+        "Thread"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Thread",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Thread",
+        "Thread"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "CommonFrame",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ControlOps",
+        "InterpF"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "InterpF",
+        "Interp"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "InterpF",
+        "InterpF"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "InterpF",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Displayed",
+        "Displayed"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Displayed",
+        "InterpTypes"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "InterpTypes",
+        "InterpTypes"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "InterpTypes",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ETimer",
+        "RTHeapRep"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RTHeapRep",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "EventHandler",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "EventHandler",
+        "StandardEvents"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "StandardEvents",
+        "StandardEvents"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "StandardEvents",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Expression",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ExpressionServer",
+        "Expression"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FollowBreakpoint",
+        "Breakpoint"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Formatter",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Formatter",
+        "Thread"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Frame",
+        "Frame"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Frame",
+        "Memory"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Frame",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "FrameClass",
+        "Frame"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "IntIntTbl",
+        "IntIntTbl"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "IntIntTbl",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Interp",
+        "InterpF"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Interp",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "InterpScan",
+        "TokenStream"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TokenStream",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TokenStream",
+        "TokenStream"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "List",
+        "Thread"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LoadState",
+        "LoadState"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LoadState",
+        "LoadStateRep"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LoadState",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LoadStateRep",
+        "LoadState"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "LocationRep",
+        "Memory"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MC68Frame",
+        "CommonFrame"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MC68GCommonFrame",
+        "EventHandler"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MUTEX",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MipsFrame",
+        "CommonFrame"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MipsFrame",
+        "InterpTypes"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "MipsGCommonFrame",
+        "EventHandler"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "NopBreakpoint",
+        "Breakpoint"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "PSFormatter",
+        "InterpTypes"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "PSInterp",
+        "InterpTypes"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "PSLoadState",
+        "InterpTypes"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "PSMemory",
+        "InterpTypes"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ProtectedWire",
+        "ProtectedWire"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ProtectedWire",
+        "Wire"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Wire",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Wire",
+        "TrapMemory"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Wire",
+        "Wire"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RTHeap",
+        "RTHeapRep"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Rd",
+        "RdClass"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RdClass",
+        "MUTEX"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "RegisterMemory",
+        "Memory"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Scope",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Scope",
+        "Scope"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Scope",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "SourceLoc",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "SourceMap",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "SparcFrame",
+        "CommonFrame"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "SparcGCommonFrame",
+        "EventHandler"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "StreamWire",
+        "Wire"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Symbol",
+        "Displayed"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Symbol",
+        "Symbol"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TThread",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TThread",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TargetF",
+        "Target"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TargetState",
+        "Assembly"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TextRd",
+        "Rd"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TextWr",
+        "Wr"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Trap",
+        "ROOT"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TrapMemory",
+        "Memory"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UFileRd",
+        "Rd"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UFileRd",
+        "UFileRd"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UFileWr",
+        "UFileWr"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UFileWr",
+        "Wr"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UnixHandler",
+        "Event"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UnixHandler",
+        "UnixHandler"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UserBreak",
+        "Break"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UserBreak",
+        "Breakpoint"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UserBreak",
+        "Event"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UserBreak",
+        "Trap"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "UserBreak",
+        "UserBreak"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "VaxFrame",
+        "CommonFrame"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "VaxGCommonFrame",
+        "EventHandler"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "WrClass",
+        "MUTEX"
+      ],
+      "directed": true
+    }
+  ]
+}

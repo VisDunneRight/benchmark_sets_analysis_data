@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    {
+      "label": "\"All items\"",
+      "xlabel": "\"100\"",
+      "id": "all"
+    },
+    {
+      "label": "\"Part 1\"",
+      "xlabel": "\"75\"",
+      "id": "t1"
+    },
+    {
+      "label": "\"Part 2\"",
+      "xlabel": "\"25\"",
+      "id": "t2"
+    },
+    {
+      "label": "\"pPart 1\"",
+      "xlabel": "\"50\"",
+      "id": "p1"
+    },
+    {
+      "label": "\"pPart 2\"",
+      "xlabel": "\"50\"",
+      "id": "p2"
+    },
+    {
+      "label": "\"pPart 3\"",
+      "xlabel": "\"50\"",
+      "id": "p3"
+    },
+    {
+      "label": "\"pPart 4\"",
+      "xlabel": "\"50\"",
+      "id": "p4"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"75%\"",
+      "key": 0,
+      "nodes": [
+        "all",
+        "t1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "all",
+        "t2"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"20%\"",
+      "key": 0,
+      "nodes": [
+        "t1",
+        "p1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "t1",
+        "p2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "t2",
+        "p3"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "t2",
+        "p4"
+      ],
+      "directed": true
+    }
+  ]
+}

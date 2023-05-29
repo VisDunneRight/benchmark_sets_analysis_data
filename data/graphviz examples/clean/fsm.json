@@ -1,0 +1,162 @@
+{
+  "nodes": [
+    {
+      "id": "LR_0"
+    },
+    {
+      "id": "LR_3"
+    },
+    {
+      "id": "LR_4"
+    },
+    {
+      "id": "LR_8"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "LR_2"
+    },
+    {
+      "id": "LR_1"
+    },
+    {
+      "id": "LR_6"
+    },
+    {
+      "id": "LR_5"
+    },
+    {
+      "id": "LR_7"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"SS(B)\"",
+      "key": 0,
+      "nodes": [
+        "LR_0",
+        "LR_2"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"SS(S)\"",
+      "key": 0,
+      "nodes": [
+        "LR_0",
+        "LR_1"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"S(b)\"",
+      "key": 0,
+      "nodes": [
+        "LR_8",
+        "LR_6"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"S(a)\"",
+      "key": 0,
+      "nodes": [
+        "LR_8",
+        "LR_5"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"SS(b)\"",
+      "key": 0,
+      "nodes": [
+        "LR_2",
+        "LR_6"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"SS(a)\"",
+      "key": 0,
+      "nodes": [
+        "LR_2",
+        "LR_5"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"S(A)\"",
+      "key": 0,
+      "nodes": [
+        "LR_2",
+        "LR_4"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"S($end)\"",
+      "key": 0,
+      "nodes": [
+        "LR_1",
+        "LR_3"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"S(b)\"",
+      "key": 0,
+      "nodes": [
+        "LR_6",
+        "LR_6"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"S(a)\"",
+      "key": 0,
+      "nodes": [
+        "LR_6",
+        "LR_5"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"S(b)\"",
+      "key": 0,
+      "nodes": [
+        "LR_5",
+        "LR_7"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"S(a)\"",
+      "key": 0,
+      "nodes": [
+        "LR_5",
+        "LR_5"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"S(b)\"",
+      "key": 0,
+      "nodes": [
+        "LR_7",
+        "LR_8"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"S(a)\"",
+      "key": 0,
+      "nodes": [
+        "LR_7",
+        "LR_5"
+      ],
+      "directed": true
+    }
+  ]
+}

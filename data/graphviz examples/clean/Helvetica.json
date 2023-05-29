@@ -1,0 +1,134 @@
+{
+  "nodes": [
+    {
+      "fontname": "\"Helvetica\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Helvetica\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "13"
+    },
+    {
+      "fontname": "\"Helvetica-Bold\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Helvetica-Bold\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "14"
+    },
+    {
+      "fontname": "\"Helvetica-BoldOblique\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Helvetica-BoldOblique\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "15"
+    },
+    {
+      "fontname": "\"Helvetica-Narrow\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Helvetica-Narrow\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "16"
+    },
+    {
+      "fontname": "\"Helvetica-Narrow-Bold\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Helvetica-Narrow-Bold\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "17"
+    },
+    {
+      "fontname": "\"Helvetica-Narrow-BoldOblique\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Helvetica-Narrow-BoldOblique\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "18"
+    },
+    {
+      "fontname": "\"Helvetica-Narrow-Oblique\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Helvetica-Narrow-Oblique\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "19"
+    },
+    {
+      "fontname": "\"Helvetica-Oblique\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Helvetica-Oblique\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "20"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "13",
+        "14"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "14",
+        "15"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "15",
+        "16"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "16",
+        "17"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "17",
+        "18"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "18",
+        "19"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "19",
+        "20"
+      ],
+      "directed": true
+    }
+  ]
+}

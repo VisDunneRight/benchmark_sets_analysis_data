@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "node55"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "node66"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"tailport=se headport=se\"",
+      "tailport": "se",
+      "headport": "se",
+      "key": 0,
+      "nodes": [
+        "node55",
+        "node55"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "node55",
+        "node66"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"tailport=s headport=s\"",
+      "tailport": "s",
+      "headport": "s",
+      "key": 0,
+      "nodes": [
+        "node66",
+        "node66"
+      ],
+      "directed": true
+    }
+  ]
+}

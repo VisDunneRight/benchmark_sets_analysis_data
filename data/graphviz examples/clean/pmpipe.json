@@ -1,0 +1,331 @@
+{
+  "nodes": [
+    {
+      "label": "\"23296\\n?\"",
+      "pname": "\"?\"",
+      "kind": "\"proc\"",
+      "id": "23296"
+    },
+    {
+      "label": "\"182948-1\\n182949-1\\npipe\"",
+      "fontsize": "\"7\"",
+      "fname": "\"pipe\"",
+      "shape": "\"doublecircle\"",
+      "subkind": "\"pipe\"",
+      "kind": "\"file\"",
+      "id": "182948-1"
+    },
+    {
+      "label": "\"23310\\ncat\"",
+      "pname": "\"cat\"",
+      "kind": "\"proc\"",
+      "id": "23310"
+    },
+    {
+      "label": "\"182950-1\\n182951-1\\npipe\"",
+      "fontsize": "\"7\"",
+      "fname": "\"pipe\"",
+      "shape": "\"doublecircle\"",
+      "subkind": "\"pipe\"",
+      "kind": "\"file\"",
+      "id": "182950-1"
+    },
+    {
+      "label": "\"23311\\ncat\"",
+      "pname": "\"cat\"",
+      "kind": "\"proc\"",
+      "id": "23311"
+    },
+    {
+      "label": "\"182952-1\\n182953-1\\npipe\"",
+      "fontsize": "\"7\"",
+      "fname": "\"pipe\"",
+      "shape": "\"doublecircle\"",
+      "subkind": "\"pipe\"",
+      "kind": "\"file\"",
+      "id": "182952-1"
+    },
+    {
+      "label": "\"23312\\ncat\"",
+      "pname": "\"cat\"",
+      "kind": "\"proc\"",
+      "id": "23312"
+    },
+    {
+      "label": "\"182954-1\\n182955-1\\npipe\"",
+      "fontsize": "\"7\"",
+      "fname": "\"pipe\"",
+      "shape": "\"doublecircle\"",
+      "subkind": "\"pipe\"",
+      "kind": "\"file\"",
+      "id": "182954-1"
+    },
+    {
+      "label": "\"23313\\ncat\"",
+      "pname": "\"cat\"",
+      "kind": "\"proc\"",
+      "id": "23313"
+    },
+    {
+      "label": "\"79893+2568\\n/usr/share/lib/termcap\"",
+      "fname": "\"/usr/share/lib/termcap\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "79893+2568"
+    },
+    {
+      "label": "\"85+2560\\n?\"",
+      "fname": "\"?\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "85+2560"
+    },
+    {
+      "label": "\"23314\\ncat\"",
+      "pname": "\"cat\"",
+      "kind": "\"proc\"",
+      "id": "23314"
+    },
+    {
+      "label": "\"4151865284+0\\n/tmp/termcap\"",
+      "fname": "\"/tmp/termcap\"",
+      "shape": "\"ellipse\"",
+      "kind": "\"file\"",
+      "id": "4151865284+0"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23296",
+        "23310"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23296",
+        "23311"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23296",
+        "23312"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23296",
+        "23313"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"both\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23296",
+        "85+2560"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"both\"",
+      "color": "\"black\"",
+      "key": 1,
+      "nodes": [
+        "23296",
+        "85+2560"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23296",
+        "23314"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"forward\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23310",
+        "182948-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"back\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23310",
+        "79893+2568"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"back\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23311",
+        "182948-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"forward\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23311",
+        "182950-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"forward\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23312",
+        "182952-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"back\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23312",
+        "182950-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"forward\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23313",
+        "182954-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"back\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23313",
+        "182952-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"both\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23314",
+        "85+2560"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"back\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23314",
+        "182954-1"
+      ],
+      "directed": true
+    },
+    {
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "dir": "\"forward\"",
+      "color": "\"black\"",
+      "key": 0,
+      "nodes": [
+        "23314",
+        "4151865284+0"
+      ],
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Marden"
+    },
+    {
+      "id": "ldt"
+    },
+    {
+      "id": "kg"
+    },
+    {
+      "id": "hg"
+    },
+    {
+      "id": "Cannon"
+    },
+    {
+      "id": "ggt"
+    },
+    {
+      "id": "Epstein"
+    },
+    {
+      "id": "Conway"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "Marden",
+        "ldt"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Marden",
+        "kg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Marden",
+        "hg"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "Cannon"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ldt",
+        "Epstein"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "Cannon"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "kg",
+        "Epstein"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "hg",
+        "Epstein"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Cannon",
+        "ggt"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ggt",
+        "Epstein"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "ggt",
+        "Conway"
+      ],
+      "directed": false
+    }
+  ]
+}

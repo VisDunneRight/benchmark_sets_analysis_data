@@ -1,0 +1,38 @@
+{
+  "nodes": [
+    {
+      "color": "chocolate",
+      "label": "\"BB 2 : hL=0 : rP= 11\\n5> 5: NextStartByte=0 $\\n6: i=0 $\\n\"",
+      "id": "blok_2"
+    },
+    {
+      "color": "chocolate",
+      "label": "\"BB 25 : hL=0 : rP= 11\\n33> 27: return 1 $\\n\"",
+      "id": "blok_25"
+    },
+    {
+      "id": "blok_3"
+    },
+    {
+      "id": "blok_24"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "blok_2",
+        "blok_3"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "blok_24",
+        "blok_25"
+      ],
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "nodes": [
+    {
+      "shape": "record",
+      "label": "\"<left>left |{<up>up | <middle>middle | <down>down } | right\"",
+      "id": "b"
+    },
+    {
+      "shape": "none",
+      "label": "<<TABLE BORDER=\"0\" CELLPADDING=\"0\" CELLSPACING=\"0\" CELLBORDER=\"1\">\n    <TR>\n    <TD PORT=\"htmlleft\">LEFT</TD>\n    <TD>MIDDLE</TD>\n    <TD BORDER=\"0\">\n      <TABLE PORT=\"inner\" BORDER=\"0\" CELLPADDING=\"0\" CELLSPACING=\"0\" CELLBORDER=\"1\">\n        <TR><TD>RIGHTTOP</TD></TR>\n        <TR><TD>RIGHTBOTTOM</TD></TR>\n      </TABLE>\n    </TD>\n    </TR>\n  </TABLE>>",
+      "id": "d"
+    },
+    {
+      "id": "TOP"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "e"
+    },
+    {
+      "id": "f"
+    },
+    {
+      "id": "A:s"
+    },
+    {
+      "id": "a:n"
+    },
+    {
+      "id": "a:w"
+    },
+    {
+      "id": "f:e"
+    },
+    {
+      "id": "f:n"
+    },
+    {
+      "id": "d:htmlleft"
+    },
+    {
+      "id": "a:ne"
+    },
+    {
+      "id": "d:inner:n"
+    },
+    {
+      "id": "a:s"
+    },
+    {
+      "id": "b:down:se"
+    },
+    {
+      "id": "B:e"
+    },
+    {
+      "id": "D"
+    },
+    {
+      "id": "b:left"
+    },
+    {
+      "id": "C"
+    },
+    {
+      "id": "b:middle:e"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "TOP",
+        "a"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TOP",
+        "b"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TOP",
+        "c"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TOP",
+        "d"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TOP",
+        "e"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "TOP",
+        "f"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "A:s",
+        "a:n"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a:w",
+        "f:e"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a:w",
+        "B:e"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "f:n",
+        "d:htmlleft"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a:ne",
+        "d:inner:n"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "a:s",
+        "b:down:se"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "D",
+        "b:left"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "C",
+        "b:middle:e"
+      ],
+      "directed": true
+    }
+  ]
+}

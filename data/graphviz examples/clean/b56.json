@@ -1,0 +1,190 @@
+{
+  "nodes": [
+    {
+      "label": "\"Torwaechter\"",
+      "id": "Torwaechter"
+    },
+    {
+      "label": "\"Torschluessel\"",
+      "id": "Torschluessel"
+    },
+    {
+      "label": "\"Schluesseloel\"",
+      "id": "Schluesseloel"
+    },
+    {
+      "label": "\"Schluesseltraeger\"",
+      "id": "Schluesseltraeger"
+    },
+    {
+      "label": "\"ge\\nPrefix\"",
+      "id": "Prefix"
+    },
+    {
+      "label": "\"legen\\nStamm\"",
+      "id": "Stem"
+    },
+    {
+      "label": "\"heit\\nSuffix\"",
+      "id": "Suffix"
+    },
+    {
+      "shape": "\"record\"",
+      "label": "\"<f0>ge\\nPrefix|<f1>legen\\nStamm|<f2>heit\\nSuffix\"",
+      "style": "\"invis\"",
+      "id": "creation"
+    },
+    {
+      "shape": "\"record\"",
+      "label": "\"<f0>ge\\nPrefix|<f1>Dieb\\nStamm|<f2>heit\\nSuffix\"",
+      "style": "\"invis\"",
+      "id": "creation1"
+    },
+    {
+      "id": "Tor"
+    },
+    {
+      "id": "Schlosstor"
+    },
+    {
+      "id": "Torfenster"
+    },
+    {
+      "id": "Schluesselbund"
+    },
+    {
+      "id": "Torwaechterhaeuschen"
+    },
+    {
+      "id": "Wort"
+    },
+    {
+      "id": "Dieb"
+    },
+    {
+      "id": "creation\":f1"
+    },
+    {
+      "id": "Fragewort"
+    },
+    {
+      "id": "creation1\":f1"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "Torwaechter",
+        "Torwaechterhaeuschen"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Torschluessel",
+        "Schluesselbund"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Torschluessel",
+        "Schluesseltraeger"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Torschluessel",
+        "Schluesseloel"
+      ],
+      "directed": true
+    },
+    {
+      "style": "\"invis\"",
+      "key": 0,
+      "nodes": [
+        "Prefix",
+        "Wort"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Stem",
+        "Wort"
+      ],
+      "directed": true
+    },
+    {
+      "style": "\"invis\"",
+      "key": 0,
+      "nodes": [
+        "Suffix",
+        "Wort"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Tor",
+        "Schlosstor"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Tor",
+        "Torfenster"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Tor",
+        "Torschluessel"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Tor",
+        "Torwaechter"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Dieb",
+        "Wort"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "creation\":f1",
+        "Fragewort"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "creation1\":f1",
+        "Fragewort"
+      ],
+      "directed": true
+    }
+  ]
+}

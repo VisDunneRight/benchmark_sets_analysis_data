@@ -1,0 +1,81 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "tcp"
+    },
+    {
+      "id": "kernel_linux"
+    },
+    {
+      "id": "usmStats"
+    },
+    {
+      "id": "usmStats-5.5"
+    },
+    {
+      "id": "snmpv3mibs"
+    },
+    {
+      "id": "snmpEngine"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"linux\"",
+      "key": 0,
+      "nodes": [
+        "tcp",
+        "kernel_linux"
+      ],
+      "directed": true
+    },
+    {
+      "color": "red",
+      "constraint": "false",
+      "key": 0,
+      "nodes": [
+        "usmStats",
+        "usmStats-5.5"
+      ],
+      "directed": true
+    },
+    {
+      "color": "red",
+      "constraint": "false",
+      "key": 0,
+      "nodes": [
+        "usmStats-5.5",
+        "usmStats"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "snmpv3mibs",
+        "snmpEngine"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "snmpv3mibs",
+        "usmStats-5.5"
+      ],
+      "directed": true
+    },
+    {
+      "style": "dashed",
+      "key": 0,
+      "nodes": [
+        "snmpv3mibs",
+        "usmStats"
+      ],
+      "directed": true
+    }
+  ]
+}

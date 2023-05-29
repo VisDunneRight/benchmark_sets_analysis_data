@@ -1,0 +1,107 @@
+{
+  "nodes": [
+    {
+      "URL": "\"http://www.graphviz.org/doc/info/lang.html\"",
+      "id": "lang"
+    },
+    {
+      "style": "filled",
+      "fillcolor": "lightblue",
+      "URL": "\"http://www.graphviz.org/doc/info/output.html\"",
+      "label": "<<table href=\"http://www.graphviz.org/doc/info/colors.html\"><tr><td BGCOLOR=\"green\">colors</td></tr></table>>",
+      "id": "colors"
+    },
+    {
+      "id": "command"
+    },
+    {
+      "id": "size"
+    },
+    {
+      "id": "word"
+    },
+    {
+      "id": "garf"
+    },
+    {
+      "id": "line"
+    },
+    {
+      "id": "all"
+    }
+  ],
+  "links": [
+    {
+      "URL": "\"http://www.graphviz.org/doc/info/shapes.html\"",
+      "key": 0,
+      "nodes": [
+        "lang",
+        "command"
+      ],
+      "directed": true
+    },
+    {
+      "URL": "\"\\E\"",
+      "edgetooltip": "self",
+      "key": 0,
+      "nodes": [
+        "lang",
+        "colors"
+      ],
+      "directed": true
+    },
+    {
+      "URL": "\"headurl\"",
+      "edgetooltip": "headurl",
+      "headlabel": "size",
+      "headURL": "headsize",
+      "key": 0,
+      "nodes": [
+        "lang",
+        "size"
+      ],
+      "directed": true
+    },
+    {
+      "URL": "\"tailurl\"",
+      "taillabel": "size",
+      "tailURL": "tailsize",
+      "key": 0,
+      "nodes": [
+        "word",
+        "size"
+      ],
+      "directed": true
+    },
+    {
+      "URL": "\"labelurl\"",
+      "label": "garf",
+      "labelURL": "garf",
+      "key": 0,
+      "nodes": [
+        "word",
+        "garf"
+      ],
+      "directed": true
+    },
+    {
+      "URL": "\"labelurl\"",
+      "edgeurl": "\"edgeurl\"",
+      "edgetooltip": "edgetooltip",
+      "label": "garf",
+      "labelURL": "garf",
+      "headURL": "headURL",
+      "headlabel": "headlabel",
+      "headtooltip": "headtooltip",
+      "tailURL": "tailURL",
+      "taillabel": "taillabel",
+      "tailtooltip": "tailtooltip",
+      "key": 0,
+      "nodes": [
+        "line",
+        "all"
+      ],
+      "directed": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {
+      "shape": "record",
+      "id": "Node29"
+    },
+    {
+      "id": "Node27"
+    },
+    {
+      "id": "Node26"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "Node29",
+        "Node27"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "Node29",
+        "Node26"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"v\"",
+      "key": 0,
+      "nodes": [
+        "Node29",
+        "Node29"
+      ],
+      "directed": true
+    }
+  ]
+}

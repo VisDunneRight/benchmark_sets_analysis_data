@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "top"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "y"
+    },
+    {
+      "id": "b"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "top",
+        "a"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "top",
+        "y"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "y",
+        "b"
+      ],
+      "directed": true
+    }
+  ]
+}

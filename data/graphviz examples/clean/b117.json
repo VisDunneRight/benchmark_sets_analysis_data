@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {
+      "style": "filled",
+      "color": "lightgrey",
+      "id": "0"
+    },
+    {
+      "shape": "doublecircle",
+      "id": "2"
+    },
+    {
+      "shape": "plaintext",
+      "id": "Machine: a"
+    },
+    {
+      "id": "1"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"a \"",
+      "key": 0,
+      "nodes": [
+        "0",
+        "2"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"other \"",
+      "key": 0,
+      "nodes": [
+        "0",
+        "1"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"a \"",
+      "key": 0,
+      "nodes": [
+        "2",
+        "2"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"other \"",
+      "key": 0,
+      "nodes": [
+        "2",
+        "1"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"a \"",
+      "key": 0,
+      "nodes": [
+        "1",
+        "2"
+      ],
+      "directed": true
+    },
+    {
+      "label": "\"other \"",
+      "key": 0,
+      "nodes": [
+        "1",
+        "1"
+      ],
+      "directed": true
+    }
+  ]
+}

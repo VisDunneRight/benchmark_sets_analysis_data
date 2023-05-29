@@ -1,0 +1,246 @@
+{
+  "nodes": [
+    {
+      "id": "a"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "e"
+    },
+    {
+      "id": "f"
+    },
+    {
+      "id": "g"
+    },
+    {
+      "id": "h"
+    },
+    {
+      "id": "i"
+    },
+    {
+      "id": "j"
+    },
+    {
+      "id": "k"
+    },
+    {
+      "id": "l"
+    },
+    {
+      "id": "m"
+    },
+    {
+      "id": "n"
+    },
+    {
+      "id": "o"
+    },
+    {
+      "id": "p"
+    },
+    {
+      "id": "q"
+    },
+    {
+      "id": "r"
+    },
+    {
+      "id": "s"
+    },
+    {
+      "id": "t"
+    },
+    {
+      "id": "u"
+    },
+    {
+      "id": "v"
+    },
+    {
+      "id": "w"
+    },
+    {
+      "id": "y"
+    },
+    {
+      "id": "x"
+    },
+    {
+      "id": "z"
+    },
+    {
+      "id": "A"
+    },
+    {
+      "id": "B"
+    },
+    {
+      "id": "C"
+    },
+    {
+      "id": "D"
+    },
+    {
+      "id": "E"
+    },
+    {
+      "id": "F"
+    }
+  ],
+  "links": [
+    {
+      "arrowhead": "\"nonenonenonenone\"",
+      "key": 0,
+      "nodes": [
+        "a",
+        "b"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"teenonenonenone\"",
+      "key": 0,
+      "nodes": [
+        "c",
+        "d"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"noneteenonenone\"",
+      "key": 0,
+      "nodes": [
+        "e",
+        "f"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"teeteenonenone\"",
+      "key": 0,
+      "nodes": [
+        "g",
+        "h"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"nonenoneteenone\"",
+      "key": 0,
+      "nodes": [
+        "i",
+        "j"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"teenoneteenone\"",
+      "key": 0,
+      "nodes": [
+        "k",
+        "l"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"noneteeteenone\"",
+      "key": 0,
+      "nodes": [
+        "m",
+        "n"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"teeteeteenone\"",
+      "key": 0,
+      "nodes": [
+        "o",
+        "p"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"nonenonenoneteenone\"",
+      "key": 0,
+      "nodes": [
+        "q",
+        "r"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"teenonenonetee\"",
+      "key": 0,
+      "nodes": [
+        "s",
+        "t"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"noneteenonetee\"",
+      "key": 0,
+      "nodes": [
+        "u",
+        "v"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"teeteenonetee\"",
+      "key": 0,
+      "nodes": [
+        "w",
+        "y"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"nonenoneteetee\"",
+      "key": 0,
+      "nodes": [
+        "x",
+        "z"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"teenoneteetee\"",
+      "key": 0,
+      "nodes": [
+        "A",
+        "B"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"noneteeteetee\"",
+      "key": 0,
+      "nodes": [
+        "C",
+        "D"
+      ],
+      "directed": true
+    },
+    {
+      "arrowhead": "\"teeteeteetee\"",
+      "key": 0,
+      "nodes": [
+        "E",
+        "F"
+      ],
+      "directed": true
+    }
+  ]
+}

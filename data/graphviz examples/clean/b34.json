@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"seres\"",
+      "id": "0"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"vivos\"",
+      "id": "1"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"animales\"",
+      "id": "2"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"pensantes\"",
+      "id": "3"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"nopensantes\"",
+      "id": "4"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"plantas\"",
+      "id": "5"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"inertes\"",
+      "id": "6"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"monta\\xC3\\xB1as\"",
+      "id": "7"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"lagos\"",
+      "id": "8"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "0",
+        "1"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "0",
+        "6"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1",
+        "2"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "1",
+        "5"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "2",
+        "3"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "2",
+        "4"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6",
+        "7"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6",
+        "8"
+      ],
+      "directed": true
+    }
+  ]
+}

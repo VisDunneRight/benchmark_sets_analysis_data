@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "shape": "\"record\"",
+      "label": "\"<foo>foo\"",
+      "id": "label_foo"
+    },
+    {
+      "id": "label_foo:foo"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "label_foo:foo",
+        "label_foo"
+      ],
+      "directed": true
+    }
+  ]
+}

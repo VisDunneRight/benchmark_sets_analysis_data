@@ -1,0 +1,179 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "0"
+    },
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "4"
+    },
+    {
+      "id": "5"
+    },
+    {
+      "id": "6"
+    },
+    {
+      "id": "7"
+    },
+    {
+      "id": "8"
+    },
+    {
+      "id": "9"
+    }
+  ],
+  "links": [
+    {
+      "color": "\"blue\"",
+      "len": "2.6",
+      "key": 0,
+      "nodes": [
+        "0",
+        "1"
+      ],
+      "directed": false
+    },
+    {
+      "color": "\"blue\"",
+      "len": "2.6",
+      "key": 0,
+      "nodes": [
+        "0",
+        "4"
+      ],
+      "directed": false
+    },
+    {
+      "color": "\"red\"",
+      "weight": "\"5\"",
+      "key": 0,
+      "nodes": [
+        "0",
+        "5"
+      ],
+      "directed": false
+    },
+    {
+      "color": "\"blue\"",
+      "len": "2.6",
+      "key": 0,
+      "nodes": [
+        "1",
+        "2"
+      ],
+      "directed": false
+    },
+    {
+      "color": "\"red\"",
+      "weight": "\"5\"",
+      "key": 0,
+      "nodes": [
+        "1",
+        "6"
+      ],
+      "directed": false
+    },
+    {
+      "color": "\"blue\"",
+      "len": "2.6",
+      "key": 0,
+      "nodes": [
+        "2",
+        "3"
+      ],
+      "directed": false
+    },
+    {
+      "color": "\"red\"",
+      "weight": "\"5\"",
+      "key": 0,
+      "nodes": [
+        "2",
+        "7"
+      ],
+      "directed": false
+    },
+    {
+      "color": "\"blue\"",
+      "len": "2.6",
+      "key": 0,
+      "nodes": [
+        "3",
+        "4"
+      ],
+      "directed": false
+    },
+    {
+      "color": "\"red\"",
+      "weight": "\"5\"",
+      "key": 0,
+      "nodes": [
+        "3",
+        "8"
+      ],
+      "directed": false
+    },
+    {
+      "color": "\"red\"",
+      "weight": "\"5\"",
+      "key": 0,
+      "nodes": [
+        "4",
+        "9"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "5",
+        "7"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "5",
+        "8"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6",
+        "9"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "6",
+        "8"
+      ],
+      "directed": false
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "7",
+        "9"
+      ],
+      "directed": false
+    }
+  ]
+}

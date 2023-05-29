@@ -1,0 +1,45 @@
+{
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "n3"
+    },
+    {
+      "id": "n9"
+    },
+    {
+      "id": "n15"
+    },
+    {
+      "id": "n21"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "nodes": [
+        "n3",
+        "n9"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "n9",
+        "n15"
+      ],
+      "directed": true
+    },
+    {
+      "key": 0,
+      "nodes": [
+        "n15",
+        "n21"
+      ],
+      "directed": true
+    }
+  ]
+}
