@@ -456,6 +456,15 @@ if __name__ == '__main__':
 	# create_complete_bipartite_graphs()
 	# create_knowncr()
 	# read_evolution()
-	read_graphviz()
+	#
+	# Properly indented:
+	# read_graphviz()
+
+	# direct = "../data/chess/clean"
+	# for fle in os.listdir(direct):
+	# 	with open(direct + "/" + fle) as fd1:
+	# 		gr = json.load(fd1)
+	# 	with open(direct + "/" + fle, 'w') as fd1:
+	# 		json.dump(gr, fd1, indent=2)
 
 	exit()
