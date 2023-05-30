@@ -1,0 +1,9 @@
+trade_data.json:
+
+    nodes:
+        id: ISO3166 3-letter country code
+        GDP_1999: Gross Domestic Product in 1999, in $USD, from the World Bank (https://databank.worldbank.org/source/world-development-indicators#)
+        country_name: Country name
+    links:
+        nodes: pairs of countries with reported trade in 1999 (imports/exports)
+        trade_value: bilateral trade value in 1999 (total imports+exports), from World Bank WITS (https://wits.worldbank.org/module/ALL/sub-module/ALL/reporter/ALL/year/ALL/tradeflow/ALL/pagesize/50/page/1)

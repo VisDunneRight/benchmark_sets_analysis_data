@@ -440,6 +440,49 @@ def read_graphviz():
 				json.dump(gr, fd, indent=2)
 
 
+def read_trade():
+	with open("../data/Trade data/7bb3ede5-98b7-466d-a74a-f1a66d9de786_Data.csv") as f:
+		rdr = csv.reader(f)
+		next(rdr)
+		gdp = {}
+		name = {}
+		for ln in rdr:
+			if ln[1] != '':
+				if ln[4] != '..':
+					gdp[ln[1]] = float(ln[4])
+				name[ln[1]] = ln[0]
+	with open("../data/Trade data/Trade_BEH0_1999_Export_2020Jan17.csv") as f:
+		rdr = csv.reader(f)
+		next(rdr)
+		graph = {"nodes": [], "links": []}
+		seen_nodes = set()
+		trade_total = {}
+		for line in rdr:
+			if line[2] in name and line[9] in name:
+				if line[2] not in seen_nodes:
+					if line[2] in gdp:
+						graph["nodes"].append({"id": line[2], "GDP_1999": gdp[line[2]], "country_name": name[line[2]]})
+					else:
+						graph["nodes"].append({"id": line[2], "country_name": name[line[2]]})
+					seen_nodes.add(line[2])
+				if line[9] not in seen_nodes:
+					if line[9] in gdp:
+						graph["nodes"].append({"id": line[9], "GDP_1999": gdp[line[9]], "country_name": name[line[9]]})
+					else:
+						graph["nodes"].append({"id": line[9], "country_name": name[line[9]]})
+					seen_nodes.add(line[9])
+				if (line[2], line[9]) not in trade_total and (line[9], line[2]) not in trade_total:
+					trade_total[(line[2], line[9])] = float(line[5])
+				elif (line[9], line[2]) not in trade_total:
+					trade_total[(line[2], line[9])] += float(line[5])
+				else:
+					trade_total[(line[9], line[2])] = float(line[5])
+		for pair, val in trade_total.items():
+			graph["links"].append({"nodes": [pair[0], pair[1]], "directed": False, "trade_value": val})
+		with open("../data/Trade data/clean/trade_data.json", 'w') as fd:
+			json.dump(graph, fd, indent=2)
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -456,9 +499,8 @@ if __name__ == '__main__':
 	# create_complete_bipartite_graphs()
 	# create_knowncr()
 	# read_evolution()
-	#
-	# Properly indented:
 	# read_graphviz()
+	read_trade()
 
 	# direct = "../data/chess/clean"
 	# for fle in os.listdir(direct):
