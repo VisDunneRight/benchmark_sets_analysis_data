@@ -1,0 +1,316 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "obstacle_name": "High crime rates and insecurity"
+    },
+    {
+      "id": 2,
+      "obstacle_name": "Vandalism"
+    },
+    {
+      "id": 3,
+      "obstacle_name": "Poor quality public schools"
+    },
+    {
+      "id": 4,
+      "obstacle_name": "Traffic congestion"
+    },
+    {
+      "id": 5,
+      "obstacle_name": "Poor quality of other public services"
+    },
+    {
+      "id": 6,
+      "obstacle_name": "Abandoned buildings"
+    },
+    {
+      "id": 7,
+      "obstacle_name": "Poor property maintenance"
+    },
+    {
+      "id": 8,
+      "obstacle_name": "Concentrated poverty"
+    },
+    {
+      "id": 9,
+      "obstacle_name": "Messy neighborhood appearance"
+    },
+    {
+      "id": 10,
+      "obstacle_name": "Non-child-oriented environment"
+    },
+    {
+      "id": 11,
+      "obstacle_name": "White withdrawal"
+    },
+    {
+      "id": 12,
+      "obstacle_name": "Downward income shift\u2014low demand"
+    },
+    {
+      "id": 13,
+      "obstacle_name": "Fragmented land ownership"
+    },
+    {
+      "id": 14,
+      "obstacle_name": "Excess supply of housing"
+    },
+    {
+      "id": 15,
+      "obstacle_name": "Need for subsidized housing"
+    },
+    {
+      "id": 16,
+      "obstacle_name": "Superior suburban competition"
+    },
+    {
+      "id": 17,
+      "obstacle_name": "High land costs"
+    },
+    {
+      "id": 18,
+      "obstacle_name": "High construction costs"
+    },
+    {
+      "id": 19,
+      "obstacle_name": "High property taxes"
+    },
+    {
+      "id": 20,
+      "obstacle_name": "High insurance costs"
+    },
+    {
+      "id": 21,
+      "obstacle_name": "High security costs"
+    },
+    {
+      "id": 22,
+      "obstacle_name": "Government delays"
+    },
+    {
+      "id": 23,
+      "obstacle_name": "High borrowing costs and nonavailability of financing"
+    },
+    {
+      "id": 24,
+      "obstacle_name": "High land assembly costs"
+    },
+    {
+      "id": 25,
+      "obstacle_name": "Excessive uncertainty"
+    }
+  ],
+  "links": [
+    {
+      "nodes": [
+        8,
+        5
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        8,
+        17
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        8,
+        4
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        19
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        2
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        2,
+        3
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        2,
+        7
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        1
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        7
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        9
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        7
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        16
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        25
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        6
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        11
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        22
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        10
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        11
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        6,
+        10
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        6,
+        20
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        17,
+        24
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        17,
+        18
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        24
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        18
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        18
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        10
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        21
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        24,
+        23
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        18,
+        23
+      ],
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        23
+      ],
+      "directed": true
+    }
+  ]
+}

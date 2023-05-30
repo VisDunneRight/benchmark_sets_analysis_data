@@ -1,0 +1,26 @@
+Id,Obstacle,Downtown Area Investment: Residential,Downtown Area Investment: Commercial,Inner-City Poverty Area Investment: Residential,Inner-City Poverty Area Investment: Commercial,Gray Area Investment: Residential,Gray Area Investment: Commercial
+1,High crime rates and insecurity,2,1,2,2,2,1
+2,Vandalism,0,0,2,2,1,1
+3,Poor quality public schools,0,1,2,1,2,1
+4,Traffic congestion,2,1,0,1,0,2
+5,Poor quality of other public services,1,0,1,1,1,1
+6,Abandoned buildings,0,0,2,1,0,0
+7,Poor property maintenance,0,0,2,2,2,1
+8,Concentrated poverty,1,1,2,2,0,2
+9,Messy neighborhood appearance,0,0,1,1,1,1
+10,Non-child-oriented environment,1,0,1,0,0,0
+11,White withdrawal,1,2,2,2,2,2
+12,Downward income shift—low demand,0,1,2,2,2,2
+13,Fragmented land ownership,2,0,2,0,2,0
+14,Excess supply of housing,1,0,1,0,2,0
+15,Need for subsidized housing,1,0,2,0,0,0
+16,Superior suburban competition,1,2,0,0,2,2
+17,High land costs,2,2,1,1,1,1
+18,High construction costs,2,1,1,1,1,1
+19,High property taxes,1,1,1,1,1,1
+20,High insurance costs,0,0,2,2,0,0
+21,High security costs,1,1,2,2,1,1
+22,Government delays,2,1,2,1,0,0
+23,High borrowing costs and nonavailability of financing,0,0,2,2,2,0
+24,High land assembly costs,1,1,0,0,0,0
+25,Excessive uncertainty,2,0,2,2,2,2

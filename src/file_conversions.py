@@ -483,6 +483,22 @@ def read_trade():
 			json.dump(graph, fd, indent=2)
 
 
+def read_investment():
+	graph = {"nodes": [], "links": []}
+	with open("../data/investment interdependence/malone_investment_obstacles.csv") as f:
+		rdr = csv.reader(f)
+		next(rdr)
+		for ln in rdr:
+			graph["nodes"].append({"id": int(ln[0]), "obstacle_name": ln[1]})
+	with open("../data/investment interdependence/columbus_business_district_OSU.csv") as f:
+		rdr = csv.reader(f)
+		next(rdr)
+		for ln in rdr:
+			graph["links"].append({"nodes": [int(ln[0]), int(ln[1])], "directed": True})
+	with open("../data/investment interdependence/clean/investment_obstacles.json", 'w') as f:
+		json.dump(graph, f, indent=2)
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -500,7 +516,8 @@ if __name__ == '__main__':
 	# create_knowncr()
 	# read_evolution()
 	# read_graphviz()
-	read_trade()
+	# read_trade()
+	read_investment()
 
 	# direct = "../data/chess/clean"
 	# for fle in os.listdir(direct):

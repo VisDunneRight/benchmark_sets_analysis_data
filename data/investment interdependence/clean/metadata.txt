@@ -1,0 +1,8 @@
+investment_obstacles.json:
+
+    nodes:
+        id: ID number
+        obstacle_name: Potential obstacles to investment in parts of central cities
+    links:
+        nodes: Pairs of obstacles where a pair (u, v) represents "Obstacle u aggravates or intensifies obstacle v" in Columbus, Ohio's central business district, as determined by a survey of Ohio State University students
+        directed: True
