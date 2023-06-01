@@ -1,3 +1,6 @@
 .idea
 *.DS_Store
 data/dblp/dblp.xml
+data/scotch/clean/fe_144.json
+data/scotch/clean/fe_bcsstk32.json
+data/scotch/clean/fe_bcsstk30.json

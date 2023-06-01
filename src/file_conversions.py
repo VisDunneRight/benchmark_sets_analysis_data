@@ -71,7 +71,7 @@ def read_scotch():
 									link_seen.add(lk)
 									graph["links"].append({"nodes": [lk[0], lk[1]], "value": sep[2 * i + 3], "directed": False})
 			with open(f"../data/scotch/clean/{sname.replace('.src', '.json')}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_rome():
@@ -84,7 +84,7 @@ def read_rome():
 			for e in g.edges:
 				graph["links"].append({"nodes": [e[0].replace('n', ''), e[1].replace('n', '')], "directed": False})
 			with open(f"../data/rome/clean/{gfile.replace('.graphml', '.json')}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_north():
@@ -97,7 +97,7 @@ def read_north():
 			for e in g.edges:
 				graph["links"].append({"nodes": [e[0].replace('n', ''), e[1].replace('n', '')], "directed": True})
 			with open(f"../data/north/clean/{gfile.replace('.graphml', '.json')}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_kegg():
@@ -123,7 +123,7 @@ def read_kegg():
 						subsystem = reaction.find('subsystem').text
 						graph["links"].append({"nodes": [reactant, product], "directed": True if reversible == "false" else False, "reaction_id": id, "reaction_name": name, "reversible": reversible, "subsystem": subsystem})
 			with open(f"../data/KEGG pathways/clean/{kfile.replace('.xml', '.json')}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_webcompute():
@@ -513,8 +513,8 @@ def read_investment():
 
 
 if __name__ == '__main__':
-	read_storyline()
-	# read_scotch()
+	# read_storyline()
+	read_scotch()
 	# read_rome()
 	# read_north()
 	# read_kegg()
