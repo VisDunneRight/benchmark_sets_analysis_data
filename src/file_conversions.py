@@ -483,6 +483,19 @@ def read_trade():
 			json.dump(graph, fd, indent=2)
 
 
+def read_randdag():
+	for gfile in os.listdir("../data/randDAG"):
+		if os.path.splitext(gfile)[1] == ".graphml":
+			g = nx.read_graphml(f"../data/randDAG/{gfile}")
+			graph = {"nodes": [], "links": []}
+			for v in g.nodes:
+				graph["nodes"].append({"id": v.replace('n', '')})
+			for e in g.edges:
+				graph["links"].append({"nodes": [e[0].replace('n', ''), e[1].replace('n', '')], "directed": True})
+			with open(f"../data/randDAG/clean/{gfile.replace('.graphml', '.json')}", 'w') as f:
+				json.dump(graph, f, indent=2)
+
+
 def read_investment():
 	graph = {"nodes": [], "links": []}
 	with open("../data/investment interdependence/malone_investment_obstacles.csv") as f:
@@ -517,7 +530,8 @@ if __name__ == '__main__':
 	# read_evolution()
 	# read_graphviz()
 	# read_trade()
-	read_investment()
+	# read_investment()
+	read_randdag()
 
 	# direct = "../data/chess/clean"
 	# for fle in os.listdir(direct):
