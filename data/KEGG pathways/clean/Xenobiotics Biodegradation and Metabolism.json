@@ -1,1 +1,2961 @@
-{"nodes": [{"id": "(+)-Muconolactone", "formula": "none", "desciption": "none"}, {"id": "(S)-1-Phenylethanol", "formula": "none", "desciption": "none"}, {"id": "(S)-Styrene_oxide", "formula": "none", "desciption": "none"}, {"id": "1,2-Anthracenediol", "formula": "none", "desciption": "none"}, {"id": "1,2-Ethanediol", "formula": "none", "desciption": "none"}, {"id": "1,2-Naphthalenediol", "formula": "none", "desciption": "none"}, {"id": "2,4,5-T", "formula": "none", "desciption": "none"}, {"id": "2-Chloroethanal", "formula": "none", "desciption": "none"}, {"id": "2-Chloroethanol", "formula": "none", "desciption": "none"}, {"id": "2-Fluorobenzoate", "formula": "none", "desciption": "none"}, {"id": "2-Hydroxymuconate", "formula": "none", "desciption": "none"}, {"id": "3,6-Dichlorocatechol", "formula": "none", "desciption": "none"}, {"id": "3-Ethylcatechol", "formula": "none", "desciption": "none"}, {"id": "3-Fluorobenzoate", "formula": "none", "desciption": "none"}, {"id": "3-Hydroxypimelyl-CoA", "formula": "none", "desciption": "none"}, {"id": "3-Methylcatechol", "formula": "none", "desciption": "none"}, {"id": "3-Oxoadipate", "formula": "none", "desciption": "none"}, {"id": "3-Oxoadipyl-CoA", "formula": "none", "desciption": "none"}, {"id": "3-Oxopropanoate", "formula": "none", "desciption": "none"}, {"id": "3-Phenylcatechol", "formula": "none", "desciption": "none"}, {"id": "3-Vinylcatechol", "formula": "none", "desciption": "none"}, {"id": "4-Chlorocatechol", "formula": "none", "desciption": "none"}, {"id": "4-Fluorobenzoate", "formula": "none", "desciption": "none"}, {"id": "4-Fluorocatechol", "formula": "none", "desciption": "none"}, {"id": "4-Hydroxybenzoate", "formula": "none", "desciption": "none"}, {"id": "4-Hydroxybenzoyl-CoA", "formula": "none", "desciption": "none"}, {"id": "4-Methylcatechol", "formula": "none", "desciption": "none"}, {"id": "4-Oxalocrotonate", "formula": "none", "desciption": "none"}, {"id": "4-Tolylcarbinol", "formula": "none", "desciption": "none"}, {"id": "6-Oxohexanoate", "formula": "none", "desciption": "none"}, {"id": "9-Fluorenol", "formula": "none", "desciption": "none"}, {"id": "9-Fluorenone", "formula": "none", "desciption": "none"}, {"id": "Adipate", "formula": "none", "desciption": "none"}, {"id": "Adipyl-CoA", "formula": "none", "desciption": "none"}, {"id": "Allophanate", "formula": "none", "desciption": "none"}, {"id": "Androstenedione", "formula": "none", "desciption": "none"}, {"id": "Anthracene", "formula": "none", "desciption": "none"}, {"id": "Atrazine", "formula": "none", "desciption": "none"}, {"id": "Benzoate", "formula": "none", "desciption": "none"}, {"id": "Benzoyl-CoA", "formula": "none", "desciption": "none"}, {"id": "Benzoylsuccinyl-CoA", "formula": "none", "desciption": "none"}, {"id": "Benzylsuccinate", "formula": "none", "desciption": "none"}, {"id": "Benzylsuccinyl-CoA", "formula": "none", "desciption": "none"}, {"id": "Biphenyl", "formula": "none", "desciption": "none"}, {"id": "Biuret", "formula": "none", "desciption": "none"}, {"id": "C00633", "formula": "none", "desciption": "none"}, {"id": "C00682", "formula": "none", "desciption": "none"}, {"id": "C01163", "formula": "none", "desciption": "none"}, {"id": "C01273", "formula": "none", "desciption": "none"}, {"id": "C01278", "formula": "none", "desciption": "none"}, {"id": "C03164", "formula": "none", "desciption": "none"}, {"id": "C03203", "formula": "none", "desciption": "none"}, {"id": "C03233", "formula": "none", "desciption": "none"}, {"id": "C03434", "formula": "none", "desciption": "none"}, {"id": "C03569", "formula": "none", "desciption": "none"}, {"id": "C03586", "formula": "none", "desciption": "none"}, {"id": "C03589", "formula": "none", "desciption": "none"}, {"id": "C03676", "formula": "none", "desciption": "none"}, {"id": "C04314", "formula": "none", "desciption": "none"}, {"id": "C04468", "formula": "none", "desciption": "none"}, {"id": "C04706", "formula": "none", "desciption": "none"}, {"id": "C04729", "formula": "none", "desciption": "none"}, {"id": "C04783", "formula": "none", "desciption": "none"}, {"id": "C04793", "formula": "none", "desciption": "none"}, {"id": "C06203", "formula": "none", "desciption": "none"}, {"id": "C06204", "formula": "none", "desciption": "none"}, {"id": "C06210", "formula": "none", "desciption": "none"}, {"id": "C06318", "formula": "none", "desciption": "none"}, {"id": "C06321", "formula": "none", "desciption": "none"}, {"id": "C06322", "formula": "none", "desciption": "none"}, {"id": "C06329", "formula": "none", "desciption": "none"}, {"id": "C06589", "formula": "none", "desciption": "none"}, {"id": "C06599", "formula": "none", "desciption": "none"}, {"id": "C06600", "formula": "none", "desciption": "none"}, {"id": "C06609", "formula": "none", "desciption": "none"}, {"id": "C06610", "formula": "none", "desciption": "none"}, {"id": "C06611", "formula": "none", "desciption": "none"}, {"id": "C06612", "formula": "none", "desciption": "none"}, {"id": "C06613", "formula": "none", "desciption": "none"}, {"id": "C06614", "formula": "none", "desciption": "none"}, {"id": "C06615", "formula": "none", "desciption": "none"}, {"id": "C06720", "formula": "none", "desciption": "none"}, {"id": "C06727", "formula": "none", "desciption": "none"}, {"id": "C06729", "formula": "none", "desciption": "none"}, {"id": "C06731", "formula": "none", "desciption": "none"}, {"id": "C06749", "formula": "none", "desciption": "none"}, {"id": "C06760", "formula": "none", "desciption": "none"}, {"id": "C06762", "formula": "none", "desciption": "none"}, {"id": "C06791", "formula": "none", "desciption": "none"}, {"id": "C06792", "formula": "none", "desciption": "none"}, {"id": "C07087", "formula": "none", "desciption": "none"}, {"id": "C07089", "formula": "none", "desciption": "none"}, {"id": "C07093", "formula": "none", "desciption": "none"}, {"id": "C07095", "formula": "none", "desciption": "none"}, {"id": "C07097", "formula": "none", "desciption": "none"}, {"id": "C07099", "formula": "none", "desciption": "none"}, {"id": "C07101", "formula": "none", "desciption": "none"}, {"id": "C07123", "formula": "none", "desciption": "none"}, {"id": "C07213", "formula": "none", "desciption": "none"}, {"id": "C07216", "formula": "none", "desciption": "none"}, {"id": "C07478", "formula": "none", "desciption": "none"}, {"id": "C07479", "formula": "none", "desciption": "none"}, {"id": "C07731", "formula": "none", "desciption": "none"}, {"id": "C07733", "formula": "none", "desciption": "none"}, {"id": "C07734", "formula": "none", "desciption": "none"}, {"id": "C08061", "formula": "none", "desciption": "none"}, {"id": "C08062", "formula": "none", "desciption": "none"}, {"id": "C09819", "formula": "none", "desciption": "none"}, {"id": "C09821", "formula": "none", "desciption": "none"}, {"id": "C10700", "formula": "none", "desciption": "none"}, {"id": "C11354", "formula": "none", "desciption": "none"}, {"id": "C11425", "formula": "none", "desciption": "none"}, {"id": "C11426", "formula": "none", "desciption": "none"}, {"id": "C11427", "formula": "none", "desciption": "none"}, {"id": "C12831", "formula": "none", "desciption": "none"}, {"id": "C12832", "formula": "none", "desciption": "none"}, {"id": "C12833", "formula": "none", "desciption": "none"}, {"id": "C12834", "formula": "none", "desciption": "none"}, {"id": "C12835", "formula": "none", "desciption": "none"}, {"id": "C12836", "formula": "none", "desciption": "none"}, {"id": "C13636", "formula": "none", "desciption": "none"}, {"id": "C14144", "formula": "none", "desciption": "none"}, {"id": "C14145", "formula": "none", "desciption": "none"}, {"id": "C14909", "formula": "none", "desciption": "none"}, {"id": "C16203", "formula": "none", "desciption": "none"}, {"id": "C16262", "formula": "none", "desciption": "none"}, {"id": "C16263", "formula": "none", "desciption": "none"}, {"id": "C16264", "formula": "none", "desciption": "none"}, {"id": "C16348", "formula": "none", "desciption": "none"}, {"id": "C16474", "formula": "none", "desciption": "none"}, {"id": "C16476", "formula": "none", "desciption": "none"}, {"id": "C16479", "formula": "none", "desciption": "none"}, {"id": "C16480", "formula": "none", "desciption": "none"}, {"id": "C16482", "formula": "none", "desciption": "none"}, {"id": "C20144", "formula": "none", "desciption": "none"}, {"id": "C21104", "formula": "none", "desciption": "none"}, {"id": "C21105", "formula": "none", "desciption": "none"}, {"id": "CO2", "formula": "none", "desciption": "none"}, {"id": "Carbazole", "formula": "none", "desciption": "none"}, {"id": "Catechol", "formula": "none", "desciption": "none"}, {"id": "Chloranil", "formula": "none", "desciption": "none"}, {"id": "Chloroacetic_acid", "formula": "none", "desciption": "none"}, {"id": "Cyanuric_acid", "formula": "none", "desciption": "none"}, {"id": "DSHA", "formula": "none", "desciption": "none"}, {"id": "Dibenzo-p-dioxin", "formula": "none", "desciption": "none"}, {"id": "Dibenzofuran", "formula": "none", "desciption": "none"}, {"id": "Dutch_liquid", "formula": "none", "desciption": "none"}, {"id": "E-Phenylitaconyl-CoA", "formula": "none", "desciption": "none"}, {"id": "Ethanal", "formula": "none", "desciption": "none"}, {"id": "Ethene", "formula": "none", "desciption": "none"}, {"id": "Ethylene_oxide", "formula": "none", "desciption": "none"}, {"id": "Ethylenzene", "formula": "none", "desciption": "none"}, {"id": "Fluorene", "formula": "none", "desciption": "none"}, {"id": "Glycolate", "formula": "none", "desciption": "none"}, {"id": "HIP", "formula": "none", "desciption": "none"}, {"id": "HIP-CoA", "formula": "none", "desciption": "none"}, {"id": "Hydroxyatrazine", "formula": "none", "desciption": "none"}, {"id": "Hydroxyquinol", "formula": "none", "desciption": "none"}, {"id": "Maleylacetate", "formula": "none", "desciption": "none"}, {"id": "N-Isopropylammelide", "formula": "none", "desciption": "none"}, {"id": "Naphthalene", "formula": "none", "desciption": "none"}, {"id": "Oxopent-4-enoate", "formula": "none", "desciption": "none"}, {"id": "PCE", "formula": "none", "desciption": "none"}, {"id": "PCP", "formula": "none", "desciption": "none"}, {"id": "Phenanthrene", "formula": "none", "desciption": "none"}, {"id": "Phenylacetate", "formula": "none", "desciption": "none"}, {"id": "Phthalate", "formula": "none", "desciption": "none"}, {"id": "Propanal", "formula": "none", "desciption": "none"}, {"id": "Propionyl-CoA", "formula": "none", "desciption": "none"}, {"id": "Protocatechuate", "formula": "none", "desciption": "none"}, {"id": "Pyruvate", "formula": "none", "desciption": "none"}, {"id": "Salicylaldehyde", "formula": "none", "desciption": "none"}, {"id": "Salicylate", "formula": "none", "desciption": "none"}, {"id": "Secophenol", "formula": "none", "desciption": "none"}, {"id": "Styrene", "formula": "none", "desciption": "none"}, {"id": "TCE", "formula": "none", "desciption": "none"}, {"id": "Terephthalate", "formula": "none", "desciption": "none"}, {"id": "Toluate", "formula": "none", "desciption": "none"}, {"id": "Toluol", "formula": "none", "desciption": "none"}, {"id": "Tosylate", "formula": "none", "desciption": "none"}, {"id": "Trichlorobenzene_A", "formula": "none", "desciption": "none"}, {"id": "alpha-Tolualdehyde", "formula": "none", "desciption": "none"}, {"id": "cis,cis-Muconate", "formula": "none", "desciption": "none"}, {"id": "m-Tolualdehyde", "formula": "none", "desciption": "none"}, {"id": "m-Toluic_Acid", "formula": "none", "desciption": "none"}, {"id": "m-Xylene", "formula": "none", "desciption": "none"}, {"id": "o-Cresol", "formula": "none", "desciption": "none"}, {"id": "o-Tolualdehyde", "formula": "none", "desciption": "none"}, {"id": "o-Toluate", "formula": "none", "desciption": "none"}, {"id": "o-Xylene", "formula": "none", "desciption": "none"}, {"id": "p-Chlorophenol", "formula": "none", "desciption": "none"}, {"id": "p-Cresol", "formula": "none", "desciption": "none"}, {"id": "p-Dichlorobenzene", "formula": "none", "desciption": "none"}, {"id": "p-Tolualdehyde", "formula": "none", "desciption": "none"}, {"id": "p-Xylene", "formula": "none", "desciption": "none"}], "links": [{"nodes": ["Biphenyl", "C06589"], "directed": true, "reaction_id": "R05263", "reaction_name": "rn:R05263 rn:R05264", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06589", "3-Phenylcatechol"], "directed": true, "reaction_id": "R05239", "reaction_name": "rn:R05239", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["3-Phenylcatechol", "C01273"], "directed": true, "reaction_id": "R03462", "reaction_name": "rn:R03462", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C01273", "Oxopent-4-enoate"], "directed": true, "reaction_id": "R02606", "reaction_name": "rn:R02606", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Oxopent-4-enoate", "C03589"], "directed": true, "reaction_id": "R02601", "reaction_name": "rn:R02601", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Pyruvate", "C03589"], "directed": true, "reaction_id": "R00750", "reaction_name": "rn:R00750", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["o-Xylene", "C07213"], "directed": true, "reaction_id": "R05442", "reaction_name": "rn:R05442", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07213", "o-Tolualdehyde"], "directed": true, "reaction_id": "R05348", "reaction_name": "rn:R05348", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["o-Tolualdehyde", "o-Toluate"], "directed": true, "reaction_id": "R05663", "reaction_name": "rn:R05663", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["o-Toluate", "C06731"], "directed": true, "reaction_id": "R05428", "reaction_name": "rn:R05428", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06731", "3-Methylcatechol"], "directed": true, "reaction_id": "R05314", "reaction_name": "rn:R05314", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["m-Xylene", "C07216"], "directed": true, "reaction_id": "R05443", "reaction_name": "rn:R05443", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07216", "m-Tolualdehyde"], "directed": true, "reaction_id": "R05347", "reaction_name": "rn:R05347", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["m-Tolualdehyde", "m-Toluic_Acid"], "directed": true, "reaction_id": "R05664", "reaction_name": "rn:R05664", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["m-Toluic_Acid", "C06720"], "directed": true, "reaction_id": "R05665", "reaction_name": "rn:R05665", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06720", "3-Methylcatechol"], "directed": true, "reaction_id": "R05309", "reaction_name": "rn:R05309", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Toluol", "o-Cresol"], "directed": true, "reaction_id": "R03560", "reaction_name": "rn:R03560", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["o-Cresol", "3-Methylcatechol"], "directed": true, "reaction_id": "R03608", "reaction_name": "rn:R03608", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["3-Methylcatechol", "C06210"], "directed": true, "reaction_id": "R04089", "reaction_name": "rn:R04089", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Oxopent-4-enoate", "C06210"], "directed": true, "reaction_id": "R05138", "reaction_name": "rn:R05138", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Toluol", "p-Cresol"], "directed": true, "reaction_id": "R05666", "reaction_name": "rn:R05666", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C00633", "p-Cresol"], "directed": true, "reaction_id": "R02675", "reaction_name": "rn:R02675", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["4-Hydroxybenzoate", "C00633"], "directed": true, "reaction_id": "R01293", "reaction_name": "rn:R01293", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Tosylate", "4-Methylcatechol"], "directed": true, "reaction_id": "R05294", "reaction_name": "rn:R05294", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["p-Xylene", "4-Tolylcarbinol"], "directed": true, "reaction_id": "R05288", "reaction_name": "rn:R05288", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["4-Tolylcarbinol", "p-Tolualdehyde"], "directed": true, "reaction_id": "R05282", "reaction_name": "rn:R05282", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Toluate", "C06729"], "directed": true, "reaction_id": "R05290", "reaction_name": "rn:R05290 rn:R05291", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06729", "4-Methylcatechol"], "directed": true, "reaction_id": "R05292", "reaction_name": "rn:R05292 rn:R05293", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["4-Methylcatechol", "C06760"], "directed": true, "reaction_id": "R05295", "reaction_name": "rn:R05295", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06760", "C11354"], "directed": true, "reaction_id": "R05865", "reaction_name": "rn:R05865", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07479", "C11354"], "directed": true, "reaction_id": "R05374", "reaction_name": "rn:R05374", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07478", "C07479"], "directed": true, "reaction_id": "R05389", "reaction_name": "rn:R05389", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07478", "C06760"], "directed": true, "reaction_id": "R05353", "reaction_name": "rn:R05353", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C11354", "C06762"], "directed": true, "reaction_id": "R05864", "reaction_name": "rn:R05864", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["p-Tolualdehyde", "Toluate"], "directed": true, "reaction_id": "R05289", "reaction_name": "rn:R05289", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Chloroacetic_acid", "Glycolate"], "directed": true, "reaction_id": "R05287", "reaction_name": "rn:R05287", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C12836", "C12835"], "directed": true, "reaction_id": "R06848", "reaction_name": "rn:R06848", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C12835", "C12834"], "directed": true, "reaction_id": "R06835", "reaction_name": "rn:R06835", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C12834", "C12833"], "directed": true, "reaction_id": "R06834", "reaction_name": "rn:R06834", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C12833", "C12831"], "directed": true, "reaction_id": "R06833", "reaction_name": "rn:R06833", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C12832", "C12831"], "directed": true, "reaction_id": "R06832", "reaction_name": "rn:R06832", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Trichlorobenzene_A", "C12832"], "directed": true, "reaction_id": "R06831", "reaction_name": "rn:R06831", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06599", "C06600"], "directed": true, "reaction_id": "R05243", "reaction_name": "rn:R05243", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06611", "C06609"], "directed": true, "reaction_id": "R05367", "reaction_name": "rn:R05367", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06613", "C06611"], "directed": true, "reaction_id": "R05233", "reaction_name": "rn:R05233", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06614", "C06613"], "directed": true, "reaction_id": "R05237", "reaction_name": "rn:R05237", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06614", "3-Oxopropanoate"], "directed": true, "reaction_id": "R05371", "reaction_name": "rn:R05371", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06612", "C06610"], "directed": true, "reaction_id": "R05368", "reaction_name": "rn:R05368", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C16348", "C06612"], "directed": true, "reaction_id": "R05234", "reaction_name": "rn:R05234", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06615", "C16348"], "directed": true, "reaction_id": "R05238", "reaction_name": "rn:R05238", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06615", "3-Oxopropanoate"], "directed": true, "reaction_id": "R05372", "reaction_name": "rn:R05372", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["4-Hydroxybenzoyl-CoA", "4-Hydroxybenzoate"], "directed": true, "reaction_id": "R01300", "reaction_name": "rn:R01300 rn:R01301", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["4-Hydroxybenzoate", "Protocatechuate"], "directed": true, "reaction_id": "R01296", "reaction_name": "rn:R01296 rn:R01298", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["2-Chloroethanol", "Dutch_liquid"], "directed": true, "reaction_id": "R05284", "reaction_name": "rn:R05284", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["2-Chloroethanal", "2-Chloroethanol"], "directed": true, "reaction_id": "R05285", "reaction_name": "rn:R05285 rn:R09128", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Chloroacetic_acid", "2-Chloroethanal"], "directed": true, "reaction_id": "R05286", "reaction_name": "rn:R05286", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["PCE", "TCE"], "directed": true, "reaction_id": "R05499", "reaction_name": "rn:R05499", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["TCE", "C06791"], "directed": true, "reaction_id": "R05500", "reaction_name": "rn:R05500", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["TCE", "C06792"], "directed": true, "reaction_id": "R05501", "reaction_name": "rn:R05501", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Ethene", "Ethylene_oxide"], "directed": true, "reaction_id": "R05444", "reaction_name": "rn:R05444", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Ethylene_oxide", "1,2-Ethanediol"], "directed": true, "reaction_id": "R05842", "reaction_name": "rn:R05842", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Styrene", "(S)-Styrene_oxide"], "directed": true, "reaction_id": "R05488", "reaction_name": "rn:R05488", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["(S)-Styrene_oxide", "alpha-Tolualdehyde"], "directed": true, "reaction_id": "R10697", "reaction_name": "rn:R10697", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Phenylacetate", "alpha-Tolualdehyde"], "directed": true, "reaction_id": "R02536", "reaction_name": "rn:R02536 rn:R02537", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07087", "3-Vinylcatechol"], "directed": true, "reaction_id": "R05404", "reaction_name": "rn:R05404", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Oxopent-4-enoate", "C07087"], "directed": true, "reaction_id": "R05362", "reaction_name": "rn:R05362", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["p-Dichlorobenzene", "C07093"], "directed": true, "reaction_id": "R05429", "reaction_name": "rn:R05429", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07093", "3,6-Dichlorocatechol"], "directed": true, "reaction_id": "R05397", "reaction_name": "rn:R05397", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["3,6-Dichlorocatechol", "C07095"], "directed": true, "reaction_id": "R05409", "reaction_name": "rn:R05409", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07095", "C04729"], "directed": true, "reaction_id": "R05392", "reaction_name": "rn:R05392", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C04706", "C06329"], "directed": true, "reaction_id": "R05511", "reaction_name": "rn:R05511", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06329", "Maleylacetate"], "directed": true, "reaction_id": "R05355", "reaction_name": "rn:R05355", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Chloranil", "C03434"], "directed": true, "reaction_id": "R11585", "reaction_name": "rn:R11585", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C03434", "C07099"], "directed": true, "reaction_id": "R05402", "reaction_name": "rn:R05402", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07097", "C07099"], "directed": true, "reaction_id": "R05403", "reaction_name": "rn:R05403", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07097", "C06329"], "directed": true, "reaction_id": "R05408", "reaction_name": "rn:R05408", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["2,4,5-T", "C07101"], "directed": true, "reaction_id": "R05418", "reaction_name": "rn:R05418", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07101", "C21104"], "directed": true, "reaction_id": "R05447", "reaction_name": "rn:R05447", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06600", "C21105"], "directed": true, "reaction_id": "R05446", "reaction_name": "rn:R05446", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Hydroxyquinol", "Maleylacetate"], "directed": true, "reaction_id": "R03891", "reaction_name": "rn:R03891", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["p-Chlorophenol", "4-Chlorocatechol"], "directed": true, "reaction_id": "R05441", "reaction_name": "rn:R05441", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["4-Chlorocatechol", "C07089"], "directed": true, "reaction_id": "R05406", "reaction_name": "rn:R05406", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C00682", "Oxopent-4-enoate"], "directed": true, "reaction_id": "R02604", "reaction_name": "rn:R02604", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["4-Hydroxybenzoate", "Benzoate"], "directed": true, "reaction_id": "R01295", "reaction_name": "rn:R01295", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06321", "Benzoate"], "directed": true, "reaction_id": "R05621", "reaction_name": "rn:R05621 rn:R05622", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06321", "Catechol"], "directed": true, "reaction_id": "R00813", "reaction_name": "rn:R00813", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Salicylate", "Catechol"], "directed": true, "reaction_id": "R00818", "reaction_name": "rn:R00818", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C16203", "1,2-Anthracenediol"], "directed": true, "reaction_id": "R07705", "reaction_name": "rn:R07705", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Anthracene", "C16203"], "directed": true, "reaction_id": "R07704", "reaction_name": "rn:R07704", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Salicylaldehyde", "Salicylate"], "directed": true, "reaction_id": "R02941", "reaction_name": "rn:R02941", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Salicylaldehyde", "C06203"], "directed": true, "reaction_id": "R05136", "reaction_name": "rn:R05136", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06203", "C06204"], "directed": true, "reaction_id": "R05137", "reaction_name": "rn:R05137", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["1,2-Naphthalenediol", "C06204"], "directed": true, "reaction_id": "R04117", "reaction_name": "rn:R04117", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C04314", "1,2-Naphthalenediol"], "directed": true, "reaction_id": "R04115", "reaction_name": "rn:R04115", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Naphthalene", "C04314"], "directed": true, "reaction_id": "R02968", "reaction_name": "rn:R02968", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Phenanthrene", "C04468"], "directed": true, "reaction_id": "R05843", "reaction_name": "rn:R05843", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C04468", "C03164"], "directed": true, "reaction_id": "R04151", "reaction_name": "rn:R04151", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C03164", "C11425"], "directed": true, "reaction_id": "R05650", "reaction_name": "rn:R05650", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C11427", "C11426"], "directed": true, "reaction_id": "R05648", "reaction_name": "rn:R05648", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C03203", "C11427"], "directed": true, "reaction_id": "R05649", "reaction_name": "rn:R05649", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["1,2-Naphthalenediol", "C03203"], "directed": true, "reaction_id": "R05632", "reaction_name": "rn:R05632", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Oxopent-4-enoate", "C07123"], "directed": true, "reaction_id": "R05366", "reaction_name": "rn:R05366", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07123", "3-Ethylcatechol"], "directed": true, "reaction_id": "R05416", "reaction_name": "rn:R05416", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06727", "Ethylenzene"], "directed": true, "reaction_id": "R05440", "reaction_name": "rn:R05440", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Ethylenzene", "(S)-1-Phenylethanol"], "directed": true, "reaction_id": "R05745", "reaction_name": "rn:R05745", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Dibenzofuran", "C03569"], "directed": true, "reaction_id": "R05434", "reaction_name": "rn:R05434", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C03569", "C07731"], "directed": true, "reaction_id": "R05411", "reaction_name": "rn:R05411", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07731", "Oxopent-4-enoate"], "directed": true, "reaction_id": "R05360", "reaction_name": "rn:R05360", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Dibenzo-p-dioxin", "C07733"], "directed": true, "reaction_id": "R05439", "reaction_name": "rn:R05439", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07733", "C07734"], "directed": true, "reaction_id": "R05413", "reaction_name": "rn:R05413", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C07734", "Catechol"], "directed": true, "reaction_id": "R05361", "reaction_name": "rn:R05361", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["2-Hydroxymuconate", "4-Oxalocrotonate"], "directed": true, "reaction_id": "R03966", "reaction_name": "rn:R03966", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Fluorene", "9-Fluorenol"], "directed": true, "reaction_id": "R05422", "reaction_name": "rn:R05422", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["9-Fluorenone", "C16262"], "directed": true, "reaction_id": "R07799", "reaction_name": "rn:R07799", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C16262", "C16263"], "directed": true, "reaction_id": "R07800", "reaction_name": "rn:R07800", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C16263", "C16264"], "directed": true, "reaction_id": "R07801", "reaction_name": "rn:R07801", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C16264", "Phthalate"], "directed": true, "reaction_id": "R07802", "reaction_name": "rn:R07802", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Phthalate", "C04783"], "directed": true, "reaction_id": "R03630", "reaction_name": "rn:R03630", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C04783", "C03233"], "directed": true, "reaction_id": "R05275", "reaction_name": "rn:R05275", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C03233", "Protocatechuate"], "directed": true, "reaction_id": "R01635", "reaction_name": "rn:R01635", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C08061", "Carbazole"], "directed": true, "reaction_id": "R05414", "reaction_name": "rn:R05414", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C08061", "C08062"], "directed": true, "reaction_id": "R05415", "reaction_name": "rn:R05415", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C08062", "Oxopent-4-enoate"], "directed": true, "reaction_id": "R05365", "reaction_name": "rn:R05365", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Benzoyl-CoA", "4-Hydroxybenzoyl-CoA"], "directed": true, "reaction_id": "R05316", "reaction_name": "rn:R05316", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Benzoyl-CoA", "Benzoate"], "directed": true, "reaction_id": "R01422", "reaction_name": "rn:R01422", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Benzoyl-CoA", "C06322"], "directed": true, "reaction_id": "R02451", "reaction_name": "rn:R02451", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06322", "C06749"], "directed": true, "reaction_id": "R05597", "reaction_name": "rn:R05597", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06749", "C09821"], "directed": true, "reaction_id": "R05581", "reaction_name": "rn:R05581", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C09821", "3-Hydroxypimelyl-CoA"], "directed": true, "reaction_id": "R05594", "reaction_name": "rn:R05594", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Toluol", "Benzylsuccinate"], "directed": true, "reaction_id": "R05598", "reaction_name": "rn:R05598", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Benzylsuccinyl-CoA", "Benzylsuccinate"], "directed": true, "reaction_id": "R05588", "reaction_name": "rn:R05588", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["E-Phenylitaconyl-CoA", "Benzylsuccinyl-CoA"], "directed": true, "reaction_id": "R05584", "reaction_name": "rn:R05584", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C09819", "E-Phenylitaconyl-CoA"], "directed": true, "reaction_id": "R05599", "reaction_name": "rn:R05599", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C09819", "Benzoylsuccinyl-CoA"], "directed": true, "reaction_id": "R05575", "reaction_name": "rn:R05575", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Benzoylsuccinyl-CoA", "Benzoyl-CoA"], "directed": true, "reaction_id": "R05587", "reaction_name": "rn:R05587", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Catechol", "cis,cis-Muconate"], "directed": true, "reaction_id": "R00817", "reaction_name": "rn:R00817", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["(+)-Muconolactone", "cis,cis-Muconate"], "directed": true, "reaction_id": "R06989", "reaction_name": "rn:R06989", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C03586", "(+)-Muconolactone"], "directed": true, "reaction_id": "R06990", "reaction_name": "rn:R06990", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C03586", "3-Oxoadipate"], "directed": true, "reaction_id": "R02991", "reaction_name": "rn:R02991", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["3-Oxoadipyl-CoA", "3-Oxoadipate"], "directed": true, "reaction_id": "R02990", "reaction_name": "rn:R02990", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Hydroxyquinol", "C03676"], "directed": true, "reaction_id": "R04061", "reaction_name": "rn:R04061", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["3-Oxoadipate", "Maleylacetate"], "directed": true, "reaction_id": "R02988", "reaction_name": "rn:R02988 rn:R02989", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C01163", "Protocatechuate"], "directed": true, "reaction_id": "R01631", "reaction_name": "rn:R01631", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C01278", "C01163"], "directed": true, "reaction_id": "R03307", "reaction_name": "rn:R03307", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C01278", "C03586"], "directed": true, "reaction_id": "R03470", "reaction_name": "rn:R03470", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["6-Oxohexanoate", "Adipate"], "directed": true, "reaction_id": "R05099", "reaction_name": "rn:R05099", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Adipate", "Adipyl-CoA"], "directed": true, "reaction_id": "R06944", "reaction_name": "rn:R06944", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Adipyl-CoA", "C14144"], "directed": true, "reaction_id": "R06943", "reaction_name": "rn:R06943", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C14144", "C14145"], "directed": true, "reaction_id": "R06942", "reaction_name": "rn:R06942", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C14145", "3-Oxoadipyl-CoA"], "directed": true, "reaction_id": "R06941", "reaction_name": "rn:R06941", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Atrazine", "Hydroxyatrazine"], "directed": true, "reaction_id": "R05558", "reaction_name": "rn:R05558", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Hydroxyatrazine", "N-Isopropylammelide"], "directed": true, "reaction_id": "R05559", "reaction_name": "rn:R05559", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["N-Isopropylammelide", "Cyanuric_acid"], "directed": true, "reaction_id": "R05560", "reaction_name": "rn:R05560", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Cyanuric_acid", "Biuret"], "directed": true, "reaction_id": "R05561", "reaction_name": "rn:R05561", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Biuret", "Allophanate"], "directed": true, "reaction_id": "R05563", "reaction_name": "rn:R05563", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Allophanate", "CO2"], "directed": true, "reaction_id": "R00005", "reaction_name": "rn:R00005", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C10700", "C13636"], "directed": true, "reaction_id": "R06892", "reaction_name": "rn:R06892", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C16476", "Maleylacetate"], "directed": true, "reaction_id": "R08121", "reaction_name": "rn:R08121", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C16474", "C16476"], "directed": true, "reaction_id": "R08116", "reaction_name": "rn:R08116", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["4-Fluorocatechol", "C16474"], "directed": true, "reaction_id": "R08115", "reaction_name": "rn:R08115", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C16479", "4-Fluorocatechol"], "directed": true, "reaction_id": "R08112", "reaction_name": "rn:R08112", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["3-Fluorobenzoate", "C16479"], "directed": true, "reaction_id": "R08109", "reaction_name": "rn:R08109", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C16480", "4-Fluorocatechol"], "directed": true, "reaction_id": "R08113", "reaction_name": "rn:R08113", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["4-Fluorobenzoate", "C16480"], "directed": true, "reaction_id": "R08110", "reaction_name": "rn:R08110", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["2-Fluorobenzoate", "C16482"], "directed": true, "reaction_id": "R08100", "reaction_name": "rn:R08100", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Allophanate", "CO2"], "directed": true, "reaction_id": "R00005", "reaction_name": "rn:R00005", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Androstenedione", "C20144"], "directed": true, "reaction_id": "R09884", "reaction_name": "rn:R09884", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C20144", "C14909"], "directed": true, "reaction_id": "R09860", "reaction_name": "rn:R09860", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Secophenol", "C04793"], "directed": true, "reaction_id": "R09819", "reaction_name": "rn:R09819", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C04793", "DSHA"], "directed": true, "reaction_id": "R04597", "reaction_name": "rn:R04597", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["DSHA", "HIP"], "directed": true, "reaction_id": "R09883", "reaction_name": "rn:R09883", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Catechol", "C00682"], "directed": true, "reaction_id": "R00816", "reaction_name": "rn:R00816", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C00682", "2-Hydroxymuconate"], "directed": true, "reaction_id": "R02762", "reaction_name": "rn:R02762", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["4-Oxalocrotonate", "Oxopent-4-enoate"], "directed": true, "reaction_id": "R02602", "reaction_name": "rn:R02602", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Propanal", "C06762"], "directed": true, "reaction_id": "R05298", "reaction_name": "rn:R05298", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["C06318", "Protocatechuate"], "directed": true, "reaction_id": "R01633", "reaction_name": "rn:R01633", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Terephthalate", "C06318"], "directed": true, "reaction_id": "R05148", "reaction_name": "rn:R05148", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["Propanal", "Propionyl-CoA"], "directed": true, "reaction_id": "R09097", "reaction_name": "rn:R09097", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["HIP", "HIP-CoA"], "directed": true, "reaction_id": "R10769", "reaction_name": "rn:R10769", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}, {"nodes": ["PCP", "Chloranil"], "directed": true, "reaction_id": "R03982", "reaction_name": "rn:R03982", "reversible": "false", "subsystem": "Xenobiotics Biodegradation and Metabolism"}]}
+{
+  "nodes": [
+    {
+      "id": "(+)-Muconolactone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(S)-1-Phenylethanol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(S)-Styrene_oxide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "1,2-Anthracenediol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "1,2-Ethanediol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "1,2-Naphthalenediol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2,4,5-T",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Chloroethanal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Chloroethanol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Fluorobenzoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Hydroxymuconate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3,6-Dichlorocatechol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Ethylcatechol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Fluorobenzoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Hydroxypimelyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Methylcatechol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxoadipate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxoadipyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxopropanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Phenylcatechol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Vinylcatechol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Chlorocatechol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Fluorobenzoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Fluorocatechol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Hydroxybenzoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Hydroxybenzoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Methylcatechol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Oxalocrotonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Tolylcarbinol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "6-Oxohexanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "9-Fluorenol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "9-Fluorenone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Adipate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Adipyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Allophanate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Androstenedione",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Anthracene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Atrazine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Benzoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Benzoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Benzoylsuccinyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Benzylsuccinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Benzylsuccinyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Biphenyl",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Biuret",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00633",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00682",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01163",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01273",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01278",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03164",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03203",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03233",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03434",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03569",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03586",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03589",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03676",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04314",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04468",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04706",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04729",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04783",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04793",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06203",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06204",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06210",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06318",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06321",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06322",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06329",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06589",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06599",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06600",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06609",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06610",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06611",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06612",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06613",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06614",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06615",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06720",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06727",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06729",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06731",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06749",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06760",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06762",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06791",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06792",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07087",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07089",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07093",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07095",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07097",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07099",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07101",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07123",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07213",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07216",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07478",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07479",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07731",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07733",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07734",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C08061",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C08062",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C09819",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C09821",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C10700",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11354",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11425",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11426",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11427",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C12831",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C12832",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C12833",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C12834",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C12835",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C12836",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C13636",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C14144",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C14145",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C14909",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16203",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16262",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16263",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16264",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16348",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16474",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16476",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16479",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16480",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16482",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20144",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C21104",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C21105",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CO2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Carbazole",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Catechol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chloranil",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chloroacetic_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cyanuric_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DSHA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dibenzo-p-dioxin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dibenzofuran",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dutch_liquid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "E-Phenylitaconyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ethanal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ethene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ethylene_oxide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ethylenzene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Fluorene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glycolate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "HIP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "HIP-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydroxyatrazine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydroxyquinol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Maleylacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Isopropylammelide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Naphthalene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Oxopent-4-enoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PCE",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PCP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phenanthrene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phenylacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phthalate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Propanal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Propionyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Protocatechuate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Salicylaldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Salicylate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Secophenol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Styrene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "TCE",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Terephthalate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Toluate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Toluol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tosylate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Trichlorobenzene_A",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "alpha-Tolualdehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "cis,cis-Muconate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "m-Tolualdehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "m-Toluic_Acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "m-Xylene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "o-Cresol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "o-Tolualdehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "o-Toluate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "o-Xylene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "p-Chlorophenol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "p-Cresol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "p-Dichlorobenzene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "p-Tolualdehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "p-Xylene",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "nodes": [
+        "Biphenyl",
+        "C06589"
+      ],
+      "directed": true,
+      "reaction_id": "R05263",
+      "reaction_name": "rn:R05263 rn:R05264",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06589",
+        "3-Phenylcatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R05239",
+      "reaction_name": "rn:R05239",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "3-Phenylcatechol",
+        "C01273"
+      ],
+      "directed": true,
+      "reaction_id": "R03462",
+      "reaction_name": "rn:R03462",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C01273",
+        "Oxopent-4-enoate"
+      ],
+      "directed": true,
+      "reaction_id": "R02606",
+      "reaction_name": "rn:R02606",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Oxopent-4-enoate",
+        "C03589"
+      ],
+      "directed": true,
+      "reaction_id": "R02601",
+      "reaction_name": "rn:R02601",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Pyruvate",
+        "C03589"
+      ],
+      "directed": true,
+      "reaction_id": "R00750",
+      "reaction_name": "rn:R00750",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "o-Xylene",
+        "C07213"
+      ],
+      "directed": true,
+      "reaction_id": "R05442",
+      "reaction_name": "rn:R05442",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07213",
+        "o-Tolualdehyde"
+      ],
+      "directed": true,
+      "reaction_id": "R05348",
+      "reaction_name": "rn:R05348",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "o-Tolualdehyde",
+        "o-Toluate"
+      ],
+      "directed": true,
+      "reaction_id": "R05663",
+      "reaction_name": "rn:R05663",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "o-Toluate",
+        "C06731"
+      ],
+      "directed": true,
+      "reaction_id": "R05428",
+      "reaction_name": "rn:R05428",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06731",
+        "3-Methylcatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R05314",
+      "reaction_name": "rn:R05314",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "m-Xylene",
+        "C07216"
+      ],
+      "directed": true,
+      "reaction_id": "R05443",
+      "reaction_name": "rn:R05443",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07216",
+        "m-Tolualdehyde"
+      ],
+      "directed": true,
+      "reaction_id": "R05347",
+      "reaction_name": "rn:R05347",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "m-Tolualdehyde",
+        "m-Toluic_Acid"
+      ],
+      "directed": true,
+      "reaction_id": "R05664",
+      "reaction_name": "rn:R05664",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "m-Toluic_Acid",
+        "C06720"
+      ],
+      "directed": true,
+      "reaction_id": "R05665",
+      "reaction_name": "rn:R05665",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06720",
+        "3-Methylcatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R05309",
+      "reaction_name": "rn:R05309",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Toluol",
+        "o-Cresol"
+      ],
+      "directed": true,
+      "reaction_id": "R03560",
+      "reaction_name": "rn:R03560",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "o-Cresol",
+        "3-Methylcatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R03608",
+      "reaction_name": "rn:R03608",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "3-Methylcatechol",
+        "C06210"
+      ],
+      "directed": true,
+      "reaction_id": "R04089",
+      "reaction_name": "rn:R04089",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Oxopent-4-enoate",
+        "C06210"
+      ],
+      "directed": true,
+      "reaction_id": "R05138",
+      "reaction_name": "rn:R05138",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Toluol",
+        "p-Cresol"
+      ],
+      "directed": true,
+      "reaction_id": "R05666",
+      "reaction_name": "rn:R05666",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C00633",
+        "p-Cresol"
+      ],
+      "directed": true,
+      "reaction_id": "R02675",
+      "reaction_name": "rn:R02675",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "4-Hydroxybenzoate",
+        "C00633"
+      ],
+      "directed": true,
+      "reaction_id": "R01293",
+      "reaction_name": "rn:R01293",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Tosylate",
+        "4-Methylcatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R05294",
+      "reaction_name": "rn:R05294",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "p-Xylene",
+        "4-Tolylcarbinol"
+      ],
+      "directed": true,
+      "reaction_id": "R05288",
+      "reaction_name": "rn:R05288",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "4-Tolylcarbinol",
+        "p-Tolualdehyde"
+      ],
+      "directed": true,
+      "reaction_id": "R05282",
+      "reaction_name": "rn:R05282",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Toluate",
+        "C06729"
+      ],
+      "directed": true,
+      "reaction_id": "R05290",
+      "reaction_name": "rn:R05290 rn:R05291",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06729",
+        "4-Methylcatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R05292",
+      "reaction_name": "rn:R05292 rn:R05293",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "4-Methylcatechol",
+        "C06760"
+      ],
+      "directed": true,
+      "reaction_id": "R05295",
+      "reaction_name": "rn:R05295",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06760",
+        "C11354"
+      ],
+      "directed": true,
+      "reaction_id": "R05865",
+      "reaction_name": "rn:R05865",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07479",
+        "C11354"
+      ],
+      "directed": true,
+      "reaction_id": "R05374",
+      "reaction_name": "rn:R05374",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07478",
+        "C07479"
+      ],
+      "directed": true,
+      "reaction_id": "R05389",
+      "reaction_name": "rn:R05389",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07478",
+        "C06760"
+      ],
+      "directed": true,
+      "reaction_id": "R05353",
+      "reaction_name": "rn:R05353",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C11354",
+        "C06762"
+      ],
+      "directed": true,
+      "reaction_id": "R05864",
+      "reaction_name": "rn:R05864",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "p-Tolualdehyde",
+        "Toluate"
+      ],
+      "directed": true,
+      "reaction_id": "R05289",
+      "reaction_name": "rn:R05289",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Chloroacetic_acid",
+        "Glycolate"
+      ],
+      "directed": true,
+      "reaction_id": "R05287",
+      "reaction_name": "rn:R05287",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C12836",
+        "C12835"
+      ],
+      "directed": true,
+      "reaction_id": "R06848",
+      "reaction_name": "rn:R06848",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C12835",
+        "C12834"
+      ],
+      "directed": true,
+      "reaction_id": "R06835",
+      "reaction_name": "rn:R06835",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C12834",
+        "C12833"
+      ],
+      "directed": true,
+      "reaction_id": "R06834",
+      "reaction_name": "rn:R06834",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C12833",
+        "C12831"
+      ],
+      "directed": true,
+      "reaction_id": "R06833",
+      "reaction_name": "rn:R06833",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C12832",
+        "C12831"
+      ],
+      "directed": true,
+      "reaction_id": "R06832",
+      "reaction_name": "rn:R06832",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Trichlorobenzene_A",
+        "C12832"
+      ],
+      "directed": true,
+      "reaction_id": "R06831",
+      "reaction_name": "rn:R06831",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06599",
+        "C06600"
+      ],
+      "directed": true,
+      "reaction_id": "R05243",
+      "reaction_name": "rn:R05243",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06611",
+        "C06609"
+      ],
+      "directed": true,
+      "reaction_id": "R05367",
+      "reaction_name": "rn:R05367",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06613",
+        "C06611"
+      ],
+      "directed": true,
+      "reaction_id": "R05233",
+      "reaction_name": "rn:R05233",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06614",
+        "C06613"
+      ],
+      "directed": true,
+      "reaction_id": "R05237",
+      "reaction_name": "rn:R05237",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06614",
+        "3-Oxopropanoate"
+      ],
+      "directed": true,
+      "reaction_id": "R05371",
+      "reaction_name": "rn:R05371",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06612",
+        "C06610"
+      ],
+      "directed": true,
+      "reaction_id": "R05368",
+      "reaction_name": "rn:R05368",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C16348",
+        "C06612"
+      ],
+      "directed": true,
+      "reaction_id": "R05234",
+      "reaction_name": "rn:R05234",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06615",
+        "C16348"
+      ],
+      "directed": true,
+      "reaction_id": "R05238",
+      "reaction_name": "rn:R05238",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06615",
+        "3-Oxopropanoate"
+      ],
+      "directed": true,
+      "reaction_id": "R05372",
+      "reaction_name": "rn:R05372",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "4-Hydroxybenzoyl-CoA",
+        "4-Hydroxybenzoate"
+      ],
+      "directed": true,
+      "reaction_id": "R01300",
+      "reaction_name": "rn:R01300 rn:R01301",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "4-Hydroxybenzoate",
+        "Protocatechuate"
+      ],
+      "directed": true,
+      "reaction_id": "R01296",
+      "reaction_name": "rn:R01296 rn:R01298",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "2-Chloroethanol",
+        "Dutch_liquid"
+      ],
+      "directed": true,
+      "reaction_id": "R05284",
+      "reaction_name": "rn:R05284",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "2-Chloroethanal",
+        "2-Chloroethanol"
+      ],
+      "directed": true,
+      "reaction_id": "R05285",
+      "reaction_name": "rn:R05285 rn:R09128",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Chloroacetic_acid",
+        "2-Chloroethanal"
+      ],
+      "directed": true,
+      "reaction_id": "R05286",
+      "reaction_name": "rn:R05286",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "PCE",
+        "TCE"
+      ],
+      "directed": true,
+      "reaction_id": "R05499",
+      "reaction_name": "rn:R05499",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "TCE",
+        "C06791"
+      ],
+      "directed": true,
+      "reaction_id": "R05500",
+      "reaction_name": "rn:R05500",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "TCE",
+        "C06792"
+      ],
+      "directed": true,
+      "reaction_id": "R05501",
+      "reaction_name": "rn:R05501",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Ethene",
+        "Ethylene_oxide"
+      ],
+      "directed": true,
+      "reaction_id": "R05444",
+      "reaction_name": "rn:R05444",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Ethylene_oxide",
+        "1,2-Ethanediol"
+      ],
+      "directed": true,
+      "reaction_id": "R05842",
+      "reaction_name": "rn:R05842",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Styrene",
+        "(S)-Styrene_oxide"
+      ],
+      "directed": true,
+      "reaction_id": "R05488",
+      "reaction_name": "rn:R05488",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "(S)-Styrene_oxide",
+        "alpha-Tolualdehyde"
+      ],
+      "directed": true,
+      "reaction_id": "R10697",
+      "reaction_name": "rn:R10697",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Phenylacetate",
+        "alpha-Tolualdehyde"
+      ],
+      "directed": true,
+      "reaction_id": "R02536",
+      "reaction_name": "rn:R02536 rn:R02537",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07087",
+        "3-Vinylcatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R05404",
+      "reaction_name": "rn:R05404",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Oxopent-4-enoate",
+        "C07087"
+      ],
+      "directed": true,
+      "reaction_id": "R05362",
+      "reaction_name": "rn:R05362",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "p-Dichlorobenzene",
+        "C07093"
+      ],
+      "directed": true,
+      "reaction_id": "R05429",
+      "reaction_name": "rn:R05429",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07093",
+        "3,6-Dichlorocatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R05397",
+      "reaction_name": "rn:R05397",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "3,6-Dichlorocatechol",
+        "C07095"
+      ],
+      "directed": true,
+      "reaction_id": "R05409",
+      "reaction_name": "rn:R05409",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07095",
+        "C04729"
+      ],
+      "directed": true,
+      "reaction_id": "R05392",
+      "reaction_name": "rn:R05392",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C04706",
+        "C06329"
+      ],
+      "directed": true,
+      "reaction_id": "R05511",
+      "reaction_name": "rn:R05511",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06329",
+        "Maleylacetate"
+      ],
+      "directed": true,
+      "reaction_id": "R05355",
+      "reaction_name": "rn:R05355",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Chloranil",
+        "C03434"
+      ],
+      "directed": true,
+      "reaction_id": "R11585",
+      "reaction_name": "rn:R11585",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C03434",
+        "C07099"
+      ],
+      "directed": true,
+      "reaction_id": "R05402",
+      "reaction_name": "rn:R05402",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07097",
+        "C07099"
+      ],
+      "directed": true,
+      "reaction_id": "R05403",
+      "reaction_name": "rn:R05403",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07097",
+        "C06329"
+      ],
+      "directed": true,
+      "reaction_id": "R05408",
+      "reaction_name": "rn:R05408",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "2,4,5-T",
+        "C07101"
+      ],
+      "directed": true,
+      "reaction_id": "R05418",
+      "reaction_name": "rn:R05418",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07101",
+        "C21104"
+      ],
+      "directed": true,
+      "reaction_id": "R05447",
+      "reaction_name": "rn:R05447",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06600",
+        "C21105"
+      ],
+      "directed": true,
+      "reaction_id": "R05446",
+      "reaction_name": "rn:R05446",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Hydroxyquinol",
+        "Maleylacetate"
+      ],
+      "directed": true,
+      "reaction_id": "R03891",
+      "reaction_name": "rn:R03891",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "p-Chlorophenol",
+        "4-Chlorocatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R05441",
+      "reaction_name": "rn:R05441",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "4-Chlorocatechol",
+        "C07089"
+      ],
+      "directed": true,
+      "reaction_id": "R05406",
+      "reaction_name": "rn:R05406",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C00682",
+        "Oxopent-4-enoate"
+      ],
+      "directed": true,
+      "reaction_id": "R02604",
+      "reaction_name": "rn:R02604",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "4-Hydroxybenzoate",
+        "Benzoate"
+      ],
+      "directed": true,
+      "reaction_id": "R01295",
+      "reaction_name": "rn:R01295",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06321",
+        "Benzoate"
+      ],
+      "directed": true,
+      "reaction_id": "R05621",
+      "reaction_name": "rn:R05621 rn:R05622",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06321",
+        "Catechol"
+      ],
+      "directed": true,
+      "reaction_id": "R00813",
+      "reaction_name": "rn:R00813",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Salicylate",
+        "Catechol"
+      ],
+      "directed": true,
+      "reaction_id": "R00818",
+      "reaction_name": "rn:R00818",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C16203",
+        "1,2-Anthracenediol"
+      ],
+      "directed": true,
+      "reaction_id": "R07705",
+      "reaction_name": "rn:R07705",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Anthracene",
+        "C16203"
+      ],
+      "directed": true,
+      "reaction_id": "R07704",
+      "reaction_name": "rn:R07704",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Salicylaldehyde",
+        "Salicylate"
+      ],
+      "directed": true,
+      "reaction_id": "R02941",
+      "reaction_name": "rn:R02941",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Salicylaldehyde",
+        "C06203"
+      ],
+      "directed": true,
+      "reaction_id": "R05136",
+      "reaction_name": "rn:R05136",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06203",
+        "C06204"
+      ],
+      "directed": true,
+      "reaction_id": "R05137",
+      "reaction_name": "rn:R05137",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "1,2-Naphthalenediol",
+        "C06204"
+      ],
+      "directed": true,
+      "reaction_id": "R04117",
+      "reaction_name": "rn:R04117",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C04314",
+        "1,2-Naphthalenediol"
+      ],
+      "directed": true,
+      "reaction_id": "R04115",
+      "reaction_name": "rn:R04115",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Naphthalene",
+        "C04314"
+      ],
+      "directed": true,
+      "reaction_id": "R02968",
+      "reaction_name": "rn:R02968",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Phenanthrene",
+        "C04468"
+      ],
+      "directed": true,
+      "reaction_id": "R05843",
+      "reaction_name": "rn:R05843",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C04468",
+        "C03164"
+      ],
+      "directed": true,
+      "reaction_id": "R04151",
+      "reaction_name": "rn:R04151",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C03164",
+        "C11425"
+      ],
+      "directed": true,
+      "reaction_id": "R05650",
+      "reaction_name": "rn:R05650",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C11427",
+        "C11426"
+      ],
+      "directed": true,
+      "reaction_id": "R05648",
+      "reaction_name": "rn:R05648",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C03203",
+        "C11427"
+      ],
+      "directed": true,
+      "reaction_id": "R05649",
+      "reaction_name": "rn:R05649",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "1,2-Naphthalenediol",
+        "C03203"
+      ],
+      "directed": true,
+      "reaction_id": "R05632",
+      "reaction_name": "rn:R05632",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Oxopent-4-enoate",
+        "C07123"
+      ],
+      "directed": true,
+      "reaction_id": "R05366",
+      "reaction_name": "rn:R05366",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07123",
+        "3-Ethylcatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R05416",
+      "reaction_name": "rn:R05416",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06727",
+        "Ethylenzene"
+      ],
+      "directed": true,
+      "reaction_id": "R05440",
+      "reaction_name": "rn:R05440",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Ethylenzene",
+        "(S)-1-Phenylethanol"
+      ],
+      "directed": true,
+      "reaction_id": "R05745",
+      "reaction_name": "rn:R05745",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Dibenzofuran",
+        "C03569"
+      ],
+      "directed": true,
+      "reaction_id": "R05434",
+      "reaction_name": "rn:R05434",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C03569",
+        "C07731"
+      ],
+      "directed": true,
+      "reaction_id": "R05411",
+      "reaction_name": "rn:R05411",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07731",
+        "Oxopent-4-enoate"
+      ],
+      "directed": true,
+      "reaction_id": "R05360",
+      "reaction_name": "rn:R05360",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Dibenzo-p-dioxin",
+        "C07733"
+      ],
+      "directed": true,
+      "reaction_id": "R05439",
+      "reaction_name": "rn:R05439",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07733",
+        "C07734"
+      ],
+      "directed": true,
+      "reaction_id": "R05413",
+      "reaction_name": "rn:R05413",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C07734",
+        "Catechol"
+      ],
+      "directed": true,
+      "reaction_id": "R05361",
+      "reaction_name": "rn:R05361",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "2-Hydroxymuconate",
+        "4-Oxalocrotonate"
+      ],
+      "directed": true,
+      "reaction_id": "R03966",
+      "reaction_name": "rn:R03966",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Fluorene",
+        "9-Fluorenol"
+      ],
+      "directed": true,
+      "reaction_id": "R05422",
+      "reaction_name": "rn:R05422",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "9-Fluorenone",
+        "C16262"
+      ],
+      "directed": true,
+      "reaction_id": "R07799",
+      "reaction_name": "rn:R07799",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C16262",
+        "C16263"
+      ],
+      "directed": true,
+      "reaction_id": "R07800",
+      "reaction_name": "rn:R07800",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C16263",
+        "C16264"
+      ],
+      "directed": true,
+      "reaction_id": "R07801",
+      "reaction_name": "rn:R07801",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C16264",
+        "Phthalate"
+      ],
+      "directed": true,
+      "reaction_id": "R07802",
+      "reaction_name": "rn:R07802",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Phthalate",
+        "C04783"
+      ],
+      "directed": true,
+      "reaction_id": "R03630",
+      "reaction_name": "rn:R03630",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C04783",
+        "C03233"
+      ],
+      "directed": true,
+      "reaction_id": "R05275",
+      "reaction_name": "rn:R05275",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C03233",
+        "Protocatechuate"
+      ],
+      "directed": true,
+      "reaction_id": "R01635",
+      "reaction_name": "rn:R01635",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C08061",
+        "Carbazole"
+      ],
+      "directed": true,
+      "reaction_id": "R05414",
+      "reaction_name": "rn:R05414",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C08061",
+        "C08062"
+      ],
+      "directed": true,
+      "reaction_id": "R05415",
+      "reaction_name": "rn:R05415",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C08062",
+        "Oxopent-4-enoate"
+      ],
+      "directed": true,
+      "reaction_id": "R05365",
+      "reaction_name": "rn:R05365",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Benzoyl-CoA",
+        "4-Hydroxybenzoyl-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R05316",
+      "reaction_name": "rn:R05316",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Benzoyl-CoA",
+        "Benzoate"
+      ],
+      "directed": true,
+      "reaction_id": "R01422",
+      "reaction_name": "rn:R01422",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Benzoyl-CoA",
+        "C06322"
+      ],
+      "directed": true,
+      "reaction_id": "R02451",
+      "reaction_name": "rn:R02451",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06322",
+        "C06749"
+      ],
+      "directed": true,
+      "reaction_id": "R05597",
+      "reaction_name": "rn:R05597",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06749",
+        "C09821"
+      ],
+      "directed": true,
+      "reaction_id": "R05581",
+      "reaction_name": "rn:R05581",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C09821",
+        "3-Hydroxypimelyl-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R05594",
+      "reaction_name": "rn:R05594",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Toluol",
+        "Benzylsuccinate"
+      ],
+      "directed": true,
+      "reaction_id": "R05598",
+      "reaction_name": "rn:R05598",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Benzylsuccinyl-CoA",
+        "Benzylsuccinate"
+      ],
+      "directed": true,
+      "reaction_id": "R05588",
+      "reaction_name": "rn:R05588",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "E-Phenylitaconyl-CoA",
+        "Benzylsuccinyl-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R05584",
+      "reaction_name": "rn:R05584",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C09819",
+        "E-Phenylitaconyl-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R05599",
+      "reaction_name": "rn:R05599",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C09819",
+        "Benzoylsuccinyl-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R05575",
+      "reaction_name": "rn:R05575",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Benzoylsuccinyl-CoA",
+        "Benzoyl-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R05587",
+      "reaction_name": "rn:R05587",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Catechol",
+        "cis,cis-Muconate"
+      ],
+      "directed": true,
+      "reaction_id": "R00817",
+      "reaction_name": "rn:R00817",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "(+)-Muconolactone",
+        "cis,cis-Muconate"
+      ],
+      "directed": true,
+      "reaction_id": "R06989",
+      "reaction_name": "rn:R06989",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C03586",
+        "(+)-Muconolactone"
+      ],
+      "directed": true,
+      "reaction_id": "R06990",
+      "reaction_name": "rn:R06990",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C03586",
+        "3-Oxoadipate"
+      ],
+      "directed": true,
+      "reaction_id": "R02991",
+      "reaction_name": "rn:R02991",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "3-Oxoadipyl-CoA",
+        "3-Oxoadipate"
+      ],
+      "directed": true,
+      "reaction_id": "R02990",
+      "reaction_name": "rn:R02990",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Hydroxyquinol",
+        "C03676"
+      ],
+      "directed": true,
+      "reaction_id": "R04061",
+      "reaction_name": "rn:R04061",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "3-Oxoadipate",
+        "Maleylacetate"
+      ],
+      "directed": true,
+      "reaction_id": "R02988",
+      "reaction_name": "rn:R02988 rn:R02989",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C01163",
+        "Protocatechuate"
+      ],
+      "directed": true,
+      "reaction_id": "R01631",
+      "reaction_name": "rn:R01631",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C01278",
+        "C01163"
+      ],
+      "directed": true,
+      "reaction_id": "R03307",
+      "reaction_name": "rn:R03307",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C01278",
+        "C03586"
+      ],
+      "directed": true,
+      "reaction_id": "R03470",
+      "reaction_name": "rn:R03470",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "6-Oxohexanoate",
+        "Adipate"
+      ],
+      "directed": true,
+      "reaction_id": "R05099",
+      "reaction_name": "rn:R05099",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Adipate",
+        "Adipyl-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R06944",
+      "reaction_name": "rn:R06944",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Adipyl-CoA",
+        "C14144"
+      ],
+      "directed": true,
+      "reaction_id": "R06943",
+      "reaction_name": "rn:R06943",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C14144",
+        "C14145"
+      ],
+      "directed": true,
+      "reaction_id": "R06942",
+      "reaction_name": "rn:R06942",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C14145",
+        "3-Oxoadipyl-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R06941",
+      "reaction_name": "rn:R06941",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Atrazine",
+        "Hydroxyatrazine"
+      ],
+      "directed": true,
+      "reaction_id": "R05558",
+      "reaction_name": "rn:R05558",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Hydroxyatrazine",
+        "N-Isopropylammelide"
+      ],
+      "directed": true,
+      "reaction_id": "R05559",
+      "reaction_name": "rn:R05559",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "N-Isopropylammelide",
+        "Cyanuric_acid"
+      ],
+      "directed": true,
+      "reaction_id": "R05560",
+      "reaction_name": "rn:R05560",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Cyanuric_acid",
+        "Biuret"
+      ],
+      "directed": true,
+      "reaction_id": "R05561",
+      "reaction_name": "rn:R05561",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Biuret",
+        "Allophanate"
+      ],
+      "directed": true,
+      "reaction_id": "R05563",
+      "reaction_name": "rn:R05563",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Allophanate",
+        "CO2"
+      ],
+      "directed": true,
+      "reaction_id": "R00005",
+      "reaction_name": "rn:R00005",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C10700",
+        "C13636"
+      ],
+      "directed": true,
+      "reaction_id": "R06892",
+      "reaction_name": "rn:R06892",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C16476",
+        "Maleylacetate"
+      ],
+      "directed": true,
+      "reaction_id": "R08121",
+      "reaction_name": "rn:R08121",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C16474",
+        "C16476"
+      ],
+      "directed": true,
+      "reaction_id": "R08116",
+      "reaction_name": "rn:R08116",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "4-Fluorocatechol",
+        "C16474"
+      ],
+      "directed": true,
+      "reaction_id": "R08115",
+      "reaction_name": "rn:R08115",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C16479",
+        "4-Fluorocatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R08112",
+      "reaction_name": "rn:R08112",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "3-Fluorobenzoate",
+        "C16479"
+      ],
+      "directed": true,
+      "reaction_id": "R08109",
+      "reaction_name": "rn:R08109",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C16480",
+        "4-Fluorocatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R08113",
+      "reaction_name": "rn:R08113",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "4-Fluorobenzoate",
+        "C16480"
+      ],
+      "directed": true,
+      "reaction_id": "R08110",
+      "reaction_name": "rn:R08110",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "2-Fluorobenzoate",
+        "C16482"
+      ],
+      "directed": true,
+      "reaction_id": "R08100",
+      "reaction_name": "rn:R08100",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Allophanate",
+        "CO2"
+      ],
+      "directed": true,
+      "reaction_id": "R00005",
+      "reaction_name": "rn:R00005",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Androstenedione",
+        "C20144"
+      ],
+      "directed": true,
+      "reaction_id": "R09884",
+      "reaction_name": "rn:R09884",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C20144",
+        "C14909"
+      ],
+      "directed": true,
+      "reaction_id": "R09860",
+      "reaction_name": "rn:R09860",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Secophenol",
+        "C04793"
+      ],
+      "directed": true,
+      "reaction_id": "R09819",
+      "reaction_name": "rn:R09819",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C04793",
+        "DSHA"
+      ],
+      "directed": true,
+      "reaction_id": "R04597",
+      "reaction_name": "rn:R04597",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "DSHA",
+        "HIP"
+      ],
+      "directed": true,
+      "reaction_id": "R09883",
+      "reaction_name": "rn:R09883",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Catechol",
+        "C00682"
+      ],
+      "directed": true,
+      "reaction_id": "R00816",
+      "reaction_name": "rn:R00816",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C00682",
+        "2-Hydroxymuconate"
+      ],
+      "directed": true,
+      "reaction_id": "R02762",
+      "reaction_name": "rn:R02762",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "4-Oxalocrotonate",
+        "Oxopent-4-enoate"
+      ],
+      "directed": true,
+      "reaction_id": "R02602",
+      "reaction_name": "rn:R02602",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Propanal",
+        "C06762"
+      ],
+      "directed": true,
+      "reaction_id": "R05298",
+      "reaction_name": "rn:R05298",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "C06318",
+        "Protocatechuate"
+      ],
+      "directed": true,
+      "reaction_id": "R01633",
+      "reaction_name": "rn:R01633",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Terephthalate",
+        "C06318"
+      ],
+      "directed": true,
+      "reaction_id": "R05148",
+      "reaction_name": "rn:R05148",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "Propanal",
+        "Propionyl-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R09097",
+      "reaction_name": "rn:R09097",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "HIP",
+        "HIP-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R10769",
+      "reaction_name": "rn:R10769",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    },
+    {
+      "nodes": [
+        "PCP",
+        "Chloranil"
+      ],
+      "directed": true,
+      "reaction_id": "R03982",
+      "reaction_name": "rn:R03982",
+      "reversible": "false",
+      "subsystem": "Xenobiotics Biodegradation and Metabolism"
+    }
+  ]
+}
