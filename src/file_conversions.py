@@ -533,7 +533,7 @@ if __name__ == '__main__':
 	# read_investment()
 	# read_randdag()
 
-	direct = "../data/knownCR/clean"
+	direct = "../data/evolution/clean"
 	for fle in os.listdir(direct):
 		if os.path.splitext(fle)[1] == ".json":
 			with open(direct + "/" + fle) as fd1:
