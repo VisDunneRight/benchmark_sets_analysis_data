@@ -135,7 +135,7 @@ def read_webcompute():
 				graph["nodes"].append({"id": v})
 			for e in g.edges:
 				graph["links"].append({"nodes": [e[0], e[1]], "directed": True})
-			with open(f"../data/webcompute/clean/{wfile.replace('.graphml', '.json')}", 'w') as f:
+			with open(f"../data/webcompute/clean/{wfile.replace('.gml', '.json')}", 'w') as f:
 				json.dump(graph, f)
 
 
