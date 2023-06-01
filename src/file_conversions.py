@@ -29,7 +29,7 @@ def read_storyline():
 							name_tsteps[nm] = tstep
 					tstep += 1
 			with open(f"../data/Storylines/clean/{sname.replace('.txt', '.json')}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_scotch():
@@ -513,7 +513,7 @@ def read_investment():
 
 
 if __name__ == '__main__':
-	# read_storyline()
+	read_storyline()
 	# read_scotch()
 	# read_rome()
 	# read_north()
