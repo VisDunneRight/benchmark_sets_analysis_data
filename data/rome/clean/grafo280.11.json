@@ -1,1 +1,123 @@
-{"nodes": [{"id": "0"}, {"id": "1"}, {"id": "2"}, {"id": "3"}, {"id": "4"}, {"id": "5"}, {"id": "6"}, {"id": "7"}, {"id": "8"}, {"id": "9"}, {"id": "10"}], "links": [{"nodes": ["0", "4"], "directed": false}, {"nodes": ["0", "5"], "directed": false}, {"nodes": ["0", "8"], "directed": false}, {"nodes": ["1", "5"], "directed": false}, {"nodes": ["2", "7"], "directed": false}, {"nodes": ["3", "5"], "directed": false}, {"nodes": ["3", "8"], "directed": false}, {"nodes": ["3", "9"], "directed": false}, {"nodes": ["3", "10"], "directed": false}, {"nodes": ["5", "6"], "directed": false}, {"nodes": ["5", "7"], "directed": false}, {"nodes": ["6", "9"], "directed": false}]}
+{
+  "nodes": [
+    {
+      "id": "0"
+    },
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "4"
+    },
+    {
+      "id": "5"
+    },
+    {
+      "id": "6"
+    },
+    {
+      "id": "7"
+    },
+    {
+      "id": "8"
+    },
+    {
+      "id": "9"
+    },
+    {
+      "id": "10"
+    }
+  ],
+  "links": [
+    {
+      "nodes": [
+        "0",
+        "4"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "0",
+        "5"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "0",
+        "8"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "1",
+        "5"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "2",
+        "7"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "3",
+        "5"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "3",
+        "8"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "3",
+        "9"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "3",
+        "10"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "5",
+        "6"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "5",
+        "7"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "6",
+        "9"
+      ],
+      "directed": false
+    }
+  ]
+}
