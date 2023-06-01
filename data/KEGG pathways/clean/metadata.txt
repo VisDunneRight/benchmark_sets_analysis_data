@@ -1,0 +1,15 @@
+structure of files:
+
+    nodes:
+        id: Name of compound
+        formula: Formula, if given
+        description: Description, if given
+    links:
+        nodes: Reagent ids
+        directed: false if reversible, true otherwise
+        reaction_id: Code corresponding to the reaction between these reagents
+        reaction_name: Reaction name
+        reversible: If the raeaction is reversible
+        subsystem: Subsystem the reaction belongs to (usually matches file name)
+
+NOTE: these graphs are subgraphs of a much larger metabolic pathways graph corresponding to different subsystems. They can be combined into the full pathways network.

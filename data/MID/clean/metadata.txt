@@ -1,0 +1,23 @@
+midb.json:
+
+    nodes:
+        id: ISO country code
+    links:
+        nodes: All ids involved in the conflict
+        sideA: All ids on one side of the conflict
+        sideB: All ids on the opposing side of the conflict
+        start: Start date of the conflict, in M/D/Y. M and D may be unknown, in which case they are substituted with '?'
+        end: End date of the conflict, same format
+
+
+midip.json:
+
+    nodes:
+        id: ISO country code
+    links:
+        nodes: All ids involved in the incident/dispute
+        sideA: All ids on one side of the incident/dispute
+        sideB: All ids on the opposing side of the incident/dispute
+        start: Start date of the incident/dispute, in M/D/Y. M and D may be unknown, in which case they are substituted with '?'
+        end: End date of the incident/dispute, same format
+        dispute_id: Incidents are broken up since some countries entered/exited at different times. Each incident has a single dispute id, which may be shared by multiple links

@@ -1,0 +1,5 @@
+Note:
+    These files are timeline graphs, so there is one node per timestep per character (if they exist at that timestep).
+    Each node has the name followed by _X where X is the timestep of that node.
+    Consecutive nodes in time (of the same name) are connected by links.
+    Each node also belongs to a group, which may change as the timestep changes.

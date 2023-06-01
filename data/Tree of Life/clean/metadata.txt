@@ -1,0 +1,6 @@
+tree_of_life.json:
+
+    nodes:
+        id: Name of species. If the node is a branch node in the tree of life, it will instead be named "[species] subclade#X" where X is a unique integer
+    links:
+        nodes: Pairs of species ids. The graph formed is, of course, a tree.
