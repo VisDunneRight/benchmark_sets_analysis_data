@@ -531,7 +531,7 @@ if __name__ == '__main__':
 	# read_graphviz()
 	# read_trade()
 	# read_investment()
-	read_randdag()
+	# read_randdag()
 
 	# direct = "../data/chess/clean"
 	# for fle in os.listdir(direct):
