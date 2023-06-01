@@ -1,0 +1,8 @@
+chess.json:
+
+    nodes:
+        id: Integer
+        piece: Type of chess piece moved (pawn, queen, etc.)
+        move_count: Turn of the game on which the piece was moved
+    links:
+        nodes: Pairs of ids which correspond to consecutive moves made by a single player. The structure of the graph is many possible chess openings as disconnected components

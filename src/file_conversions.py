@@ -29,7 +29,7 @@ def read_storyline():
 							name_tsteps[nm] = tstep
 					tstep += 1
 			with open(f"../data/Storylines/clean/{sname.replace('.txt', '.json')}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_scotch():
@@ -71,7 +71,7 @@ def read_scotch():
 									link_seen.add(lk)
 									graph["links"].append({"nodes": [lk[0], lk[1]], "value": sep[2 * i + 3], "directed": False})
 			with open(f"../data/scotch/clean/{sname.replace('.src', '.json')}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_rome():
@@ -84,7 +84,7 @@ def read_rome():
 			for e in g.edges:
 				graph["links"].append({"nodes": [e[0].replace('n', ''), e[1].replace('n', '')], "directed": False})
 			with open(f"../data/rome/clean/{gfile.replace('.graphml', '.json')}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_north():
@@ -97,7 +97,7 @@ def read_north():
 			for e in g.edges:
 				graph["links"].append({"nodes": [e[0].replace('n', ''), e[1].replace('n', '')], "directed": True})
 			with open(f"../data/north/clean/{gfile.replace('.graphml', '.json')}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_kegg():
@@ -123,7 +123,7 @@ def read_kegg():
 						subsystem = reaction.find('subsystem').text
 						graph["links"].append({"nodes": [reactant, product], "directed": True if reversible == "false" else False, "reaction_id": id, "reaction_name": name, "reversible": reversible, "subsystem": subsystem})
 			with open(f"../data/KEGG pathways/clean/{kfile.replace('.xml', '.json')}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_webcompute():
@@ -135,8 +135,8 @@ def read_webcompute():
 				graph["nodes"].append({"id": v})
 			for e in g.edges:
 				graph["links"].append({"nodes": [e[0], e[1]], "directed": True})
-			with open(f"../data/webcompute/clean/{wfile.replace('.graphml', '.json')}", 'w') as f:
-				json.dump(graph, f)
+			with open(f"../data/webcompute/clean/{wfile.replace('.gml', '.json')}", 'w') as f:
+				json.dump(graph, f, indent=2)
 
 
 def read_airlines():
@@ -153,7 +153,7 @@ def read_airlines():
 				for eg in gr["links"]:
 					graph["links"].append({"nodes": [eg["source"], eg["target"]], "directed": gr["directed"]})
 			with open(f"../data/airlines-migration-air traffic/clean/{afile}", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def read_chess():
@@ -168,7 +168,7 @@ def read_chess():
 					graph["links"].append({"nodes": [idct-1, idct], "directed": True})
 				idct += 1
 	with open(f"../data/chess/clean/chess.json", 'w') as f:
-		json.dump(graph, f)
+		json.dump(graph, f, indent=2)
 
 
 def read_mid():
@@ -194,7 +194,7 @@ def read_mid():
 			cur_disp = int(ln[0])
 			last_disp_dates = [f"{ln[4] if ln[4] != str(-9) else '?'}/{ln[3] if ln[3] != str(-9) else '?'}/{ln[5]}", f"{ln[7] if ln[7] != str(-9) else '?'}/{ln[6] if ln[6] != str(-9) else '?'}/{ln[8]}"]
 	with open(f"../data/MID/clean/midb.json", 'w') as f:
-		json.dump(graph, f)
+		json.dump(graph, f, indent=2)
 	with open("../data/MID/MIDIP_5.01.csv") as f:
 		rdr = csv.reader(f)
 		next(rdr)
@@ -217,7 +217,7 @@ def read_mid():
 			cur_disp = int(ln[1])
 			last_disp_dates = [f"{ln[5] if ln[5] != str(-9) else '?'}/{ln[4] if ln[4] != str(-9) else '?'}/{ln[6]}", f"{ln[8] if ln[8] != str(-9) else '?'}/{ln[7] if ln[7] != str(-9) else '?'}/{ln[9]}"]
 	with open(f"../data/MID/clean/midip.json", 'w') as f:
-		json.dump(graph, f)
+		json.dump(graph, f, indent=2)
 
 
 def read_greenhouse_gas():
@@ -229,7 +229,7 @@ def read_greenhouse_gas():
 		for ed in gr["links"]:
 			graph["links"].append({"nodes": [ed["source"], ed["target"]], "directed": True, "value": ed["value"]})
 	with open("../data/world-greenhouse-gas-emissions/clean/wri_data.json", 'w') as f:
-		json.dump(graph, f)
+		json.dump(graph, f, indent=2)
 
 
 def read_tree_of_life():
@@ -273,7 +273,7 @@ def read_tree_of_life():
 				bfsq.append(cld)
 
 	with open("../data/Tree of Life/clean/tree_of_life.json", 'w') as f:
-		json.dump(graph, f)
+		json.dump(graph, f, indent=2)
 
 
 def create_complete_graphs():
@@ -284,7 +284,7 @@ def create_complete_graphs():
 		for j, k in itertools.combinations(list(range(i)), 2):
 			graph["links"].append({"nodes": [j, k], "directed": False})
 		with open(f"../data/complete graphs/clean/complete_K_{i}.json", 'w') as f:
-			json.dump(graph, f)
+			json.dump(graph, f, indent=2)
 
 
 def create_complete_bipartite_graphs():
@@ -297,7 +297,7 @@ def create_complete_bipartite_graphs():
 				for kip in range(ip):
 					graph["links"].append({"nodes": [k, kip + i], "directed": False})
 			with open(f"../data/complete bipartite graphs/clean/complete_K_{i}_{ip}.json", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 
 def create_knowncr():
@@ -314,7 +314,7 @@ def create_knowncr():
 					graph["links"].append({"nodes": [f"{ip}_{jp}", f"{ip}_{(jp + 1) % j}"], "directed": False})
 					graph["links"].append({"nodes": [f"{ip}_{jp}", f"{(ip + 1) % i}_{jp}"], "directed": False})
 			with open(f"../data/knownCR/clean/C{i}_x_C{j}.json", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 			j += 1
 
 	# Petersen graphs P(j, 2) and P(j, 3) for 9 <= j <= 125
@@ -328,7 +328,7 @@ def create_knowncr():
 				graph["links"].append({"nodes": [f"0_{k}", f"1_{k}"], "directed": False})
 				graph["links"].append({"nodes": [f"1_{k}", f"1_{(k + i) % j}"], "directed": False})
 			with open(f"../data/knownCR/clean/P({j},{i}).json", 'w') as f:
-				json.dump(graph, f)
+				json.dump(graph, f, indent=2)
 
 	# Gi x Pj
 	for gfile in os.listdir("../data/knownCR"):
@@ -347,7 +347,7 @@ def create_knowncr():
 					for e1, e2 in gr.edges():
 						graph["links"].append({"nodes": [f"{e1}_{ij}", f"{e2}_{ij}"], "directed": False})
 				with open(f"../data/knownCR/clean/G{gr_num}_x_P{j}.json", 'w') as f:
-					json.dump(graph, f)
+					json.dump(graph, f, indent=2)
 
 	# Gi x Cj
 	for gfile in os.listdir("../data/knownCR"):
@@ -366,7 +366,7 @@ def create_knowncr():
 					for e1, e2 in gr.edges():
 						graph["links"].append({"nodes": [f"{e1}_{ij}", f"{e2}_{ij}"], "directed": False})
 				with open(f"../data/knownCR/clean/G{gr_num}_x_C{j}.json", 'w') as f:
-					json.dump(graph, f)
+					json.dump(graph, f, indent=2)
 
 
 def read_evolution():
@@ -384,7 +384,7 @@ def read_evolution():
 						treestr = ln[ln.index('=') + 2:-1]
 						graph = extract_tree_structure_newick(treestr)
 						with open(f"../data/evolution/clean/{os.path.splitext(efile)[0]}_{hstr}.json", 'w') as fd:
-							json.dump(graph, fd)
+							json.dump(graph, fd, indent=2)
 
 
 def extract_tree_structure_newick(newick_string):
@@ -533,11 +533,12 @@ if __name__ == '__main__':
 	# read_investment()
 	# read_randdag()
 
-	# direct = "../data/chess/clean"
-	# for fle in os.listdir(direct):
-	# 	with open(direct + "/" + fle) as fd1:
-	# 		gr = json.load(fd1)
-	# 	with open(direct + "/" + fle, 'w') as fd1:
-	# 		json.dump(gr, fd1, indent=2)
+	direct = "../data/evolution/clean"
+	for fle in os.listdir(direct):
+		if os.path.splitext(fle)[1] == ".json":
+			with open(direct + "/" + fle) as fd1:
+				gr = json.load(fd1)
+			with open(direct + "/" + fle, 'w') as fd1:
+				json.dump(gr, fd1, indent=2)
 
 	exit()

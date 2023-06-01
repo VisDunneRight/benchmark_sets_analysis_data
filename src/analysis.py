@@ -18,7 +18,7 @@ def plot_histogram(data, x_axis, save_filepath):
 	chart.save(save_filepath, embed_options={'renderer': 'svg'})
 
 
-def collection_distributions(path_to_folder, create_dir):
+def collection_distributions(path_to_folder):
 	fpath = path_to_folder + "/clean"
 	node_counts = []
 	edge_counts = []
@@ -37,7 +37,7 @@ def collection_distributions(path_to_folder, create_dir):
 		degrees = [v for v in degrees.values()]
 		avg_degree_counts.append({"Mean Degree": sum(degrees) / len(degrees)})
 		max_degree_counts.append({"Maximum Degree": int(max(degrees))})
-	if create_dir:
+	if "charts" not in os.listdir(path_to_folder):
 		os.mkdir(path_to_folder + "/charts")
 	plot_histogram(node_counts, "Node Count", path_to_folder + "/charts/node_counts.svg")
 	plot_histogram(edge_counts, "Edge Count", path_to_folder + "/charts/edge_counts.svg")
@@ -46,4 +46,4 @@ def collection_distributions(path_to_folder, create_dir):
 
 
 if __name__ == '__main__':
-	collection_distributions("../data/rome", False)
+	collection_distributions("../data/rome")

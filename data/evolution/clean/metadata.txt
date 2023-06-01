@@ -1,0 +1,4 @@
+Note:
+    Graphs in this collection are in pairs (each is half of a co-phylogenetic tree).
+    The pairs have the format [name]_host.json and [name]_parasite.json.
+    In the parasite tree, leaf nodes have an additional tag, "host_node" which is the matching id of the corresponding node in the host tree.

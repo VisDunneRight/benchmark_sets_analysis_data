@@ -1,1 +1,0 @@
-{"nodes": [{"id": 1}, {"id": 2}, {"id": 3}], "links": [{"nodes": [1, 2], "directed": true}, {"nodes": [2, 3], "directed": true}, {"nodes": [3, 1], "directed": true}]}

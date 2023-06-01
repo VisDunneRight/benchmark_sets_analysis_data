@@ -1,1 +1,91 @@
-{"nodes": [{"id": 0}, {"id": 1}, {"id": 2}, {"id": 3}, {"id": 4}], "links": [{"nodes": [0, 1], "directed": false}, {"nodes": [0, 2], "directed": false}, {"nodes": [0, 3], "directed": false}, {"nodes": [0, 4], "directed": false}, {"nodes": [1, 2], "directed": false}, {"nodes": [1, 3], "directed": false}, {"nodes": [1, 4], "directed": false}, {"nodes": [2, 3], "directed": false}, {"nodes": [2, 4], "directed": false}, {"nodes": [3, 4], "directed": false}]}
+{
+  "nodes": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
+  "links": [
+    {
+      "nodes": [
+        0,
+        1
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        0,
+        2
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        0,
+        3
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        0,
+        4
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        1,
+        2
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        1,
+        3
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        1,
+        4
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        2,
+        3
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        2,
+        4
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        3,
+        4
+      ],
+      "directed": false
+    }
+  ]
+}

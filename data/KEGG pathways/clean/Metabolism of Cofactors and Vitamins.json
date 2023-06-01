@@ -1,1 +1,4082 @@
-{"nodes": [{"id": "(R)-Lipoate", "formula": "none", "desciption": "none"}, {"id": "1-Methylnicotinamide", "formula": "none", "desciption": "none"}, {"id": "10-Formyl-THF", "formula": "none", "desciption": "none"}, {"id": "2-Dehydropantoate", "formula": "none", "desciption": "none"}, {"id": "2-Ketovaline", "formula": "none", "desciption": "none"}, {"id": "2-Polyprenylphenol", "formula": "none", "desciption": "none"}, {"id": "3-Polyprenylcatechol", "formula": "none", "desciption": "none"}, {"id": "4-Hydroxybenzoate", "formula": "none", "desciption": "none"}, {"id": "4-Phosphoerythronate", "formula": "none", "desciption": "none"}, {"id": "4-Pyridoxate", "formula": "none", "desciption": "none"}, {"id": "5,10-Methylene-THF", "formula": "none", "desciption": "none"}, {"id": "5-Aminolevulinate", "formula": "none", "desciption": "none"}, {"id": "7,8-Dihydrobiopterin", "formula": "none", "desciption": "none"}, {"id": "ABEE", "formula": "none", "desciption": "none"}, {"id": "AIR", "formula": "none", "desciption": "none"}, {"id": "Adenosylcobinamide", "formula": "none", "desciption": "none"}, {"id": "Adenosylcobyric_acid", "formula": "none", "desciption": "none"}, {"id": "Aneurin", "formula": "none", "desciption": "none"}, {"id": "Aquacobalamin", "formula": "none", "desciption": "none"}, {"id": "Bilirubin", "formula": "none", "desciption": "none"}, {"id": "Biliverdin", "formula": "none", "desciption": "none"}, {"id": "Biocytin", "formula": "none", "desciption": "none"}, {"id": "Biotin", "formula": "none", "desciption": "none"}, {"id": "Biotin_sulfoxide", "formula": "none", "desciption": "none"}, {"id": "Biotinyl-5'-AMP", "formula": "none", "desciption": "none"}, {"id": "C00173", "formula": "none", "desciption": "none"}, {"id": "C00199", "formula": "none", "desciption": "none"}, {"id": "C00279", "formula": "none", "desciption": "none"}, {"id": "C00440", "formula": "none", "desciption": "none"}, {"id": "C00445", "formula": "none", "desciption": "none"}, {"id": "C00647", "formula": "none", "desciption": "none"}, {"id": "C00664", "formula": "none", "desciption": "none"}, {"id": "C01079", "formula": "none", "desciption": "none"}, {"id": "C01185", "formula": "none", "desciption": "none"}, {"id": "C01268", "formula": "none", "desciption": "none"}, {"id": "C01300", "formula": "none", "desciption": "none"}, {"id": "C01304", "formula": "none", "desciption": "none"}, {"id": "C03114", "formula": "none", "desciption": "none"}, {"id": "C03150", "formula": "none", "desciption": "none"}, {"id": "C03263", "formula": "none", "desciption": "none"}, {"id": "C03492", "formula": "none", "desciption": "none"}, {"id": "C03657", "formula": "none", "desciption": "none"}, {"id": "C03684", "formula": "none", "desciption": "none"}, {"id": "C03741", "formula": "none", "desciption": "none"}, {"id": "C04244", "formula": "none", "desciption": "none"}, {"id": "C04294", "formula": "none", "desciption": "none"}, {"id": "C04327", "formula": "none", "desciption": "none"}, {"id": "C04332", "formula": "none", "desciption": "none"}, {"id": "C04352", "formula": "none", "desciption": "none"}, {"id": "C04454", "formula": "none", "desciption": "none"}, {"id": "C04536", "formula": "none", "desciption": "none"}, {"id": "C04556", "formula": "none", "desciption": "none"}, {"id": "C04732", "formula": "none", "desciption": "none"}, {"id": "C04752", "formula": "none", "desciption": "none"}, {"id": "C04778", "formula": "none", "desciption": "none"}, {"id": "C04807", "formula": "none", "desciption": "none"}, {"id": "C04895", "formula": "none", "desciption": "none"}, {"id": "C05787", "formula": "none", "desciption": "none"}, {"id": "C05818", "formula": "none", "desciption": "none"}, {"id": "C05841", "formula": "none", "desciption": "none"}, {"id": "C05842", "formula": "none", "desciption": "none"}, {"id": "C05843", "formula": "none", "desciption": "none"}, {"id": "C05848", "formula": "none", "desciption": "none"}, {"id": "C05922", "formula": "none", "desciption": "none"}, {"id": "C05923", "formula": "none", "desciption": "none"}, {"id": "C05925", "formula": "none", "desciption": "none"}, {"id": "C06054", "formula": "none", "desciption": "none"}, {"id": "C06055", "formula": "none", "desciption": "none"}, {"id": "C06148", "formula": "none", "desciption": "none"}, {"id": "C06503", "formula": "none", "desciption": "none"}, {"id": "C06504", "formula": "none", "desciption": "none"}, {"id": "C06505", "formula": "none", "desciption": "none"}, {"id": "C06506", "formula": "none", "desciption": "none"}, {"id": "C06509", "formula": "none", "desciption": "none"}, {"id": "C06510", "formula": "none", "desciption": "none"}, {"id": "C07335", "formula": "none", "desciption": "none"}, {"id": "C11437", "formula": "none", "desciption": "none"}, {"id": "C11638", "formula": "none", "desciption": "none"}, {"id": "C11831", "formula": "none", "desciption": "none"}, {"id": "C13309", "formula": "none", "desciption": "none"}, {"id": "C15522", "formula": "none", "desciption": "none"}, {"id": "C15547", "formula": "none", "desciption": "none"}, {"id": "C15556", "formula": "none", "desciption": "none"}, {"id": "C15563", "formula": "none", "desciption": "none"}, {"id": "C15810", "formula": "none", "desciption": "none"}, {"id": "C15812", "formula": "none", "desciption": "none"}, {"id": "C15813", "formula": "none", "desciption": "none"}, {"id": "C15814", "formula": "none", "desciption": "none"}, {"id": "C15882", "formula": "none", "desciption": "none"}, {"id": "C15883", "formula": "none", "desciption": "none"}, {"id": "C15996", "formula": "none", "desciption": "none"}, {"id": "C16236", "formula": "none", "desciption": "none"}, {"id": "C16237", "formula": "none", "desciption": "none"}, {"id": "C16519", "formula": "none", "desciption": "none"}, {"id": "C16540", "formula": "none", "desciption": "none"}, {"id": "C16675", "formula": "none", "desciption": "none"}, {"id": "C16677", "formula": "none", "desciption": "none"}, {"id": "C17552", "formula": "none", "desciption": "none"}, {"id": "C17554", "formula": "none", "desciption": "none"}, {"id": "C17559", "formula": "none", "desciption": "none"}, {"id": "C17560", "formula": "none", "desciption": "none"}, {"id": "C17561", "formula": "none", "desciption": "none"}, {"id": "C17562", "formula": "none", "desciption": "none"}, {"id": "C18151", "formula": "none", "desciption": "none"}, {"id": "C18910", "formula": "none", "desciption": "none"}, {"id": "C18911", "formula": "none", "desciption": "none"}, {"id": "C19673", "formula": "none", "desciption": "none"}, {"id": "C19846", "formula": "none", "desciption": "none"}, {"id": "C19848", "formula": "none", "desciption": "none"}, {"id": "C19871", "formula": "none", "desciption": "none"}, {"id": "C20239", "formula": "none", "desciption": "none"}, {"id": "C20246", "formula": "none", "desciption": "none"}, {"id": "C20248", "formula": "none", "desciption": "none"}, {"id": "C20264", "formula": "none", "desciption": "none"}, {"id": "C20267", "formula": "none", "desciption": "none"}, {"id": "C20372", "formula": "none", "desciption": "none"}, {"id": "C20373", "formula": "none", "desciption": "none"}, {"id": "C20374", "formula": "none", "desciption": "none"}, {"id": "C20375", "formula": "none", "desciption": "none"}, {"id": "C20376", "formula": "none", "desciption": "none"}, {"id": "C20377", "formula": "none", "desciption": "none"}, {"id": "C20378", "formula": "none", "desciption": "none"}, {"id": "C20566", "formula": "none", "desciption": "none"}, {"id": "C20567", "formula": "none", "desciption": "none"}, {"id": "C20784", "formula": "none", "desciption": "none"}, {"id": "C21310", "formula": "none", "desciption": "none"}, {"id": "C21640", "formula": "none", "desciption": "none"}, {"id": "Calomide", "formula": "none", "desciption": "none"}, {"id": "Cbl", "formula": "none", "desciption": "none"}, {"id": "Chlorophyll_a", "formula": "none", "desciption": "none"}, {"id": "Chlorophyll_b", "formula": "none", "desciption": "none"}, {"id": "Chlorophyllide", "formula": "none", "desciption": "none"}, {"id": "Chlorophyllide_b", "formula": "none", "desciption": "none"}, {"id": "Chorismate", "formula": "none", "desciption": "none"}, {"id": "CoA", "formula": "none", "desciption": "none"}, {"id": "Cobalt-factor_II", "formula": "none", "desciption": "none"}, {"id": "Cobalt-factor_III", "formula": "none", "desciption": "none"}, {"id": "Cobalt-precorrin-8", "formula": "none", "desciption": "none"}, {"id": "Cobalt-precorrin_3", "formula": "none", "desciption": "none"}, {"id": "Cobalt-precorrin_4", "formula": "none", "desciption": "none"}, {"id": "Cobalt-precorrin_5A", "formula": "none", "desciption": "none"}, {"id": "Cobalt-precorrin_5B", "formula": "none", "desciption": "none"}, {"id": "Cobalt-precorrin_6", "formula": "none", "desciption": "none"}, {"id": "Cobalt-precorrin_6B", "formula": "none", "desciption": "none"}, {"id": "Cobalt-precorrin_7", "formula": "none", "desciption": "none"}, {"id": "Cobyrinate", "formula": "none", "desciption": "none"}, {"id": "Coproheme_III", "formula": "none", "desciption": "none"}, {"id": "Coproporphyrin_III", "formula": "none", "desciption": "none"}, {"id": "Coproporphyrinogen_I", "formula": "none", "desciption": "none"}, {"id": "D-Urobilinogen", "formula": "none", "desciption": "none"}, {"id": "DAPA", "formula": "none", "desciption": "none"}, {"id": "DPN", "formula": "none", "desciption": "none"}, {"id": "Deamido-NAD", "formula": "none", "desciption": "none"}, {"id": "Dephospho-CoA", "formula": "none", "desciption": "none"}, {"id": "Dethiobiotin", "formula": "none", "desciption": "none"}, {"id": "Dihydrobiopterin", "formula": "none", "desciption": "none"}, {"id": "Dihydrofolate", "formula": "none", "desciption": "none"}, {"id": "Dihydroneopterin", "formula": "none", "desciption": "none"}, {"id": "Dihydropteroate", "formula": "none", "desciption": "none"}, {"id": "FAD", "formula": "none", "desciption": "none"}, {"id": "FADH2", "formula": "none", "desciption": "none"}, {"id": "FAMP", "formula": "none", "desciption": "none"}, {"id": "FMN", "formula": "none", "desciption": "none"}, {"id": "FMNH2", "formula": "none", "desciption": "none"}, {"id": "Folate", "formula": "none", "desciption": "none"}, {"id": "GTP", "formula": "none", "desciption": "none"}, {"id": "Glutamate", "formula": "none", "desciption": "none"}, {"id": "Gly", "formula": "none", "desciption": "none"}, {"id": "H2Dtpp-mP", "formula": "none", "desciption": "none"}, {"id": "Haem", "formula": "none", "desciption": "none"}, {"id": "Heme_A", "formula": "none", "desciption": "none"}, {"id": "Heme_O", "formula": "none", "desciption": "none"}, {"id": "Holo-[carboxylase]", "formula": "none", "desciption": "none"}, {"id": "Hydrogenobyrinate", "formula": "none", "desciption": "none"}, {"id": "Hydroxymethylbilane", "formula": "none", "desciption": "none"}, {"id": "Iminoglycine", "formula": "none", "desciption": "none"}, {"id": "Iminosuccinate", "formula": "none", "desciption": "none"}, {"id": "Isochorismate", "formula": "none", "desciption": "none"}, {"id": "KAPA", "formula": "none", "desciption": "none"}, {"id": "L-Asp", "formula": "none", "desciption": "none"}, {"id": "L-Cysteine", "formula": "none", "desciption": "none"}, {"id": "L-Glutamyl-tRNA(Glu)", "formula": "none", "desciption": "none"}, {"id": "L-Lysine", "formula": "none", "desciption": "none"}, {"id": "Leucovorin", "formula": "none", "desciption": "none"}, {"id": "Lipoyl-ACP", "formula": "none", "desciption": "none"}, {"id": "Lipoyl-AMP", "formula": "none", "desciption": "none"}, {"id": "Malonyl-[acp]", "formula": "none", "desciption": "none"}, {"id": "Mg-protoporphyrin_IX", "formula": "none", "desciption": "none"}, {"id": "Molybdenum_cofactor", "formula": "none", "desciption": "none"}, {"id": "NMN", "formula": "none", "desciption": "none"}, {"id": "Niacin", "formula": "none", "desciption": "none"}, {"id": "Octanoyl-[acp]", "formula": "none", "desciption": "none"}, {"id": "PLP", "formula": "none", "desciption": "none"}, {"id": "PM", "formula": "none", "desciption": "none"}, {"id": "Pantoate", "formula": "none", "desciption": "none"}, {"id": "Pantothenate", "formula": "none", "desciption": "none"}, {"id": "Phosphopantetheine", "formula": "none", "desciption": "none"}, {"id": "Phytyl_diphosphate", "formula": "none", "desciption": "none"}, {"id": "Pimelate", "formula": "none", "desciption": "none"}, {"id": "Pimeloyl-CoA", "formula": "none", "desciption": "none"}, {"id": "Pimelyl-[acp]", "formula": "none", "desciption": "none"}, {"id": "Porphobilinogen", "formula": "none", "desciption": "none"}, {"id": "Precorrin_2", "formula": "none", "desciption": "none"}, {"id": "Precorrin_3A", "formula": "none", "desciption": "none"}, {"id": "Precorrin_3B", "formula": "none", "desciption": "none"}, {"id": "Precorrin_4", "formula": "none", "desciption": "none"}, {"id": "Precorrin_5", "formula": "none", "desciption": "none"}, {"id": "Precorrin_6A", "formula": "none", "desciption": "none"}, {"id": "Precorrin_6B", "formula": "none", "desciption": "none"}, {"id": "Precorrin_8", "formula": "none", "desciption": "none"}, {"id": "Protochlorophyllide", "formula": "none", "desciption": "none"}, {"id": "Protoporphyrin", "formula": "none", "desciption": "none"}, {"id": "Pyridoxal", "formula": "none", "desciption": "none"}, {"id": "Pyridoxine_phosphate", "formula": "none", "desciption": "none"}, {"id": "Pyridoxol", "formula": "none", "desciption": "none"}, {"id": "Q", "formula": "none", "desciption": "none"}, {"id": "Quinolinate", "formula": "none", "desciption": "none"}, {"id": "Reduced_riboflavin", "formula": "none", "desciption": "none"}, {"id": "Retinal", "formula": "none", "desciption": "none"}, {"id": "Retinol", "formula": "none", "desciption": "none"}, {"id": "SHCHC", "formula": "none", "desciption": "none"}, {"id": "Sepiapterin", "formula": "none", "desciption": "none"}, {"id": "Siroheme", "formula": "none", "desciption": "none"}, {"id": "Sirohydrochlorin", "formula": "none", "desciption": "none"}, {"id": "Succinylbenzoate", "formula": "none", "desciption": "none"}, {"id": "Succinylbenzoyl-CoA", "formula": "none", "desciption": "none"}, {"id": "THF", "formula": "none", "desciption": "none"}, {"id": "TMP", "formula": "none", "desciption": "none"}, {"id": "TPN", "formula": "none", "desciption": "none"}, {"id": "TPP", "formula": "none", "desciption": "none"}, {"id": "Tetrahydrobiopterin", "formula": "none", "desciption": "none"}, {"id": "Thiamin_triphosphate", "formula": "none", "desciption": "none"}, {"id": "Toxopyrimidine", "formula": "none", "desciption": "none"}, {"id": "Tretin_M", "formula": "none", "desciption": "none"}, {"id": "Tyrosine", "formula": "none", "desciption": "none"}, {"id": "Uroporphyrinogen_I", "formula": "none", "desciption": "none"}, {"id": "Uroporphyrinogen_III", "formula": "none", "desciption": "none"}, {"id": "Vitamin_B12r", "formula": "none", "desciption": "none"}, {"id": "Vitamin_B2", "formula": "none", "desciption": "none"}, {"id": "Vitamin_E", "formula": "none", "desciption": "none"}, {"id": "Vitamin_K1", "formula": "none", "desciption": "none"}, {"id": "Vitamin_K2", "formula": "none", "desciption": "none"}, {"id": "Vitamin_PP", "formula": "none", "desciption": "none"}, {"id": "[Enzyme]-cysteine", "formula": "none", "desciption": "none"}, {"id": "alpha-Ribazole", "formula": "none", "desciption": "none"}, {"id": "beta-Alanine", "formula": "none", "desciption": "none"}, {"id": "beta-Carotene", "formula": "none", "desciption": "none"}, {"id": "beta-Tocopherol", "formula": "none", "desciption": "none"}, {"id": "cPMP", "formula": "none", "desciption": "none"}, {"id": "cThz-P", "formula": "none", "desciption": "none"}, {"id": "delta-Tocopherol", "formula": "none", "desciption": "none"}, {"id": "gamma-Tocopherol", "formula": "none", "desciption": "none"}], "links": [{"nodes": ["Phytyl_diphosphate", "C15882"], "directed": true, "reaction_id": "R07500", "reaction_name": "rn:R07500", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C15882", "C15883"], "directed": true, "reaction_id": "R07501", "reaction_name": "rn:R07501", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C15883", "gamma-Tocopherol"], "directed": true, "reaction_id": "R07502", "reaction_name": "rn:R07502", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["gamma-Tocopherol", "Vitamin_E"], "directed": true, "reaction_id": "R07236", "reaction_name": "rn:R07236", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["delta-Tocopherol", "beta-Tocopherol"], "directed": true, "reaction_id": "R07504", "reaction_name": "rn:R07504", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["delta-Tocopherol", "C15882"], "directed": true, "reaction_id": "R07503", "reaction_name": "rn:R07503", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["GTP", "C01304"], "directed": true, "reaction_id": "R00425", "reaction_name": "rn:R00425", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C01304", "C01268"], "directed": true, "reaction_id": "R03459", "reaction_name": "rn:R03459", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C01268", "C04454"], "directed": true, "reaction_id": "R03458", "reaction_name": "rn:R03458", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04454", "C04732"], "directed": true, "reaction_id": "R07280", "reaction_name": "rn:R07280", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04332", "Vitamin_B2"], "directed": true, "reaction_id": "R00066", "reaction_name": "rn:R00066", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Vitamin_B2", "FMN"], "directed": true, "reaction_id": "R00548", "reaction_name": "rn:R00548 rn:R00549 rn:R00550 rn:R08574", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["FAD", "FMN"], "directed": true, "reaction_id": "R00160", "reaction_name": "rn:R00160 rn:R00161", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pyridoxal", "Pyridoxol"], "directed": true, "reaction_id": "R01708", "reaction_name": "rn:R01708 rn:R01711", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pyridoxal", "PM"], "directed": true, "reaction_id": "R01710", "reaction_name": "rn:R01710", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pyridoxol", "Pyridoxine_phosphate"], "directed": true, "reaction_id": "R01909", "reaction_name": "rn:R01909 rn:R01911", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pyridoxine_phosphate", "PLP"], "directed": true, "reaction_id": "R00278", "reaction_name": "rn:R00278", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["PLP", "C00647"], "directed": true, "reaction_id": "R00277", "reaction_name": "rn:R00277", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C00647", "PM"], "directed": true, "reaction_id": "R02493", "reaction_name": "rn:R02493 rn:R02494", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pyridoxal", "PLP"], "directed": true, "reaction_id": "R00173", "reaction_name": "rn:R00173 rn:R00174", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pyridoxal", "4-Pyridoxate"], "directed": true, "reaction_id": "R01709", "reaction_name": "rn:R01709", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["L-Asp", "Iminosuccinate"], "directed": true, "reaction_id": "R00481", "reaction_name": "rn:R00481 rn:R07407 rn:R07410", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Iminosuccinate", "Quinolinate"], "directed": true, "reaction_id": "R04292", "reaction_name": "rn:R04292", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Quinolinate", "C01185"], "directed": true, "reaction_id": "R03348", "reaction_name": "rn:R03348", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C01185", "Deamido-NAD"], "directed": true, "reaction_id": "R03004", "reaction_name": "rn:R03004 rn:R03005", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Deamido-NAD", "DPN"], "directed": true, "reaction_id": "R00189", "reaction_name": "rn:R00189 rn:R00257", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["DPN", "Vitamin_PP"], "directed": true, "reaction_id": "R00102", "reaction_name": "rn:R00102", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Niacin", "Vitamin_PP"], "directed": true, "reaction_id": "R01268", "reaction_name": "rn:R01268", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C01185", "Niacin"], "directed": true, "reaction_id": "R01724", "reaction_name": "rn:R01724", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["DPN", "TPN"], "directed": true, "reaction_id": "R00104", "reaction_name": "rn:R00104 rn:R00112", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Vitamin_PP", "1-Methylnicotinamide"], "directed": true, "reaction_id": "R01269", "reaction_name": "rn:R01269", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["1-Methylnicotinamide", "C05842"], "directed": true, "reaction_id": "R08408", "reaction_name": "rn:R08408", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["2-Ketovaline", "2-Dehydropantoate"], "directed": true, "reaction_id": "R01226", "reaction_name": "rn:R01226", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["2-Dehydropantoate", "Pantoate"], "directed": true, "reaction_id": "R02472", "reaction_name": "rn:R02472", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pantothenate", "C03492"], "directed": true, "reaction_id": "R03018", "reaction_name": "rn:R03018", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C03492", "C04352"], "directed": true, "reaction_id": "R04230", "reaction_name": "rn:R04230 rn:R04231", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04352", "Phosphopantetheine"], "directed": true, "reaction_id": "R03269", "reaction_name": "rn:R03269", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Phosphopantetheine", "Dephospho-CoA"], "directed": true, "reaction_id": "R03035", "reaction_name": "rn:R03035 rn:R03036", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Dephospho-CoA", "CoA"], "directed": true, "reaction_id": "R00130", "reaction_name": "rn:R00130", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Biocytin", "L-Lysine"], "directed": true, "reaction_id": "R01077", "reaction_name": "rn:R01077", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Biotin", "Dethiobiotin"], "directed": true, "reaction_id": "R01078", "reaction_name": "rn:R01078", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Dethiobiotin", "DAPA"], "directed": true, "reaction_id": "R03182", "reaction_name": "rn:R03182", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["KAPA", "DAPA"], "directed": true, "reaction_id": "R03231", "reaction_name": "rn:R03231 rn:R10699", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pimeloyl-CoA", "KAPA"], "directed": true, "reaction_id": "R03210", "reaction_name": "rn:R03210", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pimeloyl-CoA", "Pimelate"], "directed": true, "reaction_id": "R03209", "reaction_name": "rn:R03209", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Biotin", "Biotinyl-5'-AMP"], "directed": true, "reaction_id": "R01074", "reaction_name": "rn:R01074", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Biotinyl-5'-AMP", "Holo-[carboxylase]"], "directed": true, "reaction_id": "R05145", "reaction_name": "rn:R05145", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C16236", "Octanoyl-[acp]"], "directed": true, "reaction_id": "R07766", "reaction_name": "rn:R07766", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Lipoyl-ACP", "Octanoyl-[acp]"], "directed": true, "reaction_id": "R07768", "reaction_name": "rn:R07768", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Lipoyl-ACP", "C16237"], "directed": true, "reaction_id": "R07769", "reaction_name": "rn:R07769", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C16237", "C16236"], "directed": true, "reaction_id": "R07767", "reaction_name": "rn:R07767", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Lipoyl-AMP", "C16237"], "directed": true, "reaction_id": "R07771", "reaction_name": "rn:R07771", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["GTP", "C05922"], "directed": true, "reaction_id": "R00428", "reaction_name": "rn:R00428", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C05922", "C05923"], "directed": true, "reaction_id": "R05046", "reaction_name": "rn:R05046", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C05923", "C06148"], "directed": true, "reaction_id": "R05048", "reaction_name": "rn:R05048", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C06148", "C04895"], "directed": true, "reaction_id": "R04639", "reaction_name": "rn:R04639", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04895", "Dihydroneopterin"], "directed": true, "reaction_id": "R04620", "reaction_name": "rn:R04620", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Dihydroneopterin", "C01300"], "directed": true, "reaction_id": "R03504", "reaction_name": "rn:R03504", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C01300", "C04807"], "directed": true, "reaction_id": "R03503", "reaction_name": "rn:R03503", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Dihydropteroate", "Dihydrofolate"], "directed": true, "reaction_id": "R02237", "reaction_name": "rn:R02237", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["THF", "Dihydrofolate"], "directed": true, "reaction_id": "R00936", "reaction_name": "rn:R00936 rn:R00939", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Dihydrofolate", "Folate"], "directed": true, "reaction_id": "R02235", "reaction_name": "rn:R02235 rn:R02236", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Folate", "THF"], "directed": true, "reaction_id": "R00937", "reaction_name": "rn:R00937 rn:R00940", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["ABEE", "Dihydropteroate"], "directed": true, "reaction_id": "R03066", "reaction_name": "rn:R03066", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["ABEE", "Dihydropteroate"], "directed": true, "reaction_id": "R03067", "reaction_name": "rn:R03067", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["THF", "10-Formyl-THF"], "directed": true, "reaction_id": "R00943", "reaction_name": "rn:R00943 rn:R04325 rn:R04560", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C00445", "5,10-Methylene-THF"], "directed": true, "reaction_id": "R01218", "reaction_name": "rn:R01218 rn:R01220", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["5,10-Methylene-THF", "C00440"], "directed": true, "reaction_id": "R01217", "reaction_name": "rn:R01217 rn:R01224 rn:R07168", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["THF", "5,10-Methylene-THF"], "directed": true, "reaction_id": "R00945", "reaction_name": "rn:R00945 rn:R01225 rn:R04125 rn:R06613", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Leucovorin", "C00445"], "directed": true, "reaction_id": "R02301", "reaction_name": "rn:R02301", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["THF", "Leucovorin"], "directed": true, "reaction_id": "R03189", "reaction_name": "rn:R03189", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C00445", "C00664"], "directed": true, "reaction_id": "R02302", "reaction_name": "rn:R02302", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["THF", "C00664"], "directed": true, "reaction_id": "R02287", "reaction_name": "rn:R02287 rn:R02729", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Retinal", "Tretin_M"], "directed": true, "reaction_id": "R02123", "reaction_name": "rn:R02123 rn:R02125", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Retinal", "beta-Carotene"], "directed": true, "reaction_id": "R00032", "reaction_name": "rn:R00032", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Retinol", "Retinal"], "directed": true, "reaction_id": "R02124", "reaction_name": "rn:R02124 rn:R08379", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Gly", "5-Aminolevulinate"], "directed": true, "reaction_id": "R00830", "reaction_name": "rn:R00830", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["5-Aminolevulinate", "Porphobilinogen"], "directed": true, "reaction_id": "R00036", "reaction_name": "rn:R00036", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Porphobilinogen", "Hydroxymethylbilane"], "directed": true, "reaction_id": "R00084", "reaction_name": "rn:R00084", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Hydroxymethylbilane", "Uroporphyrinogen_III"], "directed": true, "reaction_id": "R03165", "reaction_name": "rn:R03165", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Uroporphyrinogen_III", "C03263"], "directed": true, "reaction_id": "R03197", "reaction_name": "rn:R03197", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C03263", "C01079"], "directed": true, "reaction_id": "R03220", "reaction_name": "rn:R03220 rn:R06895", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C01079", "Protoporphyrin"], "directed": true, "reaction_id": "R03222", "reaction_name": "rn:R03222 rn:R09489", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Protoporphyrin", "Haem"], "directed": true, "reaction_id": "R00310", "reaction_name": "rn:R00310", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Protoporphyrin", "Mg-protoporphyrin_IX"], "directed": true, "reaction_id": "R03877", "reaction_name": "rn:R03877", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Mg-protoporphyrin_IX", "C04536"], "directed": true, "reaction_id": "R04237", "reaction_name": "rn:R04237", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C11831", "Protochlorophyllide"], "directed": true, "reaction_id": "R06271", "reaction_name": "rn:R06271 rn:R06896 rn:R11519", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Protochlorophyllide", "Chlorophyllide"], "directed": true, "reaction_id": "R03845", "reaction_name": "rn:R03845 rn:R06282", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Chlorophyllide", "Chlorophyll_a"], "directed": true, "reaction_id": "R05618", "reaction_name": "rn:R05618 rn:R06284", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Uroporphyrinogen_III", "Precorrin_2"], "directed": true, "reaction_id": "R03194", "reaction_name": "rn:R03194", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Precorrin_2", "Sirohydrochlorin"], "directed": true, "reaction_id": "R03947", "reaction_name": "rn:R03947", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Sirohydrochlorin", "Siroheme"], "directed": true, "reaction_id": "R02864", "reaction_name": "rn:R02864", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Precorrin_2", "Precorrin_3A"], "directed": true, "reaction_id": "R03948", "reaction_name": "rn:R03948", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Precorrin_3B", "Precorrin_3A"], "directed": true, "reaction_id": "R05217", "reaction_name": "rn:R05217", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Precorrin_3B", "Precorrin_4"], "directed": true, "reaction_id": "R05180", "reaction_name": "rn:R05180", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Precorrin_4", "Precorrin_5"], "directed": true, "reaction_id": "R05181", "reaction_name": "rn:R05181", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Precorrin_6A", "Precorrin_5"], "directed": true, "reaction_id": "R05219", "reaction_name": "rn:R05219", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Precorrin_6B", "Precorrin_6A"], "directed": true, "reaction_id": "R05150", "reaction_name": "rn:R05150", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Precorrin_6B", "Precorrin_8"], "directed": true, "reaction_id": "R05149", "reaction_name": "rn:R05149", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Precorrin_8", "Hydrogenobyrinate"], "directed": true, "reaction_id": "R05177", "reaction_name": "rn:R05177", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Hydrogenobyrinate", "C06503"], "directed": true, "reaction_id": "R05224", "reaction_name": "rn:R05224", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C06503", "C06504"], "directed": true, "reaction_id": "R05227", "reaction_name": "rn:R05227", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C06504", "C06505"], "directed": true, "reaction_id": "R05218", "reaction_name": "rn:R05218", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C06505", "C06506"], "directed": true, "reaction_id": "R05220", "reaction_name": "rn:R05220", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Adenosylcobyric_acid", "C06506"], "directed": true, "reaction_id": "R05225", "reaction_name": "rn:R05225", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Adenosylcobyric_acid", "Adenosylcobinamide"], "directed": true, "reaction_id": "R05226", "reaction_name": "rn:R05226 rn:R07302", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Adenosylcobinamide", "C06509"], "directed": true, "reaction_id": "R05221", "reaction_name": "rn:R05221 rn:R06558", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C06509", "C06510"], "directed": true, "reaction_id": "R05222", "reaction_name": "rn:R05222", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["alpha-Ribazole", "C04778"], "directed": true, "reaction_id": "R04594", "reaction_name": "rn:R04594", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C03114", "C04778"], "directed": true, "reaction_id": "R04148", "reaction_name": "rn:R04148", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["5-Aminolevulinate", "C03741"], "directed": true, "reaction_id": "R02272", "reaction_name": "rn:R02272", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["L-Glutamyl-tRNA(Glu)", "C03741"], "directed": true, "reaction_id": "R04109", "reaction_name": "rn:R04109", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Glutamate", "L-Glutamyl-tRNA(Glu)"], "directed": true, "reaction_id": "R05578", "reaction_name": "rn:R05578", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["alpha-Ribazole", "Calomide"], "directed": true, "reaction_id": "R05223", "reaction_name": "rn:R05223", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Adenosylcobyric_acid", "C06509"], "directed": true, "reaction_id": "R06529", "reaction_name": "rn:R06529", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Chorismate", "Isochorismate"], "directed": true, "reaction_id": "R01717", "reaction_name": "rn:R01717", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Isochorismate", "C16519"], "directed": true, "reaction_id": "R08165", "reaction_name": "rn:R08165", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C16519", "SHCHC"], "directed": true, "reaction_id": "R08166", "reaction_name": "rn:R08166", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Succinylbenzoate", "SHCHC"], "directed": true, "reaction_id": "R04031", "reaction_name": "rn:R04031", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Succinylbenzoate", "Succinylbenzoyl-CoA"], "directed": true, "reaction_id": "R04030", "reaction_name": "rn:R04030", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Succinylbenzoyl-CoA", "C15547"], "directed": true, "reaction_id": "R07263", "reaction_name": "rn:R07263", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C15547", "C03657"], "directed": true, "reaction_id": "R07262", "reaction_name": "rn:R07262", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C03657", "C05818"], "directed": true, "reaction_id": "R05617", "reaction_name": "rn:R05617", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C13309", "C03657"], "directed": true, "reaction_id": "R06858", "reaction_name": "rn:R06858", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Chorismate", "4-Hydroxybenzoate"], "directed": true, "reaction_id": "R01302", "reaction_name": "rn:R01302", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C05818", "Vitamin_K2"], "directed": true, "reaction_id": "R04993", "reaction_name": "rn:R04993", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C13309", "Vitamin_K1"], "directed": true, "reaction_id": "R06859", "reaction_name": "rn:R06859", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["beta-Alanine", "Pantothenate"], "directed": true, "reaction_id": "R02473", "reaction_name": "rn:R02473 rn:R02474", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C00279", "4-Phosphoerythronate"], "directed": true, "reaction_id": "R01825", "reaction_name": "rn:R01825", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["4-Phosphoerythronate", "C06054"], "directed": true, "reaction_id": "R04210", "reaction_name": "rn:R04210", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C06054", "C06055"], "directed": true, "reaction_id": "R05085", "reaction_name": "rn:R05085", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C07335", "C06055"], "directed": true, "reaction_id": "R05681", "reaction_name": "rn:R05681", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C11638", "Pyridoxine_phosphate"], "directed": true, "reaction_id": "R05838", "reaction_name": "rn:R05838", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["1-Methylnicotinamide", "C05843"], "directed": true, "reaction_id": "R04085", "reaction_name": "rn:R04085", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04895", "C03684"], "directed": true, "reaction_id": "R04286", "reaction_name": "rn:R04286", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C03684", "C04244"], "directed": true, "reaction_id": "R04285", "reaction_name": "rn:R04285", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04244", "Tetrahydrobiopterin"], "directed": true, "reaction_id": "R01813", "reaction_name": "rn:R01813", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Tetrahydrobiopterin", "Dihydrobiopterin"], "directed": true, "reaction_id": "R01793", "reaction_name": "rn:R01793 rn:R01794", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["THF", "C00445"], "directed": true, "reaction_id": "R04326", "reaction_name": "rn:R04326", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["4-Hydroxybenzoate", "C05848"], "directed": true, "reaction_id": "R05000", "reaction_name": "rn:R05000", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C05848", "2-Polyprenylphenol"], "directed": true, "reaction_id": "R04985", "reaction_name": "rn:R04985", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["2-Polyprenylphenol", "3-Polyprenylcatechol"], "directed": true, "reaction_id": "R08768", "reaction_name": "rn:R08768", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C17554", "C17559"], "directed": true, "reaction_id": "R08771", "reaction_name": "rn:R08771", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["3-Polyprenylcatechol", "C17552"], "directed": true, "reaction_id": "R08769", "reaction_name": "rn:R08769", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C17552", "C17560"], "directed": true, "reaction_id": "R08773", "reaction_name": "rn:R08773", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C17560", "C17561"], "directed": true, "reaction_id": "R08774", "reaction_name": "rn:R08774", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C17561", "C17562"], "directed": true, "reaction_id": "R08775", "reaction_name": "rn:R08775", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C17562", "Q"], "directed": true, "reaction_id": "R08781", "reaction_name": "rn:R08781", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C18151", "Chlorophyll_a"], "directed": true, "reaction_id": "R09071", "reaction_name": "rn:R09071", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C18151", "Chlorophyll_b"], "directed": true, "reaction_id": "R09069", "reaction_name": "rn:R09069 rn:R09070", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Chlorophyll_b", "Chlorophyllide_b"], "directed": true, "reaction_id": "R09067", "reaction_name": "rn:R09067 rn:R09068", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C16540", "Chlorophyllide_b"], "directed": true, "reaction_id": "R08914", "reaction_name": "rn:R08914 rn:R08915 rn:R08204", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Chlorophyllide", "C16540"], "directed": true, "reaction_id": "R08203", "reaction_name": "rn:R08203", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Sirohydrochlorin", "Cobalt-factor_II"], "directed": true, "reaction_id": "R05807", "reaction_name": "rn:R05807", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobalt-factor_II", "Cobalt-factor_III"], "directed": true, "reaction_id": "R05808", "reaction_name": "rn:R05808", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobalt-precorrin_3", "Cobalt-precorrin_4"], "directed": true, "reaction_id": "R05809", "reaction_name": "rn:R05809", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobalt-precorrin_4", "Cobalt-precorrin_5A"], "directed": true, "reaction_id": "R05810", "reaction_name": "rn:R05810", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobalt-precorrin_5A", "Cobalt-precorrin_5B"], "directed": true, "reaction_id": "R07772", "reaction_name": "rn:R07772", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobalt-precorrin_5B", "Cobalt-precorrin_6"], "directed": true, "reaction_id": "R07773", "reaction_name": "rn:R07773", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobalt-precorrin_6", "Cobalt-precorrin_6B"], "directed": true, "reaction_id": "R05812", "reaction_name": "rn:R05812", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobalt-precorrin_6B", "Cobalt-precorrin_7"], "directed": true, "reaction_id": "R07774", "reaction_name": "rn:R07774", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobalt-precorrin_7", "Cobalt-precorrin-8"], "directed": true, "reaction_id": "R07775", "reaction_name": "rn:R07775", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobalt-precorrin-8", "Cobyrinate"], "directed": true, "reaction_id": "R05814", "reaction_name": "rn:R05814", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobyrinate", "C06504"], "directed": true, "reaction_id": "R05815", "reaction_name": "rn:R05815", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C15556", "C04332"], "directed": true, "reaction_id": "R04457", "reaction_name": "rn:R04457", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C00199", "C15556"], "directed": true, "reaction_id": "R07281", "reaction_name": "rn:R07281", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["GTP", "C15563"], "directed": true, "reaction_id": "R07306", "reaction_name": "rn:R07306", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C15563", "C01304"], "directed": true, "reaction_id": "R09374", "reaction_name": "rn:R09374", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C01304", "C18910"], "directed": true, "reaction_id": "R09375", "reaction_name": "rn:R09375", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C18910", "C04454"], "directed": true, "reaction_id": "R09377", "reaction_name": "rn:R09377", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["FMNH2", "FMN"], "directed": true, "reaction_id": "R05705", "reaction_name": "rn:R05705 rn:R05706", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["FMNH2", "C03114"], "directed": true, "reaction_id": "R09083", "reaction_name": "rn:R09083", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pantoate", "C18911"], "directed": true, "reaction_id": "R09378", "reaction_name": "rn:R09378", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C18911", "C03492"], "directed": true, "reaction_id": "R09379", "reaction_name": "rn:R09379", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["GTP", "C21310"], "directed": true, "reaction_id": "R09394", "reaction_name": "rn:R09394", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C21310", "cPMP"], "directed": true, "reaction_id": "R11372", "reaction_name": "rn:R11372", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Pimelyl-[acp]", "KAPA"], "directed": true, "reaction_id": "R10124", "reaction_name": "rn:R10124", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C00173", "Pimelyl-[acp]"], "directed": true, "reaction_id": "R10123", "reaction_name": "rn:R10123", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C19846", "Pimelyl-[acp]"], "directed": true, "reaction_id": "R09725", "reaction_name": "rn:R09725", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20378", "C19846"], "directed": true, "reaction_id": "R10122", "reaction_name": "rn:R10122", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20377", "C20378"], "directed": true, "reaction_id": "R10121", "reaction_name": "rn:R10121", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20376", "C20377"], "directed": true, "reaction_id": "R10120", "reaction_name": "rn:R10120", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C19673", "C20372"], "directed": true, "reaction_id": "R10115", "reaction_name": "rn:R10115", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20372", "C20373"], "directed": true, "reaction_id": "R10116", "reaction_name": "rn:R10116", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20373", "C20374"], "directed": true, "reaction_id": "R10117", "reaction_name": "rn:R10117", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20374", "C20375"], "directed": true, "reaction_id": "R10118", "reaction_name": "rn:R10118", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20375", "C20376"], "directed": true, "reaction_id": "R10119", "reaction_name": "rn:R10119", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Biotin_sulfoxide", "Biotin"], "directed": true, "reaction_id": "R10127", "reaction_name": "rn:R10127", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Malonyl-[acp]", "C19673"], "directed": true, "reaction_id": "R09543", "reaction_name": "rn:R09543", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04895", "C20239"], "directed": true, "reaction_id": "R09959", "reaction_name": "rn:R09959", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C16675", "C15996"], "directed": true, "reaction_id": "R07605", "reaction_name": "rn:R07605", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20248", "C15996"], "directed": true, "reaction_id": "R09978", "reaction_name": "rn:R09978", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20239", "C20248"], "directed": true, "reaction_id": "R10002", "reaction_name": "rn:R10002", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["AIR", "C04556"], "directed": true, "reaction_id": "R03472", "reaction_name": "rn:R03472", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04556", "C04752"], "directed": true, "reaction_id": "R04509", "reaction_name": "rn:R04509", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04752", "TMP"], "directed": true, "reaction_id": "R03223", "reaction_name": "rn:R03223", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["TPP", "TMP"], "directed": true, "reaction_id": "R00615", "reaction_name": "rn:R00615 rn:R00617", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["TPP", "Thiamin_triphosphate"], "directed": true, "reaction_id": "R00616", "reaction_name": "rn:R00616 rn:R00618 rn:R11319", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Aneurin", "TMP"], "directed": true, "reaction_id": "R02134", "reaction_name": "rn:R02134 rn:R02135", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Aneurin", "C04294"], "directed": true, "reaction_id": "R02133", "reaction_name": "rn:R02133", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Toxopyrimidine", "C04556"], "directed": true, "reaction_id": "R03471", "reaction_name": "rn:R03471", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04294", "C04327"], "directed": true, "reaction_id": "R04448", "reaction_name": "rn:R04448", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["PLP", "C04556"], "directed": true, "reaction_id": "R10686", "reaction_name": "rn:R10686", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Aneurin", "TPP"], "directed": true, "reaction_id": "R00619", "reaction_name": "rn:R00619", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["cThz-P", "TMP"], "directed": true, "reaction_id": "R10712", "reaction_name": "rn:R10712", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20246", "cThz-P"], "directed": true, "reaction_id": "R09977", "reaction_name": "rn:R09977", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C15814", "C20246"], "directed": true, "reaction_id": "R10247", "reaction_name": "rn:R10247", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C15812", "C15814"], "directed": true, "reaction_id": "R07461", "reaction_name": "rn:R07461", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C15810", "C15813"], "directed": true, "reaction_id": "R07459", "reaction_name": "rn:R07459", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["[Enzyme]-cysteine", "C15812"], "directed": true, "reaction_id": "R07460", "reaction_name": "rn:R07460", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Tyrosine", "Iminoglycine"], "directed": true, "reaction_id": "R10246", "reaction_name": "rn:R10246", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Gly", "Iminoglycine"], "directed": true, "reaction_id": "R07463", "reaction_name": "rn:R07463", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Gly", "C20784"], "directed": true, "reaction_id": "R10685", "reaction_name": "rn:R10685 rn:R12026", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Tretin_M", "C16677"], "directed": true, "reaction_id": "R08392", "reaction_name": "rn:R08392", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C03150", "Vitamin_PP"], "directed": true, "reaction_id": "R02294", "reaction_name": "rn:R02294", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C03150", "NMN"], "directed": true, "reaction_id": "R02324", "reaction_name": "rn:R02324", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["NMN", "DPN"], "directed": true, "reaction_id": "R00103", "reaction_name": "rn:R00103 rn:R00137", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["NMN", "Vitamin_PP"], "directed": true, "reaction_id": "R01271", "reaction_name": "rn:R01271", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C05841", "Niacin"], "directed": true, "reaction_id": "R02295", "reaction_name": "rn:R02295", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C01185", "C05841"], "directed": true, "reaction_id": "R03347", "reaction_name": "rn:R03347", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["(R)-Lipoate", "C16237"], "directed": true, "reaction_id": "R11143", "reaction_name": "rn:R11143", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["FAMP", "C20267"], "directed": true, "reaction_id": "R11313", "reaction_name": "rn:R11313", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20267", "Toxopyrimidine"], "directed": true, "reaction_id": "R09993", "reaction_name": "rn:R09993", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["cPMP", "H2Dtpp-mP"], "directed": true, "reaction_id": "R09395", "reaction_name": "rn:R09395", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["H2Dtpp-mP", "C19848"], "directed": true, "reaction_id": "R09726", "reaction_name": "rn:R09726", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C19848", "Molybdenum_cofactor"], "directed": true, "reaction_id": "R09735", "reaction_name": "rn:R09735", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C03263", "Coproporphyrin_III"], "directed": true, "reaction_id": "R04178", "reaction_name": "rn:R04178", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Coproheme_III", "Coproporphyrin_III"], "directed": true, "reaction_id": "R11329", "reaction_name": "rn:R11329", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Coproheme_III", "Haem"], "directed": true, "reaction_id": "R11522", "reaction_name": "rn:R11522", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Uroporphyrinogen_I", "Coproporphyrinogen_I"], "directed": true, "reaction_id": "R04972", "reaction_name": "rn:R04972", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cbl", "Calomide"], "directed": true, "reaction_id": "R01492", "reaction_name": "rn:R01492", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Vitamin_B12r", "Aquacobalamin"], "directed": true, "reaction_id": "R00097", "reaction_name": "rn:R00097 rn:R00107", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Haem", "Heme_O"], "directed": true, "reaction_id": "R07411", "reaction_name": "rn:R07411", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Heme_O", "Heme_A"], "directed": true, "reaction_id": "R07412", "reaction_name": "rn:R07412", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Haem", "Biliverdin"], "directed": true, "reaction_id": "R00311", "reaction_name": "rn:R00311 rn:R11579", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Bilirubin", "Biliverdin"], "directed": true, "reaction_id": "R02391", "reaction_name": "rn:R02391 rn:R02393", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Bilirubin", "C05787"], "directed": true, "reaction_id": "R02389", "reaction_name": "rn:R02389", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["D-Urobilinogen", "C05787"], "directed": true, "reaction_id": "R04979", "reaction_name": "rn:R04979", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Reduced_riboflavin", "Vitamin_B2"], "directed": true, "reaction_id": "R05707", "reaction_name": "rn:R05707 rn:R09750", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["FADH2", "FAD"], "directed": true, "reaction_id": "R09520", "reaction_name": "rn:R09520 rn:R09748", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Cobalt-factor_III", "Cobalt-precorrin_4"], "directed": true, "reaction_id": "R11580", "reaction_name": "rn:R11580", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Molybdenum_cofactor", "C19871"], "directed": true, "reaction_id": "R11581", "reaction_name": "rn:R11581", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["GTP", "C20567"], "directed": true, "reaction_id": "R10348", "reaction_name": "rn:R10348", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20567", "C20566"], "directed": true, "reaction_id": "R10345", "reaction_name": "rn:R10345", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C01304", "C05925"], "directed": true, "reaction_id": "R11072", "reaction_name": "rn:R11072", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20567", "C05925"], "directed": true, "reaction_id": "R10344", "reaction_name": "rn:R10344", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04895", "C01300"], "directed": true, "reaction_id": "R11719", "reaction_name": "rn:R11719", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C20264", "C03684"], "directed": true, "reaction_id": "R09990", "reaction_name": "rn:R09990", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Tetrahydrobiopterin", "C03684"], "directed": true, "reaction_id": "R08208", "reaction_name": "rn:R08208", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["7,8-Dihydrobiopterin", "Sepiapterin"], "directed": true, "reaction_id": "R02975", "reaction_name": "rn:R02975", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Tetrahydrobiopterin", "7,8-Dihydrobiopterin"], "directed": true, "reaction_id": "R11765", "reaction_name": "rn:R11765", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C21640", "C03684"], "directed": true, "reaction_id": "R11763", "reaction_name": "rn:R11763", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Tetrahydrobiopterin", "C21640"], "directed": true, "reaction_id": "R11764", "reaction_name": "rn:R11764", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C15522", "Dihydrobiopterin"], "directed": true, "reaction_id": "R04734", "reaction_name": "rn:R04734", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["Tetrahydrobiopterin", "C15522"], "directed": true, "reaction_id": "R07211", "reaction_name": "rn:R07211 rn:R07212 rn:R07213", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}, {"nodes": ["C04895", "C05925"], "directed": true, "reaction_id": "R04638", "reaction_name": "rn:R04638", "reversible": "false", "subsystem": "Metabolism of Cofactors and Vitamins"}]}
+{
+  "nodes": [
+    {
+      "id": "(R)-Lipoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "1-Methylnicotinamide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "10-Formyl-THF",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Dehydropantoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Ketovaline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Polyprenylphenol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Polyprenylcatechol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Hydroxybenzoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Phosphoerythronate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Pyridoxate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "5,10-Methylene-THF",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "5-Aminolevulinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "7,8-Dihydrobiopterin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "ABEE",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "AIR",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Adenosylcobinamide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Adenosylcobyric_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Aneurin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Aquacobalamin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Bilirubin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Biliverdin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Biocytin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Biotin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Biotin_sulfoxide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Biotinyl-5'-AMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00173",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00199",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00279",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00440",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00445",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00647",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00664",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01079",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01185",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01268",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01300",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01304",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03114",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03150",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03263",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03492",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03657",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03684",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03741",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04244",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04294",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04327",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04332",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04352",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04454",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04536",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04556",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04732",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04752",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04778",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04807",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04895",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05787",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05818",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05841",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05842",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05843",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05848",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05922",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05923",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05925",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06054",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06055",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06148",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06503",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06504",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06505",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06506",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06509",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06510",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07335",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11437",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11638",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11831",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C13309",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15522",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15547",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15556",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15563",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15810",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15812",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15813",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15814",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15882",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15883",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15996",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16236",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16237",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16519",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16540",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16675",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16677",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17552",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17554",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17559",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17560",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17561",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17562",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C18151",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C18910",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C18911",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19673",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19846",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19848",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19871",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20239",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20246",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20248",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20264",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20267",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20372",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20373",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20374",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20375",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20376",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20377",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20378",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20566",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20567",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20784",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C21310",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C21640",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Calomide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cbl",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chlorophyll_a",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chlorophyll_b",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chlorophyllide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chlorophyllide_b",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chorismate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobalt-factor_II",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobalt-factor_III",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobalt-precorrin-8",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobalt-precorrin_3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobalt-precorrin_4",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobalt-precorrin_5A",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobalt-precorrin_5B",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobalt-precorrin_6",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobalt-precorrin_6B",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobalt-precorrin_7",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cobyrinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Coproheme_III",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Coproporphyrin_III",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Coproporphyrinogen_I",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Urobilinogen",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DAPA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DPN",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Deamido-NAD",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dephospho-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dethiobiotin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dihydrobiopterin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dihydrofolate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dihydroneopterin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dihydropteroate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "FAD",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "FADH2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "FAMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "FMN",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "FMNH2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Folate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GTP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glutamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gly",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "H2Dtpp-mP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Haem",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Heme_A",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Heme_O",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Holo-[carboxylase]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydrogenobyrinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydroxymethylbilane",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Iminoglycine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Iminosuccinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Isochorismate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "KAPA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Asp",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Cysteine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Glutamyl-tRNA(Glu)",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Lysine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Leucovorin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lipoyl-ACP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lipoyl-AMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Malonyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Mg-protoporphyrin_IX",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Molybdenum_cofactor",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "NMN",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Niacin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Octanoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PLP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PM",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pantoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pantothenate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phosphopantetheine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phytyl_diphosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pimelate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pimeloyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pimelyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Porphobilinogen",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Precorrin_2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Precorrin_3A",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Precorrin_3B",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Precorrin_4",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Precorrin_5",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Precorrin_6A",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Precorrin_6B",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Precorrin_8",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Protochlorophyllide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Protoporphyrin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pyridoxal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pyridoxine_phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pyridoxol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Q",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Quinolinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Reduced_riboflavin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Retinal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Retinol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "SHCHC",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sepiapterin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Siroheme",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sirohydrochlorin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Succinylbenzoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Succinylbenzoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "THF",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "TMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "TPN",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "TPP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tetrahydrobiopterin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Thiamin_triphosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Toxopyrimidine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tretin_M",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tyrosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Uroporphyrinogen_I",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Uroporphyrinogen_III",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Vitamin_B12r",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Vitamin_B2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Vitamin_E",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Vitamin_K1",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Vitamin_K2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Vitamin_PP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "[Enzyme]-cysteine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "alpha-Ribazole",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "beta-Alanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "beta-Carotene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "beta-Tocopherol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "cPMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "cThz-P",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "delta-Tocopherol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "gamma-Tocopherol",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "nodes": [
+        "Phytyl_diphosphate",
+        "C15882"
+      ],
+      "directed": true,
+      "reaction_id": "R07500",
+      "reaction_name": "rn:R07500",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C15882",
+        "C15883"
+      ],
+      "directed": true,
+      "reaction_id": "R07501",
+      "reaction_name": "rn:R07501",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C15883",
+        "gamma-Tocopherol"
+      ],
+      "directed": true,
+      "reaction_id": "R07502",
+      "reaction_name": "rn:R07502",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "gamma-Tocopherol",
+        "Vitamin_E"
+      ],
+      "directed": true,
+      "reaction_id": "R07236",
+      "reaction_name": "rn:R07236",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "delta-Tocopherol",
+        "beta-Tocopherol"
+      ],
+      "directed": true,
+      "reaction_id": "R07504",
+      "reaction_name": "rn:R07504",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "delta-Tocopherol",
+        "C15882"
+      ],
+      "directed": true,
+      "reaction_id": "R07503",
+      "reaction_name": "rn:R07503",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "GTP",
+        "C01304"
+      ],
+      "directed": true,
+      "reaction_id": "R00425",
+      "reaction_name": "rn:R00425",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C01304",
+        "C01268"
+      ],
+      "directed": true,
+      "reaction_id": "R03459",
+      "reaction_name": "rn:R03459",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C01268",
+        "C04454"
+      ],
+      "directed": true,
+      "reaction_id": "R03458",
+      "reaction_name": "rn:R03458",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04454",
+        "C04732"
+      ],
+      "directed": true,
+      "reaction_id": "R07280",
+      "reaction_name": "rn:R07280",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04332",
+        "Vitamin_B2"
+      ],
+      "directed": true,
+      "reaction_id": "R00066",
+      "reaction_name": "rn:R00066",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Vitamin_B2",
+        "FMN"
+      ],
+      "directed": true,
+      "reaction_id": "R00548",
+      "reaction_name": "rn:R00548 rn:R00549 rn:R00550 rn:R08574",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "FAD",
+        "FMN"
+      ],
+      "directed": true,
+      "reaction_id": "R00160",
+      "reaction_name": "rn:R00160 rn:R00161",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pyridoxal",
+        "Pyridoxol"
+      ],
+      "directed": true,
+      "reaction_id": "R01708",
+      "reaction_name": "rn:R01708 rn:R01711",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pyridoxal",
+        "PM"
+      ],
+      "directed": true,
+      "reaction_id": "R01710",
+      "reaction_name": "rn:R01710",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pyridoxol",
+        "Pyridoxine_phosphate"
+      ],
+      "directed": true,
+      "reaction_id": "R01909",
+      "reaction_name": "rn:R01909 rn:R01911",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pyridoxine_phosphate",
+        "PLP"
+      ],
+      "directed": true,
+      "reaction_id": "R00278",
+      "reaction_name": "rn:R00278",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "PLP",
+        "C00647"
+      ],
+      "directed": true,
+      "reaction_id": "R00277",
+      "reaction_name": "rn:R00277",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C00647",
+        "PM"
+      ],
+      "directed": true,
+      "reaction_id": "R02493",
+      "reaction_name": "rn:R02493 rn:R02494",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pyridoxal",
+        "PLP"
+      ],
+      "directed": true,
+      "reaction_id": "R00173",
+      "reaction_name": "rn:R00173 rn:R00174",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pyridoxal",
+        "4-Pyridoxate"
+      ],
+      "directed": true,
+      "reaction_id": "R01709",
+      "reaction_name": "rn:R01709",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "L-Asp",
+        "Iminosuccinate"
+      ],
+      "directed": true,
+      "reaction_id": "R00481",
+      "reaction_name": "rn:R00481 rn:R07407 rn:R07410",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Iminosuccinate",
+        "Quinolinate"
+      ],
+      "directed": true,
+      "reaction_id": "R04292",
+      "reaction_name": "rn:R04292",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Quinolinate",
+        "C01185"
+      ],
+      "directed": true,
+      "reaction_id": "R03348",
+      "reaction_name": "rn:R03348",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C01185",
+        "Deamido-NAD"
+      ],
+      "directed": true,
+      "reaction_id": "R03004",
+      "reaction_name": "rn:R03004 rn:R03005",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Deamido-NAD",
+        "DPN"
+      ],
+      "directed": true,
+      "reaction_id": "R00189",
+      "reaction_name": "rn:R00189 rn:R00257",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "DPN",
+        "Vitamin_PP"
+      ],
+      "directed": true,
+      "reaction_id": "R00102",
+      "reaction_name": "rn:R00102",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Niacin",
+        "Vitamin_PP"
+      ],
+      "directed": true,
+      "reaction_id": "R01268",
+      "reaction_name": "rn:R01268",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C01185",
+        "Niacin"
+      ],
+      "directed": true,
+      "reaction_id": "R01724",
+      "reaction_name": "rn:R01724",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "DPN",
+        "TPN"
+      ],
+      "directed": true,
+      "reaction_id": "R00104",
+      "reaction_name": "rn:R00104 rn:R00112",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Vitamin_PP",
+        "1-Methylnicotinamide"
+      ],
+      "directed": true,
+      "reaction_id": "R01269",
+      "reaction_name": "rn:R01269",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "1-Methylnicotinamide",
+        "C05842"
+      ],
+      "directed": true,
+      "reaction_id": "R08408",
+      "reaction_name": "rn:R08408",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "2-Ketovaline",
+        "2-Dehydropantoate"
+      ],
+      "directed": true,
+      "reaction_id": "R01226",
+      "reaction_name": "rn:R01226",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "2-Dehydropantoate",
+        "Pantoate"
+      ],
+      "directed": true,
+      "reaction_id": "R02472",
+      "reaction_name": "rn:R02472",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pantothenate",
+        "C03492"
+      ],
+      "directed": true,
+      "reaction_id": "R03018",
+      "reaction_name": "rn:R03018",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C03492",
+        "C04352"
+      ],
+      "directed": true,
+      "reaction_id": "R04230",
+      "reaction_name": "rn:R04230 rn:R04231",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04352",
+        "Phosphopantetheine"
+      ],
+      "directed": true,
+      "reaction_id": "R03269",
+      "reaction_name": "rn:R03269",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Phosphopantetheine",
+        "Dephospho-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R03035",
+      "reaction_name": "rn:R03035 rn:R03036",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Dephospho-CoA",
+        "CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R00130",
+      "reaction_name": "rn:R00130",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Biocytin",
+        "L-Lysine"
+      ],
+      "directed": true,
+      "reaction_id": "R01077",
+      "reaction_name": "rn:R01077",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Biotin",
+        "Dethiobiotin"
+      ],
+      "directed": true,
+      "reaction_id": "R01078",
+      "reaction_name": "rn:R01078",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Dethiobiotin",
+        "DAPA"
+      ],
+      "directed": true,
+      "reaction_id": "R03182",
+      "reaction_name": "rn:R03182",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "KAPA",
+        "DAPA"
+      ],
+      "directed": true,
+      "reaction_id": "R03231",
+      "reaction_name": "rn:R03231 rn:R10699",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pimeloyl-CoA",
+        "KAPA"
+      ],
+      "directed": true,
+      "reaction_id": "R03210",
+      "reaction_name": "rn:R03210",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pimeloyl-CoA",
+        "Pimelate"
+      ],
+      "directed": true,
+      "reaction_id": "R03209",
+      "reaction_name": "rn:R03209",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Biotin",
+        "Biotinyl-5'-AMP"
+      ],
+      "directed": true,
+      "reaction_id": "R01074",
+      "reaction_name": "rn:R01074",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Biotinyl-5'-AMP",
+        "Holo-[carboxylase]"
+      ],
+      "directed": true,
+      "reaction_id": "R05145",
+      "reaction_name": "rn:R05145",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C16236",
+        "Octanoyl-[acp]"
+      ],
+      "directed": true,
+      "reaction_id": "R07766",
+      "reaction_name": "rn:R07766",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Lipoyl-ACP",
+        "Octanoyl-[acp]"
+      ],
+      "directed": true,
+      "reaction_id": "R07768",
+      "reaction_name": "rn:R07768",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Lipoyl-ACP",
+        "C16237"
+      ],
+      "directed": true,
+      "reaction_id": "R07769",
+      "reaction_name": "rn:R07769",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C16237",
+        "C16236"
+      ],
+      "directed": true,
+      "reaction_id": "R07767",
+      "reaction_name": "rn:R07767",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Lipoyl-AMP",
+        "C16237"
+      ],
+      "directed": true,
+      "reaction_id": "R07771",
+      "reaction_name": "rn:R07771",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "GTP",
+        "C05922"
+      ],
+      "directed": true,
+      "reaction_id": "R00428",
+      "reaction_name": "rn:R00428",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C05922",
+        "C05923"
+      ],
+      "directed": true,
+      "reaction_id": "R05046",
+      "reaction_name": "rn:R05046",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C05923",
+        "C06148"
+      ],
+      "directed": true,
+      "reaction_id": "R05048",
+      "reaction_name": "rn:R05048",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C06148",
+        "C04895"
+      ],
+      "directed": true,
+      "reaction_id": "R04639",
+      "reaction_name": "rn:R04639",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04895",
+        "Dihydroneopterin"
+      ],
+      "directed": true,
+      "reaction_id": "R04620",
+      "reaction_name": "rn:R04620",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Dihydroneopterin",
+        "C01300"
+      ],
+      "directed": true,
+      "reaction_id": "R03504",
+      "reaction_name": "rn:R03504",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C01300",
+        "C04807"
+      ],
+      "directed": true,
+      "reaction_id": "R03503",
+      "reaction_name": "rn:R03503",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Dihydropteroate",
+        "Dihydrofolate"
+      ],
+      "directed": true,
+      "reaction_id": "R02237",
+      "reaction_name": "rn:R02237",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "THF",
+        "Dihydrofolate"
+      ],
+      "directed": true,
+      "reaction_id": "R00936",
+      "reaction_name": "rn:R00936 rn:R00939",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Dihydrofolate",
+        "Folate"
+      ],
+      "directed": true,
+      "reaction_id": "R02235",
+      "reaction_name": "rn:R02235 rn:R02236",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Folate",
+        "THF"
+      ],
+      "directed": true,
+      "reaction_id": "R00937",
+      "reaction_name": "rn:R00937 rn:R00940",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "ABEE",
+        "Dihydropteroate"
+      ],
+      "directed": true,
+      "reaction_id": "R03066",
+      "reaction_name": "rn:R03066",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "ABEE",
+        "Dihydropteroate"
+      ],
+      "directed": true,
+      "reaction_id": "R03067",
+      "reaction_name": "rn:R03067",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "THF",
+        "10-Formyl-THF"
+      ],
+      "directed": true,
+      "reaction_id": "R00943",
+      "reaction_name": "rn:R00943 rn:R04325 rn:R04560",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C00445",
+        "5,10-Methylene-THF"
+      ],
+      "directed": true,
+      "reaction_id": "R01218",
+      "reaction_name": "rn:R01218 rn:R01220",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "5,10-Methylene-THF",
+        "C00440"
+      ],
+      "directed": true,
+      "reaction_id": "R01217",
+      "reaction_name": "rn:R01217 rn:R01224 rn:R07168",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "THF",
+        "5,10-Methylene-THF"
+      ],
+      "directed": true,
+      "reaction_id": "R00945",
+      "reaction_name": "rn:R00945 rn:R01225 rn:R04125 rn:R06613",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Leucovorin",
+        "C00445"
+      ],
+      "directed": true,
+      "reaction_id": "R02301",
+      "reaction_name": "rn:R02301",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "THF",
+        "Leucovorin"
+      ],
+      "directed": true,
+      "reaction_id": "R03189",
+      "reaction_name": "rn:R03189",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C00445",
+        "C00664"
+      ],
+      "directed": true,
+      "reaction_id": "R02302",
+      "reaction_name": "rn:R02302",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "THF",
+        "C00664"
+      ],
+      "directed": true,
+      "reaction_id": "R02287",
+      "reaction_name": "rn:R02287 rn:R02729",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Retinal",
+        "Tretin_M"
+      ],
+      "directed": true,
+      "reaction_id": "R02123",
+      "reaction_name": "rn:R02123 rn:R02125",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Retinal",
+        "beta-Carotene"
+      ],
+      "directed": true,
+      "reaction_id": "R00032",
+      "reaction_name": "rn:R00032",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Retinol",
+        "Retinal"
+      ],
+      "directed": true,
+      "reaction_id": "R02124",
+      "reaction_name": "rn:R02124 rn:R08379",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Gly",
+        "5-Aminolevulinate"
+      ],
+      "directed": true,
+      "reaction_id": "R00830",
+      "reaction_name": "rn:R00830",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "5-Aminolevulinate",
+        "Porphobilinogen"
+      ],
+      "directed": true,
+      "reaction_id": "R00036",
+      "reaction_name": "rn:R00036",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Porphobilinogen",
+        "Hydroxymethylbilane"
+      ],
+      "directed": true,
+      "reaction_id": "R00084",
+      "reaction_name": "rn:R00084",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Hydroxymethylbilane",
+        "Uroporphyrinogen_III"
+      ],
+      "directed": true,
+      "reaction_id": "R03165",
+      "reaction_name": "rn:R03165",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Uroporphyrinogen_III",
+        "C03263"
+      ],
+      "directed": true,
+      "reaction_id": "R03197",
+      "reaction_name": "rn:R03197",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C03263",
+        "C01079"
+      ],
+      "directed": true,
+      "reaction_id": "R03220",
+      "reaction_name": "rn:R03220 rn:R06895",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C01079",
+        "Protoporphyrin"
+      ],
+      "directed": true,
+      "reaction_id": "R03222",
+      "reaction_name": "rn:R03222 rn:R09489",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Protoporphyrin",
+        "Haem"
+      ],
+      "directed": true,
+      "reaction_id": "R00310",
+      "reaction_name": "rn:R00310",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Protoporphyrin",
+        "Mg-protoporphyrin_IX"
+      ],
+      "directed": true,
+      "reaction_id": "R03877",
+      "reaction_name": "rn:R03877",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Mg-protoporphyrin_IX",
+        "C04536"
+      ],
+      "directed": true,
+      "reaction_id": "R04237",
+      "reaction_name": "rn:R04237",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C11831",
+        "Protochlorophyllide"
+      ],
+      "directed": true,
+      "reaction_id": "R06271",
+      "reaction_name": "rn:R06271 rn:R06896 rn:R11519",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Protochlorophyllide",
+        "Chlorophyllide"
+      ],
+      "directed": true,
+      "reaction_id": "R03845",
+      "reaction_name": "rn:R03845 rn:R06282",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Chlorophyllide",
+        "Chlorophyll_a"
+      ],
+      "directed": true,
+      "reaction_id": "R05618",
+      "reaction_name": "rn:R05618 rn:R06284",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Uroporphyrinogen_III",
+        "Precorrin_2"
+      ],
+      "directed": true,
+      "reaction_id": "R03194",
+      "reaction_name": "rn:R03194",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Precorrin_2",
+        "Sirohydrochlorin"
+      ],
+      "directed": true,
+      "reaction_id": "R03947",
+      "reaction_name": "rn:R03947",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Sirohydrochlorin",
+        "Siroheme"
+      ],
+      "directed": true,
+      "reaction_id": "R02864",
+      "reaction_name": "rn:R02864",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Precorrin_2",
+        "Precorrin_3A"
+      ],
+      "directed": true,
+      "reaction_id": "R03948",
+      "reaction_name": "rn:R03948",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Precorrin_3B",
+        "Precorrin_3A"
+      ],
+      "directed": true,
+      "reaction_id": "R05217",
+      "reaction_name": "rn:R05217",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Precorrin_3B",
+        "Precorrin_4"
+      ],
+      "directed": true,
+      "reaction_id": "R05180",
+      "reaction_name": "rn:R05180",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Precorrin_4",
+        "Precorrin_5"
+      ],
+      "directed": true,
+      "reaction_id": "R05181",
+      "reaction_name": "rn:R05181",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Precorrin_6A",
+        "Precorrin_5"
+      ],
+      "directed": true,
+      "reaction_id": "R05219",
+      "reaction_name": "rn:R05219",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Precorrin_6B",
+        "Precorrin_6A"
+      ],
+      "directed": true,
+      "reaction_id": "R05150",
+      "reaction_name": "rn:R05150",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Precorrin_6B",
+        "Precorrin_8"
+      ],
+      "directed": true,
+      "reaction_id": "R05149",
+      "reaction_name": "rn:R05149",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Precorrin_8",
+        "Hydrogenobyrinate"
+      ],
+      "directed": true,
+      "reaction_id": "R05177",
+      "reaction_name": "rn:R05177",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Hydrogenobyrinate",
+        "C06503"
+      ],
+      "directed": true,
+      "reaction_id": "R05224",
+      "reaction_name": "rn:R05224",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C06503",
+        "C06504"
+      ],
+      "directed": true,
+      "reaction_id": "R05227",
+      "reaction_name": "rn:R05227",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C06504",
+        "C06505"
+      ],
+      "directed": true,
+      "reaction_id": "R05218",
+      "reaction_name": "rn:R05218",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C06505",
+        "C06506"
+      ],
+      "directed": true,
+      "reaction_id": "R05220",
+      "reaction_name": "rn:R05220",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Adenosylcobyric_acid",
+        "C06506"
+      ],
+      "directed": true,
+      "reaction_id": "R05225",
+      "reaction_name": "rn:R05225",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Adenosylcobyric_acid",
+        "Adenosylcobinamide"
+      ],
+      "directed": true,
+      "reaction_id": "R05226",
+      "reaction_name": "rn:R05226 rn:R07302",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Adenosylcobinamide",
+        "C06509"
+      ],
+      "directed": true,
+      "reaction_id": "R05221",
+      "reaction_name": "rn:R05221 rn:R06558",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C06509",
+        "C06510"
+      ],
+      "directed": true,
+      "reaction_id": "R05222",
+      "reaction_name": "rn:R05222",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "alpha-Ribazole",
+        "C04778"
+      ],
+      "directed": true,
+      "reaction_id": "R04594",
+      "reaction_name": "rn:R04594",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C03114",
+        "C04778"
+      ],
+      "directed": true,
+      "reaction_id": "R04148",
+      "reaction_name": "rn:R04148",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "5-Aminolevulinate",
+        "C03741"
+      ],
+      "directed": true,
+      "reaction_id": "R02272",
+      "reaction_name": "rn:R02272",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "L-Glutamyl-tRNA(Glu)",
+        "C03741"
+      ],
+      "directed": true,
+      "reaction_id": "R04109",
+      "reaction_name": "rn:R04109",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Glutamate",
+        "L-Glutamyl-tRNA(Glu)"
+      ],
+      "directed": true,
+      "reaction_id": "R05578",
+      "reaction_name": "rn:R05578",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "alpha-Ribazole",
+        "Calomide"
+      ],
+      "directed": true,
+      "reaction_id": "R05223",
+      "reaction_name": "rn:R05223",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Adenosylcobyric_acid",
+        "C06509"
+      ],
+      "directed": true,
+      "reaction_id": "R06529",
+      "reaction_name": "rn:R06529",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Chorismate",
+        "Isochorismate"
+      ],
+      "directed": true,
+      "reaction_id": "R01717",
+      "reaction_name": "rn:R01717",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Isochorismate",
+        "C16519"
+      ],
+      "directed": true,
+      "reaction_id": "R08165",
+      "reaction_name": "rn:R08165",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C16519",
+        "SHCHC"
+      ],
+      "directed": true,
+      "reaction_id": "R08166",
+      "reaction_name": "rn:R08166",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Succinylbenzoate",
+        "SHCHC"
+      ],
+      "directed": true,
+      "reaction_id": "R04031",
+      "reaction_name": "rn:R04031",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Succinylbenzoate",
+        "Succinylbenzoyl-CoA"
+      ],
+      "directed": true,
+      "reaction_id": "R04030",
+      "reaction_name": "rn:R04030",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Succinylbenzoyl-CoA",
+        "C15547"
+      ],
+      "directed": true,
+      "reaction_id": "R07263",
+      "reaction_name": "rn:R07263",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C15547",
+        "C03657"
+      ],
+      "directed": true,
+      "reaction_id": "R07262",
+      "reaction_name": "rn:R07262",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C03657",
+        "C05818"
+      ],
+      "directed": true,
+      "reaction_id": "R05617",
+      "reaction_name": "rn:R05617",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C13309",
+        "C03657"
+      ],
+      "directed": true,
+      "reaction_id": "R06858",
+      "reaction_name": "rn:R06858",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Chorismate",
+        "4-Hydroxybenzoate"
+      ],
+      "directed": true,
+      "reaction_id": "R01302",
+      "reaction_name": "rn:R01302",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C05818",
+        "Vitamin_K2"
+      ],
+      "directed": true,
+      "reaction_id": "R04993",
+      "reaction_name": "rn:R04993",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C13309",
+        "Vitamin_K1"
+      ],
+      "directed": true,
+      "reaction_id": "R06859",
+      "reaction_name": "rn:R06859",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "beta-Alanine",
+        "Pantothenate"
+      ],
+      "directed": true,
+      "reaction_id": "R02473",
+      "reaction_name": "rn:R02473 rn:R02474",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C00279",
+        "4-Phosphoerythronate"
+      ],
+      "directed": true,
+      "reaction_id": "R01825",
+      "reaction_name": "rn:R01825",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "4-Phosphoerythronate",
+        "C06054"
+      ],
+      "directed": true,
+      "reaction_id": "R04210",
+      "reaction_name": "rn:R04210",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C06054",
+        "C06055"
+      ],
+      "directed": true,
+      "reaction_id": "R05085",
+      "reaction_name": "rn:R05085",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C07335",
+        "C06055"
+      ],
+      "directed": true,
+      "reaction_id": "R05681",
+      "reaction_name": "rn:R05681",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C11638",
+        "Pyridoxine_phosphate"
+      ],
+      "directed": true,
+      "reaction_id": "R05838",
+      "reaction_name": "rn:R05838",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "1-Methylnicotinamide",
+        "C05843"
+      ],
+      "directed": true,
+      "reaction_id": "R04085",
+      "reaction_name": "rn:R04085",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04895",
+        "C03684"
+      ],
+      "directed": true,
+      "reaction_id": "R04286",
+      "reaction_name": "rn:R04286",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C03684",
+        "C04244"
+      ],
+      "directed": true,
+      "reaction_id": "R04285",
+      "reaction_name": "rn:R04285",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04244",
+        "Tetrahydrobiopterin"
+      ],
+      "directed": true,
+      "reaction_id": "R01813",
+      "reaction_name": "rn:R01813",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Tetrahydrobiopterin",
+        "Dihydrobiopterin"
+      ],
+      "directed": true,
+      "reaction_id": "R01793",
+      "reaction_name": "rn:R01793 rn:R01794",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "THF",
+        "C00445"
+      ],
+      "directed": true,
+      "reaction_id": "R04326",
+      "reaction_name": "rn:R04326",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "4-Hydroxybenzoate",
+        "C05848"
+      ],
+      "directed": true,
+      "reaction_id": "R05000",
+      "reaction_name": "rn:R05000",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C05848",
+        "2-Polyprenylphenol"
+      ],
+      "directed": true,
+      "reaction_id": "R04985",
+      "reaction_name": "rn:R04985",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "2-Polyprenylphenol",
+        "3-Polyprenylcatechol"
+      ],
+      "directed": true,
+      "reaction_id": "R08768",
+      "reaction_name": "rn:R08768",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C17554",
+        "C17559"
+      ],
+      "directed": true,
+      "reaction_id": "R08771",
+      "reaction_name": "rn:R08771",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "3-Polyprenylcatechol",
+        "C17552"
+      ],
+      "directed": true,
+      "reaction_id": "R08769",
+      "reaction_name": "rn:R08769",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C17552",
+        "C17560"
+      ],
+      "directed": true,
+      "reaction_id": "R08773",
+      "reaction_name": "rn:R08773",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C17560",
+        "C17561"
+      ],
+      "directed": true,
+      "reaction_id": "R08774",
+      "reaction_name": "rn:R08774",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C17561",
+        "C17562"
+      ],
+      "directed": true,
+      "reaction_id": "R08775",
+      "reaction_name": "rn:R08775",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C17562",
+        "Q"
+      ],
+      "directed": true,
+      "reaction_id": "R08781",
+      "reaction_name": "rn:R08781",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C18151",
+        "Chlorophyll_a"
+      ],
+      "directed": true,
+      "reaction_id": "R09071",
+      "reaction_name": "rn:R09071",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C18151",
+        "Chlorophyll_b"
+      ],
+      "directed": true,
+      "reaction_id": "R09069",
+      "reaction_name": "rn:R09069 rn:R09070",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Chlorophyll_b",
+        "Chlorophyllide_b"
+      ],
+      "directed": true,
+      "reaction_id": "R09067",
+      "reaction_name": "rn:R09067 rn:R09068",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C16540",
+        "Chlorophyllide_b"
+      ],
+      "directed": true,
+      "reaction_id": "R08914",
+      "reaction_name": "rn:R08914 rn:R08915 rn:R08204",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Chlorophyllide",
+        "C16540"
+      ],
+      "directed": true,
+      "reaction_id": "R08203",
+      "reaction_name": "rn:R08203",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Sirohydrochlorin",
+        "Cobalt-factor_II"
+      ],
+      "directed": true,
+      "reaction_id": "R05807",
+      "reaction_name": "rn:R05807",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobalt-factor_II",
+        "Cobalt-factor_III"
+      ],
+      "directed": true,
+      "reaction_id": "R05808",
+      "reaction_name": "rn:R05808",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobalt-precorrin_3",
+        "Cobalt-precorrin_4"
+      ],
+      "directed": true,
+      "reaction_id": "R05809",
+      "reaction_name": "rn:R05809",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobalt-precorrin_4",
+        "Cobalt-precorrin_5A"
+      ],
+      "directed": true,
+      "reaction_id": "R05810",
+      "reaction_name": "rn:R05810",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobalt-precorrin_5A",
+        "Cobalt-precorrin_5B"
+      ],
+      "directed": true,
+      "reaction_id": "R07772",
+      "reaction_name": "rn:R07772",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobalt-precorrin_5B",
+        "Cobalt-precorrin_6"
+      ],
+      "directed": true,
+      "reaction_id": "R07773",
+      "reaction_name": "rn:R07773",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobalt-precorrin_6",
+        "Cobalt-precorrin_6B"
+      ],
+      "directed": true,
+      "reaction_id": "R05812",
+      "reaction_name": "rn:R05812",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobalt-precorrin_6B",
+        "Cobalt-precorrin_7"
+      ],
+      "directed": true,
+      "reaction_id": "R07774",
+      "reaction_name": "rn:R07774",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobalt-precorrin_7",
+        "Cobalt-precorrin-8"
+      ],
+      "directed": true,
+      "reaction_id": "R07775",
+      "reaction_name": "rn:R07775",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobalt-precorrin-8",
+        "Cobyrinate"
+      ],
+      "directed": true,
+      "reaction_id": "R05814",
+      "reaction_name": "rn:R05814",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobyrinate",
+        "C06504"
+      ],
+      "directed": true,
+      "reaction_id": "R05815",
+      "reaction_name": "rn:R05815",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C15556",
+        "C04332"
+      ],
+      "directed": true,
+      "reaction_id": "R04457",
+      "reaction_name": "rn:R04457",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C00199",
+        "C15556"
+      ],
+      "directed": true,
+      "reaction_id": "R07281",
+      "reaction_name": "rn:R07281",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "GTP",
+        "C15563"
+      ],
+      "directed": true,
+      "reaction_id": "R07306",
+      "reaction_name": "rn:R07306",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C15563",
+        "C01304"
+      ],
+      "directed": true,
+      "reaction_id": "R09374",
+      "reaction_name": "rn:R09374",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C01304",
+        "C18910"
+      ],
+      "directed": true,
+      "reaction_id": "R09375",
+      "reaction_name": "rn:R09375",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C18910",
+        "C04454"
+      ],
+      "directed": true,
+      "reaction_id": "R09377",
+      "reaction_name": "rn:R09377",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "FMNH2",
+        "FMN"
+      ],
+      "directed": true,
+      "reaction_id": "R05705",
+      "reaction_name": "rn:R05705 rn:R05706",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "FMNH2",
+        "C03114"
+      ],
+      "directed": true,
+      "reaction_id": "R09083",
+      "reaction_name": "rn:R09083",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pantoate",
+        "C18911"
+      ],
+      "directed": true,
+      "reaction_id": "R09378",
+      "reaction_name": "rn:R09378",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C18911",
+        "C03492"
+      ],
+      "directed": true,
+      "reaction_id": "R09379",
+      "reaction_name": "rn:R09379",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "GTP",
+        "C21310"
+      ],
+      "directed": true,
+      "reaction_id": "R09394",
+      "reaction_name": "rn:R09394",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C21310",
+        "cPMP"
+      ],
+      "directed": true,
+      "reaction_id": "R11372",
+      "reaction_name": "rn:R11372",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Pimelyl-[acp]",
+        "KAPA"
+      ],
+      "directed": true,
+      "reaction_id": "R10124",
+      "reaction_name": "rn:R10124",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C00173",
+        "Pimelyl-[acp]"
+      ],
+      "directed": true,
+      "reaction_id": "R10123",
+      "reaction_name": "rn:R10123",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C19846",
+        "Pimelyl-[acp]"
+      ],
+      "directed": true,
+      "reaction_id": "R09725",
+      "reaction_name": "rn:R09725",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20378",
+        "C19846"
+      ],
+      "directed": true,
+      "reaction_id": "R10122",
+      "reaction_name": "rn:R10122",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20377",
+        "C20378"
+      ],
+      "directed": true,
+      "reaction_id": "R10121",
+      "reaction_name": "rn:R10121",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20376",
+        "C20377"
+      ],
+      "directed": true,
+      "reaction_id": "R10120",
+      "reaction_name": "rn:R10120",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C19673",
+        "C20372"
+      ],
+      "directed": true,
+      "reaction_id": "R10115",
+      "reaction_name": "rn:R10115",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20372",
+        "C20373"
+      ],
+      "directed": true,
+      "reaction_id": "R10116",
+      "reaction_name": "rn:R10116",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20373",
+        "C20374"
+      ],
+      "directed": true,
+      "reaction_id": "R10117",
+      "reaction_name": "rn:R10117",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20374",
+        "C20375"
+      ],
+      "directed": true,
+      "reaction_id": "R10118",
+      "reaction_name": "rn:R10118",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20375",
+        "C20376"
+      ],
+      "directed": true,
+      "reaction_id": "R10119",
+      "reaction_name": "rn:R10119",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Biotin_sulfoxide",
+        "Biotin"
+      ],
+      "directed": true,
+      "reaction_id": "R10127",
+      "reaction_name": "rn:R10127",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Malonyl-[acp]",
+        "C19673"
+      ],
+      "directed": true,
+      "reaction_id": "R09543",
+      "reaction_name": "rn:R09543",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04895",
+        "C20239"
+      ],
+      "directed": true,
+      "reaction_id": "R09959",
+      "reaction_name": "rn:R09959",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C16675",
+        "C15996"
+      ],
+      "directed": true,
+      "reaction_id": "R07605",
+      "reaction_name": "rn:R07605",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20248",
+        "C15996"
+      ],
+      "directed": true,
+      "reaction_id": "R09978",
+      "reaction_name": "rn:R09978",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20239",
+        "C20248"
+      ],
+      "directed": true,
+      "reaction_id": "R10002",
+      "reaction_name": "rn:R10002",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "AIR",
+        "C04556"
+      ],
+      "directed": true,
+      "reaction_id": "R03472",
+      "reaction_name": "rn:R03472",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04556",
+        "C04752"
+      ],
+      "directed": true,
+      "reaction_id": "R04509",
+      "reaction_name": "rn:R04509",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04752",
+        "TMP"
+      ],
+      "directed": true,
+      "reaction_id": "R03223",
+      "reaction_name": "rn:R03223",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "TPP",
+        "TMP"
+      ],
+      "directed": true,
+      "reaction_id": "R00615",
+      "reaction_name": "rn:R00615 rn:R00617",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "TPP",
+        "Thiamin_triphosphate"
+      ],
+      "directed": true,
+      "reaction_id": "R00616",
+      "reaction_name": "rn:R00616 rn:R00618 rn:R11319",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Aneurin",
+        "TMP"
+      ],
+      "directed": true,
+      "reaction_id": "R02134",
+      "reaction_name": "rn:R02134 rn:R02135",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Aneurin",
+        "C04294"
+      ],
+      "directed": true,
+      "reaction_id": "R02133",
+      "reaction_name": "rn:R02133",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Toxopyrimidine",
+        "C04556"
+      ],
+      "directed": true,
+      "reaction_id": "R03471",
+      "reaction_name": "rn:R03471",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04294",
+        "C04327"
+      ],
+      "directed": true,
+      "reaction_id": "R04448",
+      "reaction_name": "rn:R04448",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "PLP",
+        "C04556"
+      ],
+      "directed": true,
+      "reaction_id": "R10686",
+      "reaction_name": "rn:R10686",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Aneurin",
+        "TPP"
+      ],
+      "directed": true,
+      "reaction_id": "R00619",
+      "reaction_name": "rn:R00619",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "cThz-P",
+        "TMP"
+      ],
+      "directed": true,
+      "reaction_id": "R10712",
+      "reaction_name": "rn:R10712",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20246",
+        "cThz-P"
+      ],
+      "directed": true,
+      "reaction_id": "R09977",
+      "reaction_name": "rn:R09977",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C15814",
+        "C20246"
+      ],
+      "directed": true,
+      "reaction_id": "R10247",
+      "reaction_name": "rn:R10247",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C15812",
+        "C15814"
+      ],
+      "directed": true,
+      "reaction_id": "R07461",
+      "reaction_name": "rn:R07461",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C15810",
+        "C15813"
+      ],
+      "directed": true,
+      "reaction_id": "R07459",
+      "reaction_name": "rn:R07459",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "[Enzyme]-cysteine",
+        "C15812"
+      ],
+      "directed": true,
+      "reaction_id": "R07460",
+      "reaction_name": "rn:R07460",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Tyrosine",
+        "Iminoglycine"
+      ],
+      "directed": true,
+      "reaction_id": "R10246",
+      "reaction_name": "rn:R10246",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Gly",
+        "Iminoglycine"
+      ],
+      "directed": true,
+      "reaction_id": "R07463",
+      "reaction_name": "rn:R07463",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Gly",
+        "C20784"
+      ],
+      "directed": true,
+      "reaction_id": "R10685",
+      "reaction_name": "rn:R10685 rn:R12026",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Tretin_M",
+        "C16677"
+      ],
+      "directed": true,
+      "reaction_id": "R08392",
+      "reaction_name": "rn:R08392",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C03150",
+        "Vitamin_PP"
+      ],
+      "directed": true,
+      "reaction_id": "R02294",
+      "reaction_name": "rn:R02294",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C03150",
+        "NMN"
+      ],
+      "directed": true,
+      "reaction_id": "R02324",
+      "reaction_name": "rn:R02324",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "NMN",
+        "DPN"
+      ],
+      "directed": true,
+      "reaction_id": "R00103",
+      "reaction_name": "rn:R00103 rn:R00137",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "NMN",
+        "Vitamin_PP"
+      ],
+      "directed": true,
+      "reaction_id": "R01271",
+      "reaction_name": "rn:R01271",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C05841",
+        "Niacin"
+      ],
+      "directed": true,
+      "reaction_id": "R02295",
+      "reaction_name": "rn:R02295",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C01185",
+        "C05841"
+      ],
+      "directed": true,
+      "reaction_id": "R03347",
+      "reaction_name": "rn:R03347",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "(R)-Lipoate",
+        "C16237"
+      ],
+      "directed": true,
+      "reaction_id": "R11143",
+      "reaction_name": "rn:R11143",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "FAMP",
+        "C20267"
+      ],
+      "directed": true,
+      "reaction_id": "R11313",
+      "reaction_name": "rn:R11313",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20267",
+        "Toxopyrimidine"
+      ],
+      "directed": true,
+      "reaction_id": "R09993",
+      "reaction_name": "rn:R09993",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "cPMP",
+        "H2Dtpp-mP"
+      ],
+      "directed": true,
+      "reaction_id": "R09395",
+      "reaction_name": "rn:R09395",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "H2Dtpp-mP",
+        "C19848"
+      ],
+      "directed": true,
+      "reaction_id": "R09726",
+      "reaction_name": "rn:R09726",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C19848",
+        "Molybdenum_cofactor"
+      ],
+      "directed": true,
+      "reaction_id": "R09735",
+      "reaction_name": "rn:R09735",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C03263",
+        "Coproporphyrin_III"
+      ],
+      "directed": true,
+      "reaction_id": "R04178",
+      "reaction_name": "rn:R04178",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Coproheme_III",
+        "Coproporphyrin_III"
+      ],
+      "directed": true,
+      "reaction_id": "R11329",
+      "reaction_name": "rn:R11329",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Coproheme_III",
+        "Haem"
+      ],
+      "directed": true,
+      "reaction_id": "R11522",
+      "reaction_name": "rn:R11522",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Uroporphyrinogen_I",
+        "Coproporphyrinogen_I"
+      ],
+      "directed": true,
+      "reaction_id": "R04972",
+      "reaction_name": "rn:R04972",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cbl",
+        "Calomide"
+      ],
+      "directed": true,
+      "reaction_id": "R01492",
+      "reaction_name": "rn:R01492",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Vitamin_B12r",
+        "Aquacobalamin"
+      ],
+      "directed": true,
+      "reaction_id": "R00097",
+      "reaction_name": "rn:R00097 rn:R00107",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Haem",
+        "Heme_O"
+      ],
+      "directed": true,
+      "reaction_id": "R07411",
+      "reaction_name": "rn:R07411",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Heme_O",
+        "Heme_A"
+      ],
+      "directed": true,
+      "reaction_id": "R07412",
+      "reaction_name": "rn:R07412",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Haem",
+        "Biliverdin"
+      ],
+      "directed": true,
+      "reaction_id": "R00311",
+      "reaction_name": "rn:R00311 rn:R11579",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Bilirubin",
+        "Biliverdin"
+      ],
+      "directed": true,
+      "reaction_id": "R02391",
+      "reaction_name": "rn:R02391 rn:R02393",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Bilirubin",
+        "C05787"
+      ],
+      "directed": true,
+      "reaction_id": "R02389",
+      "reaction_name": "rn:R02389",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "D-Urobilinogen",
+        "C05787"
+      ],
+      "directed": true,
+      "reaction_id": "R04979",
+      "reaction_name": "rn:R04979",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Reduced_riboflavin",
+        "Vitamin_B2"
+      ],
+      "directed": true,
+      "reaction_id": "R05707",
+      "reaction_name": "rn:R05707 rn:R09750",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "FADH2",
+        "FAD"
+      ],
+      "directed": true,
+      "reaction_id": "R09520",
+      "reaction_name": "rn:R09520 rn:R09748",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Cobalt-factor_III",
+        "Cobalt-precorrin_4"
+      ],
+      "directed": true,
+      "reaction_id": "R11580",
+      "reaction_name": "rn:R11580",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Molybdenum_cofactor",
+        "C19871"
+      ],
+      "directed": true,
+      "reaction_id": "R11581",
+      "reaction_name": "rn:R11581",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "GTP",
+        "C20567"
+      ],
+      "directed": true,
+      "reaction_id": "R10348",
+      "reaction_name": "rn:R10348",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20567",
+        "C20566"
+      ],
+      "directed": true,
+      "reaction_id": "R10345",
+      "reaction_name": "rn:R10345",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C01304",
+        "C05925"
+      ],
+      "directed": true,
+      "reaction_id": "R11072",
+      "reaction_name": "rn:R11072",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20567",
+        "C05925"
+      ],
+      "directed": true,
+      "reaction_id": "R10344",
+      "reaction_name": "rn:R10344",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04895",
+        "C01300"
+      ],
+      "directed": true,
+      "reaction_id": "R11719",
+      "reaction_name": "rn:R11719",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C20264",
+        "C03684"
+      ],
+      "directed": true,
+      "reaction_id": "R09990",
+      "reaction_name": "rn:R09990",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Tetrahydrobiopterin",
+        "C03684"
+      ],
+      "directed": true,
+      "reaction_id": "R08208",
+      "reaction_name": "rn:R08208",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "7,8-Dihydrobiopterin",
+        "Sepiapterin"
+      ],
+      "directed": true,
+      "reaction_id": "R02975",
+      "reaction_name": "rn:R02975",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Tetrahydrobiopterin",
+        "7,8-Dihydrobiopterin"
+      ],
+      "directed": true,
+      "reaction_id": "R11765",
+      "reaction_name": "rn:R11765",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C21640",
+        "C03684"
+      ],
+      "directed": true,
+      "reaction_id": "R11763",
+      "reaction_name": "rn:R11763",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Tetrahydrobiopterin",
+        "C21640"
+      ],
+      "directed": true,
+      "reaction_id": "R11764",
+      "reaction_name": "rn:R11764",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C15522",
+        "Dihydrobiopterin"
+      ],
+      "directed": true,
+      "reaction_id": "R04734",
+      "reaction_name": "rn:R04734",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "Tetrahydrobiopterin",
+        "C15522"
+      ],
+      "directed": true,
+      "reaction_id": "R07211",
+      "reaction_name": "rn:R07211 rn:R07212 rn:R07213",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    },
+    {
+      "nodes": [
+        "C04895",
+        "C05925"
+      ],
+      "directed": true,
+      "reaction_id": "R04638",
+      "reaction_name": "rn:R04638",
+      "reversible": "false",
+      "subsystem": "Metabolism of Cofactors and Vitamins"
+    }
+  ]
+}
