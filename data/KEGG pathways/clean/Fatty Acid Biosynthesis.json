@@ -852,10 +852,10 @@
         "C05272",
         "Palmitoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01278",
       "reaction_name": "rn:R01278 rn:R01279",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -863,10 +863,10 @@
         "C05258",
         "C05272"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04738",
       "reaction_name": "rn:R04738",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -874,10 +874,10 @@
         "3-Oxopalmitoyl-CoA",
         "C05258"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04737",
       "reaction_name": "rn:R04737",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -885,10 +885,10 @@
         "3-Oxopalmitoyl-CoA",
         "Myristoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03991",
       "reaction_name": "rn:R03991",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -896,10 +896,10 @@
         "C05273",
         "Myristoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03989",
       "reaction_name": "rn:R03989 rn:R03990",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -907,10 +907,10 @@
         "C05260",
         "C05273"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04740",
       "reaction_name": "rn:R04740",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -918,10 +918,10 @@
         "C05261",
         "C05260"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04739",
       "reaction_name": "rn:R04739",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -929,10 +929,10 @@
         "C05261",
         "Acetyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03858",
       "reaction_name": "rn:R03858",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -940,10 +940,10 @@
         "(2E)-Dodecenoyl-CoA",
         "Lauroyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03856",
       "reaction_name": "rn:R03856 rn:R03857",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -951,10 +951,10 @@
         "C05262",
         "(2E)-Dodecenoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04170",
       "reaction_name": "rn:R04170",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -962,10 +962,10 @@
         "3-Oxododecanoyl-CoA",
         "C05262"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04741",
       "reaction_name": "rn:R04741",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -973,10 +973,10 @@
         "Decanoyl-CoA",
         "3-Oxododecanoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04742",
       "reaction_name": "rn:R04742",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -984,10 +984,10 @@
         "(2E)-Decenoyl-CoA",
         "Decanoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04753",
       "reaction_name": "rn:R04753 rn:R04754",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -995,10 +995,10 @@
         "C05264",
         "(2E)-Decenoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04744",
       "reaction_name": "rn:R04744",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1006,10 +1006,10 @@
         "3-Oxodecanoyl-CoA",
         "C05264"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04743",
       "reaction_name": "rn:R04743",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1017,10 +1017,10 @@
         "Octanoyl-CoA",
         "3-Oxodecanoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03778",
       "reaction_name": "rn:R03778",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1028,10 +1028,10 @@
         "(2E)-Octenoyl-CoA",
         "Octanoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03776",
       "reaction_name": "rn:R03776 rn:R03777",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1039,10 +1039,10 @@
         "C05266",
         "(2E)-Octenoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04746",
       "reaction_name": "rn:R04746",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1050,10 +1050,10 @@
         "3-Oxooctanoyl-CoA",
         "C05266"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04745",
       "reaction_name": "rn:R04745",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1061,10 +1061,10 @@
         "Hexanoyl-CoA",
         "3-Oxooctanoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04747",
       "reaction_name": "rn:R04747",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1072,10 +1072,10 @@
         "(2E)-Hexenoyl-CoA",
         "Hexanoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04751",
       "reaction_name": "rn:R04751 rn:R06985",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1083,10 +1083,10 @@
         "C05268",
         "(2E)-Hexenoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04749",
       "reaction_name": "rn:R04749",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1094,10 +1094,10 @@
         "3-Oxohexanoyl-CoA",
         "C05268"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04748",
       "reaction_name": "rn:R04748",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1105,10 +1105,10 @@
         "Butyryl-CoA",
         "3-Oxohexanoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01177",
       "reaction_name": "rn:R01177",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1116,10 +1116,10 @@
         "Crotonyl-CoA",
         "Butyryl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01171",
       "reaction_name": "rn:R01171 rn:R01175",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1127,10 +1127,10 @@
         "C01144",
         "Crotonyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03026",
       "reaction_name": "rn:R03026",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1138,10 +1138,10 @@
         "Acetoacetyl-CoA",
         "C01144"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01975",
       "reaction_name": "rn:R01975 rn:R01976",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1149,10 +1149,10 @@
         "Acetoacetyl-CoA",
         "Acetyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00238",
       "reaction_name": "rn:R00238",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1160,10 +1160,10 @@
         "C05763",
         "Hexadecanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04969",
       "reaction_name": "rn:R04969 rn:R04970",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1171,10 +1171,10 @@
         "C04633",
         "C05763"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04544",
       "reaction_name": "rn:R04544",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1182,10 +1182,10 @@
         "C04633",
         "C05762"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04543",
       "reaction_name": "rn:R04543",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1193,10 +1193,10 @@
         "Malonyl-[acp]",
         "C05762"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04968",
       "reaction_name": "rn:R04968",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1204,10 +1204,10 @@
         "C05760",
         "Tetradecanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04966",
       "reaction_name": "rn:R04966 rn:R04967",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1215,10 +1215,10 @@
         "HMA",
         "C05760"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04568",
       "reaction_name": "rn:R04568",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1226,10 +1226,10 @@
         "C05759",
         "HMA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04566",
       "reaction_name": "rn:R04566",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1237,10 +1237,10 @@
         "Malonyl-[acp]",
         "C05759"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04726",
       "reaction_name": "rn:R04726",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1248,10 +1248,10 @@
         "C05758",
         "Dodecanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04724",
       "reaction_name": "rn:R04724 rn:R04725",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1259,10 +1259,10 @@
         "C05757",
         "C05758"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04965",
       "reaction_name": "rn:R04965",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1270,10 +1270,10 @@
         "C05756",
         "C05757"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04964",
       "reaction_name": "rn:R04964",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1281,10 +1281,10 @@
         "Malonyl-[acp]",
         "C05756"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04963",
       "reaction_name": "rn:R04963",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1292,10 +1292,10 @@
         "(2E)-Decenoyl-[acp]",
         "Decanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04961",
       "reaction_name": "rn:R04961 rn:R04962",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1303,10 +1303,10 @@
         "C04619",
         "(2E)-Decenoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04535",
       "reaction_name": "rn:R04535",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1314,10 +1314,10 @@
         "C04619",
         "3-Oxodecanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04534",
       "reaction_name": "rn:R04534",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1325,10 +1325,10 @@
         "Malonyl-[acp]",
         "3-Oxodecanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04960",
       "reaction_name": "rn:R04960",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1336,10 +1336,10 @@
         "(2E)-Octenoyl-[acp]",
         "Octanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04958",
       "reaction_name": "rn:R04958 rn:R04959",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1347,10 +1347,10 @@
         "C04620",
         "(2E)-Octenoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04537",
       "reaction_name": "rn:R04537",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1358,10 +1358,10 @@
         "C04620",
         "3-Oxooctanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04536",
       "reaction_name": "rn:R04536",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1369,10 +1369,10 @@
         "Malonyl-[acp]",
         "3-Oxooctanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04957",
       "reaction_name": "rn:R04957",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1380,10 +1380,10 @@
         "(2E)-Hexenoyl-[acp]",
         "Hexanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04955",
       "reaction_name": "rn:R04955 rn:R04956",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1391,10 +1391,10 @@
         "C05747",
         "(2E)-Hexenoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04954",
       "reaction_name": "rn:R04954",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1402,10 +1402,10 @@
         "3-Oxohexanoyl-[acp]",
         "C05747"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04953",
       "reaction_name": "rn:R04953",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1413,10 +1413,10 @@
         "Malonyl-[acp]",
         "3-Oxohexanoyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04952",
       "reaction_name": "rn:R04952",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1424,10 +1424,10 @@
         "C04246",
         "Butyryl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04429",
       "reaction_name": "rn:R04429 rn:R04430",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1435,10 +1435,10 @@
         "C04618",
         "C04246"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04428",
       "reaction_name": "rn:R04428",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1446,10 +1446,10 @@
         "C04618",
         "Acetoacetyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04533",
       "reaction_name": "rn:R04533",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1457,10 +1457,10 @@
         "C03939",
         "Acetoacetyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04355",
       "reaction_name": "rn:R04355",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1468,10 +1468,10 @@
         "Hexadecanoyl-[acp]",
         "Palmitate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01706",
       "reaction_name": "rn:R01706",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1479,10 +1479,10 @@
         "Palmitate",
         "Palmitoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01274",
       "reaction_name": "rn:R01274 rn:R01280",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1490,10 +1490,10 @@
         "C03939",
         "Acetyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01624",
       "reaction_name": "rn:R01624",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1501,10 +1501,10 @@
         "Malonyl-[acp]",
         "Malonyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01626",
       "reaction_name": "rn:R01626",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1512,10 +1512,10 @@
         "Acetoacetate",
         "HMG-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01360",
       "reaction_name": "rn:R01360",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1523,10 +1523,10 @@
         "C01089",
         "Acetoacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01361",
       "reaction_name": "rn:R01361",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1534,10 +1534,10 @@
         "Acetone",
         "Acetoacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01366",
       "reaction_name": "rn:R01366",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1545,10 +1545,10 @@
         "2,3-Oxidosqualene",
         "Lanosterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03199",
       "reaction_name": "rn:R03199",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1556,10 +1556,10 @@
         "Lanosterol",
         "C11455"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05640",
       "reaction_name": "rn:R05640",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1567,10 +1567,10 @@
         "C11455",
         "C05108"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05639",
       "reaction_name": "rn:R05639",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1578,10 +1578,10 @@
         "C05108",
         "C15808"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07509",
       "reaction_name": "rn:R07509",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1589,10 +1589,10 @@
         "C15808",
         "C15816"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07494",
       "reaction_name": "rn:R07494",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1600,10 +1600,10 @@
         "C15816",
         "C05103"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07495",
       "reaction_name": "rn:R07495",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1611,10 +1611,10 @@
         "2,3-Oxidosqualene",
         "Cycloartenol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03200",
       "reaction_name": "rn:R03200",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1622,10 +1622,10 @@
         "Zymosterol",
         "C05439"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04804",
       "reaction_name": "rn:R04804",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1633,10 +1633,10 @@
         "Desmosterol",
         "Cholesterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01457",
       "reaction_name": "rn:R01457",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1644,10 +1644,10 @@
         "7-Dehydrodesmosterol",
         "Provitamin_D3"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07507",
       "reaction_name": "rn:R07507",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1655,10 +1655,10 @@
         "Lathosterol",
         "C05439"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05703",
       "reaction_name": "rn:R05703",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1666,10 +1666,10 @@
         "Zymostenol",
         "Zymosterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07498",
       "reaction_name": "rn:R07498",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1677,10 +1677,10 @@
         "Zymostenol",
         "Lathosterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03353",
       "reaction_name": "rn:R03353",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1688,10 +1688,10 @@
         "Lathosterol",
         "Provitamin_D3"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07215",
       "reaction_name": "rn:R07215",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1699,10 +1699,10 @@
         "Provitamin_D3",
         "Cholesterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01451",
       "reaction_name": "rn:R01451 rn:R01456",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1710,10 +1710,10 @@
         "Zymosterol",
         "Fecosterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04427",
       "reaction_name": "rn:R04427",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1721,10 +1721,10 @@
         "Episterol",
         "Fecosterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07497",
       "reaction_name": "rn:R07497",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1732,10 +1732,10 @@
         "Episterol",
         "C15778"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07505",
       "reaction_name": "rn:R07505",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1743,10 +1743,10 @@
         "C05440",
         "C15778"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07506",
       "reaction_name": "rn:R07506",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1754,10 +1754,10 @@
         "C05440",
         "Ergosterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05641",
       "reaction_name": "rn:R05641",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1765,10 +1765,10 @@
         "Cholesterol",
         "C03594"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01463",
       "reaction_name": "rn:R01463",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1776,10 +1776,10 @@
         "C03594",
         "C05455"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04263",
       "reaction_name": "rn:R04263",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1787,10 +1787,10 @@
         "C05451",
         "C05455"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04817",
       "reaction_name": "rn:R04817",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1798,10 +1798,10 @@
         "C05451",
         "C05452"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04818",
       "reaction_name": "rn:R04818 rn:R04819",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1809,10 +1809,10 @@
         "C05452",
         "C05444"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04806",
       "reaction_name": "rn:R04806",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1820,10 +1820,10 @@
         "C05444",
         "C05445"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08758",
       "reaction_name": "rn:R08758",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1831,10 +1831,10 @@
         "C05445",
         "C04554"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08760",
       "reaction_name": "rn:R08760",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1842,10 +1842,10 @@
         "C04554",
         "C17345"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08738",
       "reaction_name": "rn:R08738",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1853,10 +1853,10 @@
         "C17345",
         "C17346"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08739",
       "reaction_name": "rn:R08739",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1864,10 +1864,10 @@
         "C17346",
         "C05447"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08740",
       "reaction_name": "rn:R08740",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1875,10 +1875,10 @@
         "C05447",
         "C05448"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04809",
       "reaction_name": "rn:R04809",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1886,10 +1886,10 @@
         "C17339",
         "C05455"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04826",
       "reaction_name": "rn:R04826",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1897,10 +1897,10 @@
         "C17339",
         "C05453"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04823",
       "reaction_name": "rn:R04823",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1908,10 +1908,10 @@
         "C05453",
         "C05454"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04824",
       "reaction_name": "rn:R04824 rn:R04825",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1919,10 +1919,10 @@
         "C05454",
         "C05446"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04807",
       "reaction_name": "rn:R04807",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1930,10 +1930,10 @@
         "C05446",
         "C01301"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08759",
       "reaction_name": "rn:R08759",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1941,10 +1941,10 @@
         "C01301",
         "C04722"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08761",
       "reaction_name": "rn:R08761",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1952,10 +1952,10 @@
         "C04722",
         "C15613"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08733",
       "reaction_name": "rn:R08733",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1963,10 +1963,10 @@
         "C15613",
         "C17343"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08734",
       "reaction_name": "rn:R08734",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1974,10 +1974,10 @@
         "C17343",
         "C05460"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08735",
       "reaction_name": "rn:R08735",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1985,10 +1985,10 @@
         "C05450",
         "C05460"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04813",
       "reaction_name": "rn:R04813",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -1996,10 +1996,10 @@
         "C05467",
         "Choloyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03719",
       "reaction_name": "rn:R03719",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2007,10 +2007,10 @@
         "Cholate",
         "Choloyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02794",
       "reaction_name": "rn:R02794 rn:R07296",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2018,10 +2018,10 @@
         "Choloyl-CoA",
         "Glycocholate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03718",
       "reaction_name": "rn:R03718",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2029,10 +2029,10 @@
         "Glycocholate",
         "Cholate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05835",
       "reaction_name": "rn:R05835",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2040,10 +2040,10 @@
         "Choloyl-CoA",
         "Taurocholate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03720",
       "reaction_name": "rn:R03720",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2051,10 +2051,10 @@
         "Taurocholate",
         "Cholate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02797",
       "reaction_name": "rn:R02797",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2062,10 +2062,10 @@
         "Cholesterol",
         "C05500"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01454",
       "reaction_name": "rn:R01454",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2073,10 +2073,10 @@
         "C05500",
         "C05501"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04854",
       "reaction_name": "rn:R04854",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2084,10 +2084,10 @@
         "C05501",
         "Pregnenolone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03933",
       "reaction_name": "rn:R03933",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2095,10 +2095,10 @@
         "Pregnenolone",
         "Progesterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02216",
       "reaction_name": "rn:R02216",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2106,10 +2106,10 @@
         "Cholesterol",
         "C05502"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02723",
       "reaction_name": "rn:R02723",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2117,10 +2117,10 @@
         "C05502",
         "C05501"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04855",
       "reaction_name": "rn:R04855",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2128,10 +2128,10 @@
         "C01176",
         "Progesterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02211",
       "reaction_name": "rn:R02211",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2139,10 +2139,10 @@
         "C01176",
         "Cortodoxone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03326",
       "reaction_name": "rn:R03326",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2150,10 +2150,10 @@
         "Cortodoxone",
         "Cortisol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02843",
       "reaction_name": "rn:R02843",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2161,10 +2161,10 @@
         "Cortisol",
         "Cortisone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02834",
       "reaction_name": "rn:R02834 rn:R02836",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2172,10 +2172,10 @@
         "Progesterone",
         "DOC"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02213",
       "reaction_name": "rn:R02213",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2183,10 +2183,10 @@
         "DOC",
         "Corticosterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03851",
       "reaction_name": "rn:R03851",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2194,10 +2194,10 @@
         "Corticosterone",
         "C01124"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03262",
       "reaction_name": "rn:R03262",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2205,10 +2205,10 @@
         "C01124",
         "Aldosterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03263",
       "reaction_name": "rn:R03263",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2216,10 +2216,10 @@
         "Pregnenolone",
         "C05138"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03783",
       "reaction_name": "rn:R03783",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2227,10 +2227,10 @@
         "Taurine",
         "Taurocholate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03720",
       "reaction_name": "rn:R03720",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2238,10 +2238,10 @@
         "C05138",
         "DHA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08517",
       "reaction_name": "rn:R08517",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2249,10 +2249,10 @@
         "DHA",
         "Androstenedione"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01837",
       "reaction_name": "rn:R01837",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2260,10 +2260,10 @@
         "Androstenedione",
         "Testosterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01836",
       "reaction_name": "rn:R01836 rn:R01838",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2271,10 +2271,10 @@
         "C05294",
         "Testosterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02501",
       "reaction_name": "rn:R02501",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2282,10 +2282,10 @@
         "19-Oxotestosterone",
         "C05294"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04761",
       "reaction_name": "rn:R04761",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2293,10 +2293,10 @@
         "Estradiol",
         "19-Oxotestosterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03087",
       "reaction_name": "rn:R03087",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2304,10 +2304,10 @@
         "Estrone",
         "Estradiol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02352",
       "reaction_name": "rn:R02352 rn:R02353",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2315,10 +2315,10 @@
         "Estrone",
         "C05297"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02351",
       "reaction_name": "rn:R02351",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2326,10 +2326,10 @@
         "C05297",
         "C05290"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04759",
       "reaction_name": "rn:R04759",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2337,10 +2337,10 @@
         "C05290",
         "Androstenedione"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01840",
       "reaction_name": "rn:R01840",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2348,10 +2348,10 @@
         "C08830",
         "Cycloartenol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07481",
       "reaction_name": "rn:R07481",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2359,10 +2359,10 @@
         "C08830",
         "Cycloeucalenol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07482",
       "reaction_name": "rn:R07482",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2370,10 +2370,10 @@
         "Cycloeucalenol",
         "Obtusifoliol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03775",
       "reaction_name": "rn:R03775",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2381,10 +2381,10 @@
         "Obtusifoliol",
         "Delta8,14-Sterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05731",
       "reaction_name": "rn:R05731",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2392,10 +2392,10 @@
         "Delta8,14-Sterol",
         "C15776"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07483",
       "reaction_name": "rn:R07483",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2403,10 +2403,10 @@
         "Episterol",
         "5-Dehydroepisterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07491",
       "reaction_name": "rn:R07491",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2414,10 +2414,10 @@
         "5-Dehydroepisterol",
         "C15781"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07492",
       "reaction_name": "rn:R07492",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2425,10 +2425,10 @@
         "C15781",
         "Campesterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07493",
       "reaction_name": "rn:R07493",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2436,10 +2436,10 @@
         "Acetyl-CoA",
         "Malonyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00742",
       "reaction_name": "rn:R00742",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2447,10 +2447,10 @@
         "Calciol",
         "Calcidiol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03611",
       "reaction_name": "rn:R03611 rn:R11458",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2458,10 +2458,10 @@
         "Calcidiol",
         "Calcitriol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03610",
       "reaction_name": "rn:R03610 rn:R11459",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2469,10 +2469,10 @@
         "C05450",
         "C05467"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04812",
       "reaction_name": "rn:R04812",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2480,10 +2480,10 @@
         "C05448",
         "C05449"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04810",
       "reaction_name": "rn:R04810",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2491,10 +2491,10 @@
         "C05337",
         "C05449"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04811",
       "reaction_name": "rn:R04811",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2502,10 +2502,10 @@
         "C05337",
         "Chenodiol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03974",
       "reaction_name": "rn:R03974 rn:R08743",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2513,10 +2513,10 @@
         "24-Methylenelophenol",
         "Episterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07490",
       "reaction_name": "rn:R07490",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2524,10 +2524,10 @@
         "C15776",
         "24-Methylenelophenol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07484",
       "reaction_name": "rn:R07484",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2535,10 +2535,10 @@
         "C01176",
         "C05138"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03327",
       "reaction_name": "rn:R03327",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2546,10 +2546,10 @@
         "Progesterone",
         "C05479"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02215",
       "reaction_name": "rn:R02215 rn:R02219",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2557,10 +2557,10 @@
         "C05479",
         "Pregnanolone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04845",
       "reaction_name": "rn:R04845 rn:R04846",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2568,10 +2568,10 @@
         "Diol",
         "Pregnanolone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04847",
       "reaction_name": "rn:R04847",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2579,10 +2579,10 @@
         "Estradiol",
         "Estriol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03089",
       "reaction_name": "rn:R03089",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2590,10 +2590,10 @@
         "Estrone",
         "C05300"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02356",
       "reaction_name": "rn:R02356",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2601,10 +2601,10 @@
         "Estriol",
         "C05300"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04681",
       "reaction_name": "rn:R04681 rn:R04682",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2612,10 +2612,10 @@
         "Palmitate",
         "16-Hydroxypalmitate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09451",
       "reaction_name": "rn:R09451",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2623,10 +2623,10 @@
         "Calcitriol",
         "Calcitetrol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09515",
       "reaction_name": "rn:R09515",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2634,10 +2634,10 @@
         "Calcidiol",
         "Secalciferol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09516",
       "reaction_name": "rn:R09516",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2645,10 +2645,10 @@
         "Hexadecanoyl-[acp]",
         "Palmitoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10700",
       "reaction_name": "rn:R10700",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2656,10 +2656,10 @@
         "Malonyl-[acp]",
         "Acetoacetyl-[acp]"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10707",
       "reaction_name": "rn:R10707",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2667,10 +2667,10 @@
         "Octanoyl-[acp]",
         "Octylic_acid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08157",
       "reaction_name": "rn:R08157",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2678,10 +2678,10 @@
         "Decanoyl-[acp]",
         "Decanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08158",
       "reaction_name": "rn:R08158",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2689,10 +2689,10 @@
         "Dodecanoyl-[acp]",
         "Lauric_acid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04014",
       "reaction_name": "rn:R04014",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2700,10 +2700,10 @@
         "Tetradecanoyl-[acp]",
         "Myristic_acid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08159",
       "reaction_name": "rn:R08159",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2711,10 +2711,10 @@
         "C15781",
         "24-epi-Campesterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11096",
       "reaction_name": "rn:R11096",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2722,10 +2722,10 @@
         "24-epi-Campesterol",
         "Brassicasterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11097",
       "reaction_name": "rn:R11097",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2733,10 +2733,10 @@
         "Malonyl-CoA",
         "C20877"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10825",
       "reaction_name": "rn:R10825",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2744,10 +2744,10 @@
         "C20878",
         "C20877"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10826",
       "reaction_name": "rn:R10826",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2755,10 +2755,10 @@
         "C20878",
         "C20879"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10827",
       "reaction_name": "rn:R10827",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     },
     {
@@ -2766,10 +2766,10 @@
         "C20876",
         "C20879"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10828",
       "reaction_name": "rn:R10828",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Fatty Acid Biosynthesis"
     }
   ]

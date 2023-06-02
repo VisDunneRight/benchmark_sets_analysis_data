@@ -1,0 +1,285 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "1972"
+    },
+    {
+      "id": "1976"
+    },
+    {
+      "id": "1978"
+    },
+    {
+      "id": "1980"
+    },
+    {
+      "id": "1982"
+    },
+    {
+      "id": "1984"
+    },
+    {
+      "id": "1986"
+    },
+    {
+      "id": "1988"
+    },
+    {
+      "id": "1990"
+    },
+    {
+      "id": "future"
+    },
+    {
+      "id": "Thompson"
+    },
+    {
+      "id": "Mashey"
+    },
+    {
+      "id": "Bourne"
+    },
+    {
+      "id": "csh"
+    },
+    {
+      "id": "tcsh"
+    },
+    {
+      "id": "ksh"
+    },
+    {
+      "id": "esh"
+    },
+    {
+      "id": "vsh"
+    },
+    {
+      "id": "System-V"
+    },
+    {
+      "id": "v9sh"
+    },
+    {
+      "id": "rc"
+    },
+    {
+      "id": "Bash"
+    },
+    {
+      "id": "ksh-i"
+    },
+    {
+      "id": "KornShell"
+    },
+    {
+      "id": "Formshell"
+    },
+    {
+      "id": "POSIX"
+    },
+    {
+      "id": "ksh-POSIX"
+    },
+    {
+      "id": "Perl"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "1972",
+      "target": "1976"
+    },
+    {
+      "key": 0,
+      "source": "1976",
+      "target": "1978"
+    },
+    {
+      "key": 0,
+      "source": "1978",
+      "target": "1980"
+    },
+    {
+      "key": 0,
+      "source": "1980",
+      "target": "1982"
+    },
+    {
+      "key": 0,
+      "source": "1982",
+      "target": "1984"
+    },
+    {
+      "key": 0,
+      "source": "1984",
+      "target": "1986"
+    },
+    {
+      "key": 0,
+      "source": "1984",
+      "target": "v9sh"
+    },
+    {
+      "key": 0,
+      "source": "1986",
+      "target": "1988"
+    },
+    {
+      "key": 0,
+      "source": "1988",
+      "target": "1990"
+    },
+    {
+      "key": 0,
+      "source": "1988",
+      "target": "rc"
+    },
+    {
+      "key": 0,
+      "source": "1990",
+      "target": "future"
+    },
+    {
+      "key": 0,
+      "source": "Thompson",
+      "target": "Mashey"
+    },
+    {
+      "key": 0,
+      "source": "Thompson",
+      "target": "Bourne"
+    },
+    {
+      "key": 0,
+      "source": "Thompson",
+      "target": "csh"
+    },
+    {
+      "key": 0,
+      "source": "Bourne",
+      "target": "ksh"
+    },
+    {
+      "key": 0,
+      "source": "Bourne",
+      "target": "esh"
+    },
+    {
+      "key": 0,
+      "source": "Bourne",
+      "target": "vsh"
+    },
+    {
+      "key": 0,
+      "source": "Bourne",
+      "target": "System-V"
+    },
+    {
+      "key": 0,
+      "source": "Bourne",
+      "target": "v9sh"
+    },
+    {
+      "key": 0,
+      "source": "Bourne",
+      "target": "Bash"
+    },
+    {
+      "key": 0,
+      "source": "Bourne",
+      "target": "Formshell"
+    },
+    {
+      "key": 0,
+      "source": "csh",
+      "target": "tcsh"
+    },
+    {
+      "key": 0,
+      "source": "csh",
+      "target": "ksh"
+    },
+    {
+      "key": 0,
+      "source": "ksh",
+      "target": "ksh-i"
+    },
+    {
+      "key": 0,
+      "source": "esh",
+      "target": "ksh"
+    },
+    {
+      "key": 0,
+      "source": "vsh",
+      "target": "ksh"
+    },
+    {
+      "key": 0,
+      "source": "System-V",
+      "target": "POSIX"
+    },
+    {
+      "key": 0,
+      "source": "v9sh",
+      "target": "rc"
+    },
+    {
+      "key": 0,
+      "source": "v9sh",
+      "target": "tcsh"
+    },
+    {
+      "key": 0,
+      "source": "rc",
+      "target": "KornShell"
+    },
+    {
+      "key": 0,
+      "source": "ksh-i",
+      "target": "Bash"
+    },
+    {
+      "key": 0,
+      "source": "ksh-i",
+      "target": "KornShell"
+    },
+    {
+      "key": 0,
+      "source": "KornShell",
+      "target": "Bash"
+    },
+    {
+      "key": 0,
+      "source": "KornShell",
+      "target": "POSIX"
+    },
+    {
+      "key": 0,
+      "source": "KornShell",
+      "target": "ksh-POSIX"
+    },
+    {
+      "key": 0,
+      "source": "KornShell",
+      "target": "Perl"
+    },
+    {
+      "key": 0,
+      "source": "Formshell",
+      "target": "ksh"
+    },
+    {
+      "key": 0,
+      "source": "Formshell",
+      "target": "csh"
+    }
+  ]
+}

@@ -1042,10 +1042,10 @@
         "C01101",
         "C00231"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05850",
       "reaction_name": "rn:R05850",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1053,10 +1053,10 @@
         "C01101",
         "L-Ribulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02439",
       "reaction_name": "rn:R02439",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1064,10 +1064,10 @@
         "L-Arabinose",
         "L-Ribulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01761",
       "reaction_name": "rn:R01761",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1075,10 +1075,10 @@
         "L-Lyxitol",
         "L-Arabinose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01758",
       "reaction_name": "rn:R01758 rn:R01759",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1086,10 +1086,10 @@
         "Xylitol",
         "L-Lyxulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01904",
       "reaction_name": "rn:R01904",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1097,10 +1097,10 @@
         "Xylitol",
         "D-Lyxulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01896",
       "reaction_name": "rn:R01896",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1108,10 +1108,10 @@
         "D-Lyxulose",
         "C00231"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01639",
       "reaction_name": "rn:R01639",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1119,10 +1119,10 @@
         "D-Xylose",
         "Xylitol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01431",
       "reaction_name": "rn:R01431 rn:R07152 rn:R09477",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1130,10 +1130,10 @@
         "D-Xylose",
         "D-Lyxulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01432",
       "reaction_name": "rn:R01432",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1141,10 +1141,10 @@
         "C00199",
         "D-Ribulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01526",
       "reaction_name": "rn:R01526",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1152,10 +1152,10 @@
         "D-Ribulose",
         "Ribitol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01895",
       "reaction_name": "rn:R01895",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1163,10 +1163,10 @@
         "UDPglucose",
         "Cori_ester"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00287",
       "reaction_name": "rn:R00287 rn:R00289 rn:R00955",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1174,10 +1174,10 @@
         "UDPglucose",
         "UDPglucuronate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00286",
       "reaction_name": "rn:R00286",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1185,10 +1185,10 @@
         "UDPglucuronate",
         "Glucuronide"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01383",
       "reaction_name": "rn:R01383",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1196,10 +1196,10 @@
         "Glucuronide",
         "Glucuronate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01478",
       "reaction_name": "rn:R01478",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1207,10 +1207,10 @@
         "Glucuronate",
         "Gulonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01481",
       "reaction_name": "rn:R01481",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1218,10 +1218,10 @@
         "3-Dehydro-L-gulonate",
         "Gulonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02640",
       "reaction_name": "rn:R02640",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1229,10 +1229,10 @@
         "D-Fructuronate",
         "Glucuronate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01482",
       "reaction_name": "rn:R01482",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1240,10 +1240,10 @@
         "D-Fructuronate",
         "D-Mannonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02454",
       "reaction_name": "rn:R02454",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1251,10 +1251,10 @@
         "D-Mannonate",
         "C00204"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05606",
       "reaction_name": "rn:R05606",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1262,10 +1262,10 @@
         "C00204",
         "D-Altronate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01540",
       "reaction_name": "rn:R01540",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1273,10 +1273,10 @@
         "D-Tagaturonate",
         "D-Altronate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02555",
       "reaction_name": "rn:R02555",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1284,10 +1284,10 @@
         "D-Galacturonate",
         "D-Tagaturonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01983",
       "reaction_name": "rn:R01983",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1295,10 +1295,10 @@
         "Digalacturonate",
         "D-Galacturonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07413",
       "reaction_name": "rn:R07413",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1306,10 +1306,10 @@
         "Pectate",
         "Digalacturonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02360",
       "reaction_name": "rn:R02360",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1317,10 +1317,10 @@
         "Pectin",
         "Pectate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02362",
       "reaction_name": "rn:R02362",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1328,10 +1328,10 @@
         "C00446",
         "UDP-galactose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00955",
       "reaction_name": "rn:R00955",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1339,10 +1339,10 @@
         "alpha-D-Galactose",
         "C00446"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01092",
       "reaction_name": "rn:R01092",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1350,10 +1350,10 @@
         "C00446",
         "UDP-galactose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00502",
       "reaction_name": "rn:R00502 rn:R00955",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1361,10 +1361,10 @@
         "ADP-glucose",
         "Cori_ester"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00948",
       "reaction_name": "rn:R00948 rn:R00951",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1372,10 +1372,10 @@
         "Amylose",
         "ADP-glucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02421",
       "reaction_name": "rn:R02421",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1383,10 +1383,10 @@
         "Starch",
         "Amylose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02110",
       "reaction_name": "rn:R02110",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1394,10 +1394,10 @@
         "Starch",
         "Dextrin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02112",
       "reaction_name": "rn:R02112",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1405,10 +1405,10 @@
         "alpha-D-Glucose",
         "Dextrin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01791",
       "reaction_name": "rn:R01791",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1416,10 +1416,10 @@
         "Starch",
         "alpha-D-Glucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01790",
       "reaction_name": "rn:R01790",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1427,10 +1427,10 @@
         "Sucrose_6F-phosphate",
         "UDPglucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00766",
       "reaction_name": "rn:R00766",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1438,10 +1438,10 @@
         "UDP-galactose",
         "UDPglucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00291",
       "reaction_name": "rn:R00291",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1449,10 +1449,10 @@
         "UDPgalacturonate",
         "UDPglucuronate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01385",
       "reaction_name": "rn:R01385",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1460,10 +1460,10 @@
         "UDPglucuronate",
         "UDP-xylose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01384",
       "reaction_name": "rn:R01384",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1471,10 +1471,10 @@
         "1,4-beta-D-Xylan",
         "UDP-xylose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03928",
       "reaction_name": "rn:R03928",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1482,10 +1482,10 @@
         "1,4-beta-D-Xylan",
         "D-Xylose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01433",
       "reaction_name": "rn:R01433",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1493,10 +1493,10 @@
         "C05345",
         "C00352"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00768",
       "reaction_name": "rn:R00768",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1504,10 +1504,10 @@
         "C06156",
         "C00352"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02060",
       "reaction_name": "rn:R02060",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1515,10 +1515,10 @@
         "C04501",
         "C06156"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05332",
       "reaction_name": "rn:R05332",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1526,10 +1526,10 @@
         "C00043",
         "C04501"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00416",
       "reaction_name": "rn:R00416",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1537,10 +1537,10 @@
         "C00203",
         "C00043"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00418",
       "reaction_name": "rn:R00418",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1548,10 +1548,10 @@
         "C01170",
         "C00043"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00420",
       "reaction_name": "rn:R00420",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1559,10 +1559,10 @@
         "C04631",
         "C00043"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00660",
       "reaction_name": "rn:R00660",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1570,10 +1570,10 @@
         "C04631",
         "UDP-MurNAc"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03191",
       "reaction_name": "rn:R03191 rn:R03192",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1581,10 +1581,10 @@
         "C00645",
         "C04257"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02705",
       "reaction_name": "rn:R02705",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1592,10 +1592,10 @@
         "C04257",
         "C06241"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04435",
       "reaction_name": "rn:R04435",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1603,10 +1603,10 @@
         "C06241",
         "Neu5Ac"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01805",
       "reaction_name": "rn:R01805",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1614,10 +1614,10 @@
         "Neu5Ac",
         "C00128"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01117",
       "reaction_name": "rn:R01117",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1625,10 +1625,10 @@
         "Levulose",
         "C05345"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00867",
       "reaction_name": "rn:R00867",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1636,10 +1636,10 @@
         "Levulose",
         "C01094"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00866",
       "reaction_name": "rn:R00866 rn:R03232",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1647,10 +1647,10 @@
         "C01094",
         "Glycerone_phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02568",
       "reaction_name": "rn:R02568",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1658,10 +1658,10 @@
         "Mannose",
         "C00275"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01326",
       "reaction_name": "rn:R01326 rn:R02630",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1669,10 +1669,10 @@
         "C00275",
         "C05345"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01819",
       "reaction_name": "rn:R01819",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1680,10 +1680,10 @@
         "C00636",
         "C00275"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01818",
       "reaction_name": "rn:R01818",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1691,10 +1691,10 @@
         "GDP-mannose",
         "C00636"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00883",
       "reaction_name": "rn:R00883 rn:R00885",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1702,10 +1702,10 @@
         "GDP-mannose",
         "C01222"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00888",
       "reaction_name": "rn:R00888",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1713,10 +1713,10 @@
         "C01222",
         "GDP-L-fucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05692",
       "reaction_name": "rn:R05692",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1724,10 +1724,10 @@
         "GDP-L-fucose",
         "L-Fucose_1-phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01951",
       "reaction_name": "rn:R01951",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1735,10 +1735,10 @@
         "L-Fucose_1-phosphate",
         "L-Fucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03161",
       "reaction_name": "rn:R03161",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1746,10 +1746,10 @@
         "Inositol_3-phosphate",
         "Bios_I"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01187",
       "reaction_name": "rn:R01187 rn:R07279",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1757,10 +1757,10 @@
         "C04063",
         "Inositol_3-phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04372",
       "reaction_name": "rn:R04372",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1768,10 +1768,10 @@
         "C01272",
         "C01243"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03430",
       "reaction_name": "rn:R03430",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1779,10 +1779,10 @@
         "Ins(1,4,5)P3",
         "C01272"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03433",
       "reaction_name": "rn:R03433",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1790,10 +1790,10 @@
         "Ins(1,4,5)P3",
         "C01220"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03394",
       "reaction_name": "rn:R03394",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1801,10 +1801,10 @@
         "C01220",
         "Inositol_4-phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03393",
       "reaction_name": "rn:R03393",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1812,10 +1812,10 @@
         "C04637",
         "Ins(1,4,5)P3"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03435",
       "reaction_name": "rn:R03435",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1823,10 +1823,10 @@
         "C01277",
         "C04637"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03469",
       "reaction_name": "rn:R03469 rn:R04404",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1834,10 +1834,10 @@
         "Phosphatidylinositol",
         "C01277"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03361",
       "reaction_name": "rn:R03361 rn:R11680",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1845,10 +1845,10 @@
         "C01243",
         "C04477"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03429",
       "reaction_name": "rn:R03429",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1856,10 +1856,10 @@
         "C01284",
         "C04477"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03478",
       "reaction_name": "rn:R03478",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1867,10 +1867,10 @@
         "C01284",
         "Phytate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05202",
       "reaction_name": "rn:R05202",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1878,10 +1878,10 @@
         "Bios_I",
         "2-Inosose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01183",
       "reaction_name": "rn:R01183",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1889,10 +1889,10 @@
         "2-Inosose",
         "C04287"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02782",
       "reaction_name": "rn:R02782",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1900,10 +1900,10 @@
         "C16737",
         "DKH"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08503",
       "reaction_name": "rn:R08503",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1911,10 +1911,10 @@
         "DKHP",
         "DKH"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05661",
       "reaction_name": "rn:R05661",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1922,10 +1922,10 @@
         "Glycerone_phosphate",
         "DKHP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05378",
       "reaction_name": "rn:R05378",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1933,10 +1933,10 @@
         "Malate",
         "Glyoxalate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00472",
       "reaction_name": "rn:R00472",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1944,10 +1944,10 @@
         "Glyoxalate",
         "Isocitrate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00479",
       "reaction_name": "rn:R00479",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1955,10 +1955,10 @@
         "Hydroxypyruvate",
         "Glycerate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01388",
       "reaction_name": "rn:R01388 rn:R01392",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1966,10 +1966,10 @@
         "3-Phosphoglycerate",
         "Glycerate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01514",
       "reaction_name": "rn:R01514",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1977,10 +1977,10 @@
         "C01182",
         "3-Phosphoglycerate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03140",
       "reaction_name": "rn:R03140",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1988,10 +1988,10 @@
         "2-Phosphoglycolate",
         "Glycolate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01334",
       "reaction_name": "rn:R01334",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -1999,10 +1999,10 @@
         "Glyoxalate",
         "Glycolate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00465",
       "reaction_name": "rn:R00465 rn:R00475 rn:R00717",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2010,10 +2010,10 @@
         "Oxaloacetate",
         "PEP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00341",
       "reaction_name": "rn:R00341 rn:R00345 rn:R00346 rn:R00431 rn:R00726",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2021,10 +2021,10 @@
         "Pyruvate",
         "L-Lactate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00196",
       "reaction_name": "rn:R00196 rn:R00703 rn:R01447",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2032,10 +2032,10 @@
         "Pyruvate",
         "Acetyl_phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00207",
       "reaction_name": "rn:R00207",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2043,10 +2043,10 @@
         "Acetyl_phosphate",
         "Acetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00315",
       "reaction_name": "rn:R00315 rn:R00320",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2054,10 +2054,10 @@
         "Oxaloacetate",
         "Pyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00217",
       "reaction_name": "rn:R00217 rn:R00344",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2065,10 +2065,10 @@
         "Acetyl-CoA",
         "3-Oxopropanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00705",
       "reaction_name": "rn:R00705 rn:R00706",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2076,10 +2076,10 @@
         "Hydracrylic_acid",
         "C05668"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03158",
       "reaction_name": "rn:R03158",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2087,10 +2087,10 @@
         "Acetyl-CoA",
         "Malonyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00233",
       "reaction_name": "rn:R00233",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2098,10 +2098,10 @@
         "C05668",
         "Acrylyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03045",
       "reaction_name": "rn:R03045",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2109,10 +2109,10 @@
         "Lactoyl-CoA",
         "Acrylyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02963",
       "reaction_name": "rn:R02963",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2120,10 +2120,10 @@
         "L-Lactate",
         "Lactoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01449",
       "reaction_name": "rn:R01449",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2131,10 +2131,10 @@
         "Acrylyl-CoA",
         "Propionyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00919",
       "reaction_name": "rn:R00919 rn:R04432 rn:R10161",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2142,10 +2142,10 @@
         "Propionate",
         "Propionyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00925",
       "reaction_name": "rn:R00925 rn:R00920 rn:R00928",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2153,10 +2153,10 @@
         "Propionyl-CoA",
         "D-Methylmalonyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01859",
       "reaction_name": "rn:R01859",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2164,10 +2164,10 @@
         "D-Methylmalonyl-CoA",
         "L-Methylmalonyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02765",
       "reaction_name": "rn:R02765",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2175,10 +2175,10 @@
         "L-Methylmalonyl-CoA",
         "Succinyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00833",
       "reaction_name": "rn:R00833",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2186,10 +2186,10 @@
         "Butyrate",
         "Butyryl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01176",
       "reaction_name": "rn:R01176 rn:R01179",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2197,10 +2197,10 @@
         "Butanoylphosphate",
         "Butyrate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01688",
       "reaction_name": "rn:R01688",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2208,10 +2208,10 @@
         "Butanoylphosphate",
         "Butyryl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01174",
       "reaction_name": "rn:R01174",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2219,10 +2219,10 @@
         "Gulonate",
         "L-Gulonolactone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02933",
       "reaction_name": "rn:R02933",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2230,10 +2230,10 @@
         "L-Gulonolactone",
         "C03289"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03184",
       "reaction_name": "rn:R03184",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2241,10 +2241,10 @@
         "Vitamin_C",
         "Ascorbate_radical"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00095",
       "reaction_name": "rn:R00095",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2252,10 +2252,10 @@
         "Vitamin_C",
         "Dehydroascorbate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00068",
       "reaction_name": "rn:R00068 rn:R01108",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2263,10 +2263,10 @@
         "Ethanal",
         "Acetyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00228",
       "reaction_name": "rn:R00228",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2274,10 +2274,10 @@
         "10-Formyl-THF",
         "C00445"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01655",
       "reaction_name": "rn:R01655",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2285,10 +2285,10 @@
         "Pyruvate",
         "L-Citramalyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00237",
       "reaction_name": "rn:R00237",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2296,10 +2296,10 @@
         "Mesaconate",
         "C03618"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03696",
       "reaction_name": "rn:R03696",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2307,10 +2307,10 @@
         "C03618",
         "Glutamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00262",
       "reaction_name": "rn:R00262",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2318,10 +2318,10 @@
         "3-Oxopropanoate",
         "Malonyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00740",
       "reaction_name": "rn:R00740",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2329,10 +2329,10 @@
         "UDPglucuronate",
         "C05385"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01381",
       "reaction_name": "rn:R01381",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2340,10 +2340,10 @@
         "Glucuronate",
         "C05385"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01476",
       "reaction_name": "rn:R01476",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2351,10 +2351,10 @@
         "UDPglucose",
         "Sucrose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00806",
       "reaction_name": "rn:R00806",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2362,10 +2362,10 @@
         "C01115",
         "Vitamin_C"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00640",
       "reaction_name": "rn:R00640 rn:R00643",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2373,10 +2373,10 @@
         "C01115",
         "L-Galactose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07675",
       "reaction_name": "rn:R07675",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2384,10 +2384,10 @@
         "C15926",
         "L-Galactose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07674",
       "reaction_name": "rn:R07674",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2395,10 +2395,10 @@
         "GDP-L-galactose",
         "C15926"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07678",
       "reaction_name": "rn:R07678",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2406,10 +2406,10 @@
         "GDP-L-galactose",
         "GDP-mannose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00889",
       "reaction_name": "rn:R00889",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2417,10 +2417,10 @@
         "Glucose",
         "Sucrose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05140",
       "reaction_name": "rn:R05140",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2428,10 +2428,10 @@
         "C04287",
         "C16737"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08603",
       "reaction_name": "rn:R08603",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2439,10 +2439,10 @@
         "Glucurone",
         "Glucarate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02957",
       "reaction_name": "rn:R02957",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2450,10 +2450,10 @@
         "Glyoxalate",
         "C01146"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00013",
       "reaction_name": "rn:R00013",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2461,10 +2461,10 @@
         "Glycerate",
         "C01146"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01745",
       "reaction_name": "rn:R01745 rn:R01747",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2472,10 +2472,10 @@
         "3-Oxopropanoate",
         "DKHP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05378",
       "reaction_name": "rn:R05378",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2483,10 +2483,10 @@
         "C00043",
         "C00645"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00414",
       "reaction_name": "rn:R00414",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2494,10 +2494,10 @@
         "C01243",
         "C04063"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03427",
       "reaction_name": "rn:R03427",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2505,10 +2505,10 @@
         "Inositol_4-phosphate",
         "Bios_I"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01186",
       "reaction_name": "rn:R01186",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2516,10 +2516,10 @@
         "Formate",
         "Oxalate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00522",
       "reaction_name": "rn:R00522",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2527,10 +2527,10 @@
         "Formyl-CoA",
         "Oxalyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01908",
       "reaction_name": "rn:R01908",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2538,10 +2538,10 @@
         "Oxalate",
         "Oxalyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01558",
       "reaction_name": "rn:R01558 rn:R01559",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2549,10 +2549,10 @@
         "10-Formyl-THF",
         "Formate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00943",
       "reaction_name": "rn:R00943",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2560,10 +2560,10 @@
         "C00445",
         "10-Formyl-THF"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01655",
       "reaction_name": "rn:R01655",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2571,10 +2571,10 @@
         "C00445",
         "5,10-Methylene-THF"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01220",
       "reaction_name": "rn:R01220",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2582,10 +2582,10 @@
         "Pectate",
         "D-Galacturonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01982",
       "reaction_name": "rn:R01982",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2593,10 +2593,10 @@
         "Hydroxypyruvate",
         "C01146"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01394",
       "reaction_name": "rn:R01394",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2604,10 +2604,10 @@
         "Robison_ester",
         "Inositol_3-phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07324",
       "reaction_name": "rn:R07324",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2615,10 +2615,10 @@
         "C03906",
         "UDP-L-arabinose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03077",
       "reaction_name": "rn:R03077",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2626,10 +2626,10 @@
         "L-Arabinose",
         "C03906"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01754",
       "reaction_name": "rn:R01754",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2637,10 +2637,10 @@
         "C11554",
         "C04549"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07299",
       "reaction_name": "rn:R07299",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2648,10 +2648,10 @@
         "Phosphatidylinositol",
         "C04549"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03362",
       "reaction_name": "rn:R03362 rn:R03363",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2659,10 +2659,10 @@
         "C01277",
         "C11554"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05795",
       "reaction_name": "rn:R05795",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2670,10 +2670,10 @@
         "UDP-L-arabinose",
         "UDP-xylose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01473",
       "reaction_name": "rn:R01473",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2681,10 +2681,10 @@
         "Cori_ester",
         "CDP-glucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00956",
       "reaction_name": "rn:R00956",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2692,10 +2692,10 @@
         "Sorbitol",
         "Levulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00875",
       "reaction_name": "rn:R00875",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2703,10 +2703,10 @@
         "alpha-D-Glucose",
         "Levulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00878",
       "reaction_name": "rn:R00878",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2714,10 +2714,10 @@
         "Maltose",
         "Glucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00028",
       "reaction_name": "rn:R00028 rn:R01555 rn:R05196",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2725,10 +2725,10 @@
         "Acetyl-CoA",
         "Acetyl_phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00230",
       "reaction_name": "rn:R00230",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2736,10 +2736,10 @@
         "Lactose",
         "D-Galactose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01678",
       "reaction_name": "rn:R01678",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2747,10 +2747,10 @@
         "Glucarate",
         "C00679"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02752",
       "reaction_name": "rn:R02752",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2758,10 +2758,10 @@
         "C00679",
         "2,5-Dioxopentanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02279",
       "reaction_name": "rn:R02279",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2769,10 +2769,10 @@
         "C00684",
         "2,5-Dioxopentanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02278",
       "reaction_name": "rn:R02278",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2780,10 +2780,10 @@
         "L-Arabinonate",
         "C00684"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02522",
       "reaction_name": "rn:R02522",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2791,10 +2791,10 @@
         "L-Arabonolactone",
         "L-Arabinonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02526",
       "reaction_name": "rn:R02526",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2802,10 +2802,10 @@
         "UDPglucose",
         "Cellulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02889",
       "reaction_name": "rn:R02889",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2813,10 +2813,10 @@
         "Cellulose",
         "Cellobiose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02886",
       "reaction_name": "rn:R02886",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2824,10 +2824,10 @@
         "UDPglucose",
         "C00689"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02737",
       "reaction_name": "rn:R02737",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2835,10 +2835,10 @@
         "C00689",
         "Trehalose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02778",
       "reaction_name": "rn:R02778",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2846,10 +2846,10 @@
         "Trehalose",
         "Glucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00010",
       "reaction_name": "rn:R00010 rn:R02727",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2857,10 +2857,10 @@
         "ADP-glucose",
         "Trehalose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08946",
       "reaction_name": "rn:R08946",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2868,10 +2868,10 @@
         "Maltose",
         "Trehalose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01557",
       "reaction_name": "rn:R01557",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2879,10 +2879,10 @@
         "Vitamin_C",
         "C03289"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00647",
       "reaction_name": "rn:R00647",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2890,10 +2890,10 @@
         "D-Galactose",
         "Dulcose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01093",
       "reaction_name": "rn:R01093 rn:R01095",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2901,10 +2901,10 @@
         "Dulcose",
         "C06311"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05570",
       "reaction_name": "rn:R05570",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2912,10 +2912,10 @@
         "C06311",
         "C01097"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05571",
       "reaction_name": "rn:R05571",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2923,10 +2923,10 @@
         "C03785",
         "C00118"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01069",
       "reaction_name": "rn:R01069",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2934,10 +2934,10 @@
         "C01286",
         "C00118"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01064",
       "reaction_name": "rn:R01064",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2945,10 +2945,10 @@
         "C01216",
         "C01286"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03387",
       "reaction_name": "rn:R03387",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2956,10 +2956,10 @@
         "D-Galactonate",
         "C01216"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03033",
       "reaction_name": "rn:R03033",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2967,10 +2967,10 @@
         "D-Galactose",
         "C03383"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01094",
       "reaction_name": "rn:R01094 rn:R01097",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2978,10 +2978,10 @@
         "C01097",
         "C03785"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03236",
       "reaction_name": "rn:R03236 rn:R03237 rn:R03238 rn:R03239",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -2989,10 +2989,10 @@
         "Lactose",
         "Lactose_6'-phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04393",
       "reaction_name": "rn:R04393",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3000,10 +3000,10 @@
         "Lactose_6'-phosphate",
         "C01113"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03256",
       "reaction_name": "rn:R03256",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3011,10 +3011,10 @@
         "C01113",
         "C01097"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03240",
       "reaction_name": "rn:R03240",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3022,10 +3022,10 @@
         "Starch",
         "Cori_ester"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02111",
       "reaction_name": "rn:R02111",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3033,10 +3033,10 @@
         "Vitamin_C",
         "C16186"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07671",
       "reaction_name": "rn:R07671",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3044,10 +3044,10 @@
         "C16186",
         "C14899"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07677",
       "reaction_name": "rn:R07677",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3055,10 +3055,10 @@
         "C14899",
         "C03291"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07125",
       "reaction_name": "rn:R07125",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3066,10 +3066,10 @@
         "C01101",
         "C03291"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03244",
       "reaction_name": "rn:R03244",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3077,10 +3077,10 @@
         "D-Lyxitol",
         "D-Ribulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07134",
       "reaction_name": "rn:R07134 rn:R07144",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3088,10 +3088,10 @@
         "D-Lyxitol",
         "D-Lyxulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05604",
       "reaction_name": "rn:R05604 rn:R07143",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3099,10 +3099,10 @@
         "Succinyl-CoA",
         "Succinate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10343",
       "reaction_name": "rn:R10343",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3110,10 +3110,10 @@
         "Succinyl-CoA",
         "4-Oxobutanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09280",
       "reaction_name": "rn:R09280",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3121,10 +3121,10 @@
         "4-Hydroxybutanoate",
         "4-Oxobutanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01644",
       "reaction_name": "rn:R01644 rn:R09281",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3132,10 +3132,10 @@
         "4-Hydroxybutanoate",
         "4-Hydroxybutyryl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05336",
       "reaction_name": "rn:R05336",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3143,10 +3143,10 @@
         "4-Hydroxybutyryl-CoA",
         "Crotonyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10782",
       "reaction_name": "rn:R10782",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3154,10 +3154,10 @@
         "D-Galactose",
         "alpha-D-Galactose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10619",
       "reaction_name": "rn:R10619",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3165,10 +3165,10 @@
         "D-Galacturonate",
         "L-Galactonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07676",
       "reaction_name": "rn:R07676 rn:R10565",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3176,10 +3176,10 @@
         "L-Galactonate",
         "C20680"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10532",
       "reaction_name": "rn:R10532",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3187,10 +3187,10 @@
         "C20680",
         "L-Glycerose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10550",
       "reaction_name": "rn:R10550",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3198,10 +3198,10 @@
         "L-Glycerose",
         "Glycerin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10563",
       "reaction_name": "rn:R10563",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3209,10 +3209,10 @@
         "C01216",
         "Pyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10616",
       "reaction_name": "rn:R10616",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3220,10 +3220,10 @@
         "Gulonate",
         "D-Fructuronate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10848",
       "reaction_name": "rn:R10848",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3231,10 +3231,10 @@
         "Chitosamine",
         "C00352"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01961",
       "reaction_name": "rn:R01961",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3242,10 +3242,10 @@
         "Chitosamine",
         "D-Glucosaminide"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01966",
       "reaction_name": "rn:R01966",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3253,10 +3253,10 @@
         "Chitosan",
         "D-Glucosaminide"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02833",
       "reaction_name": "rn:R02833",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3264,10 +3264,10 @@
         "Chitin",
         "Chitosan"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02333",
       "reaction_name": "rn:R02333",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3275,10 +3275,10 @@
         "Chitin",
         "Chitobiose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02334",
       "reaction_name": "rn:R02334",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3286,10 +3286,10 @@
         "Chitobiose",
         "GlcNAc"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00022",
       "reaction_name": "rn:R00022",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3297,10 +3297,10 @@
         "GlcNAc",
         "C00357"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01201",
       "reaction_name": "rn:R01201",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3308,10 +3308,10 @@
         "C00357",
         "C04501"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08193",
       "reaction_name": "rn:R08193",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3319,10 +3319,10 @@
         "C21027",
         "UDP-MurNAc"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11025",
       "reaction_name": "rn:R11025",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3330,10 +3330,10 @@
         "N-Acetylmuramate",
         "C21027"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11024",
       "reaction_name": "rn:R11024",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3341,10 +3341,10 @@
         "C00357",
         "MurNAc_6-phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08555",
       "reaction_name": "rn:R08555",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3352,10 +3352,10 @@
         "Propionate",
         "Propionyl_phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01353",
       "reaction_name": "rn:R01353",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3363,10 +3363,10 @@
         "Propionyl-CoA",
         "Propionyl_phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00921",
       "reaction_name": "rn:R00921",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3374,10 +3374,10 @@
         "Cellulose",
         "Cellodextrin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11307",
       "reaction_name": "rn:R11307",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3385,10 +3385,10 @@
         "Cellodextrin",
         "Cellobiose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02887",
       "reaction_name": "rn:R02887 rn:R11308",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3396,10 +3396,10 @@
         "Cellobiose",
         "Glucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00306",
       "reaction_name": "rn:R00306",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3407,10 +3407,10 @@
         "Cellobiose",
         "Cori_ester"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00952",
       "reaction_name": "rn:R00952",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3418,10 +3418,10 @@
         "Maltodextrin",
         "Maltose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11262",
       "reaction_name": "rn:R11262",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3429,10 +3429,10 @@
         "Starch",
         "Maltodextrin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11261",
       "reaction_name": "rn:R11261",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3440,10 +3440,10 @@
         "Maltodextrin",
         "C06400"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01824",
       "reaction_name": "rn:R01824",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3451,10 +3451,10 @@
         "C06400",
         "Trehalose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11256",
       "reaction_name": "rn:R11256",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3462,10 +3462,10 @@
         "UDPglucose",
         "Amylose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00292",
       "reaction_name": "rn:R00292",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3473,10 +3473,10 @@
         "Maltose",
         "C20237"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09945",
       "reaction_name": "rn:R09945",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3484,10 +3484,10 @@
         "C20237",
         "Amylose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09994",
       "reaction_name": "rn:R09994",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3495,10 +3495,10 @@
         "C00199",
         "Ribitol_5-phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01524",
       "reaction_name": "rn:R01524 rn:R01525",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3506,10 +3506,10 @@
         "Ribitol_5-phosphate",
         "CDP-ribitol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02921",
       "reaction_name": "rn:R02921",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3517,10 +3517,10 @@
         "Sucrose",
         "Levulose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00801",
       "reaction_name": "rn:R00801",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3528,10 +3528,10 @@
         "ADP-glucose",
         "C20237"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11530",
       "reaction_name": "rn:R11530",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3539,10 +3539,10 @@
         "D-Tagaturonate",
         "D-Fructuronate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11624",
       "reaction_name": "rn:R11624",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3550,10 +3550,10 @@
         "UDPglucuronate",
         "UDP-L-Ara4O"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07658",
       "reaction_name": "rn:R07658",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3561,10 +3561,10 @@
         "UDP-L-Ara4O",
         "UDP-L-Ara4N"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07659",
       "reaction_name": "rn:R07659",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3572,10 +3572,10 @@
         "UDP-L-Ara4N",
         "UDP-L-Ara4FN"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07660",
       "reaction_name": "rn:R07660",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3583,10 +3583,10 @@
         "UDP-L-Ara4FN",
         "C16156"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07661",
       "reaction_name": "rn:R07661",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     },
     {
@@ -3594,10 +3594,10 @@
         "C16156",
         "C16157"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07662",
       "reaction_name": "rn:R07662",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Glycan Biosynthesis and Metabolism"
     }
   ]

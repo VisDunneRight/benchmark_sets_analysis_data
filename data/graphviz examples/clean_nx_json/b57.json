@@ -1,0 +1,813 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"1 - Subscription page\"",
+      "shape": "ellipse",
+      "color": "purple",
+      "fillcolor": "purple",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node1"
+    },
+    {
+      "label": "\"{Popup|2}|Drops out\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node2"
+    },
+    {
+      "label": "\"3 - Subscription Popup\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node3"
+    },
+    {
+      "label": "\"{Form|4}|Signup news letter\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node4"
+    },
+    {
+      "label": "\"5 - Signup submitted (output)\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node5"
+    },
+    {
+      "label": "\"{Output|6}|Thanks for signup\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node6"
+    },
+    {
+      "label": "\"7 -   signup submitted\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "black",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node7"
+    },
+    {
+      "label": "\"8 - Signup submitted (email)\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node8"
+    },
+    {
+      "label": "\"{Timeout|9}|Signup timeout\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node9"
+    },
+    {
+      "label": "\"10 - Popup signup timeout\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node10"
+    },
+    {
+      "label": "\"{Email|11}|Send Email\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node11"
+    },
+    {
+      "label": "\"12 - Popup Email sent\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node12"
+    },
+    {
+      "label": "\"{Bounce|13}|Email bounced\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node13"
+    },
+    {
+      "label": "\"14 - Popup Email bounced\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "black",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node14"
+    },
+    {
+      "label": "\"{OptedOut|15}|Email  \"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node15"
+    },
+    {
+      "label": "\"16 - Popup Email  \"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "black",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node16"
+    },
+    {
+      "label": "\"{Click|17}|Email   click\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node17"
+    },
+    {
+      "label": "\"18 - Email  \"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node18"
+    },
+    {
+      "label": "\"{ |19}|  Email\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node19"
+    },
+    {
+      "label": "\"21 - Email   done\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "black",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node21"
+    },
+    {
+      "label": "\"22 - Email output  \"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node22"
+    },
+    {
+      "label": "\"{Output|23}|Output   Email\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node23"
+    },
+    {
+      "label": "\"24 - Email output   done\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "black",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node24"
+    },
+    {
+      "label": "\"{Click|25}|Email click\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node25"
+    },
+    {
+      "label": "\"26 - Popup Email clicked\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node26"
+    },
+    {
+      "label": "\"{Redirect|27}|Email redirect\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node27"
+    },
+    {
+      "label": "\"{ |20}|Honey   subscription\"",
+      "shape": "record",
+      "color": "purple",
+      "fillcolor": "purple",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node20"
+    },
+    {
+      "label": "\"28 - Limbo subscription\"",
+      "shape": "ellipse",
+      "color": "purple",
+      "fillcolor": "purple",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node28"
+    },
+    {
+      "label": "\"{Impression|29}|Wait success confirmed\"",
+      "shape": "record",
+      "color": "purple",
+      "fillcolor": "purple",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node29"
+    },
+    {
+      "label": "\"30 - Honey subscription confirmation\"",
+      "shape": "ellipse",
+      "color": "purple",
+      "fillcolor": "purple",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node30"
+    },
+    {
+      "label": "\"{Success|31}|Magazine bought\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node31"
+    },
+    {
+      "label": "\"32 - Magazine bought\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node32"
+    },
+    {
+      "label": "\"33 - Check 1st Xsell\"",
+      "shape": "diamond",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node33"
+    },
+    {
+      "label": "\"35 - End 1st Xselling\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node35"
+    },
+    {
+      "label": "\"36 - Check 2nd Xsell\"",
+      "shape": "diamond",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node36"
+    },
+    {
+      "label": "\"37 - End Xselling\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "black",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node37"
+    },
+    {
+      "label": "\"39 - Wait before sending 2nd Xsell\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node39"
+    },
+    {
+      "label": "\"{Timeout|38}|2nd Xsell timeout\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node38"
+    },
+    {
+      "label": "\"40 - Activate 2nd Xselling\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node40"
+    },
+    {
+      "label": "\"{NewFlow|41}|Send SEP 2nd Xsell\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node41"
+    },
+    {
+      "label": "\"42 - Wait before sending 1st Xsell\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node42"
+    },
+    {
+      "label": "\"{Timeout|34}|1st Xsell timeout\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node34"
+    },
+    {
+      "label": "\"43 - Activate 1st Xselling\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node43"
+    },
+    {
+      "label": "\"{NewFlow|44}|Send SEP 1st Xsell\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node44"
+    },
+    {
+      "label": "\"45 - Bill subcription\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node45"
+    },
+    {
+      "label": "\"47 - Check if billable\"",
+      "shape": "diamond",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node47"
+    },
+    {
+      "label": "\"48 - Bill authorized\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node48"
+    },
+    {
+      "label": "\"{Bill|49}|Bill subscription\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node49"
+    },
+    {
+      "label": "\"50 - Subcription\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "black",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node50"
+    },
+    {
+      "label": "\"51 - Non billable\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "black",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node51"
+    },
+    {
+      "label": "\"{Timeout|46}|Limbo sub timeout\"",
+      "shape": "record",
+      "color": "black",
+      "fillcolor": "white",
+      "fontcolor": "black",
+      "style": "solid",
+      "id": "node46"
+    },
+    {
+      "label": "\"52 - Limbo subscription timeout\"",
+      "shape": "ellipse",
+      "color": "black",
+      "fillcolor": "black",
+      "fontcolor": "white",
+      "style": "filled",
+      "id": "node52"
+    }
+  ],
+  "links": [
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node1",
+      "target": "node2"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node1",
+      "target": "node20"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node2",
+      "target": "node3"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node3",
+      "target": "node4"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node4",
+      "target": "node5"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node4",
+      "target": "node8"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node5",
+      "target": "node6"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node6",
+      "target": "node7"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node8",
+      "target": "node9"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node9",
+      "target": "node10"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node10",
+      "target": "node11"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node11",
+      "target": "node12"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node12",
+      "target": "node13"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node12",
+      "target": "node15"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node12",
+      "target": "node17"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node12",
+      "target": "node25"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node13",
+      "target": "node14"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node15",
+      "target": "node16"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node17",
+      "target": "node18"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node17",
+      "target": "node22"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node18",
+      "target": "node19"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node19",
+      "target": "node21"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node22",
+      "target": "node23"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node23",
+      "target": "node24"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node25",
+      "target": "node26"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node26",
+      "target": "node27"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node27",
+      "target": "node1"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node20",
+      "target": "node28"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node28",
+      "target": "node29"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node28",
+      "target": "node46"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node29",
+      "target": "node30"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node30",
+      "target": "node31"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node31",
+      "target": "node32"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node31",
+      "target": "node45"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node32",
+      "target": "node33"
+    },
+    {
+      "label": "\"'HeartAndSoul' in decode_b64(nvl('vmi_cookie_mag_sold',encode_b64([])))\"",
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node33",
+      "target": "node35"
+    },
+    {
+      "label": "\"default\"",
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node33",
+      "target": "node42"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node35",
+      "target": "node36"
+    },
+    {
+      "label": "\"'Honey' in decode_b64(nvl('vmi_cookie_mag_sold', encode_b64([])))\"",
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node36",
+      "target": "node37"
+    },
+    {
+      "label": "\"default\"",
+      "arrowhead": "normal",
+      "key": 1,
+      "source": "node36",
+      "target": "node37"
+    },
+    {
+      "label": "\"!is_defined('xsell_flag')\"",
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node36",
+      "target": "node39"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node39",
+      "target": "node38"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node38",
+      "target": "node40"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node40",
+      "target": "node41"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node41",
+      "target": "node37"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node42",
+      "target": "node34"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node34",
+      "target": "node43"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node43",
+      "target": "node44"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node44",
+      "target": "node35"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node45",
+      "target": "node47"
+    },
+    {
+      "label": "\"is_defined('vmi_cookie_ref')\"",
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node47",
+      "target": "node48"
+    },
+    {
+      "label": "\"default\"",
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node47",
+      "target": "node51"
+    },
+    {
+      "arrowhead": "none",
+      "key": 0,
+      "source": "node48",
+      "target": "node49"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node49",
+      "target": "node50"
+    },
+    {
+      "arrowhead": "normal",
+      "key": 0,
+      "source": "node46",
+      "target": "node52"
+    }
+  ]
+}

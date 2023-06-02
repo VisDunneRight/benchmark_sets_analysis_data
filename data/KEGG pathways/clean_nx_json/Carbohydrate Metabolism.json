@@ -1,0 +1,2620 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "3'-LM1",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxo-OPC6-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00043",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00199",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00692",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01112",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01212",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01246",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03862",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04478",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04652",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04702",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04738",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04851",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05382",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05892",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05893",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05894",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05895",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06022",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06251",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06397",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06398",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07836",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07838",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11472",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17541",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17542",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17549",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17550",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CD77",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CMP-KDO",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ceramide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chondroitin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Galactose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DS_3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DWA-2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dermatan",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dolichol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dolichol_diphosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dolichol_phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00001",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00002",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00003",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00004",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00005",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00006",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00007",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00008",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00009",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00010",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00011",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00012",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00013",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00014",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00015",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00016",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00017",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00019",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00020",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00021",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00022",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00023",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00024",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00025",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00026",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00027",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00028",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00029",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00031",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00032",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00035",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00039",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00040",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00042",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00043",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00044",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00045",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00046",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00047",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00048",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00052",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00054",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00055",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00056",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00057",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00058",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00059",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00063",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00066",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00067",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00077",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00095",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00099",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00128",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00129",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00143",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00144",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00145",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00146",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00147",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00148",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00149",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00154",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00155",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00156",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00157",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00158",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00159",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00160",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00162",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00163",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00164",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00171",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00179",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00392",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00403",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G00428",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G01391",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G01813",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G01945",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G01977",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G02632",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G02977",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G05477",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G09660",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10526",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10595",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10596",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10597",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10598",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10599",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10611",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10665",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10694",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10770",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G10920",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G11492",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G12336",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G12396",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13026",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13027",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13028",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13034",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13035",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13036",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13037",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13038",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13039",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13040",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13041",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13042",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13043",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13044",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13056",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13057",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13058",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13059",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13073",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13074",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13081",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13087",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13103",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13104",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13105",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13107",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "G13108",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GA1",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GA2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GD1a",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GD1b",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GD1c",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GD2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GD3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GDP-mannose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GM1",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GM1b",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GM2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GM3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GQ1b",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GT1a",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GT1b",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GT1c",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GT2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GT3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gb4Cer",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gb5Cer",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glucocerebroside",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Heparin_sulfate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "KDO",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "KDO-lipid_IV(A)",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "KDO2-lipid_A",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "KDO2-lipid_IV(A)",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "LA1",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "LacCer",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lc3Cer",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lc4Cer",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lipid_A_disaccharide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lipid_IV(A)",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lipid_X",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "MSGG",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "NORint",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "OPC4-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PIM1",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PIM2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PX2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phosphatidylinositol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Protein_asparagine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Protein_serine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "SSEA-1",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP-MurNAc",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP-xylose",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "source": "OPC4-CoA",
+      "target": "3-Oxo-OPC6-CoA",
+      "reaction_id": "R07895",
+      "reaction_name": "rn:R07895",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Dolichol",
+      "target": "Dolichol_phosphate",
+      "reaction_id": "R01003",
+      "reaction_name": "rn:R01003 rn:R01018",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00006",
+      "target": "G10595",
+      "reaction_id": "R06258",
+      "reaction_name": "rn:R06258",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Dolichol_phosphate",
+      "target": "C01246",
+      "reaction_id": "R01005",
+      "reaction_name": "rn:R01005 rn:R01006",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G10595",
+      "target": "G10596",
+      "reaction_id": "R06259",
+      "reaction_name": "rn:R06259",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G10596",
+      "target": "G10597",
+      "reaction_id": "R06260",
+      "reaction_name": "rn:R06260",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G10597",
+      "target": "G00007",
+      "reaction_id": "R06261",
+      "reaction_name": "rn:R06261",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00007",
+      "target": "G10598",
+      "reaction_id": "R06262",
+      "reaction_name": "rn:R06262",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G10598",
+      "target": "G10599",
+      "reaction_id": "R06263",
+      "reaction_name": "rn:R06263",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G10599",
+      "target": "G00008",
+      "reaction_id": "R06264",
+      "reaction_name": "rn:R06264",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00008",
+      "target": "Dolichol_diphosphate",
+      "reaction_id": "R05976",
+      "reaction_name": "rn:R05976",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00009",
+      "target": "G00171",
+      "reaction_id": "R05979",
+      "reaction_name": "rn:R05979",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00171",
+      "target": "G00010",
+      "reaction_id": "R05980",
+      "reaction_name": "rn:R05980",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00011",
+      "target": "G00012",
+      "reaction_id": "R05982",
+      "reaction_name": "rn:R05982",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00012",
+      "target": "G00013",
+      "reaction_id": "R05983",
+      "reaction_name": "rn:R05983",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00013",
+      "target": "G00014",
+      "reaction_id": "R05984",
+      "reaction_name": "rn:R05984",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00014",
+      "target": "G00015",
+      "reaction_id": "R05985",
+      "reaction_name": "rn:R05985",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00015",
+      "target": "G00019",
+      "reaction_id": "R05986",
+      "reaction_name": "rn:R05986",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00015",
+      "target": "G00020",
+      "reaction_id": "R05987",
+      "reaction_name": "rn:R05987",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00020",
+      "target": "G00021",
+      "reaction_id": "R05991",
+      "reaction_name": "rn:R05991",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00021",
+      "target": "G00022",
+      "reaction_id": "R05992",
+      "reaction_name": "rn:R05992",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00015",
+      "target": "G00016",
+      "reaction_id": "R05988",
+      "reaction_name": "rn:R05988",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00016",
+      "target": "G00017",
+      "reaction_id": "R05989",
+      "reaction_name": "rn:R05989",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00017",
+      "target": "DS_3",
+      "reaction_id": "R05990",
+      "reaction_name": "rn:R05990",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00011",
+      "target": "G10694",
+      "reaction_id": "R06722",
+      "reaction_name": "rn:R06722",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G10694",
+      "target": "G01813",
+      "reaction_id": "R08599",
+      "reaction_name": "rn:R08599",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G10611",
+      "target": "G00023",
+      "reaction_id": "R05907",
+      "reaction_name": "rn:R05907",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00035",
+      "target": "G00023",
+      "reaction_id": "R05911",
+      "reaction_name": "rn:R05911",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00024",
+      "target": "G00023",
+      "reaction_id": "R05908",
+      "reaction_name": "rn:R05908",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00025",
+      "target": "G00024",
+      "reaction_id": "R05912",
+      "reaction_name": "rn:R05912",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00024",
+      "target": "G00026",
+      "reaction_id": "R05913",
+      "reaction_name": "rn:R05913",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00026",
+      "target": "G00027",
+      "reaction_id": "R05914",
+      "reaction_name": "rn:R05914",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00023",
+      "target": "G00028",
+      "reaction_id": "R05909",
+      "reaction_name": "rn:R05909",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00029",
+      "target": "G00028",
+      "reaction_id": "R05915",
+      "reaction_name": "rn:R05915",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00023",
+      "target": "G00031",
+      "reaction_id": "R05910",
+      "reaction_name": "rn:R05910",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Protein_serine",
+      "target": "G00154",
+      "reaction_id": "R05925",
+      "reaction_name": "rn:R05925",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00154",
+      "target": "G00155",
+      "reaction_id": "R05926",
+      "reaction_name": "rn:R05926",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00155",
+      "target": "G00156",
+      "reaction_id": "R05927",
+      "reaction_name": "rn:R05927",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00156",
+      "target": "G00157",
+      "reaction_id": "R05928",
+      "reaction_name": "rn:R05928",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00157",
+      "target": "G00158",
+      "reaction_id": "R05929",
+      "reaction_name": "rn:R05929",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00158",
+      "target": "G00159",
+      "reaction_id": "R05931",
+      "reaction_name": "rn:R05931",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00159",
+      "target": "G00160",
+      "reaction_id": "R05932",
+      "reaction_name": "rn:R05932",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00162",
+      "target": "G00157",
+      "reaction_id": "R05930",
+      "reaction_name": "rn:R05930",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00162",
+      "target": "G00163",
+      "reaction_id": "R05935",
+      "reaction_name": "rn:R05935",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00163",
+      "target": "G00164",
+      "reaction_id": "R05936",
+      "reaction_name": "rn:R05936",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C00043",
+      "target": "C04738",
+      "reaction_id": "R04567",
+      "reaction_name": "rn:R04567",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C04738",
+      "target": "C06022",
+      "reaction_id": "R04587",
+      "reaction_name": "rn:R04587",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C04652",
+      "target": "C06022",
+      "reaction_id": "R04550",
+      "reaction_name": "rn:R04550",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C04652",
+      "target": "Lipid_X",
+      "reaction_id": "R04549",
+      "reaction_name": "rn:R04549",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Lipid_A_disaccharide",
+      "target": "Lipid_IV(A)",
+      "reaction_id": "R04657",
+      "reaction_name": "rn:R04657",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "CMP-KDO",
+      "target": "KDO2-lipid_IV(A)",
+      "reaction_id": "R05074",
+      "reaction_name": "rn:R05074",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "CMP-KDO",
+      "target": "KDO",
+      "reaction_id": "R03351",
+      "reaction_name": "rn:R03351",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "KDO",
+      "target": "C04478",
+      "reaction_id": "R03350",
+      "reaction_name": "rn:R03350",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C04478",
+      "target": "C01112",
+      "reaction_id": "R03254",
+      "reaction_name": "rn:R03254",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C06251",
+      "target": "KDO2-lipid_IV(A)",
+      "reaction_id": "R05146",
+      "reaction_name": "rn:R05146",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C06251",
+      "target": "KDO2-lipid_A",
+      "reaction_id": "R05075",
+      "reaction_name": "rn:R05075",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C06397",
+      "target": "C06398",
+      "reaction_id": "R05176",
+      "reaction_name": "rn:R05176",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C06397",
+      "target": "C07838",
+      "reaction_id": "R05644",
+      "reaction_name": "rn:R05644",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C07838",
+      "target": "C11472",
+      "reaction_id": "R05647",
+      "reaction_name": "rn:R05647",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C11472",
+      "target": "C07836",
+      "reaction_id": "R05646",
+      "reaction_name": "rn:R05646",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C07836",
+      "target": "C05382",
+      "reaction_id": "R05645",
+      "reaction_name": "rn:R05645",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C04652",
+      "target": "Lipid_A_disaccharide",
+      "reaction_id": "R04606",
+      "reaction_name": "rn:R04606",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Lipid_IV(A)",
+      "target": "KDO-lipid_IV(A)",
+      "reaction_id": "R04658",
+      "reaction_name": "rn:R04658",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C01212",
+      "target": "UDP-MurNAc",
+      "reaction_id": "R03193",
+      "reaction_name": "rn:R03193",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C01212",
+      "target": "C00692",
+      "reaction_id": "R02783",
+      "reaction_name": "rn:R02783",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C00692",
+      "target": "C05892",
+      "reaction_id": "R02786",
+      "reaction_name": "rn:R02786",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C05892",
+      "target": "C04702",
+      "reaction_id": "R04573",
+      "reaction_name": "rn:R04573",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C04702",
+      "target": "C04851",
+      "reaction_id": "R05629",
+      "reaction_name": "rn:R05629",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C04851",
+      "target": "C05893",
+      "reaction_id": "R05662",
+      "reaction_name": "rn:R05662",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C05894",
+      "target": "C17541",
+      "reaction_id": "R08776",
+      "reaction_name": "rn:R08776",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Phosphatidylinositol",
+      "target": "G00143",
+      "reaction_id": "R05916",
+      "reaction_name": "rn:R05916",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00143",
+      "target": "G00144",
+      "reaction_id": "R05917",
+      "reaction_name": "rn:R05917",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00144",
+      "target": "G00145",
+      "reaction_id": "R05918",
+      "reaction_name": "rn:R05918",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00145",
+      "target": "G00146",
+      "reaction_id": "R05919",
+      "reaction_name": "rn:R05919",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00146",
+      "target": "G00147",
+      "reaction_id": "R05920",
+      "reaction_name": "rn:R05920",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00148",
+      "target": "G00147",
+      "reaction_id": "R05921",
+      "reaction_name": "rn:R05921",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00149",
+      "target": "G00148",
+      "reaction_id": "R05922",
+      "reaction_name": "rn:R05922",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00149",
+      "target": "G13044",
+      "reaction_id": "R08107",
+      "reaction_name": "rn:R08107",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Ceramide",
+      "target": "Glucocerebroside",
+      "reaction_id": "R01497",
+      "reaction_name": "rn:R01497 rn:R01498",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Lc3Cer",
+      "target": "LacCer",
+      "reaction_id": "R05971",
+      "reaction_name": "rn:R05971",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Lc3Cer",
+      "target": "Lc4Cer",
+      "reaction_id": "R06006",
+      "reaction_name": "rn:R06006",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Lc4Cer",
+      "target": "G00044",
+      "reaction_id": "R06156",
+      "reaction_name": "rn:R06156",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00044",
+      "target": "G00045",
+      "reaction_id": "R06163",
+      "reaction_name": "rn:R06163",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00046",
+      "target": "Lc4Cer",
+      "reaction_id": "R06155",
+      "reaction_name": "rn:R06155",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Lc4Cer",
+      "target": "G00047",
+      "reaction_id": "R06153",
+      "reaction_name": "rn:R06153",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00047",
+      "target": "G00048",
+      "reaction_id": "R06165",
+      "reaction_name": "rn:R06165",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00042",
+      "target": "G00044",
+      "reaction_id": "R06167",
+      "reaction_name": "rn:R06167",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00042",
+      "target": "G00043",
+      "reaction_id": "R06162",
+      "reaction_name": "rn:R06162",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00044",
+      "target": "G00039",
+      "reaction_id": "R06168",
+      "reaction_name": "rn:R06168",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00039",
+      "target": "G00040",
+      "reaction_id": "R06164",
+      "reaction_name": "rn:R06164",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LacCer",
+      "target": "Glucocerebroside",
+      "reaction_id": "R03354",
+      "reaction_name": "rn:R03354 rn:R03355",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Lc3Cer",
+      "target": "LA1",
+      "reaction_id": "R05977",
+      "reaction_name": "rn:R05977",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LA1",
+      "target": "G00055",
+      "reaction_id": "R06024",
+      "reaction_name": "rn:R06024",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00055",
+      "target": "G00056",
+      "reaction_id": "R06095",
+      "reaction_name": "rn:R06095",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LA1",
+      "target": "3'-LM1",
+      "reaction_id": "R06026",
+      "reaction_name": "rn:R06026",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "3'-LM1",
+      "target": "G00063",
+      "reaction_id": "R06075",
+      "reaction_name": "rn:R06075",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LA1",
+      "target": "SSEA-1",
+      "reaction_id": "R06025",
+      "reaction_name": "rn:R06025",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LA1",
+      "target": "G00066",
+      "reaction_id": "R05975",
+      "reaction_name": "rn:R05975",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00066",
+      "target": "G00067",
+      "reaction_id": "R06033",
+      "reaction_name": "rn:R06033",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00067",
+      "target": "G00077",
+      "reaction_id": "R06189",
+      "reaction_name": "rn:R06189",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00054",
+      "target": "G00055",
+      "reaction_id": "R06187",
+      "reaction_name": "rn:R06187",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00057",
+      "target": "G00058",
+      "reaction_id": "R06031",
+      "reaction_name": "rn:R06031",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00058",
+      "target": "G00059",
+      "reaction_id": "R06197",
+      "reaction_name": "rn:R06197",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00055",
+      "target": "G00052",
+      "reaction_id": "R06029",
+      "reaction_name": "rn:R06029",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LacCer",
+      "target": "CD77",
+      "reaction_id": "R05960",
+      "reaction_name": "rn:R05960 rn:R05961",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "CD77",
+      "target": "Gb4Cer",
+      "reaction_id": "R05962",
+      "reaction_name": "rn:R05962 rn:R05963",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Gb4Cer",
+      "target": "Gb5Cer",
+      "reaction_id": "R05964",
+      "reaction_name": "rn:R05964",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Gb5Cer",
+      "target": "MSGG",
+      "reaction_id": "R05967",
+      "reaction_name": "rn:R05967",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00095",
+      "target": "Gb4Cer",
+      "reaction_id": "R05965",
+      "reaction_name": "rn:R05965 rn:R05966",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00099",
+      "target": "Gb5Cer",
+      "reaction_id": "R05968",
+      "reaction_name": "rn:R05968",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LacCer",
+      "target": "GM3",
+      "reaction_id": "R05937",
+      "reaction_name": "rn:R05937",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GM3",
+      "target": "GM2",
+      "reaction_id": "R05939",
+      "reaction_name": "rn:R05939 rn:R06004",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GM2",
+      "target": "GM1",
+      "reaction_id": "R05941",
+      "reaction_name": "rn:R05941 rn:R06010",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GM1",
+      "target": "GD1a",
+      "reaction_id": "R05942",
+      "reaction_name": "rn:R05942",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GD1a",
+      "target": "GT1a",
+      "reaction_id": "R05943",
+      "reaction_name": "rn:R05943",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GM3",
+      "target": "GD3",
+      "reaction_id": "R05940",
+      "reaction_name": "rn:R05940",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GD3",
+      "target": "GD2",
+      "reaction_id": "R05946",
+      "reaction_name": "rn:R05946",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GD2",
+      "target": "GD1b",
+      "reaction_id": "R05948",
+      "reaction_name": "rn:R05948",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GD1b",
+      "target": "GT1b",
+      "reaction_id": "R05949",
+      "reaction_name": "rn:R05949",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GT1b",
+      "target": "GQ1b",
+      "reaction_id": "R05950",
+      "reaction_name": "rn:R05950",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GD3",
+      "target": "GT3",
+      "reaction_id": "R05947",
+      "reaction_name": "rn:R05947",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GT3",
+      "target": "GT2",
+      "reaction_id": "R05952",
+      "reaction_name": "rn:R05952",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GT2",
+      "target": "GT1c",
+      "reaction_id": "R05953",
+      "reaction_name": "rn:R05953",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LacCer",
+      "target": "GA2",
+      "reaction_id": "R05938",
+      "reaction_name": "rn:R05938",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GA2",
+      "target": "GA1",
+      "reaction_id": "R05956",
+      "reaction_name": "rn:R05956",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GA1",
+      "target": "GM1b",
+      "reaction_id": "R05957",
+      "reaction_name": "rn:R05957",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GM1b",
+      "target": "GD1c",
+      "reaction_id": "R05958",
+      "reaction_name": "rn:R05958",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00128",
+      "target": "GD1a",
+      "reaction_id": "R05945",
+      "reaction_name": "rn:R05945",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00129",
+      "target": "GT1b",
+      "reaction_id": "R05951",
+      "reaction_name": "rn:R05951",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GD1a",
+      "target": "GM1b",
+      "reaction_id": "R05959",
+      "reaction_name": "rn:R05959",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00001",
+      "target": "G00002",
+      "reaction_id": "R05970",
+      "reaction_name": "rn:R05970",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00003",
+      "target": "G00004",
+      "reaction_id": "R05973",
+      "reaction_name": "rn:R05973",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00004",
+      "target": "G00005",
+      "reaction_id": "R06238",
+      "reaction_name": "rn:R06238",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00005",
+      "target": "G10526",
+      "reaction_id": "R06127",
+      "reaction_name": "rn:R06127",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Dolichol_phosphate",
+      "target": "G00001",
+      "reaction_id": "R05969",
+      "reaction_name": "rn:R05969",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C03862",
+      "target": "Dolichol_phosphate",
+      "reaction_id": "R01009",
+      "reaction_name": "rn:R01009",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "GDP-mannose",
+      "target": "G00003",
+      "reaction_id": "R05972",
+      "reaction_name": "rn:R05972",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C17542",
+      "target": "C05895",
+      "reaction_id": "R08778",
+      "reaction_name": "rn:R08778",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C17541",
+      "target": "C17542",
+      "reaction_id": "R08777",
+      "reaction_name": "rn:R08777",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13041",
+      "target": "G13042",
+      "reaction_id": "R07821",
+      "reaction_name": "rn:R07821",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13042",
+      "target": "G12336",
+      "reaction_id": "R07822",
+      "reaction_name": "rn:R07822",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G12336",
+      "target": "G13043",
+      "reaction_id": "R07823",
+      "reaction_name": "rn:R07823",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13043",
+      "target": "DWA-2",
+      "reaction_id": "R07824",
+      "reaction_name": "rn:R07824",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G12336",
+      "target": "DWA-2",
+      "reaction_id": "R07825",
+      "reaction_name": "rn:R07825",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G01945",
+      "target": "G01977",
+      "reaction_id": "R07806",
+      "reaction_name": "rn:R07806",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13073",
+      "target": "G13074",
+      "reaction_id": "R07808",
+      "reaction_name": "rn:R07808",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13074",
+      "target": "G01391",
+      "reaction_id": "R07809",
+      "reaction_name": "rn:R07809",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13073",
+      "target": "G01391",
+      "reaction_id": "R07810",
+      "reaction_name": "rn:R07810",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Heparin_sulfate",
+      "target": "G13034",
+      "reaction_id": "R07811",
+      "reaction_name": "rn:R07811",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13034",
+      "target": "G13035",
+      "reaction_id": "R07812",
+      "reaction_name": "rn:R07812",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13035",
+      "target": "G13036",
+      "reaction_id": "R07813",
+      "reaction_name": "rn:R07813",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13036",
+      "target": "G13037",
+      "reaction_id": "R07814",
+      "reaction_name": "rn:R07814",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13037",
+      "target": "G13038",
+      "reaction_id": "R07815",
+      "reaction_name": "rn:R07815",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13038",
+      "target": "G13039",
+      "reaction_id": "R07816",
+      "reaction_name": "rn:R07816",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13040",
+      "target": "G09660",
+      "reaction_id": "R07818",
+      "reaction_name": "rn:R07818",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G09660",
+      "target": "G02632",
+      "reaction_id": "R07819",
+      "reaction_name": "rn:R07819",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G01977",
+      "target": "G13073",
+      "reaction_id": "R07807",
+      "reaction_name": "rn:R07807",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G10526",
+      "target": "G00006",
+      "reaction_id": "R06128",
+      "reaction_name": "rn:R06128",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00010",
+      "target": "G00011",
+      "reaction_id": "R05981",
+      "reaction_name": "rn:R05981",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Chondroitin",
+      "target": "Dermatan",
+      "reaction_id": "R04104",
+      "reaction_name": "rn:R04104",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C01112",
+      "target": "C00199",
+      "reaction_id": "R01530",
+      "reaction_name": "rn:R01530",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00015",
+      "target": "G00179",
+      "reaction_id": "R06016",
+      "reaction_name": "rn:R06016",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00179",
+      "target": "G13056",
+      "reaction_id": "R09318",
+      "reaction_name": "rn:R09318",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13056",
+      "target": "G10665",
+      "reaction_id": "R11316",
+      "reaction_name": "rn:R11316",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00014",
+      "target": "G10770",
+      "reaction_id": "R09319",
+      "reaction_name": "rn:R09319",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G10770",
+      "target": "G13057",
+      "reaction_id": "R09320",
+      "reaction_name": "rn:R09320",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13057",
+      "target": "G13058",
+      "reaction_id": "R09323",
+      "reaction_name": "rn:R09323",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13058",
+      "target": "G13059",
+      "reaction_id": "R09324",
+      "reaction_name": "rn:R09324",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G10770",
+      "target": "G05477",
+      "reaction_id": "R11318",
+      "reaction_name": "rn:R11318",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G05477",
+      "target": "G10920",
+      "reaction_id": "R11317",
+      "reaction_name": "rn:R11317",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LA1",
+      "target": "G00428",
+      "reaction_id": "R11375",
+      "reaction_name": "rn:R11375",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LA1",
+      "target": "PX2",
+      "reaction_id": "R11378",
+      "reaction_name": "rn:R11378",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Gb4Cer",
+      "target": "G11492",
+      "reaction_id": "R11376",
+      "reaction_name": "rn:R11376",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G11492",
+      "target": "NORint",
+      "reaction_id": "R11379",
+      "reaction_name": "rn:R11379",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "NORint",
+      "target": "G13081",
+      "reaction_id": "R11377",
+      "reaction_name": "rn:R11377",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Protein_serine",
+      "target": "G13027",
+      "reaction_id": "R07620",
+      "reaction_name": "rn:R07620",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13027",
+      "target": "G13087",
+      "reaction_id": "R11407",
+      "reaction_name": "rn:R11407",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13027",
+      "target": "G13026",
+      "reaction_id": "R07619",
+      "reaction_name": "rn:R07619",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13026",
+      "target": "G13028",
+      "reaction_id": "R07621",
+      "reaction_name": "rn:R07621",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C05893",
+      "target": "C17550",
+      "reaction_id": "R08779",
+      "reaction_name": "rn:R08779",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "C17550",
+      "target": "C17549",
+      "reaction_id": "R08780",
+      "reaction_name": "rn:R08780",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00144",
+      "target": "G12396",
+      "reaction_id": "R06623",
+      "reaction_name": "rn:R06623",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00031",
+      "target": "G00032",
+      "reaction_id": "R07628",
+      "reaction_name": "rn:R07628",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "LacCer",
+      "target": "G00403",
+      "reaction_id": "R11320",
+      "reaction_name": "rn:R11320",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00403",
+      "target": "G00392",
+      "reaction_id": "R11321",
+      "reaction_name": "rn:R11321",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G00392",
+      "target": "G02977",
+      "reaction_id": "R11322",
+      "reaction_name": "rn:R11322",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "Phosphatidylinositol",
+      "target": "PIM1",
+      "reaction_id": "R12038",
+      "reaction_name": "rn:R12038",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "PIM1",
+      "target": "PIM2",
+      "reaction_id": "R12040",
+      "reaction_name": "rn:R12040",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "PIM1",
+      "target": "G13107",
+      "reaction_id": "R12039",
+      "reaction_name": "rn:R12039",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13107",
+      "target": "G13108",
+      "reaction_id": "R12041",
+      "reaction_name": "rn:R12041",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "PIM2",
+      "target": "G13108",
+      "reaction_id": "R12042",
+      "reaction_name": "rn:R12042",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13108",
+      "target": "G13103",
+      "reaction_id": "R11994",
+      "reaction_name": "rn:R11994",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "G13104",
+      "target": "G13105",
+      "reaction_id": "R11997",
+      "reaction_name": "rn:R11997",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    },
+    {
+      "source": "OPC4-CoA",
+      "target": "3-Oxo-OPC6-CoA",
+      "reaction_id": "R07895",
+      "reaction_name": "rn:R07895",
+      "reversible": false,
+      "subsystem": "Carbohydrate Metabolism"
+    }
+  ]
+}

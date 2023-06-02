@@ -1,0 +1,137 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "root_0"
+    },
+    {
+      "id": "root_1"
+    },
+    {
+      "id": "root_2"
+    },
+    {
+      "id": "h000-002"
+    },
+    {
+      "id": "h001-002"
+    },
+    {
+      "id": "root_3"
+    },
+    {
+      "id": "root_4"
+    },
+    {
+      "id": "h000-001"
+    },
+    {
+      "id": "root_5"
+    },
+    {
+      "id": "h003-001"
+    },
+    {
+      "id": "root_6"
+    },
+    {
+      "id": "h001-001"
+    },
+    {
+      "id": "h002-001"
+    },
+    {
+      "id": "root_7"
+    },
+    {
+      "id": "root_8"
+    },
+    {
+      "id": "h004-001"
+    },
+    {
+      "id": "h005-001"
+    },
+    {
+      "id": "h006-001"
+    },
+    {
+      "id": "h007-001"
+    }
+  ],
+  "links": [
+    {
+      "source": "root_0",
+      "target": "root_1"
+    },
+    {
+      "source": "root_0",
+      "target": "root_2"
+    },
+    {
+      "source": "root_1",
+      "target": "h000-002"
+    },
+    {
+      "source": "root_1",
+      "target": "h001-002"
+    },
+    {
+      "source": "root_2",
+      "target": "root_3"
+    },
+    {
+      "source": "root_2",
+      "target": "root_4"
+    },
+    {
+      "source": "root_3",
+      "target": "h000-001"
+    },
+    {
+      "source": "root_3",
+      "target": "root_5"
+    },
+    {
+      "source": "root_4",
+      "target": "h003-001"
+    },
+    {
+      "source": "root_4",
+      "target": "root_6"
+    },
+    {
+      "source": "root_5",
+      "target": "h001-001"
+    },
+    {
+      "source": "root_5",
+      "target": "h002-001"
+    },
+    {
+      "source": "root_6",
+      "target": "root_7"
+    },
+    {
+      "source": "root_6",
+      "target": "root_8"
+    },
+    {
+      "source": "root_7",
+      "target": "h004-001"
+    },
+    {
+      "source": "root_7",
+      "target": "h005-001"
+    },
+    {
+      "source": "root_8",
+      "target": "h006-001"
+    },
+    {
+      "source": "root_8",
+      "target": "h007-001"
+    }
+  ]
+}

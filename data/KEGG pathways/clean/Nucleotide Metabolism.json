@@ -432,10 +432,10 @@
         "C03090",
         "PRPP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01072",
       "reaction_name": "rn:R01072",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -443,10 +443,10 @@
         "C03090",
         "GAR"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04144",
       "reaction_name": "rn:R04144",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -454,10 +454,10 @@
         "GAR",
         "N-Formyl-GAR"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04325",
       "reaction_name": "rn:R04325",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -465,10 +465,10 @@
         "N-Formyl-GAR",
         "C04640"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04463",
       "reaction_name": "rn:R04463",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -476,10 +476,10 @@
         "C04640",
         "AIR"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04208",
       "reaction_name": "rn:R04208",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -487,10 +487,10 @@
         "C04751",
         "AIR"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04209",
       "reaction_name": "rn:R04209",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -498,10 +498,10 @@
         "C04751",
         "SAICAR"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04591",
       "reaction_name": "rn:R04591",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -509,10 +509,10 @@
         "SAICAR",
         "AICAR"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04559",
       "reaction_name": "rn:R04559",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -520,10 +520,10 @@
         "AICAR",
         "FAICAR"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04560",
       "reaction_name": "rn:R04560 rn:R06975",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -531,10 +531,10 @@
         "IMP",
         "FAICAR"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01127",
       "reaction_name": "rn:R01127",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -542,10 +542,10 @@
         "IMP",
         "Inosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01126",
       "reaction_name": "rn:R01126",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -553,10 +553,10 @@
         "Inosine",
         "Purine-6-ol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01863",
       "reaction_name": "rn:R01863",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -564,10 +564,10 @@
         "IMP",
         "Purine-6-ol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01128",
       "reaction_name": "rn:R01128 rn:R01132",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -575,10 +575,10 @@
         "Adenylosuccinate",
         "IMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01135",
       "reaction_name": "rn:R01135",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -586,10 +586,10 @@
         "AMP",
         "Adenylosuccinate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01083",
       "reaction_name": "rn:R01083",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -597,10 +597,10 @@
         "AMP",
         "Adenosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00183",
       "reaction_name": "rn:R00183 rn:R00185",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -608,10 +608,10 @@
         "Adenine",
         "AMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00190",
       "reaction_name": "rn:R00190",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -619,10 +619,10 @@
         "ADP",
         "AMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00127",
       "reaction_name": "rn:R00127",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -630,10 +630,10 @@
         "ADP",
         "dADP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02017",
       "reaction_name": "rn:R02017",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -641,10 +641,10 @@
         "ATP",
         "ADP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00124",
       "reaction_name": "rn:R00124 rn:R00200",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -652,10 +652,10 @@
         "ATP",
         "dATP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02014",
       "reaction_name": "rn:R02014 rn:R11634",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -663,10 +663,10 @@
         "dATP",
         "dADP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01137",
       "reaction_name": "rn:R01137 rn:R01138",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -674,10 +674,10 @@
         "Adenosine",
         "Inosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01560",
       "reaction_name": "rn:R01560",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -685,10 +685,10 @@
         "IMP",
         "XMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01130",
       "reaction_name": "rn:R01130",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -696,10 +696,10 @@
         "XMP",
         "Xanthosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02719",
       "reaction_name": "rn:R02719",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -707,10 +707,10 @@
         "Xanthosine",
         "Xanthine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02297",
       "reaction_name": "rn:R02297",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -718,10 +718,10 @@
         "Purine-6-ol",
         "Xanthine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01768",
       "reaction_name": "rn:R01768 rn:R01769",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -729,10 +729,10 @@
         "XMP",
         "GMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01230",
       "reaction_name": "rn:R01230 rn:R01231",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -740,10 +740,10 @@
         "GMP",
         "Guanosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01227",
       "reaction_name": "rn:R01227",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -751,10 +751,10 @@
         "Guanosine",
         "Guanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02147",
       "reaction_name": "rn:R02147",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -762,10 +762,10 @@
         "Xanthine",
         "Guanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01676",
       "reaction_name": "rn:R01676",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -773,10 +773,10 @@
         "Guanine",
         "GMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01229",
       "reaction_name": "rn:R01229",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -784,10 +784,10 @@
         "GMP",
         "GDP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00332",
       "reaction_name": "rn:R00332",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -795,10 +795,10 @@
         "GDP",
         "GTP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00330",
       "reaction_name": "rn:R00330 rn:R00430",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -806,10 +806,10 @@
         "GDP",
         "dGDP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02019",
       "reaction_name": "rn:R02019",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -817,10 +817,10 @@
         "dGDP",
         "dGTP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01857",
       "reaction_name": "rn:R01857 rn:R01858",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -828,10 +828,10 @@
         "GTP",
         "dGTP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02020",
       "reaction_name": "rn:R02020 rn:R11633",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -839,10 +839,10 @@
         "Xanthine",
         "Urate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02103",
       "reaction_name": "rn:R02103 rn:R02107",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -850,10 +850,10 @@
         "5-Hydroxyisourate",
         "Urate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02106",
       "reaction_name": "rn:R02106 rn:R09514",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -861,10 +861,10 @@
         "5-Hydroxyisourate",
         "C12248"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06601",
       "reaction_name": "rn:R06601",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -872,10 +872,10 @@
         "C12248",
         "(S)-Allantoin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06604",
       "reaction_name": "rn:R06604",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -883,10 +883,10 @@
         "(S)-Allantoin",
         "Allantoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02425",
       "reaction_name": "rn:R02425",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -894,10 +894,10 @@
         "C00438",
         "Carbamoyl_phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01397",
       "reaction_name": "rn:R01397",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -905,10 +905,10 @@
         "L-Dihydroorotate",
         "C00438"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01993",
       "reaction_name": "rn:R01993",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -916,10 +916,10 @@
         "Orotate",
         "L-Dihydroorotate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01867",
       "reaction_name": "rn:R01867 rn:R01868 rn:R01869",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -927,10 +927,10 @@
         "Orotate",
         "Orotidylic_acid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01870",
       "reaction_name": "rn:R01870",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -938,10 +938,10 @@
         "UDP",
         "UMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00158",
       "reaction_name": "rn:R00158",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -949,10 +949,10 @@
         "UTP",
         "UDP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00156",
       "reaction_name": "rn:R00156",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -960,10 +960,10 @@
         "UTP",
         "CTP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00571",
       "reaction_name": "rn:R00571 rn:R00573",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -971,10 +971,10 @@
         "CTP",
         "CDP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00570",
       "reaction_name": "rn:R00570",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -982,10 +982,10 @@
         "CDP",
         "CMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00512",
       "reaction_name": "rn:R00512",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -993,10 +993,10 @@
         "CMP",
         "Cytidine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00513",
       "reaction_name": "rn:R00513 rn:R00516 rn:R00517 rn:R00962 rn:R01548 rn:R02091 rn:R02096 rn:R02371 rn:R02372",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1004,10 +1004,10 @@
         "UMP",
         "Uridine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00964",
       "reaction_name": "rn:R00964 rn:R00967 rn:R00968 rn:R00970 rn:R01549 rn:R01880 rn:R02097 rn:R02327 rn:R02332",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1015,10 +1015,10 @@
         "Cytidine",
         "Uridine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01878",
       "reaction_name": "rn:R01878",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1026,10 +1026,10 @@
         "Uridine",
         "Uracil"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01876",
       "reaction_name": "rn:R01876",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1037,10 +1037,10 @@
         "Uracil",
         "Cytosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00974",
       "reaction_name": "rn:R00974",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1048,10 +1048,10 @@
         "Cytidine",
         "Cytosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02137",
       "reaction_name": "rn:R02137 rn:R02296",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1059,10 +1059,10 @@
         "Uracil",
         "Hydrouracil"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00977",
       "reaction_name": "rn:R00977 rn:R00978",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1070,10 +1070,10 @@
         "Hydrouracil",
         "3-Ureidopropanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02269",
       "reaction_name": "rn:R02269",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1081,10 +1081,10 @@
         "3-Ureidopropanoate",
         "beta-Alanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00905",
       "reaction_name": "rn:R00905",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1092,10 +1092,10 @@
         "CTP",
         "dCTP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02022",
       "reaction_name": "rn:R02022 rn:R11636",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1103,10 +1103,10 @@
         "CDP",
         "dCDP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02024",
       "reaction_name": "rn:R02024",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1114,10 +1114,10 @@
         "dCTP",
         "dUTP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02325",
       "reaction_name": "rn:R02325",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1125,10 +1125,10 @@
         "dUTP",
         "dUMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02100",
       "reaction_name": "rn:R02100",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1136,10 +1136,10 @@
         "dUMP",
         "dTMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02101",
       "reaction_name": "rn:R02101",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1147,10 +1147,10 @@
         "dTMP",
         "dTDP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02094",
       "reaction_name": "rn:R02094",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1158,10 +1158,10 @@
         "dTDP",
         "TTP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02093",
       "reaction_name": "rn:R02093",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1169,10 +1169,10 @@
         "dCTP",
         "dCDP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02326",
       "reaction_name": "rn:R02326",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1180,10 +1180,10 @@
         "dCTP",
         "DNA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00377",
       "reaction_name": "rn:R00377",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1191,10 +1191,10 @@
         "TTP",
         "DNA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00378",
       "reaction_name": "rn:R00378",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1202,10 +1202,10 @@
         "DNA",
         "dATP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00375",
       "reaction_name": "rn:R00375",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1213,10 +1213,10 @@
         "dGTP",
         "DNA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00376",
       "reaction_name": "rn:R00376",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1224,10 +1224,10 @@
         "UTP",
         "RNA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00443",
       "reaction_name": "rn:R00443",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1235,10 +1235,10 @@
         "CTP",
         "RNA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00442",
       "reaction_name": "rn:R00442",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1246,10 +1246,10 @@
         "ATP",
         "RNA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00435",
       "reaction_name": "rn:R00435",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1257,10 +1257,10 @@
         "Orotidylic_acid",
         "UMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00965",
       "reaction_name": "rn:R00965",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1268,10 +1268,10 @@
         "Thymidine",
         "dTMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01567",
       "reaction_name": "rn:R01567 rn:R01569",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1279,10 +1279,10 @@
         "Thymine",
         "Thymidine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01570",
       "reaction_name": "rn:R01570 rn:R02806",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1290,10 +1290,10 @@
         "(5R)-Dihydrothymine",
         "Thymine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01415",
       "reaction_name": "rn:R01415 rn:R11026",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1301,10 +1301,10 @@
         "(5R)-Dihydrothymine",
         "C21029"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03055",
       "reaction_name": "rn:R03055",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1312,10 +1312,10 @@
         "C21029",
         "C01205"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04666",
       "reaction_name": "rn:R04666",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1323,10 +1323,10 @@
         "Adenosine",
         "Adenine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01245",
       "reaction_name": "rn:R01245 rn:R01561",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1334,10 +1334,10 @@
         "Purine-6-ol",
         "Adenine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01244",
       "reaction_name": "rn:R01244",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1345,10 +1345,10 @@
         "IMP",
         "AMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00181",
       "reaction_name": "rn:R00181",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1356,10 +1356,10 @@
         "dADP",
         "dAMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01547",
       "reaction_name": "rn:R01547",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1367,10 +1367,10 @@
         "dAMP",
         "Deoxyadenosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02088",
       "reaction_name": "rn:R02088 rn:R02089",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1378,10 +1378,10 @@
         "Deoxyadenosine",
         "Deoxyinosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02556",
       "reaction_name": "rn:R02556",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1389,10 +1389,10 @@
         "Purine-6-ol",
         "Deoxyinosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02748",
       "reaction_name": "rn:R02748",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1400,10 +1400,10 @@
         "dGDP",
         "dGMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02090",
       "reaction_name": "rn:R02090",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1411,10 +1411,10 @@
         "Deoxyguanosine",
         "dGMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01967",
       "reaction_name": "rn:R01967 rn:R01968",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1422,10 +1422,10 @@
         "Deoxyguanosine",
         "Guanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01969",
       "reaction_name": "rn:R01969",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1433,10 +1433,10 @@
         "Xanthine",
         "XMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02142",
       "reaction_name": "rn:R02142",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1444,10 +1444,10 @@
         "Deoxyadenosine",
         "Adenine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02557",
       "reaction_name": "rn:R02557",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1455,10 +1455,10 @@
         "UMP",
         "UTP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00662",
       "reaction_name": "rn:R00662",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1466,10 +1466,10 @@
         "Uracil",
         "UMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00966",
       "reaction_name": "rn:R00966",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1477,10 +1477,10 @@
         "dCDP",
         "dCMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01665",
       "reaction_name": "rn:R01665 rn:R01667",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1488,10 +1488,10 @@
         "dUMP",
         "dCMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01663",
       "reaction_name": "rn:R01663",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1499,10 +1499,10 @@
         "RNA",
         "GTP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00441",
       "reaction_name": "rn:R00441",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1510,10 +1510,10 @@
         "Allantoate",
         "Urea"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02422",
       "reaction_name": "rn:R02422",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1521,10 +1521,10 @@
         "(-)-Ureidoglycolate",
         "NH3"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00469",
       "reaction_name": "rn:R00469",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1532,10 +1532,10 @@
         "dUTP",
         "dUDP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02331",
       "reaction_name": "rn:R02331",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1543,10 +1543,10 @@
         "dUDP",
         "dUMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02098",
       "reaction_name": "rn:R02098",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1554,10 +1554,10 @@
         "AIR",
         "C15667"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07404",
       "reaction_name": "rn:R07404",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1565,10 +1565,10 @@
         "C15667",
         "C04751"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07405",
       "reaction_name": "rn:R07405",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1576,10 +1576,10 @@
         "Aminoacrylate",
         "3-Oxopropanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09983",
       "reaction_name": "rn:R09983",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1587,10 +1587,10 @@
         "C20249",
         "Aminoacrylate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09982",
       "reaction_name": "rn:R09982",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1598,10 +1598,10 @@
         "C20231",
         "C20249"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09947",
       "reaction_name": "rn:R09947",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1609,10 +1609,10 @@
         "Uracil",
         "C20231"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09936",
       "reaction_name": "rn:R09936",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1620,10 +1620,10 @@
         "Hydracrylic_acid",
         "3-Oxopropanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09289",
       "reaction_name": "rn:R09289",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     },
     {
@@ -1631,10 +1631,10 @@
         "dCTP",
         "dCMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01668",
       "reaction_name": "rn:R01668",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Nucleotide Metabolism"
     }
   ]

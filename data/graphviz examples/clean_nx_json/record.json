@@ -1,0 +1,176 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"\\n\\nDecl|{name|access|decl_flags|extern_c_linkage}\"",
+      "id": "Decl"
+    },
+    {
+      "label": "\"Nontype_decl|{type}\"",
+      "id": "Nontype_decl"
+    },
+    {
+      "label": "\"Defined_decl|{linkage}\"",
+      "id": "Defined_decl"
+    },
+    {
+      "label": "\"Data_decl|{storage_class}\"",
+      "id": "Data_decl"
+    },
+    {
+      "label": "\"Function_decl|{formals|defaults}\"",
+      "id": "Function_decl"
+    },
+    {
+      "label": "\"Data|{initializer}\"",
+      "id": "Data"
+    },
+    {
+      "label": "\"Function|{body}\"",
+      "id": "Function"
+    },
+    {
+      "label": "\"Constructor|{member_initializers}\"",
+      "id": "Constructor"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Aggregate"
+    },
+    {
+      "id": "Type_decl"
+    },
+    {
+      "id": "Class"
+    },
+    {
+      "id": "Union"
+    },
+    {
+      "id": "Defn"
+    },
+    {
+      "id": "Data_member"
+    },
+    {
+      "id": "Enum"
+    },
+    {
+      "id": "Enumerator"
+    },
+    {
+      "id": "Destructor"
+    },
+    {
+      "id": "Template_type_arg"
+    },
+    {
+      "id": "Typedef"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "Nontype_decl",
+      "target": "Decl"
+    },
+    {
+      "key": 0,
+      "source": "Defined_decl",
+      "target": "Nontype_decl"
+    },
+    {
+      "key": 0,
+      "source": "Data_decl",
+      "target": "Defined_decl"
+    },
+    {
+      "key": 0,
+      "source": "Function_decl",
+      "target": "Defined_decl"
+    },
+    {
+      "key": 0,
+      "source": "Data",
+      "target": "Data_decl"
+    },
+    {
+      "key": 0,
+      "source": "Data",
+      "target": "Defn"
+    },
+    {
+      "key": 0,
+      "source": "Function",
+      "target": "Defn"
+    },
+    {
+      "key": 0,
+      "source": "Function",
+      "target": "Function_decl"
+    },
+    {
+      "key": 0,
+      "source": "Constructor",
+      "target": "Function"
+    },
+    {
+      "key": 0,
+      "source": "Aggregate",
+      "target": "Type_decl"
+    },
+    {
+      "key": 0,
+      "source": "Type_decl",
+      "target": "Decl"
+    },
+    {
+      "key": 0,
+      "source": "Class",
+      "target": "Aggregate"
+    },
+    {
+      "key": 0,
+      "source": "Union",
+      "target": "Aggregate"
+    },
+    {
+      "key": 0,
+      "source": "Defn",
+      "target": "Defined_decl"
+    },
+    {
+      "key": 0,
+      "source": "Data_member",
+      "target": "Nontype_decl"
+    },
+    {
+      "key": 0,
+      "source": "Enum",
+      "target": "Type_decl"
+    },
+    {
+      "key": 0,
+      "source": "Enumerator",
+      "target": "Nontype_decl"
+    },
+    {
+      "key": 0,
+      "source": "Destructor",
+      "target": "Function"
+    },
+    {
+      "key": 0,
+      "source": "Template_type_arg",
+      "target": "Type_decl"
+    },
+    {
+      "key": 0,
+      "source": "Typedef",
+      "target": "Type_decl"
+    }
+  ]
+}

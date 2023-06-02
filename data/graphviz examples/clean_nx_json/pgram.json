@@ -1,0 +1,563 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Parallelogram"
+    },
+    {
+      "id": "A"
+    },
+    {
+      "id": "B"
+    },
+    {
+      "id": "C"
+    },
+    {
+      "id": "D"
+    },
+    {
+      "id": "E"
+    },
+    {
+      "id": "F"
+    },
+    {
+      "id": "G"
+    },
+    {
+      "id": "H"
+    },
+    {
+      "id": "I"
+    },
+    {
+      "id": "J"
+    },
+    {
+      "id": "K"
+    },
+    {
+      "id": "L"
+    },
+    {
+      "id": "M"
+    },
+    {
+      "id": "N"
+    },
+    {
+      "id": "O"
+    },
+    {
+      "id": "P"
+    },
+    {
+      "id": "Q"
+    },
+    {
+      "id": "R"
+    },
+    {
+      "id": "S"
+    },
+    {
+      "id": "T"
+    },
+    {
+      "id": "U"
+    },
+    {
+      "id": "V"
+    },
+    {
+      "id": "W"
+    },
+    {
+      "id": "X"
+    },
+    {
+      "id": "Y"
+    },
+    {
+      "id": "Z"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "Octagon"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "e"
+    },
+    {
+      "id": "f"
+    },
+    {
+      "id": "g"
+    },
+    {
+      "id": "h"
+    },
+    {
+      "id": "i"
+    },
+    {
+      "id": "j"
+    },
+    {
+      "id": "k"
+    },
+    {
+      "id": "l"
+    },
+    {
+      "id": "m"
+    },
+    {
+      "id": "n"
+    },
+    {
+      "id": "o"
+    },
+    {
+      "id": "p"
+    },
+    {
+      "id": "q"
+    },
+    {
+      "id": "r"
+    },
+    {
+      "id": "s"
+    },
+    {
+      "id": "t"
+    },
+    {
+      "id": "u"
+    },
+    {
+      "id": "v"
+    },
+    {
+      "id": "w"
+    },
+    {
+      "id": "x"
+    },
+    {
+      "id": "y"
+    },
+    {
+      "id": "z"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "A"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "B"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "C"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "D"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "E"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "F"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "G"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "H"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "I"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "J"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "K"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "L"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "M"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "N"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "O"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "P"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "Q"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "R"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "S"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "T"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "U"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "V"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "W"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "X"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "Y"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "Z"
+    },
+    {
+      "key": 0,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 1,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 2,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 3,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 4,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 5,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 6,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 7,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 8,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 9,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 10,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 11,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 12,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 13,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 14,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 15,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 16,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 17,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 18,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 19,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 20,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 21,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 22,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 23,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 24,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 25,
+      "source": "Parallelogram",
+      "target": "Octagon"
+    },
+    {
+      "key": 0,
+      "source": "a",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "b",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "c",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "d",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "e",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "f",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "g",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "h",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "i",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "j",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "k",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "l",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "m",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "n",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "o",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "p",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "q",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "r",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "s",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "t",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "u",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "v",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "w",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "x",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "y",
+      "target": "Parallelogram"
+    },
+    {
+      "key": 0,
+      "source": "z",
+      "target": "Parallelogram"
+    }
+  ]
+}

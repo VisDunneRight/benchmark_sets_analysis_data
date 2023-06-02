@@ -1,0 +1,27 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "routine1"
+    },
+    {
+      "id": "routine2"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "routine1",
+      "target": "routine2"
+    },
+    {
+      "key": 1,
+      "source": "routine1",
+      "target": "routine2"
+    }
+  ]
+}

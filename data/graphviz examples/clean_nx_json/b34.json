@@ -1,0 +1,123 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"seres\"",
+      "id": "0"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"vivos\"",
+      "id": "1"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"animales\"",
+      "id": "2"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"pensantes\"",
+      "id": "3"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"nopensantes\"",
+      "id": "4"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"plantas\"",
+      "id": "5"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"inertes\"",
+      "id": "6"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"monta\\xC3\\xB1as\"",
+      "id": "7"
+    },
+    {
+      "fontname": "verdana",
+      "height": "0.1",
+      "width": "0.1",
+      "shape": "box",
+      "label": "\"lagos\"",
+      "id": "8"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "0",
+      "target": "1"
+    },
+    {
+      "key": 0,
+      "source": "0",
+      "target": "6"
+    },
+    {
+      "key": 0,
+      "source": "1",
+      "target": "2"
+    },
+    {
+      "key": 0,
+      "source": "1",
+      "target": "5"
+    },
+    {
+      "key": 0,
+      "source": "2",
+      "target": "3"
+    },
+    {
+      "key": 0,
+      "source": "2",
+      "target": "4"
+    },
+    {
+      "key": 0,
+      "source": "6",
+      "target": "7"
+    },
+    {
+      "key": 0,
+      "source": "6",
+      "target": "8"
+    }
+  ]
+}

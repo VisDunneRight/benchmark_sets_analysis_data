@@ -1,0 +1,162 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "style": "bold",
+      "id": "b"
+    },
+    {
+      "style": "dashed",
+      "id": "c"
+    },
+    {
+      "style": "dotted",
+      "id": "d"
+    },
+    {
+      "style": "\"setlinewidth(3)\"",
+      "id": "e"
+    },
+    {
+      "style": "invis",
+      "id": "f"
+    },
+    {
+      "style": "solid",
+      "id": "g"
+    },
+    {
+      "shape": "box",
+      "style": "\"bold,rounded\"",
+      "id": "B"
+    },
+    {
+      "shape": "diamond",
+      "style": "\"dashed,rounded\"",
+      "id": "C"
+    },
+    {
+      "style": "\"dotted,rounded\"",
+      "id": "D"
+    },
+    {
+      "style": "\"setlinewidth(3),rounded\"",
+      "id": "E"
+    },
+    {
+      "style": "\"bold,rounded,diagonals\"",
+      "id": "BD"
+    },
+    {
+      "shape": "diamond",
+      "style": "\"dashed,rounded,diagonals\"",
+      "id": "CD"
+    },
+    {
+      "style": "\"dotted,rounded,diagonals\"",
+      "id": "DD"
+    },
+    {
+      "style": "\"setlinewidth(3),rounded,diagonals\"",
+      "id": "ED"
+    },
+    {
+      "style": "\"filled, bold,rounded,diagonals\"",
+      "id": "BFD"
+    },
+    {
+      "style": "\"filled, dashed,rounded,diagonals\"",
+      "id": "CFD"
+    },
+    {
+      "style": "\"filled, dotted,rounded,diagonals\"",
+      "id": "DFD"
+    },
+    {
+      "style": "\"filled, setlinewidth(3),rounded,diagonals\"",
+      "id": "EFD"
+    },
+    {
+      "id": "a"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "B",
+      "target": "BD"
+    },
+    {
+      "key": 0,
+      "source": "C",
+      "target": "CD"
+    },
+    {
+      "key": 0,
+      "source": "D",
+      "target": "DD"
+    },
+    {
+      "key": 0,
+      "source": "E",
+      "target": "ED"
+    },
+    {
+      "key": 0,
+      "source": "BD",
+      "target": "BFD"
+    },
+    {
+      "key": 0,
+      "source": "CD",
+      "target": "CFD"
+    },
+    {
+      "key": 0,
+      "source": "DD",
+      "target": "DFD"
+    },
+    {
+      "key": 0,
+      "source": "ED",
+      "target": "EFD"
+    },
+    {
+      "style": "bold",
+      "key": 0,
+      "source": "a",
+      "target": "b"
+    },
+    {
+      "style": "dashed",
+      "key": 0,
+      "source": "a",
+      "target": "c"
+    },
+    {
+      "style": "dotted",
+      "key": 0,
+      "source": "a",
+      "target": "d"
+    },
+    {
+      "style": "\"setlinewidth(3)\"",
+      "key": 0,
+      "source": "a",
+      "target": "e"
+    },
+    {
+      "style": "invis",
+      "key": 0,
+      "source": "a",
+      "target": "f"
+    },
+    {
+      "style": "solid",
+      "key": 0,
+      "source": "a",
+      "target": "g"
+    }
+  ]
+}

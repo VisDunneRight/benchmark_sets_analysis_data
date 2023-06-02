@@ -1,0 +1,113 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "pos": "\"158,19\"",
+      "width": "\"1.06\"",
+      "height": "\"0.50\"",
+      "id": "Marden"
+    },
+    {
+      "pos": "\"109,73\"",
+      "width": "\"0.75\"",
+      "height": "\"0.50\"",
+      "id": "ldt"
+    },
+    {
+      "pos": "\"81,46\"",
+      "width": "\"0.75\"",
+      "height": "\"0.50\"",
+      "id": "kg"
+    },
+    {
+      "pos": "\"209,86\"",
+      "width": "\"0.75\"",
+      "height": "\"0.50\"",
+      "id": "hg"
+    },
+    {
+      "pos": "\"39,110\"",
+      "width": "\"1.06\"",
+      "height": "\"0.50\"",
+      "id": "Cannon"
+    },
+    {
+      "pos": "\"80,181\"",
+      "width": "\"0.75\"",
+      "height": "\"0.50\"",
+      "id": "ggt"
+    },
+    {
+      "pos": "\"139,127\"",
+      "width": "\"1.00\"",
+      "height": "\"0.50\"",
+      "id": "Epstein"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "pos": "\"143,36 136,43 129,50 123,57\"",
+      "key": 0,
+      "source": "Marden",
+      "target": "ldt"
+    },
+    {
+      "pos": "\"127,30 120,32 112,35 105,38\"",
+      "key": 0,
+      "source": "Marden",
+      "target": "kg"
+    },
+    {
+      "pos": "\"171,36 180,47 188,59 196,70\"",
+      "key": 0,
+      "source": "Marden",
+      "target": "hg"
+    },
+    {
+      "pos": "\"65,96 72,92 80,88 88,84\"",
+      "key": 0,
+      "source": "ldt",
+      "target": "Cannon"
+    },
+    {
+      "pos": "\"119,90 122,97 125,103 129,109\"",
+      "key": 0,
+      "source": "ldt",
+      "target": "Epstein"
+    },
+    {
+      "pos": "\"50,93 57,83 64,73 70,63\"",
+      "key": 0,
+      "source": "kg",
+      "target": "Cannon"
+    },
+    {
+      "pos": "\"93,62 104,78 116,94 127,110\"",
+      "key": 0,
+      "source": "kg",
+      "target": "Epstein"
+    },
+    {
+      "pos": "\"189,98 180,103 171,108 163,113\"",
+      "key": 0,
+      "source": "hg",
+      "target": "Epstein"
+    },
+    {
+      "pos": "\"49,128 56,140 63,152 70,164\"",
+      "key": 0,
+      "source": "Cannon",
+      "target": "ggt"
+    },
+    {
+      "pos": "\"122,143 113,151 105,158 96,166\"",
+      "key": 0,
+      "source": "ggt",
+      "target": "Epstein"
+    }
+  ]
+}

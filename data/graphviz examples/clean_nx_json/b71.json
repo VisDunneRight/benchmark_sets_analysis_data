@@ -1,0 +1,558 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "Berne"
+    },
+    {
+      "id": "FirstBerne"
+    },
+    {
+      "id": "FTA"
+    },
+    {
+      "id": "FTAA"
+    },
+    {
+      "id": "MAI"
+    },
+    {
+      "id": "NAFTA"
+    },
+    {
+      "id": "Paris"
+    },
+    {
+      "id": "PatentCooperation"
+    },
+    {
+      "id": "Rome"
+    },
+    {
+      "id": "UniversalCopyright"
+    },
+    {
+      "id": "Uruguay"
+    },
+    {
+      "id": "FirstWIPO"
+    },
+    {
+      "id": "WIPOCopyright"
+    },
+    {
+      "id": "WIPOPerformances"
+    },
+    {
+      "id": "WTOTRIPs"
+    },
+    {
+      "id": "Anne"
+    },
+    {
+      "id": "CanadaCopyright1997"
+    },
+    {
+      "id": "CanadaCopyright2001"
+    },
+    {
+      "id": "CDA"
+    },
+    {
+      "id": "CharterOfRights"
+    },
+    {
+      "id": "CIPA"
+    },
+    {
+      "id": "COPA"
+    },
+    {
+      "id": "COPPA"
+    },
+    {
+      "id": "CopyrightClause"
+    },
+    {
+      "id": "CPACACRLI"
+    },
+    {
+      "id": "CPDCI"
+    },
+    {
+      "id": "CTEA"
+    },
+    {
+      "id": "DMCA"
+    },
+    {
+      "id": "EAR"
+    },
+    {
+      "id": "FirstAmendment"
+    },
+    {
+      "id": "FirstUSCopyright"
+    },
+    {
+      "id": "ITAR"
+    },
+    {
+      "id": "ITAR1996"
+    },
+    {
+      "id": "JumpTV"
+    },
+    {
+      "id": "RoCRuleMaking"
+    },
+    {
+      "id": "SSSCA"
+    },
+    {
+      "id": "StationersCharter"
+    },
+    {
+      "id": "URAA"
+    },
+    {
+      "id": "USCopyright1831"
+    },
+    {
+      "id": "USCopyright1909"
+    },
+    {
+      "id": "USCopyright1976"
+    },
+    {
+      "id": "iCraveTV"
+    },
+    {
+      "id": "ACLUReno"
+    },
+    {
+      "id": "ACLUReno2"
+    },
+    {
+      "id": "ALA"
+    },
+    {
+      "id": "Ashcroft"
+    },
+    {
+      "id": "Bernstein"
+    },
+    {
+      "id": "Betamax"
+    },
+    {
+      "id": "Campbell"
+    },
+    {
+      "id": "DVDCCA"
+    },
+    {
+      "id": "Feist"
+    },
+    {
+      "id": "Felten"
+    },
+    {
+      "id": "Folsom"
+    },
+    {
+      "id": "Johansen"
+    },
+    {
+      "id": "Junger"
+    },
+    {
+      "id": "KarnSchneier"
+    },
+    {
+      "id": "Microsystems"
+    },
+    {
+      "id": "Playboy"
+    },
+    {
+      "id": "RenoACLU"
+    },
+    {
+      "id": "RenoACLU2"
+    },
+    {
+      "id": "RTC"
+    },
+    {
+      "id": "Sklyarov"
+    },
+    {
+      "id": "Suntrust"
+    },
+    {
+      "id": "Universal"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "Berne",
+      "target": "WIPOCopyright"
+    },
+    {
+      "key": 0,
+      "source": "Berne",
+      "target": "USCopyright1976"
+    },
+    {
+      "key": 0,
+      "source": "FirstBerne",
+      "target": "UniversalCopyright"
+    },
+    {
+      "key": 0,
+      "source": "FirstBerne",
+      "target": "FirstWIPO"
+    },
+    {
+      "key": 0,
+      "source": "FTA",
+      "target": "NAFTA"
+    },
+    {
+      "key": 0,
+      "source": "MAI",
+      "target": "FTAA"
+    },
+    {
+      "key": 0,
+      "source": "NAFTA",
+      "target": "FTAA"
+    },
+    {
+      "key": 0,
+      "source": "Paris",
+      "target": "PatentCooperation"
+    },
+    {
+      "key": 0,
+      "source": "PatentCooperation",
+      "target": "WTOTRIPs"
+    },
+    {
+      "key": 0,
+      "source": "Rome",
+      "target": "WIPOPerformances"
+    },
+    {
+      "key": 0,
+      "source": "Rome",
+      "target": "CanadaCopyright1997"
+    },
+    {
+      "key": 0,
+      "source": "UniversalCopyright",
+      "target": "Berne"
+    },
+    {
+      "key": 0,
+      "source": "Uruguay",
+      "target": "MAI"
+    },
+    {
+      "key": 0,
+      "source": "Uruguay",
+      "target": "WTOTRIPs"
+    },
+    {
+      "key": 0,
+      "source": "Uruguay",
+      "target": "URAA"
+    },
+    {
+      "key": 0,
+      "source": "FirstWIPO",
+      "target": "WIPOCopyright"
+    },
+    {
+      "key": 0,
+      "source": "FirstWIPO",
+      "target": "WIPOPerformances"
+    },
+    {
+      "key": 0,
+      "source": "FirstWIPO",
+      "target": "PatentCooperation"
+    },
+    {
+      "key": 0,
+      "source": "WIPOCopyright",
+      "target": "CPDCI"
+    },
+    {
+      "key": 0,
+      "source": "WTOTRIPs",
+      "target": "FTAA"
+    },
+    {
+      "key": 0,
+      "source": "Anne",
+      "target": "CopyrightClause"
+    },
+    {
+      "key": 0,
+      "source": "CanadaCopyright1997",
+      "target": "CanadaCopyright2001"
+    },
+    {
+      "key": 0,
+      "source": "CDA",
+      "target": "COPA"
+    },
+    {
+      "key": 0,
+      "source": "CDA",
+      "target": "ACLUReno"
+    },
+    {
+      "key": 0,
+      "source": "CIPA",
+      "target": "ALA"
+    },
+    {
+      "key": 0,
+      "source": "CIPA",
+      "target": "Microsystems"
+    },
+    {
+      "key": 0,
+      "source": "COPA",
+      "target": "CIPA"
+    },
+    {
+      "key": 0,
+      "source": "COPA",
+      "target": "ACLUReno2"
+    },
+    {
+      "key": 0,
+      "source": "CopyrightClause",
+      "target": "FirstUSCopyright"
+    },
+    {
+      "key": 0,
+      "source": "CPACACRLI",
+      "target": "CanadaCopyright2001"
+    },
+    {
+      "key": 0,
+      "source": "DMCA",
+      "target": "CPDCI"
+    },
+    {
+      "key": 0,
+      "source": "DMCA",
+      "target": "RoCRuleMaking"
+    },
+    {
+      "key": 0,
+      "source": "DMCA",
+      "target": "SSSCA"
+    },
+    {
+      "key": 0,
+      "source": "DMCA",
+      "target": "Felten"
+    },
+    {
+      "key": 0,
+      "source": "DMCA",
+      "target": "Johansen"
+    },
+    {
+      "key": 0,
+      "source": "DMCA",
+      "target": "Sklyarov"
+    },
+    {
+      "key": 0,
+      "source": "EAR",
+      "target": "ITAR"
+    },
+    {
+      "key": 0,
+      "source": "EAR",
+      "target": "KarnSchneier"
+    },
+    {
+      "key": 0,
+      "source": "FirstAmendment",
+      "target": "Bernstein"
+    },
+    {
+      "key": 0,
+      "source": "FirstAmendment",
+      "target": "ACLUReno"
+    },
+    {
+      "key": 0,
+      "source": "FirstUSCopyright",
+      "target": "USCopyright1831"
+    },
+    {
+      "key": 0,
+      "source": "ITAR",
+      "target": "ITAR1996"
+    },
+    {
+      "key": 0,
+      "source": "ITAR1996",
+      "target": "Bernstein"
+    },
+    {
+      "key": 0,
+      "source": "ITAR1996",
+      "target": "KarnSchneier"
+    },
+    {
+      "key": 0,
+      "source": "JumpTV",
+      "target": "CPACACRLI"
+    },
+    {
+      "key": 0,
+      "source": "StationersCharter",
+      "target": "Anne"
+    },
+    {
+      "key": 0,
+      "source": "USCopyright1831",
+      "target": "USCopyright1909"
+    },
+    {
+      "key": 0,
+      "source": "USCopyright1831",
+      "target": "Folsom"
+    },
+    {
+      "key": 0,
+      "source": "USCopyright1909",
+      "target": "USCopyright1976"
+    },
+    {
+      "key": 0,
+      "source": "USCopyright1976",
+      "target": "CTEA"
+    },
+    {
+      "key": 0,
+      "source": "USCopyright1976",
+      "target": "DMCA"
+    },
+    {
+      "key": 0,
+      "source": "USCopyright1976",
+      "target": "URAA"
+    },
+    {
+      "key": 0,
+      "source": "USCopyright1976",
+      "target": "Feist"
+    },
+    {
+      "key": 0,
+      "source": "USCopyright1976",
+      "target": "Playboy"
+    },
+    {
+      "key": 0,
+      "source": "iCraveTV",
+      "target": "JumpTV"
+    },
+    {
+      "key": 0,
+      "source": "ACLUReno",
+      "target": "RenoACLU"
+    },
+    {
+      "key": 0,
+      "source": "ACLUReno2",
+      "target": "RenoACLU2"
+    },
+    {
+      "key": 0,
+      "source": "Bernstein",
+      "target": "Junger"
+    },
+    {
+      "key": 0,
+      "source": "Betamax",
+      "target": "Felten"
+    },
+    {
+      "key": 0,
+      "source": "Campbell",
+      "target": "Suntrust"
+    },
+    {
+      "key": 0,
+      "source": "Folsom",
+      "target": "Campbell"
+    },
+    {
+      "key": 0,
+      "source": "Folsom",
+      "target": "Betamax"
+    },
+    {
+      "key": 0,
+      "source": "Johansen",
+      "target": "DVDCCA"
+    },
+    {
+      "key": 0,
+      "source": "Johansen",
+      "target": "Universal"
+    },
+    {
+      "key": 0,
+      "source": "Junger",
+      "target": "Microsystems"
+    },
+    {
+      "key": 0,
+      "source": "Microsystems",
+      "target": "RoCRuleMaking"
+    },
+    {
+      "key": 0,
+      "source": "Playboy",
+      "target": "RTC"
+    },
+    {
+      "key": 0,
+      "source": "RenoACLU",
+      "target": "COPA"
+    },
+    {
+      "key": 0,
+      "source": "RenoACLU2",
+      "target": "CIPA"
+    },
+    {
+      "key": 0,
+      "source": "RenoACLU2",
+      "target": "Ashcroft"
+    },
+    {
+      "key": 0,
+      "source": "RTC",
+      "target": "CPDCI"
+    }
+  ]
+}

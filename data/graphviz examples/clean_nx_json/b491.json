@@ -1,0 +1,34 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "shape": "record",
+      "id": "Node29"
+    },
+    {
+      "id": "Node27"
+    },
+    {
+      "id": "Node26"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "Node29",
+      "target": "Node27"
+    },
+    {
+      "key": 0,
+      "source": "Node29",
+      "target": "Node26"
+    },
+    {
+      "label": "\"v\"",
+      "key": 0,
+      "source": "Node29",
+      "target": "Node29"
+    }
+  ]
+}

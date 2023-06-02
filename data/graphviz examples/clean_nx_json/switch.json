@@ -1,0 +1,104 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "1"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "4"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "5"
+    },
+    {
+      "id": "e"
+    },
+    {
+      "id": "6"
+    },
+    {
+      "id": "f"
+    },
+    {
+      "id": "7"
+    },
+    {
+      "id": "g"
+    },
+    {
+      "id": "8"
+    },
+    {
+      "id": "h"
+    }
+  ],
+  "links": [
+    {
+      "color": "\"#0000ff\"",
+      "key": 0,
+      "source": "1",
+      "target": "a"
+    },
+    {
+      "color": "\"#ff0000\"",
+      "key": 0,
+      "source": "2",
+      "target": "b"
+    },
+    {
+      "color": "\"#ffff00\"",
+      "key": 0,
+      "source": "3",
+      "target": "c"
+    },
+    {
+      "color": "\"#00ff00\"",
+      "key": 0,
+      "source": "4",
+      "target": "d"
+    },
+    {
+      "color": "\"#000000\"",
+      "key": 0,
+      "source": "5",
+      "target": "e"
+    },
+    {
+      "color": "\"#00ffff\"",
+      "key": 0,
+      "source": "6",
+      "target": "f"
+    },
+    {
+      "color": "\"#ffffff\"",
+      "key": 0,
+      "source": "7",
+      "target": "g"
+    },
+    {
+      "color": "\"#ff00ff\"",
+      "key": 0,
+      "source": "8",
+      "target": "h"
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "color": "green",
+      "id": "atoi"
+    },
+    {
+      "color": "green",
+      "id": "chkmalloc"
+    },
+    {
+      "color": "green",
+      "id": "close"
+    },
+    {
+      "color": "blue",
+      "id": "error"
+    },
+    {
+      "color": "blue",
+      "id": "exit"
+    },
+    {
+      "color": "green",
+      "id": "fclose"
+    },
+    {
+      "color": "red",
+      "id": "fgets"
+    },
+    {
+      "color": "green",
+      "id": "fopen"
+    },
+    {
+      "color": "blue",
+      "id": "fprintf"
+    },
+    {
+      "color": "blue",
+      "id": "free"
+    },
+    {
+      "color": "blue",
+      "id": "free_list"
+    },
+    {
+      "color": "green",
+      "id": "fstat"
+    },
+    {
+      "color": "green",
+      "id": "getopt"
+    },
+    {
+      "color": "green",
+      "id": "init_list"
+    },
+    {
+      "color": "green",
+      "id": "insert_list"
+    },
+    {
+      "color": "green",
+      "id": "main"
+    },
+    {
+      "color": "blue",
+      "id": "makeargs"
+    },
+    {
+      "color": "green",
+      "id": "makepairs"
+    },
+    {
+      "color": "green",
+      "id": "malloc"
+    },
+    {
+      "color": "green",
+      "id": "open"
+    },
+    {
+      "color": "red",
+      "id": "printf"
+    },
+    {
+      "color": "green",
+      "id": "read"
+    },
+    {
+      "color": "green",
+      "id": "rewind"
+    },
+    {
+      "color": "green",
+      "id": "viewline"
+    },
+    {
+      "color": "green",
+      "id": "viewlines"
+    },
+    {
+      "color": "green",
+      "id": "walk_list"
+    },
+    {
+      "color": "green",
+      "id": "write"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "color": "green",
+      "key": 0,
+      "source": "chkmalloc",
+      "target": "malloc"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "chkmalloc",
+      "target": "error"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "error",
+      "target": "exit"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "error",
+      "target": "fprintf"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "error",
+      "target": "error"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "fclose",
+      "target": "close"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "fgets",
+      "target": "fstat"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "fgets",
+      "target": "read"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "fopen",
+      "target": "open"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "free_list",
+      "target": "free"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "init_list",
+      "target": "chkmalloc"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "insert_list",
+      "target": "chkmalloc"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "main",
+      "target": "fgets"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "main",
+      "target": "getopt"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "main",
+      "target": "makeargs"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "main",
+      "target": "makepairs"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "main",
+      "target": "chkmalloc"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "main",
+      "target": "error"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "main",
+      "target": "viewlines"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "makeargs",
+      "target": "chkmalloc"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "makepairs",
+      "target": "atoi"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "makepairs",
+      "target": "init_list"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "makepairs",
+      "target": "insert_list"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "makepairs",
+      "target": "chkmalloc"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "printf",
+      "target": "write"
+    },
+    {
+      "color": "red",
+      "key": 0,
+      "source": "viewline",
+      "target": "fgets"
+    },
+    {
+      "color": "red",
+      "key": 0,
+      "source": "viewline",
+      "target": "printf"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "viewline",
+      "target": "rewind"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "viewlines",
+      "target": "fclose"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "viewlines",
+      "target": "fopen"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "viewlines",
+      "target": "walk_list"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "viewlines",
+      "target": "viewline"
+    },
+    {
+      "color": "blue",
+      "key": 0,
+      "source": "walk_list",
+      "target": "error"
+    },
+    {
+      "color": "green",
+      "key": 0,
+      "source": "walk_list",
+      "target": "viewline"
+    }
+  ]
+}

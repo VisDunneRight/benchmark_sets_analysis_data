@@ -1,0 +1,1585 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "(-)-Comphene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(-)-Limonene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(-)-alpha-Pinene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(L)-alpha-Terpineol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2,3-Oxidosqualene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Oxospirilloxanthin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3,4-Dehydrolycopene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3,4-Dehydrorhodopin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Dehydroteasterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "6-Deoxocastasterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "6-Deoxocathasterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "6-Deoxoteasterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "6-Deoxotyphasterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "6-Oxocampestanol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "8-Hydroxygeraniol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "9'-cis-Neoxanthin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "9-cis-Violaxanthin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "ABA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Abietadiene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Abietal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Abietol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Abscisic_aldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetoacetyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Anhydrorhodovibrin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Antheraxanthin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Aristolochene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Baccatin_III",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Brassinolide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00118",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00129",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00353",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01107",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01143",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03190",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03427",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03428",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04432",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05414",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05430",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05431",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06089",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11434",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11435",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11436",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11437",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11453",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11700",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11811",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11895",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11897",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11899",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15786",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15800",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15803",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15857",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15858",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15879",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15885",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15886",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15887",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15888",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15970",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16428",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19759",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19764",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19765",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19892",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Campest-4-en-3-one",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Campestanol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Caryophyllene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Casbene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Castasterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cathasterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chloroxanthin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Copalyl_diphosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DMAPP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Demethylspheroidene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Farnesyl_diphosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Geraniol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Geranyl_diphosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Germacradienol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gibberellin_A12",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "HMG-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydroxyspheroidene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydroxyspheroidenone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Isopentenyl-ATP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Kaurenic_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Levomenol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Loganin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Longifolene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lutein",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lycopene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Methoxyneurosporene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Mevalonic_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Neoxanthin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Nerolidol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Neurosporaxanthin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phytoene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phytyl_diphosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Rhodopin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Rhodovibrin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Rhodoviolascin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Secologanin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Spheroidene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Spheroidenone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Supraene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Taxa-4,11-diene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Teasterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Torulene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Typhasterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Violaxanthin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Xanthoxin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Zeaxanthin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Zeinoxanthin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "alpha-Carotene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "beta-Carotene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "d-Limonene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "delta-Cadinene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "delta-Carotene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "ent-Kaurene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "epsilon-Carotene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "gamma-Carotene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "gamma-Humulene",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "source": "C11437",
+      "target": "C00118",
+      "reaction_id": "R05636",
+      "reaction_name": "rn:R05636",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C11434",
+      "target": "C11437",
+      "reaction_id": "R05688",
+      "reaction_name": "rn:R05688",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C11435",
+      "target": "C11434",
+      "reaction_id": "R05633",
+      "reaction_name": "rn:R05633",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C11436",
+      "target": "C11435",
+      "reaction_id": "R05634",
+      "reaction_name": "rn:R05634",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C11453",
+      "target": "C11436",
+      "reaction_id": "R05637",
+      "reaction_name": "rn:R05637",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C11453",
+      "target": "C11811",
+      "reaction_id": "R08689",
+      "reaction_name": "rn:R08689 rn:R10859",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C11811",
+      "target": "C00129",
+      "reaction_id": "R05884",
+      "reaction_name": "rn:R05884",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C01143",
+      "target": "C00129",
+      "reaction_id": "R01121",
+      "reaction_name": "rn:R01121",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C01143",
+      "target": "C01107",
+      "reaction_id": "R03245",
+      "reaction_name": "rn:R03245",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C01107",
+      "target": "Mevalonic_acid",
+      "reaction_id": "R02245",
+      "reaction_name": "rn:R02245",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Mevalonic_acid",
+      "target": "HMG-CoA",
+      "reaction_id": "R02082",
+      "reaction_name": "rn:R02082",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "C03428",
+      "reaction_id": "R00702",
+      "reaction_name": "rn:R00702",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C03428",
+      "target": "Supraene",
+      "reaction_id": "R02872",
+      "reaction_name": "rn:R02872",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Supraene",
+      "target": "2,3-Oxidosqualene",
+      "reaction_id": "R02874",
+      "reaction_name": "rn:R02874",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Phytyl_diphosphate",
+      "target": "C00353",
+      "reaction_id": "R02063",
+      "reaction_name": "rn:R02063",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C00129",
+      "target": "DMAPP",
+      "reaction_id": "R01123",
+      "reaction_name": "rn:R01123",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Geranyl_diphosphate",
+      "target": "C00129",
+      "reaction_id": "R01658",
+      "reaction_name": "rn:R01658",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "C00129",
+      "reaction_id": "R02003",
+      "reaction_name": "rn:R02003",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C00129",
+      "target": "C00353",
+      "reaction_id": "R02061",
+      "reaction_name": "rn:R02061",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Casbene",
+      "target": "C00353",
+      "reaction_id": "R02064",
+      "reaction_name": "rn:R02064",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C00353",
+      "target": "Copalyl_diphosphate",
+      "reaction_id": "R06298",
+      "reaction_name": "rn:R06298",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Copalyl_diphosphate",
+      "target": "Abietadiene",
+      "reaction_id": "R06301",
+      "reaction_name": "rn:R06301",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C06089",
+      "target": "C00353",
+      "reaction_id": "R02068",
+      "reaction_name": "rn:R02068",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C00353",
+      "target": "Taxa-4,11-diene",
+      "reaction_id": "R06305",
+      "reaction_name": "rn:R06305",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Taxa-4,11-diene",
+      "target": "C11895",
+      "reaction_id": "R06306",
+      "reaction_name": "rn:R06306",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C11895",
+      "target": "C11897",
+      "reaction_id": "R06308",
+      "reaction_name": "rn:R06308",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C11700",
+      "target": "Baccatin_III",
+      "reaction_id": "R06311",
+      "reaction_name": "rn:R06311",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C06089",
+      "target": "ent-Kaurene",
+      "reaction_id": "R05092",
+      "reaction_name": "rn:R05092",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "ent-Kaurene",
+      "target": "Kaurenic_acid",
+      "reaction_id": "R10066",
+      "reaction_name": "rn:R10066",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Kaurenic_acid",
+      "target": "Gibberellin_A12",
+      "reaction_id": "R10067",
+      "reaction_name": "rn:R10067",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C11899",
+      "target": "C11700",
+      "reaction_id": "R06310",
+      "reaction_name": "rn:R06310",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Geranyl_diphosphate",
+      "target": "(-)-alpha-Pinene",
+      "reaction_id": "R05765",
+      "reaction_name": "rn:R05765",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C03190",
+      "target": "Geranyl_diphosphate",
+      "reaction_id": "R02007",
+      "reaction_name": "rn:R02007",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Geranyl_diphosphate",
+      "target": "(L)-alpha-Terpineol",
+      "reaction_id": "R06421",
+      "reaction_name": "rn:R06421",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "(-)-Limonene",
+      "target": "Geranyl_diphosphate",
+      "reaction_id": "R02013",
+      "reaction_name": "rn:R02013",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "d-Limonene",
+      "target": "Geranyl_diphosphate",
+      "reaction_id": "R06120",
+      "reaction_name": "rn:R06120",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "DMAPP",
+      "target": "C04432",
+      "reaction_id": "R01122",
+      "reaction_name": "rn:R01122",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "DMAPP",
+      "target": "Isopentenyl-ATP",
+      "reaction_id": "R08051",
+      "reaction_name": "rn:R08051",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Isopentenyl-ATP",
+      "target": "C16428",
+      "reaction_id": "R08053",
+      "reaction_name": "rn:R08053",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C00353",
+      "target": "C03427",
+      "reaction_id": "R02065",
+      "reaction_name": "rn:R02065",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Phytoene",
+      "target": "C05414",
+      "reaction_id": "R09692",
+      "reaction_name": "rn:R09692",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C05430",
+      "target": "C05414",
+      "reaction_id": "R04787",
+      "reaction_name": "rn:R04787",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C05430",
+      "target": "C05431",
+      "reaction_id": "R04798",
+      "reaction_name": "rn:R04798",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C05431",
+      "target": "Lycopene",
+      "reaction_id": "R04800",
+      "reaction_name": "rn:R04800",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Lycopene",
+      "target": "gamma-Carotene",
+      "reaction_id": "R05341",
+      "reaction_name": "rn:R05341",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Lycopene",
+      "target": "delta-Carotene",
+      "reaction_id": "R06963",
+      "reaction_name": "rn:R06963",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "delta-Carotene",
+      "target": "epsilon-Carotene",
+      "reaction_id": "R07840",
+      "reaction_name": "rn:R07840",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "alpha-Carotene",
+      "target": "delta-Carotene",
+      "reaction_id": "R06962",
+      "reaction_name": "rn:R06962",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "alpha-Carotene",
+      "target": "Zeinoxanthin",
+      "reaction_id": "R07530",
+      "reaction_name": "rn:R07530",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Zeinoxanthin",
+      "target": "Lutein",
+      "reaction_id": "R07531",
+      "reaction_name": "rn:R07531",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "gamma-Carotene",
+      "target": "beta-Carotene",
+      "reaction_id": "R03824",
+      "reaction_name": "rn:R03824",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Zeaxanthin",
+      "target": "Antheraxanthin",
+      "reaction_id": "R06946",
+      "reaction_name": "rn:R06946 rn:R07179",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "9-cis-Violaxanthin",
+      "target": "Xanthoxin",
+      "reaction_id": "R06953",
+      "reaction_name": "rn:R06953",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Abscisic_aldehyde",
+      "target": "Xanthoxin",
+      "reaction_id": "R06954",
+      "reaction_name": "rn:R06954",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "ABA",
+      "target": "Abscisic_aldehyde",
+      "reaction_id": "R06957",
+      "reaction_name": "rn:R06957",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C15970",
+      "target": "ABA",
+      "reaction_id": "R07575",
+      "reaction_name": "rn:R07575",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C15786",
+      "target": "Campest-4-en-3-one",
+      "reaction_id": "R07429",
+      "reaction_name": "rn:R07429",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Campestanol",
+      "target": "6-Deoxocathasterone",
+      "reaction_id": "R07454",
+      "reaction_name": "rn:R07454",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "6-Deoxoteasterone",
+      "target": "6-Deoxocathasterone",
+      "reaction_id": "R07448",
+      "reaction_name": "rn:R07448",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C15800",
+      "target": "6-Deoxoteasterone",
+      "reaction_id": "R07449",
+      "reaction_name": "rn:R07449",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "6-Deoxotyphasterol",
+      "target": "6-Deoxocastasterone",
+      "reaction_id": "R07474",
+      "reaction_name": "rn:R07474",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C15803",
+      "target": "6-Deoxocastasterone",
+      "reaction_id": "R07450",
+      "reaction_name": "rn:R07450",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Castasterone",
+      "target": "C15803",
+      "reaction_id": "R07451",
+      "reaction_name": "rn:R07451",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Cathasterone",
+      "target": "6-Oxocampestanol",
+      "reaction_id": "R07430",
+      "reaction_name": "rn:R07430",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Teasterone",
+      "target": "Cathasterone",
+      "reaction_id": "R07431",
+      "reaction_name": "rn:R07431",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "3-Dehydroteasterone",
+      "target": "Teasterone",
+      "reaction_id": "R07444",
+      "reaction_name": "rn:R07444",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Typhasterol",
+      "target": "Castasterone",
+      "reaction_id": "R07470",
+      "reaction_name": "rn:R07470",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Brassinolide",
+      "target": "Castasterone",
+      "reaction_id": "R07471",
+      "reaction_name": "rn:R07471",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "Supraene",
+      "reaction_id": "R06223",
+      "reaction_name": "rn:R06223",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Geraniol",
+      "target": "8-Hydroxygeraniol",
+      "reaction_id": "R08785",
+      "reaction_name": "rn:R08785",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Geranyl_diphosphate",
+      "target": "Geraniol",
+      "reaction_id": "R08396",
+      "reaction_name": "rn:R08396",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Antheraxanthin",
+      "target": "Violaxanthin",
+      "reaction_id": "R06947",
+      "reaction_name": "rn:R06947 rn:R07178",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Loganin",
+      "target": "Secologanin",
+      "reaction_id": "R03555",
+      "reaction_name": "rn:R03555",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "gamma-Humulene",
+      "reaction_id": "R08540",
+      "reaction_name": "rn:R08540",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "Longifolene",
+      "reaction_id": "R08542",
+      "reaction_name": "rn:R08542",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "Caryophyllene",
+      "reaction_id": "R08541",
+      "reaction_name": "rn:R08541",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "delta-Cadinene",
+      "reaction_id": "R02311",
+      "reaction_name": "rn:R02311",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "Aristolochene",
+      "reaction_id": "R02307",
+      "reaction_name": "rn:R02307",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "Germacradienol",
+      "reaction_id": "R07647",
+      "reaction_name": "rn:R07647",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "Levomenol",
+      "reaction_id": "R08370",
+      "reaction_name": "rn:R08370",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Farnesyl_diphosphate",
+      "target": "Nerolidol",
+      "reaction_id": "R08374",
+      "reaction_name": "rn:R08374",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C15800",
+      "target": "6-Deoxotyphasterol",
+      "reaction_id": "R07473",
+      "reaction_name": "rn:R07473",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "3-Dehydroteasterone",
+      "target": "Typhasterol",
+      "reaction_id": "R07469",
+      "reaction_name": "rn:R07469",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Abietol",
+      "target": "Abietal",
+      "reaction_id": "R06354",
+      "reaction_name": "rn:R06354",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "HMG-CoA",
+      "target": "Acetoacetyl-CoA",
+      "reaction_id": "R01978",
+      "reaction_name": "rn:R01978",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C03427",
+      "target": "Phytoene",
+      "reaction_id": "R04218",
+      "reaction_name": "rn:R04218",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Phytoene",
+      "target": "C19765",
+      "reaction_id": "R09653",
+      "reaction_name": "rn:R09653",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C19765",
+      "target": "C19764",
+      "reaction_id": "R09654",
+      "reaction_name": "rn:R09654",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C19764",
+      "target": "C15857",
+      "reaction_id": "R09655",
+      "reaction_name": "rn:R09655",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C15857",
+      "target": "C19759",
+      "reaction_id": "R09656",
+      "reaction_name": "rn:R09656",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C19759",
+      "target": "C15858",
+      "reaction_id": "R09658",
+      "reaction_name": "rn:R09658",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C15858",
+      "target": "Lycopene",
+      "reaction_id": "R07512",
+      "reaction_name": "rn:R07512",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Violaxanthin",
+      "target": "Neoxanthin",
+      "reaction_id": "R06948",
+      "reaction_name": "rn:R06948",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "9-cis-Violaxanthin",
+      "target": "9'-cis-Neoxanthin",
+      "reaction_id": "R06951",
+      "reaction_name": "rn:R06951",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Lycopene",
+      "target": "3,4-Dehydrolycopene",
+      "reaction_id": "R07518",
+      "reaction_name": "rn:R07518",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "3,4-Dehydrolycopene",
+      "target": "Torulene",
+      "reaction_id": "R10508",
+      "reaction_name": "rn:R10508",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Torulene",
+      "target": "C19892",
+      "reaction_id": "R09782",
+      "reaction_name": "rn:R09782",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C19892",
+      "target": "Neurosporaxanthin",
+      "reaction_id": "R09783",
+      "reaction_name": "rn:R09783",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Lycopene",
+      "target": "Rhodopin",
+      "reaction_id": "R07519",
+      "reaction_name": "rn:R07519",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Rhodopin",
+      "target": "C15886",
+      "reaction_id": "R07527",
+      "reaction_name": "rn:R07527",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C15886",
+      "target": "C15887",
+      "reaction_id": "R07528",
+      "reaction_name": "rn:R07528",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C15887",
+      "target": "C15888",
+      "reaction_id": "R07529",
+      "reaction_name": "rn:R07529",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Rhodopin",
+      "target": "3,4-Dehydrorhodopin",
+      "reaction_id": "R07520",
+      "reaction_name": "rn:R07520",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "3,4-Dehydrorhodopin",
+      "target": "Anhydrorhodovibrin",
+      "reaction_id": "R07521",
+      "reaction_name": "rn:R07521",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Anhydrorhodovibrin",
+      "target": "Rhodovibrin",
+      "reaction_id": "R07522",
+      "reaction_name": "rn:R07522",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Rhodovibrin",
+      "target": "C15879",
+      "reaction_id": "R07523",
+      "reaction_name": "rn:R07523",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C15879",
+      "target": "Rhodoviolascin",
+      "reaction_id": "R07524",
+      "reaction_name": "rn:R07524",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Rhodoviolascin",
+      "target": "2-Oxospirilloxanthin",
+      "reaction_id": "R07525",
+      "reaction_name": "rn:R07525",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "2-Oxospirilloxanthin",
+      "target": "C15885",
+      "reaction_id": "R07526",
+      "reaction_name": "rn:R07526",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "C05431",
+      "target": "Chloroxanthin",
+      "reaction_id": "R07532",
+      "reaction_name": "rn:R07532",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Chloroxanthin",
+      "target": "Demethylspheroidene",
+      "reaction_id": "R07534",
+      "reaction_name": "rn:R07534",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Demethylspheroidene",
+      "target": "Spheroidene",
+      "reaction_id": "R07535",
+      "reaction_name": "rn:R07535",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Spheroidene",
+      "target": "Spheroidenone",
+      "reaction_id": "R07537",
+      "reaction_name": "rn:R07537",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Spheroidenone",
+      "target": "Hydroxyspheroidenone",
+      "reaction_id": "R07539",
+      "reaction_name": "rn:R07539",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Hydroxyspheroidene",
+      "target": "Hydroxyspheroidenone",
+      "reaction_id": "R07538",
+      "reaction_name": "rn:R07538",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Spheroidene",
+      "target": "Hydroxyspheroidene",
+      "reaction_id": "R07536",
+      "reaction_name": "rn:R07536",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Chloroxanthin",
+      "target": "Methoxyneurosporene",
+      "reaction_id": "R07533",
+      "reaction_name": "rn:R07533",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "9'-cis-Neoxanthin",
+      "target": "Xanthoxin",
+      "reaction_id": "R06952",
+      "reaction_name": "rn:R06952",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    },
+    {
+      "source": "Geranyl_diphosphate",
+      "target": "(-)-Comphene",
+      "reaction_id": "R09972",
+      "reaction_name": "rn:R09972",
+      "reversible": false,
+      "subsystem": "Metabolism of Terpenoids and Polyketides"
+    }
+  ]
+}

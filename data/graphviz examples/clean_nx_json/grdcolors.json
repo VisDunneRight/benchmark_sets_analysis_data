@@ -1,0 +1,38 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "n3"
+    },
+    {
+      "id": "n9"
+    },
+    {
+      "id": "n15"
+    },
+    {
+      "id": "n21"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "n3",
+      "target": "n9"
+    },
+    {
+      "key": 0,
+      "source": "n9",
+      "target": "n15"
+    },
+    {
+      "key": 0,
+      "source": "n15",
+      "target": "n21"
+    }
+  ]
+}

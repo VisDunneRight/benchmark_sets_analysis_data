@@ -1,0 +1,2660 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "Tree root"
+    },
+    {
+      "id": "Bacteria"
+    },
+    {
+      "id": "Bacteria subclade"
+    },
+    {
+      "id": "Bacteria subclade#2"
+    },
+    {
+      "id": "Bacteria subclade#3"
+    },
+    {
+      "id": "Proteobacteria"
+    },
+    {
+      "id": "Proteobacteria subclade"
+    },
+    {
+      "id": "Proteobacteria subclade#2"
+    },
+    {
+      "id": "Gammaproteobacteria"
+    },
+    {
+      "id": "Gammaproteobacteria subclade"
+    },
+    {
+      "id": "Gammaproteobacteria subclade#2"
+    },
+    {
+      "id": "Gammaproteobacteria subclade#3"
+    },
+    {
+      "id": "Gammaproteobacteria subclade#4"
+    },
+    {
+      "id": "Gammaproteobacteria subclade#5"
+    },
+    {
+      "id": "Enterobacteriaceae"
+    },
+    {
+      "id": "Enterobacteriaceae subclade"
+    },
+    {
+      "id": "Enterobacteriaceae subclade#2"
+    },
+    {
+      "id": "Enterobacteriaceae subclade#3"
+    },
+    {
+      "id": "Escherichia"
+    },
+    {
+      "id": "Escherichia coli EDL933"
+    },
+    {
+      "id": "Escherichia coli O157:H7"
+    },
+    {
+      "id": "Enterobacteriaceae subclade#4"
+    },
+    {
+      "id": "Escherichia subclade"
+    },
+    {
+      "id": "Escherichia coli O6"
+    },
+    {
+      "id": "Escherichia coli K12"
+    },
+    {
+      "id": "Shigella"
+    },
+    {
+      "id": "Shigella flexneri 2a 2457T"
+    },
+    {
+      "id": "Shigella flexneri 2a 301"
+    },
+    {
+      "id": "Salmonella"
+    },
+    {
+      "id": "Salmonella subclade"
+    },
+    {
+      "id": "Salmonella enterica"
+    },
+    {
+      "id": "Salmonella typhi"
+    },
+    {
+      "id": "Salmonella typhimurium"
+    },
+    {
+      "id": "Enterobacteriaceae subclade#5"
+    },
+    {
+      "id": "Yersinia"
+    },
+    {
+      "id": "Yersinia pestis Medievalis"
+    },
+    {
+      "id": "Yersinia subclade"
+    },
+    {
+      "id": "Yersinia pestis KIM"
+    },
+    {
+      "id": "Yersinia pestis CO92"
+    },
+    {
+      "id": "Photorhabdus luminescens"
+    },
+    {
+      "id": "Enterobacteriaceae subclade#6"
+    },
+    {
+      "id": "Enterobacteriaceae subclade#7"
+    },
+    {
+      "id": "Blochmannia floridanus"
+    },
+    {
+      "id": "Wigglesworthia brevipalpis"
+    },
+    {
+      "id": "Buchnera"
+    },
+    {
+      "id": "Buchnera aphidicola Bp"
+    },
+    {
+      "id": "Buchnera subclade"
+    },
+    {
+      "id": "Buchnera aphidicola APS"
+    },
+    {
+      "id": "Buchnera aphidicola Sg"
+    },
+    {
+      "id": "Pasteurellaceae"
+    },
+    {
+      "id": "Pasteurellaceae subclade"
+    },
+    {
+      "id": "Pasteurella multocida"
+    },
+    {
+      "id": "Haemophilus influenzae"
+    },
+    {
+      "id": "Haemophilus ducreyi"
+    },
+    {
+      "id": "Vibrionaceae"
+    },
+    {
+      "id": "Vibrio"
+    },
+    {
+      "id": "Vibrio subclade"
+    },
+    {
+      "id": "Vibrio subclade#2"
+    },
+    {
+      "id": "Vibrio vulnificus YJ016"
+    },
+    {
+      "id": "Vibrio vulnificus CMCP6"
+    },
+    {
+      "id": "Vibrio parahaemolyticus"
+    },
+    {
+      "id": "Vibrio cholerae"
+    },
+    {
+      "id": "Photobacterium profundum"
+    },
+    {
+      "id": "Shewanella oneidensis"
+    },
+    {
+      "id": "Pseudomonas"
+    },
+    {
+      "id": "Pseudomonas subclade"
+    },
+    {
+      "id": "Pseudomonas putida"
+    },
+    {
+      "id": "Pseudomonas syringae"
+    },
+    {
+      "id": "Pseudomonas aeruginosa"
+    },
+    {
+      "id": "Xanthomonadaceae"
+    },
+    {
+      "id": "Xylella"
+    },
+    {
+      "id": "Xylella fastidiosa 700964"
+    },
+    {
+      "id": "Xylella fastidiosa 9a5c"
+    },
+    {
+      "id": "Xanthomonas"
+    },
+    {
+      "id": "Xanthomonas axonopodis"
+    },
+    {
+      "id": "Xanthomonas campestris"
+    },
+    {
+      "id": "Coxiella burnetii"
+    },
+    {
+      "id": "Betaproteobacteria"
+    },
+    {
+      "id": "Betaproteobacteria subclade"
+    },
+    {
+      "id": "Neisseriaceae"
+    },
+    {
+      "id": "Neisseria"
+    },
+    {
+      "id": "Neisseria meningitidis A"
+    },
+    {
+      "id": "Neisseria meningitidis B"
+    },
+    {
+      "id": "Chromobacterium violaceum"
+    },
+    {
+      "id": "Burkholderiales"
+    },
+    {
+      "id": "Bordetella"
+    },
+    {
+      "id": "Bordetella pertussis"
+    },
+    {
+      "id": "Bordetella subclade"
+    },
+    {
+      "id": "Bordetella parapertussis"
+    },
+    {
+      "id": "Bordetella bronchiseptica"
+    },
+    {
+      "id": "Ralstonia solanacearum"
+    },
+    {
+      "id": "Nitrosomonas europaea"
+    },
+    {
+      "id": "Alphaproteobacteria"
+    },
+    {
+      "id": "Alphaproteobacteria subclade"
+    },
+    {
+      "id": "Rhizobiales"
+    },
+    {
+      "id": "Rhizobiales subclade"
+    },
+    {
+      "id": "Sinorhizobium"
+    },
+    {
+      "id": "Agrobacterium tumefaciens Cereon"
+    },
+    {
+      "id": "Agrobacterium tumefaciens WashU"
+    },
+    {
+      "id": "Rhizobium meliloti"
+    },
+    {
+      "id": "Rhizobiales subclade#2"
+    },
+    {
+      "id": "Brucella"
+    },
+    {
+      "id": "Brucella suis"
+    },
+    {
+      "id": "Brucella melitensis"
+    },
+    {
+      "id": "Rhizobium loti"
+    },
+    {
+      "id": "Bradyrhizobiaceae"
+    },
+    {
+      "id": "Rhodopseudomonas palustris"
+    },
+    {
+      "id": "Bradyrhizobium japonicum"
+    },
+    {
+      "id": "Caulobacter crescentus"
+    },
+    {
+      "id": "Rickettsiaceae"
+    },
+    {
+      "id": "Wolbachia sp. wMel"
+    },
+    {
+      "id": "Rickettsia"
+    },
+    {
+      "id": "Rickettsia prowazekii"
+    },
+    {
+      "id": "Rickettsia conorii"
+    },
+    {
+      "id": "Campylobacterales"
+    },
+    {
+      "id": "Helicobacteraceae"
+    },
+    {
+      "id": "Helicobacter"
+    },
+    {
+      "id": "Helicobacter subclade"
+    },
+    {
+      "id": "Helicobacter pylori J99"
+    },
+    {
+      "id": "Helicobacter pylori 26695"
+    },
+    {
+      "id": "Helicobacter hepaticus"
+    },
+    {
+      "id": "Wolinella succinogenes"
+    },
+    {
+      "id": "Campylobacter jejuni"
+    },
+    {
+      "id": "Bacteria subclade#4"
+    },
+    {
+      "id": "Deltaproteobacteria"
+    },
+    {
+      "id": "Desulfovibrio vulgaris"
+    },
+    {
+      "id": "Deltaproteobacteria subclade"
+    },
+    {
+      "id": "Geobacter sulfurreducens"
+    },
+    {
+      "id": "Bdellovibrio bacteriovorus"
+    },
+    {
+      "id": "Acidobacteria"
+    },
+    {
+      "id": "Acidobacterium capsulatum"
+    },
+    {
+      "id": "Solibacter usitatus"
+    },
+    {
+      "id": "Bacteria subclade#5"
+    },
+    {
+      "id": "Bacteria subclade#6"
+    },
+    {
+      "id": "Fusobacterium nucleatum"
+    },
+    {
+      "id": "Bacteria subclade#7"
+    },
+    {
+      "id": "Aquifex aeolicus"
+    },
+    {
+      "id": "Thermotoga maritima"
+    },
+    {
+      "id": "Bacteria subclade#8"
+    },
+    {
+      "id": "Bacteria subclade#9"
+    },
+    {
+      "id": "Deinococci"
+    },
+    {
+      "id": "Thermus thermophilus"
+    },
+    {
+      "id": "Deinococcus radiodurans"
+    },
+    {
+      "id": "Dehalococcoides ethenogenes"
+    },
+    {
+      "id": "Cyanobacteria"
+    },
+    {
+      "id": "Cyanobacteria subclade"
+    },
+    {
+      "id": "Cyanobacteria subclade#2"
+    },
+    {
+      "id": "Cyanobacteria subclade#3"
+    },
+    {
+      "id": "Nostoc sp. PCC 7120"
+    },
+    {
+      "id": "Synechocystis sp. PCC6803"
+    },
+    {
+      "id": "Synechococcus elongatus"
+    },
+    {
+      "id": "Cyanobacteria subclade#4"
+    },
+    {
+      "id": "Cyanobacteria subclade#5"
+    },
+    {
+      "id": "Cyanobacteria subclade#6"
+    },
+    {
+      "id": "Synechococcus sp. WH8102"
+    },
+    {
+      "id": "Prochlorococcus marinus MIT9313"
+    },
+    {
+      "id": "Prochlorococcus marinus SS120"
+    },
+    {
+      "id": "Prochlorococcus marinus CCMP1378"
+    },
+    {
+      "id": "Gloeobacter violaceus"
+    },
+    {
+      "id": "Bacteria subclade#10"
+    },
+    {
+      "id": "Bacteria subclade#11"
+    },
+    {
+      "id": "Bacteria subclade#12"
+    },
+    {
+      "id": "Planctomycetaceae"
+    },
+    {
+      "id": "Gemmata obscuriglobus"
+    },
+    {
+      "id": "Rhodopirellula baltica"
+    },
+    {
+      "id": "Spirochaetales"
+    },
+    {
+      "id": "Leptospira"
+    },
+    {
+      "id": "Leptospira interrogans L1-130"
+    },
+    {
+      "id": "Leptospira interrogans 56601"
+    },
+    {
+      "id": "Spirochaetaceae"
+    },
+    {
+      "id": "Treponema"
+    },
+    {
+      "id": "Treponema pallidum"
+    },
+    {
+      "id": "Treponema denticola"
+    },
+    {
+      "id": "Borrelia burgdorferi"
+    },
+    {
+      "id": "Actinobacteridae"
+    },
+    {
+      "id": "Actinobacteridae subclade"
+    },
+    {
+      "id": "Tropheryma"
+    },
+    {
+      "id": "Tropheryma whipplei TW08/27"
+    },
+    {
+      "id": "Tropheryma whipplei Twist"
+    },
+    {
+      "id": "Bifidobacterium longum"
+    },
+    {
+      "id": "Actinomycetales"
+    },
+    {
+      "id": "Corynebacterineae"
+    },
+    {
+      "id": "Corynebacterium"
+    },
+    {
+      "id": "Corynebacterium subclade"
+    },
+    {
+      "id": "Corynebacterium subclade#2"
+    },
+    {
+      "id": "Corynebacterium glutamicum 13032"
+    },
+    {
+      "id": "Corynebacterium glutamicum"
+    },
+    {
+      "id": "Corynebacterium efficiens"
+    },
+    {
+      "id": "Corynebacterium diphtheriae"
+    },
+    {
+      "id": "Mycobacterium"
+    },
+    {
+      "id": "Mycobacterium subclade"
+    },
+    {
+      "id": "Mycobacterium subclade#2"
+    },
+    {
+      "id": "Mycobacterium bovis"
+    },
+    {
+      "id": "Mycobacterium subclade#3"
+    },
+    {
+      "id": "Mycobacterium tuberculosis CDC1551"
+    },
+    {
+      "id": "Mycobacterium tuberculosis H37Rv"
+    },
+    {
+      "id": "Mycobacterium leprae"
+    },
+    {
+      "id": "Mycobacterium paratuberculosis"
+    },
+    {
+      "id": "Streptomyces"
+    },
+    {
+      "id": "Streptomyces avermitilis"
+    },
+    {
+      "id": "Streptomyces coelicolor"
+    },
+    {
+      "id": "Bacteria subclade#13"
+    },
+    {
+      "id": "Bacteria subclade#14"
+    },
+    {
+      "id": "Fibrobacter succinogenes"
+    },
+    {
+      "id": "Bacteroidetes/Chlorobi group"
+    },
+    {
+      "id": "Chlorobium tepidum"
+    },
+    {
+      "id": "Bacteroidales"
+    },
+    {
+      "id": "Porphyromonas gingivalis"
+    },
+    {
+      "id": "Bacteroides thetaiotaomicron"
+    },
+    {
+      "id": "Chlamydiaceae"
+    },
+    {
+      "id": "Chlamydophila"
+    },
+    {
+      "id": "Chlamydophila subclade"
+    },
+    {
+      "id": "Chlamydophila pneumoniae TW183"
+    },
+    {
+      "id": "Chlamydophila subclade#2"
+    },
+    {
+      "id": "Chlamydia pneumoniae J138"
+    },
+    {
+      "id": "Chlamydophila subclade#3"
+    },
+    {
+      "id": "Chlamydia pneumoniae CWL029"
+    },
+    {
+      "id": "Chlamydia pneumoniae AR39"
+    },
+    {
+      "id": "Chlamydophila caviae"
+    },
+    {
+      "id": "Chlamydia"
+    },
+    {
+      "id": "Chlamydia muridarum"
+    },
+    {
+      "id": "Chlamydia trachomatis"
+    },
+    {
+      "id": "Firmicutes"
+    },
+    {
+      "id": "Clostridia"
+    },
+    {
+      "id": "Thermoanaerobacter tengcongensis"
+    },
+    {
+      "id": "Clostridium"
+    },
+    {
+      "id": "Clostridium subclade"
+    },
+    {
+      "id": "Clostridium tetani"
+    },
+    {
+      "id": "Clostridium perfringens"
+    },
+    {
+      "id": "Clostridium acetobutylicum"
+    },
+    {
+      "id": "Firmicutes subclade"
+    },
+    {
+      "id": "Mollicutes"
+    },
+    {
+      "id": "Mycoplasmataceae"
+    },
+    {
+      "id": "Mycoplasmataceae subclade"
+    },
+    {
+      "id": "Mycoplasma"
+    },
+    {
+      "id": "Mycoplasma mobile"
+    },
+    {
+      "id": "Mycoplasma pulmonis"
+    },
+    {
+      "id": "Mycoplasmataceae subclade#2"
+    },
+    {
+      "id": "Mycoplasma subclade"
+    },
+    {
+      "id": "Mycoplasma subclade#2"
+    },
+    {
+      "id": "Mycoplasma subclade#3"
+    },
+    {
+      "id": "Mycoplasma pneumoniae"
+    },
+    {
+      "id": "Mycoplasma genitalium"
+    },
+    {
+      "id": "Mycoplasma gallisepticum"
+    },
+    {
+      "id": "Mycoplasma penetrans"
+    },
+    {
+      "id": "Ureaplasma parvum"
+    },
+    {
+      "id": "Mycoplasma mycoides"
+    },
+    {
+      "id": "Phytoplasma Onion yellows"
+    },
+    {
+      "id": "Bacilli"
+    },
+    {
+      "id": "Bacillales"
+    },
+    {
+      "id": "Bacillales subclade"
+    },
+    {
+      "id": "Listeria"
+    },
+    {
+      "id": "Listeria subclade"
+    },
+    {
+      "id": "Listeria monocytogenes F2365"
+    },
+    {
+      "id": "Listeria monocytogenes EGD"
+    },
+    {
+      "id": "Listeria innocua"
+    },
+    {
+      "id": "Bacillaceae"
+    },
+    {
+      "id": "Bacillaceae subclade"
+    },
+    {
+      "id": "Oceanobacillus iheyensis"
+    },
+    {
+      "id": "Bacillus halodurans"
+    },
+    {
+      "id": "Bacillus"
+    },
+    {
+      "id": "Bacillus subclade"
+    },
+    {
+      "id": "Bacillus subclade#2"
+    },
+    {
+      "id": "Bacillus cereus ATCC 14579"
+    },
+    {
+      "id": "Bacillus cereus ATCC 10987"
+    },
+    {
+      "id": "Bacillus anthracis"
+    },
+    {
+      "id": "Bacillus subtilis"
+    },
+    {
+      "id": "Staphylococcus"
+    },
+    {
+      "id": "Staphylococcus subclade"
+    },
+    {
+      "id": "Staphylococcus aureus MW2"
+    },
+    {
+      "id": "Staphylococcus subclade#2"
+    },
+    {
+      "id": "Staphylococcus aureus N315"
+    },
+    {
+      "id": "Staphylococcus aureus Mu50"
+    },
+    {
+      "id": "Staphylococcus epidermidis"
+    },
+    {
+      "id": "Lactobacillales"
+    },
+    {
+      "id": "Lactobacillales subclade"
+    },
+    {
+      "id": "Streptococcaceae"
+    },
+    {
+      "id": "Streptococcus"
+    },
+    {
+      "id": "Streptococcus subclade"
+    },
+    {
+      "id": "Streptococcus subclade#2"
+    },
+    {
+      "id": "Streptococcus subclade#3"
+    },
+    {
+      "id": "Streptococcus agalactiae III"
+    },
+    {
+      "id": "Streptococcus agalactiae V"
+    },
+    {
+      "id": "Streptococcus subclade#4"
+    },
+    {
+      "id": "Streptococcus pyogenes M1"
+    },
+    {
+      "id": "Streptococcus subclade#5"
+    },
+    {
+      "id": "Streptococcus pyogenes MGAS8232"
+    },
+    {
+      "id": "Streptococcus subclade#6"
+    },
+    {
+      "id": "Streptococcus pyogenes MGAS315"
+    },
+    {
+      "id": "Streptococcus pyogenes SSI-1"
+    },
+    {
+      "id": "Streptococcus mutans"
+    },
+    {
+      "id": "Streptococcus subclade#7"
+    },
+    {
+      "id": "Streptococcus pneumoniae R6"
+    },
+    {
+      "id": "Streptococcus pneumoniae TIGR4"
+    },
+    {
+      "id": "Lactococcus lactis"
+    },
+    {
+      "id": "Enterococcus faecalis"
+    },
+    {
+      "id": "Lactobacillus"
+    },
+    {
+      "id": "Lactobacillus johnsonii"
+    },
+    {
+      "id": "Lactobacillus plantarum"
+    },
+    {
+      "id": "Archaea and Eucharyota"
+    },
+    {
+      "id": "Eukaryota"
+    },
+    {
+      "id": "Eukaryota subclade"
+    },
+    {
+      "id": "Eukaryota subclade#2"
+    },
+    {
+      "id": "Eukaryota subclade#3"
+    },
+    {
+      "id": "Thalassiosira pseudonana"
+    },
+    {
+      "id": "Apicomplexa"
+    },
+    {
+      "id": "Cryptosporidium hominis"
+    },
+    {
+      "id": "Plasmodium falciparum"
+    },
+    {
+      "id": "Eukaryota subclade#4"
+    },
+    {
+      "id": "Eukaryota subclade#5"
+    },
+    {
+      "id": "Streptophyta"
+    },
+    {
+      "id": "Oryza sativa"
+    },
+    {
+      "id": "Arabidopsis thaliana"
+    },
+    {
+      "id": "Cyanidioschyzon merolae"
+    },
+    {
+      "id": "Eukaryota subclade#6"
+    },
+    {
+      "id": "Dictyostelium discoideum"
+    },
+    {
+      "id": "Eukaryota subclade#7"
+    },
+    {
+      "id": "Ascomycota"
+    },
+    {
+      "id": "Saccharomycetaceae"
+    },
+    {
+      "id": "Eremothecium gossypii"
+    },
+    {
+      "id": "Saccharomyces cerevisiae"
+    },
+    {
+      "id": "Schizosaccharomyces pombe"
+    },
+    {
+      "id": "Metazoa"
+    },
+    {
+      "id": "Metazoa subclade"
+    },
+    {
+      "id": "Diptera"
+    },
+    {
+      "id": "Anopheles gambiae"
+    },
+    {
+      "id": "Drosophila melanogaster"
+    },
+    {
+      "id": "Gnathostomata"
+    },
+    {
+      "id": "Actinopterygii"
+    },
+    {
+      "id": "Takifugu rubripes"
+    },
+    {
+      "id": "Danio rerio"
+    },
+    {
+      "id": "Gnathostomata subclade"
+    },
+    {
+      "id": "Euarchontoglires"
+    },
+    {
+      "id": "Murinae"
+    },
+    {
+      "id": "Rattus norvegicus"
+    },
+    {
+      "id": "Mus musculus"
+    },
+    {
+      "id": "Hominidae"
+    },
+    {
+      "id": "Homo sapiens"
+    },
+    {
+      "id": "Pan troglodytes"
+    },
+    {
+      "id": "Gallus gallus"
+    },
+    {
+      "id": "Caenorhabditis"
+    },
+    {
+      "id": "Caenorhabditis elegans"
+    },
+    {
+      "id": "Caenorhabditis briggsae"
+    },
+    {
+      "id": "Leishmania major"
+    },
+    {
+      "id": "Giardia lamblia"
+    },
+    {
+      "id": "Archaea"
+    },
+    {
+      "id": "Archaea subclade"
+    },
+    {
+      "id": "Nanoarchaeum equitans"
+    },
+    {
+      "id": "Thermoprotei"
+    },
+    {
+      "id": "Thermoprotei subclade"
+    },
+    {
+      "id": "Sulfolobus"
+    },
+    {
+      "id": "Sulfolobus tokodaii"
+    },
+    {
+      "id": "Sulfolobus solfataricus"
+    },
+    {
+      "id": "Aeropyrum pernix"
+    },
+    {
+      "id": "Pyrobaculum aerophilum"
+    },
+    {
+      "id": "Euryarchaeota"
+    },
+    {
+      "id": "Thermoplasma"
+    },
+    {
+      "id": "Thermoplasma volcanium"
+    },
+    {
+      "id": "Thermoplasma acidophilum"
+    },
+    {
+      "id": "Euryarchaeota subclade"
+    },
+    {
+      "id": "Euryarchaeota subclade#2"
+    },
+    {
+      "id": "Euryarchaeota subclade#3"
+    },
+    {
+      "id": "Euryarchaeota subclade#4"
+    },
+    {
+      "id": "Methanobacterium thermautotrophicum"
+    },
+    {
+      "id": "Methanopyrus kandleri"
+    },
+    {
+      "id": "Methanococcales"
+    },
+    {
+      "id": "Methanococcus maripaludis"
+    },
+    {
+      "id": "Methanococcus jannaschii"
+    },
+    {
+      "id": "Pyrococcus"
+    },
+    {
+      "id": "Pyrococcus subclade"
+    },
+    {
+      "id": "Pyrococcus horikoshii"
+    },
+    {
+      "id": "Pyrococcus abyssi"
+    },
+    {
+      "id": "Pyrococcus furiosus"
+    },
+    {
+      "id": "Euryarchaeota subclade#5"
+    },
+    {
+      "id": "Archaeoglobus fulgidus"
+    },
+    {
+      "id": "Euryarchaeota subclade#6"
+    },
+    {
+      "id": "Halobacterium sp. NRC-1"
+    },
+    {
+      "id": "Methanosarcina"
+    },
+    {
+      "id": "Methanosarcina acetivorans"
+    },
+    {
+      "id": "Methanosarcina mazei"
+    }
+  ],
+  "links": [
+    {
+      "source": "Bacteria",
+      "target": "Bacteria subclade"
+    },
+    {
+      "source": "Bacteria",
+      "target": "Firmicutes"
+    },
+    {
+      "source": "Archaea and Eucharyota",
+      "target": "Eukaryota"
+    },
+    {
+      "source": "Archaea and Eucharyota",
+      "target": "Archaea"
+    },
+    {
+      "source": "Bacteria subclade",
+      "target": "Bacteria subclade#2"
+    },
+    {
+      "source": "Bacteria subclade",
+      "target": "Bacteria subclade#10"
+    },
+    {
+      "source": "Firmicutes",
+      "target": "Clostridia"
+    },
+    {
+      "source": "Firmicutes",
+      "target": "Firmicutes subclade"
+    },
+    {
+      "source": "Eukaryota",
+      "target": "Eukaryota subclade"
+    },
+    {
+      "source": "Eukaryota",
+      "target": "Giardia lamblia"
+    },
+    {
+      "source": "Archaea",
+      "target": "Archaea subclade"
+    },
+    {
+      "source": "Archaea",
+      "target": "Euryarchaeota"
+    },
+    {
+      "source": "Bacteria subclade#2",
+      "target": "Bacteria subclade#3"
+    },
+    {
+      "source": "Bacteria subclade#2",
+      "target": "Bacteria subclade#5"
+    },
+    {
+      "source": "Bacteria subclade#10",
+      "target": "Bacteria subclade#11"
+    },
+    {
+      "source": "Bacteria subclade#10",
+      "target": "Bacteria subclade#13"
+    },
+    {
+      "source": "Clostridia",
+      "target": "Thermoanaerobacter tengcongensis"
+    },
+    {
+      "source": "Clostridia",
+      "target": "Clostridium"
+    },
+    {
+      "source": "Firmicutes subclade",
+      "target": "Mollicutes"
+    },
+    {
+      "source": "Firmicutes subclade",
+      "target": "Bacilli"
+    },
+    {
+      "source": "Eukaryota subclade",
+      "target": "Eukaryota subclade#2"
+    },
+    {
+      "source": "Eukaryota subclade",
+      "target": "Leishmania major"
+    },
+    {
+      "source": "Archaea subclade",
+      "target": "Nanoarchaeum equitans"
+    },
+    {
+      "source": "Archaea subclade",
+      "target": "Thermoprotei"
+    },
+    {
+      "source": "Euryarchaeota",
+      "target": "Thermoplasma"
+    },
+    {
+      "source": "Euryarchaeota",
+      "target": "Euryarchaeota subclade"
+    },
+    {
+      "source": "Bacteria subclade#3",
+      "target": "Proteobacteria"
+    },
+    {
+      "source": "Bacteria subclade#3",
+      "target": "Bacteria subclade#4"
+    },
+    {
+      "source": "Bacteria subclade#5",
+      "target": "Bacteria subclade#6"
+    },
+    {
+      "source": "Bacteria subclade#5",
+      "target": "Bacteria subclade#8"
+    },
+    {
+      "source": "Bacteria subclade#11",
+      "target": "Bacteria subclade#12"
+    },
+    {
+      "source": "Bacteria subclade#11",
+      "target": "Actinobacteridae"
+    },
+    {
+      "source": "Bacteria subclade#13",
+      "target": "Bacteria subclade#14"
+    },
+    {
+      "source": "Bacteria subclade#13",
+      "target": "Chlamydiaceae"
+    },
+    {
+      "source": "Clostridium",
+      "target": "Clostridium subclade"
+    },
+    {
+      "source": "Clostridium",
+      "target": "Clostridium acetobutylicum"
+    },
+    {
+      "source": "Mollicutes",
+      "target": "Mycoplasmataceae"
+    },
+    {
+      "source": "Mollicutes",
+      "target": "Phytoplasma Onion yellows"
+    },
+    {
+      "source": "Bacilli",
+      "target": "Bacillales"
+    },
+    {
+      "source": "Bacilli",
+      "target": "Lactobacillales"
+    },
+    {
+      "source": "Eukaryota subclade#2",
+      "target": "Eukaryota subclade#3"
+    },
+    {
+      "source": "Eukaryota subclade#2",
+      "target": "Eukaryota subclade#4"
+    },
+    {
+      "source": "Thermoprotei",
+      "target": "Thermoprotei subclade"
+    },
+    {
+      "source": "Thermoprotei",
+      "target": "Pyrobaculum aerophilum"
+    },
+    {
+      "source": "Thermoplasma",
+      "target": "Thermoplasma volcanium"
+    },
+    {
+      "source": "Thermoplasma",
+      "target": "Thermoplasma acidophilum"
+    },
+    {
+      "source": "Euryarchaeota subclade",
+      "target": "Euryarchaeota subclade#2"
+    },
+    {
+      "source": "Euryarchaeota subclade",
+      "target": "Euryarchaeota subclade#5"
+    },
+    {
+      "source": "Proteobacteria",
+      "target": "Proteobacteria subclade"
+    },
+    {
+      "source": "Proteobacteria",
+      "target": "Campylobacterales"
+    },
+    {
+      "source": "Bacteria subclade#4",
+      "target": "Deltaproteobacteria"
+    },
+    {
+      "source": "Bacteria subclade#4",
+      "target": "Acidobacteria"
+    },
+    {
+      "source": "Bacteria subclade#6",
+      "target": "Fusobacterium nucleatum"
+    },
+    {
+      "source": "Bacteria subclade#6",
+      "target": "Bacteria subclade#7"
+    },
+    {
+      "source": "Bacteria subclade#8",
+      "target": "Bacteria subclade#9"
+    },
+    {
+      "source": "Bacteria subclade#8",
+      "target": "Cyanobacteria"
+    },
+    {
+      "source": "Bacteria subclade#12",
+      "target": "Planctomycetaceae"
+    },
+    {
+      "source": "Bacteria subclade#12",
+      "target": "Spirochaetales"
+    },
+    {
+      "source": "Actinobacteridae",
+      "target": "Actinobacteridae subclade"
+    },
+    {
+      "source": "Actinobacteridae",
+      "target": "Actinomycetales"
+    },
+    {
+      "source": "Bacteria subclade#14",
+      "target": "Fibrobacter succinogenes"
+    },
+    {
+      "source": "Bacteria subclade#14",
+      "target": "Bacteroidetes/Chlorobi group"
+    },
+    {
+      "source": "Chlamydiaceae",
+      "target": "Chlamydophila"
+    },
+    {
+      "source": "Chlamydiaceae",
+      "target": "Chlamydia"
+    },
+    {
+      "source": "Clostridium subclade",
+      "target": "Clostridium tetani"
+    },
+    {
+      "source": "Clostridium subclade",
+      "target": "Clostridium perfringens"
+    },
+    {
+      "source": "Mycoplasmataceae",
+      "target": "Mycoplasmataceae subclade"
+    },
+    {
+      "source": "Mycoplasmataceae",
+      "target": "Mycoplasma mycoides"
+    },
+    {
+      "source": "Bacillales",
+      "target": "Bacillales subclade"
+    },
+    {
+      "source": "Bacillales",
+      "target": "Staphylococcus"
+    },
+    {
+      "source": "Lactobacillales",
+      "target": "Lactobacillales subclade"
+    },
+    {
+      "source": "Lactobacillales",
+      "target": "Lactobacillus"
+    },
+    {
+      "source": "Eukaryota subclade#3",
+      "target": "Thalassiosira pseudonana"
+    },
+    {
+      "source": "Eukaryota subclade#3",
+      "target": "Apicomplexa"
+    },
+    {
+      "source": "Eukaryota subclade#4",
+      "target": "Eukaryota subclade#5"
+    },
+    {
+      "source": "Eukaryota subclade#4",
+      "target": "Eukaryota subclade#6"
+    },
+    {
+      "source": "Thermoprotei subclade",
+      "target": "Sulfolobus"
+    },
+    {
+      "source": "Thermoprotei subclade",
+      "target": "Aeropyrum pernix"
+    },
+    {
+      "source": "Euryarchaeota subclade#2",
+      "target": "Euryarchaeota subclade#3"
+    },
+    {
+      "source": "Euryarchaeota subclade#2",
+      "target": "Pyrococcus"
+    },
+    {
+      "source": "Euryarchaeota subclade#5",
+      "target": "Archaeoglobus fulgidus"
+    },
+    {
+      "source": "Euryarchaeota subclade#5",
+      "target": "Euryarchaeota subclade#6"
+    },
+    {
+      "source": "Proteobacteria subclade",
+      "target": "Proteobacteria subclade#2"
+    },
+    {
+      "source": "Proteobacteria subclade",
+      "target": "Alphaproteobacteria"
+    },
+    {
+      "source": "Campylobacterales",
+      "target": "Helicobacteraceae"
+    },
+    {
+      "source": "Campylobacterales",
+      "target": "Campylobacter jejuni"
+    },
+    {
+      "source": "Deltaproteobacteria",
+      "target": "Desulfovibrio vulgaris"
+    },
+    {
+      "source": "Deltaproteobacteria",
+      "target": "Deltaproteobacteria subclade"
+    },
+    {
+      "source": "Acidobacteria",
+      "target": "Acidobacterium capsulatum"
+    },
+    {
+      "source": "Acidobacteria",
+      "target": "Solibacter usitatus"
+    },
+    {
+      "source": "Bacteria subclade#7",
+      "target": "Aquifex aeolicus"
+    },
+    {
+      "source": "Bacteria subclade#7",
+      "target": "Thermotoga maritima"
+    },
+    {
+      "source": "Bacteria subclade#9",
+      "target": "Deinococci"
+    },
+    {
+      "source": "Bacteria subclade#9",
+      "target": "Dehalococcoides ethenogenes"
+    },
+    {
+      "source": "Cyanobacteria",
+      "target": "Cyanobacteria subclade"
+    },
+    {
+      "source": "Cyanobacteria",
+      "target": "Gloeobacter violaceus"
+    },
+    {
+      "source": "Planctomycetaceae",
+      "target": "Gemmata obscuriglobus"
+    },
+    {
+      "source": "Planctomycetaceae",
+      "target": "Rhodopirellula baltica"
+    },
+    {
+      "source": "Spirochaetales",
+      "target": "Leptospira"
+    },
+    {
+      "source": "Spirochaetales",
+      "target": "Spirochaetaceae"
+    },
+    {
+      "source": "Actinobacteridae subclade",
+      "target": "Tropheryma"
+    },
+    {
+      "source": "Actinobacteridae subclade",
+      "target": "Bifidobacterium longum"
+    },
+    {
+      "source": "Actinomycetales",
+      "target": "Corynebacterineae"
+    },
+    {
+      "source": "Actinomycetales",
+      "target": "Streptomyces"
+    },
+    {
+      "source": "Bacteroidetes/Chlorobi group",
+      "target": "Chlorobium tepidum"
+    },
+    {
+      "source": "Bacteroidetes/Chlorobi group",
+      "target": "Bacteroidales"
+    },
+    {
+      "source": "Chlamydophila",
+      "target": "Chlamydophila subclade"
+    },
+    {
+      "source": "Chlamydophila",
+      "target": "Chlamydophila caviae"
+    },
+    {
+      "source": "Chlamydia",
+      "target": "Chlamydia muridarum"
+    },
+    {
+      "source": "Chlamydia",
+      "target": "Chlamydia trachomatis"
+    },
+    {
+      "source": "Mycoplasmataceae subclade",
+      "target": "Mycoplasma"
+    },
+    {
+      "source": "Mycoplasmataceae subclade",
+      "target": "Mycoplasmataceae subclade#2"
+    },
+    {
+      "source": "Bacillales subclade",
+      "target": "Listeria"
+    },
+    {
+      "source": "Bacillales subclade",
+      "target": "Bacillaceae"
+    },
+    {
+      "source": "Staphylococcus",
+      "target": "Staphylococcus subclade"
+    },
+    {
+      "source": "Staphylococcus",
+      "target": "Staphylococcus epidermidis"
+    },
+    {
+      "source": "Lactobacillales subclade",
+      "target": "Streptococcaceae"
+    },
+    {
+      "source": "Lactobacillales subclade",
+      "target": "Enterococcus faecalis"
+    },
+    {
+      "source": "Lactobacillus",
+      "target": "Lactobacillus johnsonii"
+    },
+    {
+      "source": "Lactobacillus",
+      "target": "Lactobacillus plantarum"
+    },
+    {
+      "source": "Apicomplexa",
+      "target": "Cryptosporidium hominis"
+    },
+    {
+      "source": "Apicomplexa",
+      "target": "Plasmodium falciparum"
+    },
+    {
+      "source": "Eukaryota subclade#5",
+      "target": "Streptophyta"
+    },
+    {
+      "source": "Eukaryota subclade#5",
+      "target": "Cyanidioschyzon merolae"
+    },
+    {
+      "source": "Eukaryota subclade#6",
+      "target": "Dictyostelium discoideum"
+    },
+    {
+      "source": "Eukaryota subclade#6",
+      "target": "Eukaryota subclade#7"
+    },
+    {
+      "source": "Sulfolobus",
+      "target": "Sulfolobus tokodaii"
+    },
+    {
+      "source": "Sulfolobus",
+      "target": "Sulfolobus solfataricus"
+    },
+    {
+      "source": "Euryarchaeota subclade#3",
+      "target": "Euryarchaeota subclade#4"
+    },
+    {
+      "source": "Euryarchaeota subclade#3",
+      "target": "Methanococcales"
+    },
+    {
+      "source": "Pyrococcus",
+      "target": "Pyrococcus subclade"
+    },
+    {
+      "source": "Pyrococcus",
+      "target": "Pyrococcus furiosus"
+    },
+    {
+      "source": "Euryarchaeota subclade#6",
+      "target": "Halobacterium sp. NRC-1"
+    },
+    {
+      "source": "Euryarchaeota subclade#6",
+      "target": "Methanosarcina"
+    },
+    {
+      "source": "Proteobacteria subclade#2",
+      "target": "Gammaproteobacteria"
+    },
+    {
+      "source": "Proteobacteria subclade#2",
+      "target": "Betaproteobacteria"
+    },
+    {
+      "source": "Alphaproteobacteria",
+      "target": "Alphaproteobacteria subclade"
+    },
+    {
+      "source": "Alphaproteobacteria",
+      "target": "Rickettsiaceae"
+    },
+    {
+      "source": "Helicobacteraceae",
+      "target": "Helicobacter"
+    },
+    {
+      "source": "Helicobacteraceae",
+      "target": "Wolinella succinogenes"
+    },
+    {
+      "source": "Deltaproteobacteria subclade",
+      "target": "Geobacter sulfurreducens"
+    },
+    {
+      "source": "Deltaproteobacteria subclade",
+      "target": "Bdellovibrio bacteriovorus"
+    },
+    {
+      "source": "Deinococci",
+      "target": "Thermus thermophilus"
+    },
+    {
+      "source": "Deinococci",
+      "target": "Deinococcus radiodurans"
+    },
+    {
+      "source": "Cyanobacteria subclade",
+      "target": "Cyanobacteria subclade#2"
+    },
+    {
+      "source": "Cyanobacteria subclade",
+      "target": "Cyanobacteria subclade#4"
+    },
+    {
+      "source": "Leptospira",
+      "target": "Leptospira interrogans L1-130"
+    },
+    {
+      "source": "Leptospira",
+      "target": "Leptospira interrogans 56601"
+    },
+    {
+      "source": "Spirochaetaceae",
+      "target": "Treponema"
+    },
+    {
+      "source": "Spirochaetaceae",
+      "target": "Borrelia burgdorferi"
+    },
+    {
+      "source": "Tropheryma",
+      "target": "Tropheryma whipplei TW08/27"
+    },
+    {
+      "source": "Tropheryma",
+      "target": "Tropheryma whipplei Twist"
+    },
+    {
+      "source": "Corynebacterineae",
+      "target": "Corynebacterium"
+    },
+    {
+      "source": "Corynebacterineae",
+      "target": "Mycobacterium"
+    },
+    {
+      "source": "Streptomyces",
+      "target": "Streptomyces avermitilis"
+    },
+    {
+      "source": "Streptomyces",
+      "target": "Streptomyces coelicolor"
+    },
+    {
+      "source": "Bacteroidales",
+      "target": "Porphyromonas gingivalis"
+    },
+    {
+      "source": "Bacteroidales",
+      "target": "Bacteroides thetaiotaomicron"
+    },
+    {
+      "source": "Chlamydophila subclade",
+      "target": "Chlamydophila pneumoniae TW183"
+    },
+    {
+      "source": "Chlamydophila subclade",
+      "target": "Chlamydophila subclade#2"
+    },
+    {
+      "source": "Mycoplasma",
+      "target": "Mycoplasma mobile"
+    },
+    {
+      "source": "Mycoplasma",
+      "target": "Mycoplasma pulmonis"
+    },
+    {
+      "source": "Mycoplasmataceae subclade#2",
+      "target": "Mycoplasma subclade"
+    },
+    {
+      "source": "Mycoplasmataceae subclade#2",
+      "target": "Ureaplasma parvum"
+    },
+    {
+      "source": "Listeria",
+      "target": "Listeria subclade"
+    },
+    {
+      "source": "Listeria",
+      "target": "Listeria innocua"
+    },
+    {
+      "source": "Bacillaceae",
+      "target": "Bacillaceae subclade"
+    },
+    {
+      "source": "Bacillaceae",
+      "target": "Bacillus"
+    },
+    {
+      "source": "Staphylococcus subclade",
+      "target": "Staphylococcus aureus MW2"
+    },
+    {
+      "source": "Staphylococcus subclade",
+      "target": "Staphylococcus subclade#2"
+    },
+    {
+      "source": "Streptococcaceae",
+      "target": "Streptococcus"
+    },
+    {
+      "source": "Streptococcaceae",
+      "target": "Lactococcus lactis"
+    },
+    {
+      "source": "Streptophyta",
+      "target": "Oryza sativa"
+    },
+    {
+      "source": "Streptophyta",
+      "target": "Arabidopsis thaliana"
+    },
+    {
+      "source": "Eukaryota subclade#7",
+      "target": "Ascomycota"
+    },
+    {
+      "source": "Eukaryota subclade#7",
+      "target": "Metazoa"
+    },
+    {
+      "source": "Euryarchaeota subclade#4",
+      "target": "Methanobacterium thermautotrophicum"
+    },
+    {
+      "source": "Euryarchaeota subclade#4",
+      "target": "Methanopyrus kandleri"
+    },
+    {
+      "source": "Methanococcales",
+      "target": "Methanococcus maripaludis"
+    },
+    {
+      "source": "Methanococcales",
+      "target": "Methanococcus jannaschii"
+    },
+    {
+      "source": "Pyrococcus subclade",
+      "target": "Pyrococcus horikoshii"
+    },
+    {
+      "source": "Pyrococcus subclade",
+      "target": "Pyrococcus abyssi"
+    },
+    {
+      "source": "Methanosarcina",
+      "target": "Methanosarcina acetivorans"
+    },
+    {
+      "source": "Methanosarcina",
+      "target": "Methanosarcina mazei"
+    },
+    {
+      "source": "Gammaproteobacteria",
+      "target": "Gammaproteobacteria subclade"
+    },
+    {
+      "source": "Gammaproteobacteria",
+      "target": "Coxiella burnetii"
+    },
+    {
+      "source": "Betaproteobacteria",
+      "target": "Betaproteobacteria subclade"
+    },
+    {
+      "source": "Betaproteobacteria",
+      "target": "Nitrosomonas europaea"
+    },
+    {
+      "source": "Alphaproteobacteria subclade",
+      "target": "Rhizobiales"
+    },
+    {
+      "source": "Alphaproteobacteria subclade",
+      "target": "Caulobacter crescentus"
+    },
+    {
+      "source": "Rickettsiaceae",
+      "target": "Wolbachia sp. wMel"
+    },
+    {
+      "source": "Rickettsiaceae",
+      "target": "Rickettsia"
+    },
+    {
+      "source": "Helicobacter",
+      "target": "Helicobacter subclade"
+    },
+    {
+      "source": "Helicobacter",
+      "target": "Helicobacter hepaticus"
+    },
+    {
+      "source": "Cyanobacteria subclade#2",
+      "target": "Cyanobacteria subclade#3"
+    },
+    {
+      "source": "Cyanobacteria subclade#2",
+      "target": "Synechococcus elongatus"
+    },
+    {
+      "source": "Cyanobacteria subclade#4",
+      "target": "Cyanobacteria subclade#5"
+    },
+    {
+      "source": "Cyanobacteria subclade#4",
+      "target": "Prochlorococcus marinus CCMP1378"
+    },
+    {
+      "source": "Treponema",
+      "target": "Treponema pallidum"
+    },
+    {
+      "source": "Treponema",
+      "target": "Treponema denticola"
+    },
+    {
+      "source": "Corynebacterium",
+      "target": "Corynebacterium subclade"
+    },
+    {
+      "source": "Corynebacterium",
+      "target": "Corynebacterium diphtheriae"
+    },
+    {
+      "source": "Mycobacterium",
+      "target": "Mycobacterium subclade"
+    },
+    {
+      "source": "Mycobacterium",
+      "target": "Mycobacterium paratuberculosis"
+    },
+    {
+      "source": "Chlamydophila subclade#2",
+      "target": "Chlamydia pneumoniae J138"
+    },
+    {
+      "source": "Chlamydophila subclade#2",
+      "target": "Chlamydophila subclade#3"
+    },
+    {
+      "source": "Mycoplasma subclade",
+      "target": "Mycoplasma subclade#2"
+    },
+    {
+      "source": "Mycoplasma subclade",
+      "target": "Mycoplasma penetrans"
+    },
+    {
+      "source": "Listeria subclade",
+      "target": "Listeria monocytogenes F2365"
+    },
+    {
+      "source": "Listeria subclade",
+      "target": "Listeria monocytogenes EGD"
+    },
+    {
+      "source": "Bacillaceae subclade",
+      "target": "Oceanobacillus iheyensis"
+    },
+    {
+      "source": "Bacillaceae subclade",
+      "target": "Bacillus halodurans"
+    },
+    {
+      "source": "Bacillus",
+      "target": "Bacillus subclade"
+    },
+    {
+      "source": "Bacillus",
+      "target": "Bacillus subtilis"
+    },
+    {
+      "source": "Staphylococcus subclade#2",
+      "target": "Staphylococcus aureus N315"
+    },
+    {
+      "source": "Staphylococcus subclade#2",
+      "target": "Staphylococcus aureus Mu50"
+    },
+    {
+      "source": "Streptococcus",
+      "target": "Streptococcus subclade"
+    },
+    {
+      "source": "Streptococcus",
+      "target": "Streptococcus subclade#7"
+    },
+    {
+      "source": "Ascomycota",
+      "target": "Saccharomycetaceae"
+    },
+    {
+      "source": "Ascomycota",
+      "target": "Schizosaccharomyces pombe"
+    },
+    {
+      "source": "Metazoa",
+      "target": "Metazoa subclade"
+    },
+    {
+      "source": "Metazoa",
+      "target": "Caenorhabditis"
+    },
+    {
+      "source": "Gammaproteobacteria subclade",
+      "target": "Gammaproteobacteria subclade#2"
+    },
+    {
+      "source": "Gammaproteobacteria subclade",
+      "target": "Xanthomonadaceae"
+    },
+    {
+      "source": "Betaproteobacteria subclade",
+      "target": "Neisseriaceae"
+    },
+    {
+      "source": "Betaproteobacteria subclade",
+      "target": "Burkholderiales"
+    },
+    {
+      "source": "Rhizobiales",
+      "target": "Rhizobiales subclade"
+    },
+    {
+      "source": "Rhizobiales",
+      "target": "Bradyrhizobiaceae"
+    },
+    {
+      "source": "Rickettsia",
+      "target": "Rickettsia prowazekii"
+    },
+    {
+      "source": "Rickettsia",
+      "target": "Rickettsia conorii"
+    },
+    {
+      "source": "Helicobacter subclade",
+      "target": "Helicobacter pylori J99"
+    },
+    {
+      "source": "Helicobacter subclade",
+      "target": "Helicobacter pylori 26695"
+    },
+    {
+      "source": "Cyanobacteria subclade#3",
+      "target": "Nostoc sp. PCC 7120"
+    },
+    {
+      "source": "Cyanobacteria subclade#3",
+      "target": "Synechocystis sp. PCC6803"
+    },
+    {
+      "source": "Cyanobacteria subclade#5",
+      "target": "Cyanobacteria subclade#6"
+    },
+    {
+      "source": "Cyanobacteria subclade#5",
+      "target": "Prochlorococcus marinus SS120"
+    },
+    {
+      "source": "Corynebacterium subclade",
+      "target": "Corynebacterium subclade#2"
+    },
+    {
+      "source": "Corynebacterium subclade",
+      "target": "Corynebacterium efficiens"
+    },
+    {
+      "source": "Mycobacterium subclade",
+      "target": "Mycobacterium subclade#2"
+    },
+    {
+      "source": "Mycobacterium subclade",
+      "target": "Mycobacterium leprae"
+    },
+    {
+      "source": "Chlamydophila subclade#3",
+      "target": "Chlamydia pneumoniae CWL029"
+    },
+    {
+      "source": "Chlamydophila subclade#3",
+      "target": "Chlamydia pneumoniae AR39"
+    },
+    {
+      "source": "Mycoplasma subclade#2",
+      "target": "Mycoplasma subclade#3"
+    },
+    {
+      "source": "Mycoplasma subclade#2",
+      "target": "Mycoplasma gallisepticum"
+    },
+    {
+      "source": "Bacillus subclade",
+      "target": "Bacillus subclade#2"
+    },
+    {
+      "source": "Bacillus subclade",
+      "target": "Bacillus anthracis"
+    },
+    {
+      "source": "Streptococcus subclade",
+      "target": "Streptococcus subclade#2"
+    },
+    {
+      "source": "Streptococcus subclade",
+      "target": "Streptococcus mutans"
+    },
+    {
+      "source": "Streptococcus subclade#7",
+      "target": "Streptococcus pneumoniae R6"
+    },
+    {
+      "source": "Streptococcus subclade#7",
+      "target": "Streptococcus pneumoniae TIGR4"
+    },
+    {
+      "source": "Saccharomycetaceae",
+      "target": "Eremothecium gossypii"
+    },
+    {
+      "source": "Saccharomycetaceae",
+      "target": "Saccharomyces cerevisiae"
+    },
+    {
+      "source": "Metazoa subclade",
+      "target": "Diptera"
+    },
+    {
+      "source": "Metazoa subclade",
+      "target": "Gnathostomata"
+    },
+    {
+      "source": "Caenorhabditis",
+      "target": "Caenorhabditis elegans"
+    },
+    {
+      "source": "Caenorhabditis",
+      "target": "Caenorhabditis briggsae"
+    },
+    {
+      "source": "Gammaproteobacteria subclade#2",
+      "target": "Gammaproteobacteria subclade#3"
+    },
+    {
+      "source": "Gammaproteobacteria subclade#2",
+      "target": "Pseudomonas"
+    },
+    {
+      "source": "Xanthomonadaceae",
+      "target": "Xylella"
+    },
+    {
+      "source": "Xanthomonadaceae",
+      "target": "Xanthomonas"
+    },
+    {
+      "source": "Neisseriaceae",
+      "target": "Neisseria"
+    },
+    {
+      "source": "Neisseriaceae",
+      "target": "Chromobacterium violaceum"
+    },
+    {
+      "source": "Burkholderiales",
+      "target": "Bordetella"
+    },
+    {
+      "source": "Burkholderiales",
+      "target": "Ralstonia solanacearum"
+    },
+    {
+      "source": "Rhizobiales subclade",
+      "target": "Sinorhizobium"
+    },
+    {
+      "source": "Rhizobiales subclade",
+      "target": "Rhizobiales subclade#2"
+    },
+    {
+      "source": "Bradyrhizobiaceae",
+      "target": "Rhodopseudomonas palustris"
+    },
+    {
+      "source": "Bradyrhizobiaceae",
+      "target": "Bradyrhizobium japonicum"
+    },
+    {
+      "source": "Cyanobacteria subclade#6",
+      "target": "Synechococcus sp. WH8102"
+    },
+    {
+      "source": "Cyanobacteria subclade#6",
+      "target": "Prochlorococcus marinus MIT9313"
+    },
+    {
+      "source": "Corynebacterium subclade#2",
+      "target": "Corynebacterium glutamicum 13032"
+    },
+    {
+      "source": "Corynebacterium subclade#2",
+      "target": "Corynebacterium glutamicum"
+    },
+    {
+      "source": "Mycobacterium subclade#2",
+      "target": "Mycobacterium bovis"
+    },
+    {
+      "source": "Mycobacterium subclade#2",
+      "target": "Mycobacterium subclade#3"
+    },
+    {
+      "source": "Mycoplasma subclade#3",
+      "target": "Mycoplasma pneumoniae"
+    },
+    {
+      "source": "Mycoplasma subclade#3",
+      "target": "Mycoplasma genitalium"
+    },
+    {
+      "source": "Bacillus subclade#2",
+      "target": "Bacillus cereus ATCC 14579"
+    },
+    {
+      "source": "Bacillus subclade#2",
+      "target": "Bacillus cereus ATCC 10987"
+    },
+    {
+      "source": "Streptococcus subclade#2",
+      "target": "Streptococcus subclade#3"
+    },
+    {
+      "source": "Streptococcus subclade#2",
+      "target": "Streptococcus subclade#4"
+    },
+    {
+      "source": "Diptera",
+      "target": "Anopheles gambiae"
+    },
+    {
+      "source": "Diptera",
+      "target": "Drosophila melanogaster"
+    },
+    {
+      "source": "Gnathostomata",
+      "target": "Actinopterygii"
+    },
+    {
+      "source": "Gnathostomata",
+      "target": "Gnathostomata subclade"
+    },
+    {
+      "source": "Gammaproteobacteria subclade#3",
+      "target": "Gammaproteobacteria subclade#4"
+    },
+    {
+      "source": "Gammaproteobacteria subclade#3",
+      "target": "Shewanella oneidensis"
+    },
+    {
+      "source": "Pseudomonas",
+      "target": "Pseudomonas subclade"
+    },
+    {
+      "source": "Pseudomonas",
+      "target": "Pseudomonas aeruginosa"
+    },
+    {
+      "source": "Xylella",
+      "target": "Xylella fastidiosa 700964"
+    },
+    {
+      "source": "Xylella",
+      "target": "Xylella fastidiosa 9a5c"
+    },
+    {
+      "source": "Xanthomonas",
+      "target": "Xanthomonas axonopodis"
+    },
+    {
+      "source": "Xanthomonas",
+      "target": "Xanthomonas campestris"
+    },
+    {
+      "source": "Neisseria",
+      "target": "Neisseria meningitidis A"
+    },
+    {
+      "source": "Neisseria",
+      "target": "Neisseria meningitidis B"
+    },
+    {
+      "source": "Bordetella",
+      "target": "Bordetella pertussis"
+    },
+    {
+      "source": "Bordetella",
+      "target": "Bordetella subclade"
+    },
+    {
+      "source": "Sinorhizobium",
+      "target": ""
+    },
+    {
+      "source": "Sinorhizobium",
+      "target": "Rhizobium meliloti"
+    },
+    {
+      "source": "Rhizobiales subclade#2",
+      "target": "Brucella"
+    },
+    {
+      "source": "Rhizobiales subclade#2",
+      "target": "Rhizobium loti"
+    },
+    {
+      "source": "Mycobacterium subclade#3",
+      "target": "Mycobacterium tuberculosis CDC1551"
+    },
+    {
+      "source": "Mycobacterium subclade#3",
+      "target": "Mycobacterium tuberculosis H37Rv"
+    },
+    {
+      "source": "Streptococcus subclade#3",
+      "target": "Streptococcus agalactiae III"
+    },
+    {
+      "source": "Streptococcus subclade#3",
+      "target": "Streptococcus agalactiae V"
+    },
+    {
+      "source": "Streptococcus subclade#4",
+      "target": "Streptococcus pyogenes M1"
+    },
+    {
+      "source": "Streptococcus subclade#4",
+      "target": "Streptococcus subclade#5"
+    },
+    {
+      "source": "Actinopterygii",
+      "target": "Takifugu rubripes"
+    },
+    {
+      "source": "Actinopterygii",
+      "target": "Danio rerio"
+    },
+    {
+      "source": "Gnathostomata subclade",
+      "target": "Euarchontoglires"
+    },
+    {
+      "source": "Gnathostomata subclade",
+      "target": "Gallus gallus"
+    },
+    {
+      "source": "Gammaproteobacteria subclade#4",
+      "target": "Gammaproteobacteria subclade#5"
+    },
+    {
+      "source": "Gammaproteobacteria subclade#4",
+      "target": "Vibrionaceae"
+    },
+    {
+      "source": "Pseudomonas subclade",
+      "target": "Pseudomonas putida"
+    },
+    {
+      "source": "Pseudomonas subclade",
+      "target": "Pseudomonas syringae"
+    },
+    {
+      "source": "Bordetella subclade",
+      "target": "Bordetella parapertussis"
+    },
+    {
+      "source": "Bordetella subclade",
+      "target": "Bordetella bronchiseptica"
+    },
+    {
+      "source": "",
+      "target": "Agrobacterium tumefaciens Cereon"
+    },
+    {
+      "source": "",
+      "target": "Agrobacterium tumefaciens WashU"
+    },
+    {
+      "source": "Brucella",
+      "target": "Brucella suis"
+    },
+    {
+      "source": "Brucella",
+      "target": "Brucella melitensis"
+    },
+    {
+      "source": "Streptococcus subclade#5",
+      "target": "Streptococcus pyogenes MGAS8232"
+    },
+    {
+      "source": "Streptococcus subclade#5",
+      "target": "Streptococcus subclade#6"
+    },
+    {
+      "source": "Euarchontoglires",
+      "target": "Murinae"
+    },
+    {
+      "source": "Euarchontoglires",
+      "target": "Hominidae"
+    },
+    {
+      "source": "Gammaproteobacteria subclade#5",
+      "target": "Enterobacteriaceae"
+    },
+    {
+      "source": "Gammaproteobacteria subclade#5",
+      "target": "Pasteurellaceae"
+    },
+    {
+      "source": "Vibrionaceae",
+      "target": "Vibrio"
+    },
+    {
+      "source": "Vibrionaceae",
+      "target": "Photobacterium profundum"
+    },
+    {
+      "source": "Streptococcus subclade#6",
+      "target": "Streptococcus pyogenes MGAS315"
+    },
+    {
+      "source": "Streptococcus subclade#6",
+      "target": "Streptococcus pyogenes SSI-1"
+    },
+    {
+      "source": "Murinae",
+      "target": "Rattus norvegicus"
+    },
+    {
+      "source": "Murinae",
+      "target": "Mus musculus"
+    },
+    {
+      "source": "Hominidae",
+      "target": "Homo sapiens"
+    },
+    {
+      "source": "Hominidae",
+      "target": "Pan troglodytes"
+    },
+    {
+      "source": "Enterobacteriaceae",
+      "target": "Enterobacteriaceae subclade"
+    },
+    {
+      "source": "Enterobacteriaceae",
+      "target": "Enterobacteriaceae subclade#6"
+    },
+    {
+      "source": "Pasteurellaceae",
+      "target": "Pasteurellaceae subclade"
+    },
+    {
+      "source": "Pasteurellaceae",
+      "target": "Haemophilus ducreyi"
+    },
+    {
+      "source": "Vibrio",
+      "target": "Vibrio subclade"
+    },
+    {
+      "source": "Vibrio",
+      "target": "Vibrio cholerae"
+    },
+    {
+      "source": "Enterobacteriaceae subclade",
+      "target": "Enterobacteriaceae subclade#2"
+    },
+    {
+      "source": "Enterobacteriaceae subclade",
+      "target": "Enterobacteriaceae subclade#5"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#6",
+      "target": "Enterobacteriaceae subclade#7"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#6",
+      "target": "Buchnera"
+    },
+    {
+      "source": "Pasteurellaceae subclade",
+      "target": "Pasteurella multocida"
+    },
+    {
+      "source": "Pasteurellaceae subclade",
+      "target": "Haemophilus influenzae"
+    },
+    {
+      "source": "Vibrio subclade",
+      "target": "Vibrio subclade#2"
+    },
+    {
+      "source": "Vibrio subclade",
+      "target": "Vibrio parahaemolyticus"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#2",
+      "target": "Enterobacteriaceae subclade#3"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#2",
+      "target": "Salmonella"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#5",
+      "target": "Yersinia"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#5",
+      "target": "Photorhabdus luminescens"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#7",
+      "target": "Blochmannia floridanus"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#7",
+      "target": "Wigglesworthia brevipalpis"
+    },
+    {
+      "source": "Buchnera",
+      "target": "Buchnera aphidicola Bp"
+    },
+    {
+      "source": "Buchnera",
+      "target": "Buchnera subclade"
+    },
+    {
+      "source": "Vibrio subclade#2",
+      "target": "Vibrio vulnificus YJ016"
+    },
+    {
+      "source": "Vibrio subclade#2",
+      "target": "Vibrio vulnificus CMCP6"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#3",
+      "target": "Escherichia"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#3",
+      "target": "Enterobacteriaceae subclade#4"
+    },
+    {
+      "source": "Salmonella",
+      "target": "Salmonella subclade"
+    },
+    {
+      "source": "Salmonella",
+      "target": "Salmonella typhimurium"
+    },
+    {
+      "source": "Yersinia",
+      "target": "Yersinia pestis Medievalis"
+    },
+    {
+      "source": "Yersinia",
+      "target": "Yersinia subclade"
+    },
+    {
+      "source": "Buchnera subclade",
+      "target": "Buchnera aphidicola APS"
+    },
+    {
+      "source": "Buchnera subclade",
+      "target": "Buchnera aphidicola Sg"
+    },
+    {
+      "source": "Escherichia",
+      "target": "Escherichia coli EDL933"
+    },
+    {
+      "source": "Escherichia",
+      "target": "Escherichia coli O157:H7"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#4",
+      "target": "Escherichia subclade"
+    },
+    {
+      "source": "Enterobacteriaceae subclade#4",
+      "target": "Shigella"
+    },
+    {
+      "source": "Salmonella subclade",
+      "target": "Salmonella enterica"
+    },
+    {
+      "source": "Salmonella subclade",
+      "target": "Salmonella typhi"
+    },
+    {
+      "source": "Yersinia subclade",
+      "target": "Yersinia pestis KIM"
+    },
+    {
+      "source": "Yersinia subclade",
+      "target": "Yersinia pestis CO92"
+    },
+    {
+      "source": "Escherichia subclade",
+      "target": "Escherichia coli O6"
+    },
+    {
+      "source": "Escherichia subclade",
+      "target": "Escherichia coli K12"
+    },
+    {
+      "source": "Shigella",
+      "target": "Shigella flexneri 2a 2457T"
+    },
+    {
+      "source": "Shigella",
+      "target": "Shigella flexneri 2a 301"
+    }
+  ]
+}

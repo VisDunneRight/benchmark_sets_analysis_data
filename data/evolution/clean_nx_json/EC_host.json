@@ -1,0 +1,95 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "root_0"
+    },
+    {
+      "id": "h006"
+    },
+    {
+      "id": "root_1"
+    },
+    {
+      "id": "root_2"
+    },
+    {
+      "id": "root_3"
+    },
+    {
+      "id": "h005"
+    },
+    {
+      "id": "h004"
+    },
+    {
+      "id": "root_4"
+    },
+    {
+      "id": "root_5"
+    },
+    {
+      "id": "h003"
+    },
+    {
+      "id": "h002"
+    },
+    {
+      "id": "h001"
+    },
+    {
+      "id": "h000"
+    }
+  ],
+  "links": [
+    {
+      "source": "root_0",
+      "target": "h006"
+    },
+    {
+      "source": "root_0",
+      "target": "root_1"
+    },
+    {
+      "source": "root_1",
+      "target": "root_2"
+    },
+    {
+      "source": "root_1",
+      "target": "root_3"
+    },
+    {
+      "source": "root_2",
+      "target": "h005"
+    },
+    {
+      "source": "root_2",
+      "target": "h004"
+    },
+    {
+      "source": "root_3",
+      "target": "root_4"
+    },
+    {
+      "source": "root_3",
+      "target": "root_5"
+    },
+    {
+      "source": "root_4",
+      "target": "h003"
+    },
+    {
+      "source": "root_4",
+      "target": "h002"
+    },
+    {
+      "source": "root_5",
+      "target": "h001"
+    },
+    {
+      "source": "root_5",
+      "target": "h000"
+    }
+  ]
+}

@@ -567,10 +567,10 @@
         "CDP-diacylglycerol",
         "C03892"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01801",
       "reaction_name": "rn:R01801",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -578,10 +578,10 @@
         "C03892",
         "PtdGro"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02029",
       "reaction_name": "rn:R02029",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -589,10 +589,10 @@
         "CDP-diacylglycerol",
         "Cardiolipin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02030",
       "reaction_name": "rn:R02030",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -600,10 +600,10 @@
         "Phosphatidate",
         "CDP-diacylglycerol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01799",
       "reaction_name": "rn:R01799",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -611,10 +611,10 @@
         "Phosphatidate",
         "Lysophosphatidate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02241",
       "reaction_name": "rn:R02241",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -622,10 +622,10 @@
         "C00093",
         "Lysophosphatidate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00851",
       "reaction_name": "rn:R00851",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -633,10 +633,10 @@
         "Phosphatidylserine",
         "CDP-diacylglycerol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01800",
       "reaction_name": "rn:R01800",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -644,10 +644,10 @@
         "Cephalin",
         "Phosphatidylserine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02055",
       "reaction_name": "rn:R02055 rn:R07376",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -655,10 +655,10 @@
         "CDP-ethanolamine",
         "Cephalin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02057",
       "reaction_name": "rn:R02057",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -666,10 +666,10 @@
         "Citicoline",
         "Lecithin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01321",
       "reaction_name": "rn:R01321",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -677,10 +677,10 @@
         "Lecithin",
         "Phosphatidate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01310",
       "reaction_name": "rn:R01310",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -688,10 +688,10 @@
         "CDP-ethanolamine",
         "Phosphoethanolamine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02038",
       "reaction_name": "rn:R02038",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -699,10 +699,10 @@
         "Aminoethanol",
         "Phosphoethanolamine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01468",
       "reaction_name": "rn:R01468",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -710,10 +710,10 @@
         "Phosphocholine",
         "Citicoline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01890",
       "reaction_name": "rn:R01890",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -721,10 +721,10 @@
         "Phosphocholine",
         "Choline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01021",
       "reaction_name": "rn:R01021 rn:R06871",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -732,10 +732,10 @@
         "Lecithin",
         "C04308"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01320",
       "reaction_name": "rn:R01320",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -743,10 +743,10 @@
         "C04308",
         "C01241"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03424",
       "reaction_name": "rn:R03424",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -754,10 +754,10 @@
         "Cephalin",
         "C01241"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02056",
       "reaction_name": "rn:R02056",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -765,10 +765,10 @@
         "Lecithin",
         "Phosphatidylserine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07377",
       "reaction_name": "rn:R07377",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -776,10 +776,10 @@
         "1,2-Diacylglycerol",
         "Phosphatidate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02239",
       "reaction_name": "rn:R02239 rn:R02240 rn:R09944",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -787,10 +787,10 @@
         "Cephalin",
         "Phosphatidate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02051",
       "reaction_name": "rn:R02051",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -798,10 +798,10 @@
         "Glyceride",
         "Lysophosphatidate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02757",
       "reaction_name": "rn:R02757",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -809,10 +809,10 @@
         "1,2-Diacylglycerol",
         "Glyceride"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02687",
       "reaction_name": "rn:R02687",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -820,10 +820,10 @@
         "SQDG",
         "1,2-Diacylglycerol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06867",
       "reaction_name": "rn:R06867",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -831,10 +831,10 @@
         "1,2-Diacylglycerol",
         "Glcbeta1->3acyl2Gro"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02689",
       "reaction_name": "rn:R02689",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -842,10 +842,10 @@
         "C06040",
         "C06041"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05081",
       "reaction_name": "rn:R05081",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -853,10 +853,10 @@
         "MGDG",
         "1,2-Diacylglycerol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02691",
       "reaction_name": "rn:R02691",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -864,10 +864,10 @@
         "MGDG",
         "DGDG"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04469",
       "reaction_name": "rn:R04469",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -875,10 +875,10 @@
         "Lysophosphatidate",
         "C03372"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02756",
       "reaction_name": "rn:R02756",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -886,10 +886,10 @@
         "C03372",
         "C03715"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04311",
       "reaction_name": "rn:R04311",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -897,10 +897,10 @@
         "C03715",
         "C03968"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04360",
       "reaction_name": "rn:R04360",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -908,10 +908,10 @@
         "C03820",
         "PAF"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04321",
       "reaction_name": "rn:R04321",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -919,10 +919,10 @@
         "PAF",
         "C04317"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03437",
       "reaction_name": "rn:R03437 rn:R04452",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -930,10 +930,10 @@
         "C04317",
         "C05212"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03438",
       "reaction_name": "rn:R03438 rn:R07387",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -941,10 +941,10 @@
         "C05977",
         "C03201"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04162",
       "reaction_name": "rn:R04162",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -952,10 +952,10 @@
         "C03201",
         "C04475"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06364",
       "reaction_name": "rn:R06364",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -963,10 +963,10 @@
         "C04635",
         "C04756"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04413",
       "reaction_name": "rn:R04413 rn:R07379",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -974,10 +974,10 @@
         "C04756",
         "C03454"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07381",
       "reaction_name": "rn:R07381 rn:R07384",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -985,10 +985,10 @@
         "3-Dehydrosphinganine",
         "Sphinganine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02978",
       "reaction_name": "rn:R02978",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -996,10 +996,10 @@
         "Sphinganine",
         "Dihydroceramide"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06517",
       "reaction_name": "rn:R06517",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1007,10 +1007,10 @@
         "Dihydroceramide",
         "Ceramide"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06519",
       "reaction_name": "rn:R06519",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1018,10 +1018,10 @@
         "Ceramide",
         "Sphingomyelin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01891",
       "reaction_name": "rn:R01891 rn:R02541 rn:R08969",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1029,10 +1029,10 @@
         "Ceramide",
         "Cerebroside"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01500",
       "reaction_name": "rn:R01500 rn:R03617",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1040,10 +1040,10 @@
         "Cerebroside",
         "Sulfatide"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04017",
       "reaction_name": "rn:R04017",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1051,10 +1051,10 @@
         "Ceramide",
         "Sphingoid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01494",
       "reaction_name": "rn:R01494",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1062,10 +1062,10 @@
         "Sphingoid",
         "S1P"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01926",
       "reaction_name": "rn:R01926",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1073,10 +1073,10 @@
         "S1P",
         "Phosphoethanolamine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06516",
       "reaction_name": "rn:R06516",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1084,10 +1084,10 @@
         "Palmitoyl-CoA",
         "3-Dehydrosphinganine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01281",
       "reaction_name": "rn:R01281",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1095,10 +1095,10 @@
         "Arachidonate",
         "12(S)-HPETE"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01596",
       "reaction_name": "rn:R01596",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1106,10 +1106,10 @@
         "Arachidonate",
         "12(R)-HPETE"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07038",
       "reaction_name": "rn:R07038",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1117,10 +1117,10 @@
         "Arachidonate",
         "8(S)-HPETE"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07053",
       "reaction_name": "rn:R07053",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1128,10 +1128,10 @@
         "Arachidonate",
         "14,15-EET"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07048",
       "reaction_name": "rn:R07048",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1139,10 +1139,10 @@
         "14,15-EET",
         "14,15-DHET"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07108",
       "reaction_name": "rn:R07108",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1150,10 +1150,10 @@
         "Arachidonate",
         "11,12-EET"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07050",
       "reaction_name": "rn:R07050",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1161,10 +1161,10 @@
         "11,12-EET",
         "11,12-DHET"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07109",
       "reaction_name": "rn:R07109",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1172,10 +1172,10 @@
         "Arachidonate",
         "8,9-EET"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07051",
       "reaction_name": "rn:R07051",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1183,10 +1183,10 @@
         "8,9-EET",
         "8,9-DHET"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07110",
       "reaction_name": "rn:R07110",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1194,10 +1194,10 @@
         "Arachidonate",
         "5,6-EET"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07052",
       "reaction_name": "rn:R07052",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1205,10 +1205,10 @@
         "5,6-EET",
         "5,6-DHET"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07111",
       "reaction_name": "rn:R07111",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1216,10 +1216,10 @@
         "20-HETE",
         "Arachidonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07041",
       "reaction_name": "rn:R07041",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1227,10 +1227,10 @@
         "19(S)-HETE",
         "Arachidonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07046",
       "reaction_name": "rn:R07046",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1238,10 +1238,10 @@
         "5(S)-HPETE",
         "Arachidonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01595",
       "reaction_name": "rn:R01595",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1249,10 +1249,10 @@
         "LTA4",
         "5(S)-HPETE"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03058",
       "reaction_name": "rn:R03058",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1260,10 +1260,10 @@
         "LTB4",
         "LTA4"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03057",
       "reaction_name": "rn:R03057",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1271,10 +1271,10 @@
         "LTC4",
         "LTA4"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03059",
       "reaction_name": "rn:R03059",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1282,10 +1282,10 @@
         "LTC4",
         "LTD4"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09875",
       "reaction_name": "rn:R09875",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1293,10 +1293,10 @@
         "PGG2",
         "Arachidonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01590",
       "reaction_name": "rn:R01590",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1304,10 +1304,10 @@
         "PGH2",
         "PGG2"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00073",
       "reaction_name": "rn:R00073",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1315,10 +1315,10 @@
         "PGE2",
         "PGH2"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02265",
       "reaction_name": "rn:R02265",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1326,10 +1326,10 @@
         "15(S)-HPETE",
         "Arachidonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01593",
       "reaction_name": "rn:R01593",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1337,10 +1337,10 @@
         "15(S)-HPETE",
         "15H-11,12-EETA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07042",
       "reaction_name": "rn:R07042",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1348,10 +1348,10 @@
         "15H-11,12-EETA",
         "11,12,15-THETA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07044",
       "reaction_name": "rn:R07044",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1359,10 +1359,10 @@
         "11H-14,15-EETA",
         "15(S)-HPETE"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07043",
       "reaction_name": "rn:R07043",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1370,10 +1370,10 @@
         "11H-14,15-EETA",
         "11,14,15-THETA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07045",
       "reaction_name": "rn:R07045",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1381,10 +1381,10 @@
         "TXA2",
         "PGH2"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02268",
       "reaction_name": "rn:R02268",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1392,10 +1392,10 @@
         "PGF2a",
         "PGH2"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09506",
       "reaction_name": "rn:R09506",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1403,10 +1403,10 @@
         "PGF2a",
         "PGE2"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02581",
       "reaction_name": "rn:R02581",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1414,10 +1414,10 @@
         "PGH2",
         "PGI2"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02267",
       "reaction_name": "rn:R02267",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1425,10 +1425,10 @@
         "PGD2",
         "PGH2"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02266",
       "reaction_name": "rn:R02266",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1436,10 +1436,10 @@
         "Arachidonate",
         "Lecithin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01317",
       "reaction_name": "rn:R01317",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1447,10 +1447,10 @@
         "Gamolenic_acid",
         "Linoleate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07063",
       "reaction_name": "rn:R07063",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1458,10 +1458,10 @@
         "13(S)-HPODE",
         "Linoleate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03626",
       "reaction_name": "rn:R03626",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1469,10 +1469,10 @@
         "9(10)-EpOME",
         "Linoleate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07055",
       "reaction_name": "rn:R07055",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1480,10 +1480,10 @@
         "12(13)-EpOME",
         "Linoleate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07056",
       "reaction_name": "rn:R07056",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1491,10 +1491,10 @@
         "Linoleate",
         "Lecithin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07064",
       "reaction_name": "rn:R07064",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1502,10 +1502,10 @@
         "Linolenate",
         "Lecithin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07859",
       "reaction_name": "rn:R07859 rn:R07860",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1513,10 +1513,10 @@
         "Linolenate",
         "13-HPOT"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07869",
       "reaction_name": "rn:R07869",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1524,10 +1524,10 @@
         "13-HPOT",
         "12,13(S)-EOT"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07863",
       "reaction_name": "rn:R07863",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1535,10 +1535,10 @@
         "12,13(S)-EOT",
         "12-OPDA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03402",
       "reaction_name": "rn:R03402",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1546,10 +1546,10 @@
         "12-OPDA",
         "OPC-8:0"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03401",
       "reaction_name": "rn:R03401",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1557,10 +1557,10 @@
         "OPC-8:0",
         "OPC8-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07887",
       "reaction_name": "rn:R07887",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1568,10 +1568,10 @@
         "OPC8-CoA",
         "C16328"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07888",
       "reaction_name": "rn:R07888",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1579,10 +1579,10 @@
         "OPC6-CoA",
         "3-Oxo-OPC8-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07891",
       "reaction_name": "rn:R07891",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1590,10 +1590,10 @@
         "OPC6-CoA",
         "C16332"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07892",
       "reaction_name": "rn:R07892",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1601,10 +1601,10 @@
         "OPC4-CoA",
         "C16336"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07896",
       "reaction_name": "rn:R07896",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1612,10 +1612,10 @@
         "C16339",
         "3-Oxo-OPC4-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07899",
       "reaction_name": "rn:R07899",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1623,10 +1623,10 @@
         "Glyceride",
         "Glycerin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01351",
       "reaction_name": "rn:R01351",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1634,10 +1634,10 @@
         "1,2-Diacylglycerol",
         "Triglyceride"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02250",
       "reaction_name": "rn:R02250 rn:R02251 rn:R05333",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1645,10 +1645,10 @@
         "C00093",
         "Glycerin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00841",
       "reaction_name": "rn:R00841 rn:R00847",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1656,10 +1656,10 @@
         "CDP-diacylglycerol",
         "Phosphatidylinositol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01802",
       "reaction_name": "rn:R01802",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1667,10 +1667,10 @@
         "Glycerone",
         "Glycerin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01034",
       "reaction_name": "rn:R01034 rn:R01039",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1678,10 +1678,10 @@
         "Glycerone",
         "Glycerone_phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01011",
       "reaction_name": "rn:R01011 rn:R01012",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1689,10 +1689,10 @@
         "Phytosphingosine",
         "Ceramide_II"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06527",
       "reaction_name": "rn:R06527 rn:R06528",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1700,10 +1700,10 @@
         "Sphinganine",
         "Phytosphingosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06525",
       "reaction_name": "rn:R06525",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1711,10 +1711,10 @@
         "Dihydroceramide",
         "Ceramide_II"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06526",
       "reaction_name": "rn:R06526",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1722,10 +1722,10 @@
         "Phosphoethanolamine",
         "Ethanal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00748",
       "reaction_name": "rn:R00748",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1733,10 +1733,10 @@
         "Aminoethanol",
         "Ethanal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00749",
       "reaction_name": "rn:R00749",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1744,10 +1744,10 @@
         "1,2-Diacylglycerol",
         "C06364"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10850",
       "reaction_name": "rn:R10850",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1755,10 +1755,10 @@
         "C06364",
         "C06365"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05164",
       "reaction_name": "rn:R05164",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1766,10 +1766,10 @@
         "C06365",
         "C20897"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10849",
       "reaction_name": "rn:R10849",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     },
     {
@@ -1777,10 +1777,10 @@
         "Cardiolipin",
         "PtdGro"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07390",
       "reaction_name": "rn:R07390 rn:R11062",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Lipid Metabolism"
     }
   ]

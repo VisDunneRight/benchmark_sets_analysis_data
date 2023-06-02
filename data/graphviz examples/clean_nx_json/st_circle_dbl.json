@@ -1,0 +1,486 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "node13"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "node14"
+    },
+    {
+      "id": "node15"
+    },
+    {
+      "id": "node22"
+    },
+    {
+      "id": "node31"
+    },
+    {
+      "id": "node33"
+    },
+    {
+      "id": "node37"
+    },
+    {
+      "id": "node38"
+    },
+    {
+      "id": "node41"
+    },
+    {
+      "id": "node47"
+    },
+    {
+      "id": "node48"
+    },
+    {
+      "id": "node51"
+    },
+    {
+      "id": "node57"
+    },
+    {
+      "id": "node58"
+    },
+    {
+      "id": "node73"
+    },
+    {
+      "id": "node74"
+    },
+    {
+      "id": "node75"
+    },
+    {
+      "id": "node83"
+    },
+    {
+      "id": "node84"
+    },
+    {
+      "id": "node85"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"tailport=nw headport=ne\"",
+      "tailport": "nw",
+      "headport": "ne",
+      "key": 0,
+      "source": "node13",
+      "target": "node13"
+    },
+    {
+      "label": "\"tailport=nw headport=ne\"",
+      "tailport": "nw",
+      "headport": "ne",
+      "key": 1,
+      "source": "node13",
+      "target": "node13"
+    },
+    {
+      "key": 0,
+      "source": "node13",
+      "target": "node14"
+    },
+    {
+      "label": "\"tailport=nw headport=e\"",
+      "tailport": "nw",
+      "headport": "e",
+      "key": 0,
+      "source": "node14",
+      "target": "node14"
+    },
+    {
+      "label": "\"tailport=nw headport=e\"",
+      "tailport": "nw",
+      "headport": "e",
+      "key": 1,
+      "source": "node14",
+      "target": "node14"
+    },
+    {
+      "key": 0,
+      "source": "node14",
+      "target": "node15"
+    },
+    {
+      "label": "\"tailport=nw headport=se\"",
+      "tailport": "nw",
+      "headport": "se",
+      "key": 0,
+      "source": "node15",
+      "target": "node15"
+    },
+    {
+      "label": "\"tailport=nw headport=se\"",
+      "tailport": "nw",
+      "headport": "se",
+      "key": 1,
+      "source": "node15",
+      "target": "node15"
+    },
+    {
+      "key": 0,
+      "source": "node15",
+      "target": "node22"
+    },
+    {
+      "label": "\"tailport=n headport=n\"",
+      "tailport": "n",
+      "headport": "n",
+      "key": 0,
+      "source": "node22",
+      "target": "node22"
+    },
+    {
+      "label": "\"tailport=n headport=n\"",
+      "tailport": "n",
+      "headport": "n",
+      "key": 1,
+      "source": "node22",
+      "target": "node22"
+    },
+    {
+      "key": 0,
+      "source": "node22",
+      "target": "node31"
+    },
+    {
+      "label": "\"tailport=ne headport=nw\"",
+      "tailport": "ne",
+      "headport": "nw",
+      "key": 0,
+      "source": "node31",
+      "target": "node31"
+    },
+    {
+      "label": "\"tailport=ne headport=nw\"",
+      "tailport": "ne",
+      "headport": "nw",
+      "key": 1,
+      "source": "node31",
+      "target": "node31"
+    },
+    {
+      "key": 0,
+      "source": "node31",
+      "target": "node33"
+    },
+    {
+      "label": "\"tailport=ne headport=ne\"",
+      "tailport": "ne",
+      "headport": "ne",
+      "key": 0,
+      "source": "node33",
+      "target": "node33"
+    },
+    {
+      "label": "\"tailport=ne headport=ne\"",
+      "tailport": "ne",
+      "headport": "ne",
+      "key": 1,
+      "source": "node33",
+      "target": "node33"
+    },
+    {
+      "key": 0,
+      "source": "node33",
+      "target": "node37"
+    },
+    {
+      "label": "\"tailport=ne headport=sw\"",
+      "tailport": "ne",
+      "headport": "sw",
+      "key": 0,
+      "source": "node37",
+      "target": "node37"
+    },
+    {
+      "label": "\"tailport=ne headport=sw\"",
+      "tailport": "ne",
+      "headport": "sw",
+      "key": 1,
+      "source": "node37",
+      "target": "node37"
+    },
+    {
+      "key": 0,
+      "source": "node37",
+      "target": "node38"
+    },
+    {
+      "label": "\"tailport=ne headport=w\"",
+      "tailport": "ne",
+      "headport": "w",
+      "key": 0,
+      "source": "node38",
+      "target": "node38"
+    },
+    {
+      "label": "\"tailport=ne headport=w\"",
+      "tailport": "ne",
+      "headport": "w",
+      "key": 1,
+      "source": "node38",
+      "target": "node38"
+    },
+    {
+      "key": 0,
+      "source": "node38",
+      "target": "node41"
+    },
+    {
+      "label": "\"tailport=e headport=nw\"",
+      "tailport": "e",
+      "headport": "nw",
+      "key": 0,
+      "source": "node41",
+      "target": "node41"
+    },
+    {
+      "label": "\"tailport=e headport=nw\"",
+      "tailport": "e",
+      "headport": "nw",
+      "key": 1,
+      "source": "node41",
+      "target": "node41"
+    },
+    {
+      "key": 0,
+      "source": "node41",
+      "target": "node47"
+    },
+    {
+      "label": "\"tailport=e headport=sw\"",
+      "tailport": "e",
+      "headport": "sw",
+      "key": 0,
+      "source": "node47",
+      "target": "node47"
+    },
+    {
+      "label": "\"tailport=e headport=sw\"",
+      "tailport": "e",
+      "headport": "sw",
+      "key": 1,
+      "source": "node47",
+      "target": "node47"
+    },
+    {
+      "key": 0,
+      "source": "node47",
+      "target": "node48"
+    },
+    {
+      "label": "\"tailport=e headport=w\"",
+      "tailport": "e",
+      "headport": "w",
+      "key": 0,
+      "source": "node48",
+      "target": "node48"
+    },
+    {
+      "label": "\"tailport=e headport=w\"",
+      "tailport": "e",
+      "headport": "w",
+      "key": 1,
+      "source": "node48",
+      "target": "node48"
+    },
+    {
+      "key": 0,
+      "source": "node48",
+      "target": "node51"
+    },
+    {
+      "label": "\"tailport=se headport=nw\"",
+      "tailport": "se",
+      "headport": "nw",
+      "key": 0,
+      "source": "node51",
+      "target": "node51"
+    },
+    {
+      "label": "\"tailport=se headport=nw\"",
+      "tailport": "se",
+      "headport": "nw",
+      "key": 1,
+      "source": "node51",
+      "target": "node51"
+    },
+    {
+      "key": 0,
+      "source": "node51",
+      "target": "node57"
+    },
+    {
+      "label": "\"tailport=se headport=sw\"",
+      "tailport": "se",
+      "headport": "sw",
+      "key": 0,
+      "source": "node57",
+      "target": "node57"
+    },
+    {
+      "label": "\"tailport=se headport=sw\"",
+      "tailport": "se",
+      "headport": "sw",
+      "key": 1,
+      "source": "node57",
+      "target": "node57"
+    },
+    {
+      "key": 0,
+      "source": "node57",
+      "target": "node58"
+    },
+    {
+      "label": "\"tailport=se headport=w\"",
+      "tailport": "se",
+      "headport": "w",
+      "key": 0,
+      "source": "node58",
+      "target": "node58"
+    },
+    {
+      "label": "\"tailport=se headport=w\"",
+      "tailport": "se",
+      "headport": "w",
+      "key": 1,
+      "source": "node58",
+      "target": "node58"
+    },
+    {
+      "key": 0,
+      "source": "node58",
+      "target": "node73"
+    },
+    {
+      "label": "\"tailport=sw headport=ne\"",
+      "tailport": "sw",
+      "headport": "ne",
+      "key": 0,
+      "source": "node73",
+      "target": "node73"
+    },
+    {
+      "label": "\"tailport=sw headport=ne\"",
+      "tailport": "sw",
+      "headport": "ne",
+      "key": 1,
+      "source": "node73",
+      "target": "node73"
+    },
+    {
+      "key": 0,
+      "source": "node73",
+      "target": "node74"
+    },
+    {
+      "label": "\"tailport=sw headport=e\"",
+      "tailport": "sw",
+      "headport": "e",
+      "key": 0,
+      "source": "node74",
+      "target": "node74"
+    },
+    {
+      "label": "\"tailport=sw headport=e\"",
+      "tailport": "sw",
+      "headport": "e",
+      "key": 1,
+      "source": "node74",
+      "target": "node74"
+    },
+    {
+      "key": 0,
+      "source": "node74",
+      "target": "node75"
+    },
+    {
+      "label": "\"tailport=sw headport=se\"",
+      "tailport": "sw",
+      "headport": "se",
+      "key": 0,
+      "source": "node75",
+      "target": "node75"
+    },
+    {
+      "label": "\"tailport=sw headport=se\"",
+      "tailport": "sw",
+      "headport": "se",
+      "key": 1,
+      "source": "node75",
+      "target": "node75"
+    },
+    {
+      "key": 0,
+      "source": "node75",
+      "target": "node83"
+    },
+    {
+      "label": "\"tailport=w headport=ne\"",
+      "tailport": "w",
+      "headport": "ne",
+      "key": 0,
+      "source": "node83",
+      "target": "node83"
+    },
+    {
+      "label": "\"tailport=w headport=ne\"",
+      "tailport": "w",
+      "headport": "ne",
+      "key": 1,
+      "source": "node83",
+      "target": "node83"
+    },
+    {
+      "key": 0,
+      "source": "node83",
+      "target": "node84"
+    },
+    {
+      "label": "\"tailport=w headport=e\"",
+      "tailport": "w",
+      "headport": "e",
+      "key": 0,
+      "source": "node84",
+      "target": "node84"
+    },
+    {
+      "label": "\"tailport=w headport=e\"",
+      "tailport": "w",
+      "headport": "e",
+      "key": 1,
+      "source": "node84",
+      "target": "node84"
+    },
+    {
+      "key": 0,
+      "source": "node84",
+      "target": "node85"
+    },
+    {
+      "label": "\"tailport=w headport=se\"",
+      "tailport": "w",
+      "headport": "se",
+      "key": 0,
+      "source": "node85",
+      "target": "node85"
+    },
+    {
+      "label": "\"tailport=w headport=se\"",
+      "tailport": "w",
+      "headport": "se",
+      "key": 1,
+      "source": "node85",
+      "target": "node85"
+    }
+  ]
+}

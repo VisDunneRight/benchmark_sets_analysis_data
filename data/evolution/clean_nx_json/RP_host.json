@@ -1,0 +1,179 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "root_0"
+    },
+    {
+      "id": "root_1"
+    },
+    {
+      "id": "root_2"
+    },
+    {
+      "id": "h000"
+    },
+    {
+      "id": "root_3"
+    },
+    {
+      "id": "h005"
+    },
+    {
+      "id": "root_4"
+    },
+    {
+      "id": "h001"
+    },
+    {
+      "id": "h002"
+    },
+    {
+      "id": "root_5"
+    },
+    {
+      "id": "root_6"
+    },
+    {
+      "id": "root_7"
+    },
+    {
+      "id": "h012"
+    },
+    {
+      "id": "h009"
+    },
+    {
+      "id": "root_8"
+    },
+    {
+      "id": "root_9"
+    },
+    {
+      "id": "h008"
+    },
+    {
+      "id": "h010"
+    },
+    {
+      "id": "h011"
+    },
+    {
+      "id": "root_10"
+    },
+    {
+      "id": "h007"
+    },
+    {
+      "id": "root_11"
+    },
+    {
+      "id": "h004"
+    },
+    {
+      "id": "h003"
+    },
+    {
+      "id": "h006"
+    }
+  ],
+  "links": [
+    {
+      "source": "root_0",
+      "target": "root_1"
+    },
+    {
+      "source": "root_0",
+      "target": "root_2"
+    },
+    {
+      "source": "root_1",
+      "target": "h000"
+    },
+    {
+      "source": "root_1",
+      "target": "root_3"
+    },
+    {
+      "source": "root_2",
+      "target": "h005"
+    },
+    {
+      "source": "root_2",
+      "target": "root_4"
+    },
+    {
+      "source": "root_3",
+      "target": "h001"
+    },
+    {
+      "source": "root_3",
+      "target": "h002"
+    },
+    {
+      "source": "root_4",
+      "target": "root_5"
+    },
+    {
+      "source": "root_4",
+      "target": "root_6"
+    },
+    {
+      "source": "root_5",
+      "target": "root_7"
+    },
+    {
+      "source": "root_5",
+      "target": "h012"
+    },
+    {
+      "source": "root_6",
+      "target": "h009"
+    },
+    {
+      "source": "root_6",
+      "target": "root_8"
+    },
+    {
+      "source": "root_7",
+      "target": "root_9"
+    },
+    {
+      "source": "root_7",
+      "target": "h008"
+    },
+    {
+      "source": "root_8",
+      "target": "h010"
+    },
+    {
+      "source": "root_8",
+      "target": "h011"
+    },
+    {
+      "source": "root_9",
+      "target": "root_10"
+    },
+    {
+      "source": "root_9",
+      "target": "h007"
+    },
+    {
+      "source": "root_10",
+      "target": "root_11"
+    },
+    {
+      "source": "root_10",
+      "target": "h004"
+    },
+    {
+      "source": "root_11",
+      "target": "h003"
+    },
+    {
+      "source": "root_11",
+      "target": "h006"
+    }
+  ]
+}

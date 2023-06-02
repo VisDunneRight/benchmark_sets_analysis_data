@@ -1,0 +1,80 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"\u4e0b\u99c4\u914d\u5217\"",
+      "id": "getas"
+    },
+    {
+      "label": "\"\u65b0\u4e0b\u99c4\u914d\u5217\"",
+      "id": "new_getas"
+    },
+    {
+      "label": "\"\u65e5\u548c\u4e0b\u99c4\u914d\u5217\"",
+      "id": "getas_in_fine_weather"
+    },
+    {
+      "label": "\"\u9ed2\u5857\u308a\u4e0b\u99c4\u914d\u5217\"",
+      "id": "black_lacquered_getas"
+    },
+    {
+      "label": "\"\u9ed2\u5857\u308a\u6850\u4e0b\u99c4\u914d\u5217\"",
+      "id": "black_lacquered_getas_made_of_paulownia"
+    },
+    {
+      "label": "\"\u5857\u308a\u4e0b\u99c4\u914d\u5217\"",
+      "id": "lacquered_getas"
+    },
+    {
+      "label": "\"\u65b0JIS\u4e0b\u99c4\u914d\u5217\"",
+      "id": "new_JIS_getas"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "getas",
+      "target": "getas_in_fine_weather"
+    },
+    {
+      "key": 0,
+      "source": "getas",
+      "target": "lacquered_getas"
+    },
+    {
+      "key": 0,
+      "source": "getas",
+      "target": "new_JIS_getas"
+    },
+    {
+      "key": 0,
+      "source": "getas",
+      "target": "new_getas"
+    },
+    {
+      "key": 0,
+      "source": "black_lacquered_getas",
+      "target": "black_lacquered_getas_made_of_paulownia"
+    },
+    {
+      "style": "dotted",
+      "key": 0,
+      "source": "black_lacquered_getas",
+      "target": "getas_in_fine_weather"
+    },
+    {
+      "key": 0,
+      "source": "black_lacquered_getas_made_of_paulownia",
+      "target": "black_lacquered_getas"
+    },
+    {
+      "key": 0,
+      "source": "lacquered_getas",
+      "target": "black_lacquered_getas"
+    }
+  ]
+}

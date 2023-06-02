@@ -1,0 +1,2253 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "(2E)-Decenoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(2E)-Decenoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(2E)-Dodecenoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(2E)-Hexenoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(2E)-Hexenoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(2E)-Octenoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(2E)-Octenoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "16-Hydroxypalmitate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "19-Oxotestosterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2,3-Oxidosqualene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "24-Methylenelophenol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "24-epi-Campesterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxodecanoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxodecanoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxododecanoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxohexanoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxohexanoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxooctanoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxooctanoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxopalmitoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "5-Dehydroepisterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "7-Dehydrodesmosterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetoacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetoacetyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetoacetyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Aldosterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Androstenedione",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Brassicasterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Butyryl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Butyryl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01089",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01124",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01144",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01176",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01301",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03594",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03939",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04246",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04554",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04618",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04619",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04620",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04633",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04722",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05103",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05108",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05138",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05258",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05260",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05261",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05262",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05264",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05266",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05268",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05272",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05273",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05290",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05294",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05297",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05300",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05337",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05439",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05440",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05444",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05445",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05446",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05447",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05448",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05449",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05450",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05451",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05452",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05453",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05454",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05455",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05460",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05467",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05479",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05500",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05501",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05502",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05747",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05756",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05757",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05758",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05759",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05760",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05762",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05763",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C08830",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11455",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15613",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15776",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15778",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15781",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15808",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15816",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17339",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17343",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17345",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17346",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20876",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20877",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20878",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20879",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Calcidiol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Calciol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Calcitetrol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Calcitriol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Campesterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chenodiol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cholate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cholesterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Choloyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Corticosterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cortisol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cortisone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cortodoxone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Crotonyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cycloartenol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cycloeucalenol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DHA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DOC",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Decanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Decanoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Decanoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Delta8,14-Sterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Desmosterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Diol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dodecanoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Episterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ergosterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Estradiol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Estriol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Estrone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Fecosterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glycocholate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "HMA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "HMG-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hexadecanoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hexanoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hexanoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lanosterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lathosterol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lauric_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lauroyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Malonyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Malonyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Myristic_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Myristoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Obtusifoliol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Octanoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Octanoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Octylic_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Palmitate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Palmitoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pregnanolone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pregnenolone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Progesterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Provitamin_D3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Secalciferol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Taurine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Taurocholate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Testosterone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tetradecanoyl-[acp]",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Zymostenol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Zymosterol",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "source": "C05272",
+      "target": "Palmitoyl-CoA",
+      "reaction_id": "R01278",
+      "reaction_name": "rn:R01278 rn:R01279",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05258",
+      "target": "C05272",
+      "reaction_id": "R04738",
+      "reaction_name": "rn:R04738",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "3-Oxopalmitoyl-CoA",
+      "target": "C05258",
+      "reaction_id": "R04737",
+      "reaction_name": "rn:R04737",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "3-Oxopalmitoyl-CoA",
+      "target": "Myristoyl-CoA",
+      "reaction_id": "R03991",
+      "reaction_name": "rn:R03991",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05273",
+      "target": "Myristoyl-CoA",
+      "reaction_id": "R03989",
+      "reaction_name": "rn:R03989 rn:R03990",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05260",
+      "target": "C05273",
+      "reaction_id": "R04740",
+      "reaction_name": "rn:R04740",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05261",
+      "target": "C05260",
+      "reaction_id": "R04739",
+      "reaction_name": "rn:R04739",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05261",
+      "target": "Acetyl-CoA",
+      "reaction_id": "R03858",
+      "reaction_name": "rn:R03858",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "(2E)-Dodecenoyl-CoA",
+      "target": "Lauroyl-CoA",
+      "reaction_id": "R03856",
+      "reaction_name": "rn:R03856 rn:R03857",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05262",
+      "target": "(2E)-Dodecenoyl-CoA",
+      "reaction_id": "R04170",
+      "reaction_name": "rn:R04170",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "3-Oxododecanoyl-CoA",
+      "target": "C05262",
+      "reaction_id": "R04741",
+      "reaction_name": "rn:R04741",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Decanoyl-CoA",
+      "target": "3-Oxododecanoyl-CoA",
+      "reaction_id": "R04742",
+      "reaction_name": "rn:R04742",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "(2E)-Decenoyl-CoA",
+      "target": "Decanoyl-CoA",
+      "reaction_id": "R04753",
+      "reaction_name": "rn:R04753 rn:R04754",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05264",
+      "target": "(2E)-Decenoyl-CoA",
+      "reaction_id": "R04744",
+      "reaction_name": "rn:R04744",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "3-Oxodecanoyl-CoA",
+      "target": "C05264",
+      "reaction_id": "R04743",
+      "reaction_name": "rn:R04743",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Octanoyl-CoA",
+      "target": "3-Oxodecanoyl-CoA",
+      "reaction_id": "R03778",
+      "reaction_name": "rn:R03778",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "(2E)-Octenoyl-CoA",
+      "target": "Octanoyl-CoA",
+      "reaction_id": "R03776",
+      "reaction_name": "rn:R03776 rn:R03777",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05266",
+      "target": "(2E)-Octenoyl-CoA",
+      "reaction_id": "R04746",
+      "reaction_name": "rn:R04746",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "3-Oxooctanoyl-CoA",
+      "target": "C05266",
+      "reaction_id": "R04745",
+      "reaction_name": "rn:R04745",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Hexanoyl-CoA",
+      "target": "3-Oxooctanoyl-CoA",
+      "reaction_id": "R04747",
+      "reaction_name": "rn:R04747",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "(2E)-Hexenoyl-CoA",
+      "target": "Hexanoyl-CoA",
+      "reaction_id": "R04751",
+      "reaction_name": "rn:R04751 rn:R06985",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05268",
+      "target": "(2E)-Hexenoyl-CoA",
+      "reaction_id": "R04749",
+      "reaction_name": "rn:R04749",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "3-Oxohexanoyl-CoA",
+      "target": "C05268",
+      "reaction_id": "R04748",
+      "reaction_name": "rn:R04748",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Butyryl-CoA",
+      "target": "3-Oxohexanoyl-CoA",
+      "reaction_id": "R01177",
+      "reaction_name": "rn:R01177",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Crotonyl-CoA",
+      "target": "Butyryl-CoA",
+      "reaction_id": "R01171",
+      "reaction_name": "rn:R01171 rn:R01175",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C01144",
+      "target": "Crotonyl-CoA",
+      "reaction_id": "R03026",
+      "reaction_name": "rn:R03026",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Acetoacetyl-CoA",
+      "target": "C01144",
+      "reaction_id": "R01975",
+      "reaction_name": "rn:R01975 rn:R01976",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Acetoacetyl-CoA",
+      "target": "Acetyl-CoA",
+      "reaction_id": "R00238",
+      "reaction_name": "rn:R00238",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05763",
+      "target": "Hexadecanoyl-[acp]",
+      "reaction_id": "R04969",
+      "reaction_name": "rn:R04969 rn:R04970",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04633",
+      "target": "C05763",
+      "reaction_id": "R04544",
+      "reaction_name": "rn:R04544",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04633",
+      "target": "C05762",
+      "reaction_id": "R04543",
+      "reaction_name": "rn:R04543",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Malonyl-[acp]",
+      "target": "C05762",
+      "reaction_id": "R04968",
+      "reaction_name": "rn:R04968",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05760",
+      "target": "Tetradecanoyl-[acp]",
+      "reaction_id": "R04966",
+      "reaction_name": "rn:R04966 rn:R04967",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "HMA",
+      "target": "C05760",
+      "reaction_id": "R04568",
+      "reaction_name": "rn:R04568",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05759",
+      "target": "HMA",
+      "reaction_id": "R04566",
+      "reaction_name": "rn:R04566",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Malonyl-[acp]",
+      "target": "C05759",
+      "reaction_id": "R04726",
+      "reaction_name": "rn:R04726",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05758",
+      "target": "Dodecanoyl-[acp]",
+      "reaction_id": "R04724",
+      "reaction_name": "rn:R04724 rn:R04725",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05757",
+      "target": "C05758",
+      "reaction_id": "R04965",
+      "reaction_name": "rn:R04965",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05756",
+      "target": "C05757",
+      "reaction_id": "R04964",
+      "reaction_name": "rn:R04964",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Malonyl-[acp]",
+      "target": "C05756",
+      "reaction_id": "R04963",
+      "reaction_name": "rn:R04963",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "(2E)-Decenoyl-[acp]",
+      "target": "Decanoyl-[acp]",
+      "reaction_id": "R04961",
+      "reaction_name": "rn:R04961 rn:R04962",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04619",
+      "target": "(2E)-Decenoyl-[acp]",
+      "reaction_id": "R04535",
+      "reaction_name": "rn:R04535",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04619",
+      "target": "3-Oxodecanoyl-[acp]",
+      "reaction_id": "R04534",
+      "reaction_name": "rn:R04534",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Malonyl-[acp]",
+      "target": "3-Oxodecanoyl-[acp]",
+      "reaction_id": "R04960",
+      "reaction_name": "rn:R04960",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "(2E)-Octenoyl-[acp]",
+      "target": "Octanoyl-[acp]",
+      "reaction_id": "R04958",
+      "reaction_name": "rn:R04958 rn:R04959",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04620",
+      "target": "(2E)-Octenoyl-[acp]",
+      "reaction_id": "R04537",
+      "reaction_name": "rn:R04537",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04620",
+      "target": "3-Oxooctanoyl-[acp]",
+      "reaction_id": "R04536",
+      "reaction_name": "rn:R04536",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Malonyl-[acp]",
+      "target": "3-Oxooctanoyl-[acp]",
+      "reaction_id": "R04957",
+      "reaction_name": "rn:R04957",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "(2E)-Hexenoyl-[acp]",
+      "target": "Hexanoyl-[acp]",
+      "reaction_id": "R04955",
+      "reaction_name": "rn:R04955 rn:R04956",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05747",
+      "target": "(2E)-Hexenoyl-[acp]",
+      "reaction_id": "R04954",
+      "reaction_name": "rn:R04954",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "3-Oxohexanoyl-[acp]",
+      "target": "C05747",
+      "reaction_id": "R04953",
+      "reaction_name": "rn:R04953",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Malonyl-[acp]",
+      "target": "3-Oxohexanoyl-[acp]",
+      "reaction_id": "R04952",
+      "reaction_name": "rn:R04952",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04246",
+      "target": "Butyryl-[acp]",
+      "reaction_id": "R04429",
+      "reaction_name": "rn:R04429 rn:R04430",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04618",
+      "target": "C04246",
+      "reaction_id": "R04428",
+      "reaction_name": "rn:R04428",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04618",
+      "target": "Acetoacetyl-[acp]",
+      "reaction_id": "R04533",
+      "reaction_name": "rn:R04533",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C03939",
+      "target": "Acetoacetyl-[acp]",
+      "reaction_id": "R04355",
+      "reaction_name": "rn:R04355",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Hexadecanoyl-[acp]",
+      "target": "Palmitate",
+      "reaction_id": "R01706",
+      "reaction_name": "rn:R01706",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Palmitate",
+      "target": "Palmitoyl-CoA",
+      "reaction_id": "R01274",
+      "reaction_name": "rn:R01274 rn:R01280",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C03939",
+      "target": "Acetyl-CoA",
+      "reaction_id": "R01624",
+      "reaction_name": "rn:R01624",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Malonyl-[acp]",
+      "target": "Malonyl-CoA",
+      "reaction_id": "R01626",
+      "reaction_name": "rn:R01626",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Acetoacetate",
+      "target": "HMG-CoA",
+      "reaction_id": "R01360",
+      "reaction_name": "rn:R01360",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C01089",
+      "target": "Acetoacetate",
+      "reaction_id": "R01361",
+      "reaction_name": "rn:R01361",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Acetone",
+      "target": "Acetoacetate",
+      "reaction_id": "R01366",
+      "reaction_name": "rn:R01366",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "2,3-Oxidosqualene",
+      "target": "Lanosterol",
+      "reaction_id": "R03199",
+      "reaction_name": "rn:R03199",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Lanosterol",
+      "target": "C11455",
+      "reaction_id": "R05640",
+      "reaction_name": "rn:R05640",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C11455",
+      "target": "C05108",
+      "reaction_id": "R05639",
+      "reaction_name": "rn:R05639",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05108",
+      "target": "C15808",
+      "reaction_id": "R07509",
+      "reaction_name": "rn:R07509",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C15808",
+      "target": "C15816",
+      "reaction_id": "R07494",
+      "reaction_name": "rn:R07494",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C15816",
+      "target": "C05103",
+      "reaction_id": "R07495",
+      "reaction_name": "rn:R07495",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "2,3-Oxidosqualene",
+      "target": "Cycloartenol",
+      "reaction_id": "R03200",
+      "reaction_name": "rn:R03200",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Zymosterol",
+      "target": "C05439",
+      "reaction_id": "R04804",
+      "reaction_name": "rn:R04804",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Desmosterol",
+      "target": "Cholesterol",
+      "reaction_id": "R01457",
+      "reaction_name": "rn:R01457",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "7-Dehydrodesmosterol",
+      "target": "Provitamin_D3",
+      "reaction_id": "R07507",
+      "reaction_name": "rn:R07507",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Lathosterol",
+      "target": "C05439",
+      "reaction_id": "R05703",
+      "reaction_name": "rn:R05703",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Zymostenol",
+      "target": "Zymosterol",
+      "reaction_id": "R07498",
+      "reaction_name": "rn:R07498",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Zymostenol",
+      "target": "Lathosterol",
+      "reaction_id": "R03353",
+      "reaction_name": "rn:R03353",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Lathosterol",
+      "target": "Provitamin_D3",
+      "reaction_id": "R07215",
+      "reaction_name": "rn:R07215",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Provitamin_D3",
+      "target": "Cholesterol",
+      "reaction_id": "R01451",
+      "reaction_name": "rn:R01451 rn:R01456",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Zymosterol",
+      "target": "Fecosterol",
+      "reaction_id": "R04427",
+      "reaction_name": "rn:R04427",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Episterol",
+      "target": "Fecosterol",
+      "reaction_id": "R07497",
+      "reaction_name": "rn:R07497",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Episterol",
+      "target": "C15778",
+      "reaction_id": "R07505",
+      "reaction_name": "rn:R07505",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05440",
+      "target": "C15778",
+      "reaction_id": "R07506",
+      "reaction_name": "rn:R07506",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05440",
+      "target": "Ergosterol",
+      "reaction_id": "R05641",
+      "reaction_name": "rn:R05641",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Cholesterol",
+      "target": "C03594",
+      "reaction_id": "R01463",
+      "reaction_name": "rn:R01463",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C03594",
+      "target": "C05455",
+      "reaction_id": "R04263",
+      "reaction_name": "rn:R04263",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05451",
+      "target": "C05455",
+      "reaction_id": "R04817",
+      "reaction_name": "rn:R04817",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05451",
+      "target": "C05452",
+      "reaction_id": "R04818",
+      "reaction_name": "rn:R04818 rn:R04819",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05452",
+      "target": "C05444",
+      "reaction_id": "R04806",
+      "reaction_name": "rn:R04806",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05444",
+      "target": "C05445",
+      "reaction_id": "R08758",
+      "reaction_name": "rn:R08758",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05445",
+      "target": "C04554",
+      "reaction_id": "R08760",
+      "reaction_name": "rn:R08760",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04554",
+      "target": "C17345",
+      "reaction_id": "R08738",
+      "reaction_name": "rn:R08738",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C17345",
+      "target": "C17346",
+      "reaction_id": "R08739",
+      "reaction_name": "rn:R08739",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C17346",
+      "target": "C05447",
+      "reaction_id": "R08740",
+      "reaction_name": "rn:R08740",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05447",
+      "target": "C05448",
+      "reaction_id": "R04809",
+      "reaction_name": "rn:R04809",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C17339",
+      "target": "C05455",
+      "reaction_id": "R04826",
+      "reaction_name": "rn:R04826",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C17339",
+      "target": "C05453",
+      "reaction_id": "R04823",
+      "reaction_name": "rn:R04823",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05453",
+      "target": "C05454",
+      "reaction_id": "R04824",
+      "reaction_name": "rn:R04824 rn:R04825",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05454",
+      "target": "C05446",
+      "reaction_id": "R04807",
+      "reaction_name": "rn:R04807",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05446",
+      "target": "C01301",
+      "reaction_id": "R08759",
+      "reaction_name": "rn:R08759",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C01301",
+      "target": "C04722",
+      "reaction_id": "R08761",
+      "reaction_name": "rn:R08761",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C04722",
+      "target": "C15613",
+      "reaction_id": "R08733",
+      "reaction_name": "rn:R08733",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C15613",
+      "target": "C17343",
+      "reaction_id": "R08734",
+      "reaction_name": "rn:R08734",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C17343",
+      "target": "C05460",
+      "reaction_id": "R08735",
+      "reaction_name": "rn:R08735",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05450",
+      "target": "C05460",
+      "reaction_id": "R04813",
+      "reaction_name": "rn:R04813",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05467",
+      "target": "Choloyl-CoA",
+      "reaction_id": "R03719",
+      "reaction_name": "rn:R03719",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Cholate",
+      "target": "Choloyl-CoA",
+      "reaction_id": "R02794",
+      "reaction_name": "rn:R02794 rn:R07296",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Choloyl-CoA",
+      "target": "Glycocholate",
+      "reaction_id": "R03718",
+      "reaction_name": "rn:R03718",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Glycocholate",
+      "target": "Cholate",
+      "reaction_id": "R05835",
+      "reaction_name": "rn:R05835",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Choloyl-CoA",
+      "target": "Taurocholate",
+      "reaction_id": "R03720",
+      "reaction_name": "rn:R03720",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Taurocholate",
+      "target": "Cholate",
+      "reaction_id": "R02797",
+      "reaction_name": "rn:R02797",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Cholesterol",
+      "target": "C05500",
+      "reaction_id": "R01454",
+      "reaction_name": "rn:R01454",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05500",
+      "target": "C05501",
+      "reaction_id": "R04854",
+      "reaction_name": "rn:R04854",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05501",
+      "target": "Pregnenolone",
+      "reaction_id": "R03933",
+      "reaction_name": "rn:R03933",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Pregnenolone",
+      "target": "Progesterone",
+      "reaction_id": "R02216",
+      "reaction_name": "rn:R02216",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Cholesterol",
+      "target": "C05502",
+      "reaction_id": "R02723",
+      "reaction_name": "rn:R02723",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05502",
+      "target": "C05501",
+      "reaction_id": "R04855",
+      "reaction_name": "rn:R04855",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C01176",
+      "target": "Progesterone",
+      "reaction_id": "R02211",
+      "reaction_name": "rn:R02211",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C01176",
+      "target": "Cortodoxone",
+      "reaction_id": "R03326",
+      "reaction_name": "rn:R03326",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Cortodoxone",
+      "target": "Cortisol",
+      "reaction_id": "R02843",
+      "reaction_name": "rn:R02843",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Cortisol",
+      "target": "Cortisone",
+      "reaction_id": "R02834",
+      "reaction_name": "rn:R02834 rn:R02836",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Progesterone",
+      "target": "DOC",
+      "reaction_id": "R02213",
+      "reaction_name": "rn:R02213",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "DOC",
+      "target": "Corticosterone",
+      "reaction_id": "R03851",
+      "reaction_name": "rn:R03851",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Corticosterone",
+      "target": "C01124",
+      "reaction_id": "R03262",
+      "reaction_name": "rn:R03262",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C01124",
+      "target": "Aldosterone",
+      "reaction_id": "R03263",
+      "reaction_name": "rn:R03263",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Pregnenolone",
+      "target": "C05138",
+      "reaction_id": "R03783",
+      "reaction_name": "rn:R03783",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Taurine",
+      "target": "Taurocholate",
+      "reaction_id": "R03720",
+      "reaction_name": "rn:R03720",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05138",
+      "target": "DHA",
+      "reaction_id": "R08517",
+      "reaction_name": "rn:R08517",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "DHA",
+      "target": "Androstenedione",
+      "reaction_id": "R01837",
+      "reaction_name": "rn:R01837",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Androstenedione",
+      "target": "Testosterone",
+      "reaction_id": "R01836",
+      "reaction_name": "rn:R01836 rn:R01838",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05294",
+      "target": "Testosterone",
+      "reaction_id": "R02501",
+      "reaction_name": "rn:R02501",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "19-Oxotestosterone",
+      "target": "C05294",
+      "reaction_id": "R04761",
+      "reaction_name": "rn:R04761",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Estradiol",
+      "target": "19-Oxotestosterone",
+      "reaction_id": "R03087",
+      "reaction_name": "rn:R03087",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Estrone",
+      "target": "Estradiol",
+      "reaction_id": "R02352",
+      "reaction_name": "rn:R02352 rn:R02353",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Estrone",
+      "target": "C05297",
+      "reaction_id": "R02351",
+      "reaction_name": "rn:R02351",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05297",
+      "target": "C05290",
+      "reaction_id": "R04759",
+      "reaction_name": "rn:R04759",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05290",
+      "target": "Androstenedione",
+      "reaction_id": "R01840",
+      "reaction_name": "rn:R01840",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C08830",
+      "target": "Cycloartenol",
+      "reaction_id": "R07481",
+      "reaction_name": "rn:R07481",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C08830",
+      "target": "Cycloeucalenol",
+      "reaction_id": "R07482",
+      "reaction_name": "rn:R07482",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Cycloeucalenol",
+      "target": "Obtusifoliol",
+      "reaction_id": "R03775",
+      "reaction_name": "rn:R03775",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Obtusifoliol",
+      "target": "Delta8,14-Sterol",
+      "reaction_id": "R05731",
+      "reaction_name": "rn:R05731",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Delta8,14-Sterol",
+      "target": "C15776",
+      "reaction_id": "R07483",
+      "reaction_name": "rn:R07483",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Episterol",
+      "target": "5-Dehydroepisterol",
+      "reaction_id": "R07491",
+      "reaction_name": "rn:R07491",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "5-Dehydroepisterol",
+      "target": "C15781",
+      "reaction_id": "R07492",
+      "reaction_name": "rn:R07492",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C15781",
+      "target": "Campesterol",
+      "reaction_id": "R07493",
+      "reaction_name": "rn:R07493",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Acetyl-CoA",
+      "target": "Malonyl-CoA",
+      "reaction_id": "R00742",
+      "reaction_name": "rn:R00742",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Calciol",
+      "target": "Calcidiol",
+      "reaction_id": "R03611",
+      "reaction_name": "rn:R03611 rn:R11458",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Calcidiol",
+      "target": "Calcitriol",
+      "reaction_id": "R03610",
+      "reaction_name": "rn:R03610 rn:R11459",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05450",
+      "target": "C05467",
+      "reaction_id": "R04812",
+      "reaction_name": "rn:R04812",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05448",
+      "target": "C05449",
+      "reaction_id": "R04810",
+      "reaction_name": "rn:R04810",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05337",
+      "target": "C05449",
+      "reaction_id": "R04811",
+      "reaction_name": "rn:R04811",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05337",
+      "target": "Chenodiol",
+      "reaction_id": "R03974",
+      "reaction_name": "rn:R03974 rn:R08743",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "24-Methylenelophenol",
+      "target": "Episterol",
+      "reaction_id": "R07490",
+      "reaction_name": "rn:R07490",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C15776",
+      "target": "24-Methylenelophenol",
+      "reaction_id": "R07484",
+      "reaction_name": "rn:R07484",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C01176",
+      "target": "C05138",
+      "reaction_id": "R03327",
+      "reaction_name": "rn:R03327",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Progesterone",
+      "target": "C05479",
+      "reaction_id": "R02215",
+      "reaction_name": "rn:R02215 rn:R02219",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C05479",
+      "target": "Pregnanolone",
+      "reaction_id": "R04845",
+      "reaction_name": "rn:R04845 rn:R04846",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Diol",
+      "target": "Pregnanolone",
+      "reaction_id": "R04847",
+      "reaction_name": "rn:R04847",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Estradiol",
+      "target": "Estriol",
+      "reaction_id": "R03089",
+      "reaction_name": "rn:R03089",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Estrone",
+      "target": "C05300",
+      "reaction_id": "R02356",
+      "reaction_name": "rn:R02356",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Estriol",
+      "target": "C05300",
+      "reaction_id": "R04681",
+      "reaction_name": "rn:R04681 rn:R04682",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Palmitate",
+      "target": "16-Hydroxypalmitate",
+      "reaction_id": "R09451",
+      "reaction_name": "rn:R09451",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Calcitriol",
+      "target": "Calcitetrol",
+      "reaction_id": "R09515",
+      "reaction_name": "rn:R09515",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Calcidiol",
+      "target": "Secalciferol",
+      "reaction_id": "R09516",
+      "reaction_name": "rn:R09516",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Hexadecanoyl-[acp]",
+      "target": "Palmitoyl-CoA",
+      "reaction_id": "R10700",
+      "reaction_name": "rn:R10700",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Malonyl-[acp]",
+      "target": "Acetoacetyl-[acp]",
+      "reaction_id": "R10707",
+      "reaction_name": "rn:R10707",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Octanoyl-[acp]",
+      "target": "Octylic_acid",
+      "reaction_id": "R08157",
+      "reaction_name": "rn:R08157",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Decanoyl-[acp]",
+      "target": "Decanoate",
+      "reaction_id": "R08158",
+      "reaction_name": "rn:R08158",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Dodecanoyl-[acp]",
+      "target": "Lauric_acid",
+      "reaction_id": "R04014",
+      "reaction_name": "rn:R04014",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Tetradecanoyl-[acp]",
+      "target": "Myristic_acid",
+      "reaction_id": "R08159",
+      "reaction_name": "rn:R08159",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C15781",
+      "target": "24-epi-Campesterol",
+      "reaction_id": "R11096",
+      "reaction_name": "rn:R11096",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "24-epi-Campesterol",
+      "target": "Brassicasterol",
+      "reaction_id": "R11097",
+      "reaction_name": "rn:R11097",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "Malonyl-CoA",
+      "target": "C20877",
+      "reaction_id": "R10825",
+      "reaction_name": "rn:R10825",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C20878",
+      "target": "C20877",
+      "reaction_id": "R10826",
+      "reaction_name": "rn:R10826",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C20878",
+      "target": "C20879",
+      "reaction_id": "R10827",
+      "reaction_name": "rn:R10827",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    },
+    {
+      "source": "C20876",
+      "target": "C20879",
+      "reaction_id": "R10828",
+      "reaction_name": "rn:R10828",
+      "reversible": false,
+      "subsystem": "Fatty Acid Biosynthesis"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"{<port1>fi}|{<port2>b}\"",
+      "shape": "\"record\"",
+      "id": "gvds_array0"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "gvds_array0\":port1"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "gvds_array0\":port1",
+      "target": "gvds_array0"
+    }
+  ]
+}

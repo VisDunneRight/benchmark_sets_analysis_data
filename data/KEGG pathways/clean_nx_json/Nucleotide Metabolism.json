@@ -1,0 +1,1313 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "(-)-Ureidoglycolate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(5R)-Dihydrothymine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(S)-Allantoin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxopropanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Ureidopropanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "5-Hydroxyisourate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "ADP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "AICAR",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "AIR",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "AMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "ATP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Adenine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Adenosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Adenylosuccinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Allantoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Aminoacrylate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00438",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01205",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03090",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04640",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04751",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C12248",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15667",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20231",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20249",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C21029",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CDP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CTP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Carbamoyl_phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cytidine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cytosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DNA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Deoxyadenosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Deoxyguanosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Deoxyinosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "FAICAR",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GAR",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GDP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GTP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glyoxalate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Guanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Guanosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydracrylic_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydrouracil",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "IMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Inosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Dihydroorotate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Formyl-GAR",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "NH3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Orotate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Orotidylic_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PRPP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Purine-6-ol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "RNA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "SAICAR",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "TTP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Thymidine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Thymine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UTP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Uracil",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Urate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Urea",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Uridine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "XMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Xanthine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Xanthosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "beta-Alanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dADP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dAMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dATP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dCDP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dCMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dCTP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dGDP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dGMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dGTP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dTDP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dTMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dUDP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dUMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "dUTP",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "source": "C03090",
+      "target": "PRPP",
+      "reaction_id": "R01072",
+      "reaction_name": "rn:R01072",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "C03090",
+      "target": "GAR",
+      "reaction_id": "R04144",
+      "reaction_name": "rn:R04144",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "GAR",
+      "target": "N-Formyl-GAR",
+      "reaction_id": "R04325",
+      "reaction_name": "rn:R04325",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "N-Formyl-GAR",
+      "target": "C04640",
+      "reaction_id": "R04463",
+      "reaction_name": "rn:R04463",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "C04640",
+      "target": "AIR",
+      "reaction_id": "R04208",
+      "reaction_name": "rn:R04208",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "C04751",
+      "target": "AIR",
+      "reaction_id": "R04209",
+      "reaction_name": "rn:R04209",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "C04751",
+      "target": "SAICAR",
+      "reaction_id": "R04591",
+      "reaction_name": "rn:R04591",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "SAICAR",
+      "target": "AICAR",
+      "reaction_id": "R04559",
+      "reaction_name": "rn:R04559",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "AICAR",
+      "target": "FAICAR",
+      "reaction_id": "R04560",
+      "reaction_name": "rn:R04560 rn:R06975",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "IMP",
+      "target": "FAICAR",
+      "reaction_id": "R01127",
+      "reaction_name": "rn:R01127",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "IMP",
+      "target": "Inosine",
+      "reaction_id": "R01126",
+      "reaction_name": "rn:R01126",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Inosine",
+      "target": "Purine-6-ol",
+      "reaction_id": "R01863",
+      "reaction_name": "rn:R01863",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "IMP",
+      "target": "Purine-6-ol",
+      "reaction_id": "R01128",
+      "reaction_name": "rn:R01128 rn:R01132",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Adenylosuccinate",
+      "target": "IMP",
+      "reaction_id": "R01135",
+      "reaction_name": "rn:R01135",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "AMP",
+      "target": "Adenylosuccinate",
+      "reaction_id": "R01083",
+      "reaction_name": "rn:R01083",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "AMP",
+      "target": "Adenosine",
+      "reaction_id": "R00183",
+      "reaction_name": "rn:R00183 rn:R00185",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Adenine",
+      "target": "AMP",
+      "reaction_id": "R00190",
+      "reaction_name": "rn:R00190",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "ADP",
+      "target": "AMP",
+      "reaction_id": "R00127",
+      "reaction_name": "rn:R00127",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "ADP",
+      "target": "dADP",
+      "reaction_id": "R02017",
+      "reaction_name": "rn:R02017",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "ATP",
+      "target": "ADP",
+      "reaction_id": "R00124",
+      "reaction_name": "rn:R00124 rn:R00200",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "ATP",
+      "target": "dATP",
+      "reaction_id": "R02014",
+      "reaction_name": "rn:R02014 rn:R11634",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dATP",
+      "target": "dADP",
+      "reaction_id": "R01137",
+      "reaction_name": "rn:R01137 rn:R01138",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Adenosine",
+      "target": "Inosine",
+      "reaction_id": "R01560",
+      "reaction_name": "rn:R01560",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "IMP",
+      "target": "XMP",
+      "reaction_id": "R01130",
+      "reaction_name": "rn:R01130",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "XMP",
+      "target": "Xanthosine",
+      "reaction_id": "R02719",
+      "reaction_name": "rn:R02719",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Xanthosine",
+      "target": "Xanthine",
+      "reaction_id": "R02297",
+      "reaction_name": "rn:R02297",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Purine-6-ol",
+      "target": "Xanthine",
+      "reaction_id": "R01768",
+      "reaction_name": "rn:R01768 rn:R01769",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "XMP",
+      "target": "GMP",
+      "reaction_id": "R01230",
+      "reaction_name": "rn:R01230 rn:R01231",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "GMP",
+      "target": "Guanosine",
+      "reaction_id": "R01227",
+      "reaction_name": "rn:R01227",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Guanosine",
+      "target": "Guanine",
+      "reaction_id": "R02147",
+      "reaction_name": "rn:R02147",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Xanthine",
+      "target": "Guanine",
+      "reaction_id": "R01676",
+      "reaction_name": "rn:R01676",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Guanine",
+      "target": "GMP",
+      "reaction_id": "R01229",
+      "reaction_name": "rn:R01229",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "GMP",
+      "target": "GDP",
+      "reaction_id": "R00332",
+      "reaction_name": "rn:R00332",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "GDP",
+      "target": "GTP",
+      "reaction_id": "R00330",
+      "reaction_name": "rn:R00330 rn:R00430",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "GDP",
+      "target": "dGDP",
+      "reaction_id": "R02019",
+      "reaction_name": "rn:R02019",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dGDP",
+      "target": "dGTP",
+      "reaction_id": "R01857",
+      "reaction_name": "rn:R01857 rn:R01858",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "GTP",
+      "target": "dGTP",
+      "reaction_id": "R02020",
+      "reaction_name": "rn:R02020 rn:R11633",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Xanthine",
+      "target": "Urate",
+      "reaction_id": "R02103",
+      "reaction_name": "rn:R02103 rn:R02107",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "5-Hydroxyisourate",
+      "target": "Urate",
+      "reaction_id": "R02106",
+      "reaction_name": "rn:R02106 rn:R09514",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "5-Hydroxyisourate",
+      "target": "C12248",
+      "reaction_id": "R06601",
+      "reaction_name": "rn:R06601",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "C12248",
+      "target": "(S)-Allantoin",
+      "reaction_id": "R06604",
+      "reaction_name": "rn:R06604",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "(S)-Allantoin",
+      "target": "Allantoate",
+      "reaction_id": "R02425",
+      "reaction_name": "rn:R02425",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "C00438",
+      "target": "Carbamoyl_phosphate",
+      "reaction_id": "R01397",
+      "reaction_name": "rn:R01397",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "L-Dihydroorotate",
+      "target": "C00438",
+      "reaction_id": "R01993",
+      "reaction_name": "rn:R01993",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Orotate",
+      "target": "L-Dihydroorotate",
+      "reaction_id": "R01867",
+      "reaction_name": "rn:R01867 rn:R01868 rn:R01869",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Orotate",
+      "target": "Orotidylic_acid",
+      "reaction_id": "R01870",
+      "reaction_name": "rn:R01870",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "UDP",
+      "target": "UMP",
+      "reaction_id": "R00158",
+      "reaction_name": "rn:R00158",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "UTP",
+      "target": "UDP",
+      "reaction_id": "R00156",
+      "reaction_name": "rn:R00156",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "UTP",
+      "target": "CTP",
+      "reaction_id": "R00571",
+      "reaction_name": "rn:R00571 rn:R00573",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "CTP",
+      "target": "CDP",
+      "reaction_id": "R00570",
+      "reaction_name": "rn:R00570",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "CDP",
+      "target": "CMP",
+      "reaction_id": "R00512",
+      "reaction_name": "rn:R00512",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "CMP",
+      "target": "Cytidine",
+      "reaction_id": "R00513",
+      "reaction_name": "rn:R00513 rn:R00516 rn:R00517 rn:R00962 rn:R01548 rn:R02091 rn:R02096 rn:R02371 rn:R02372",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "UMP",
+      "target": "Uridine",
+      "reaction_id": "R00964",
+      "reaction_name": "rn:R00964 rn:R00967 rn:R00968 rn:R00970 rn:R01549 rn:R01880 rn:R02097 rn:R02327 rn:R02332",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Cytidine",
+      "target": "Uridine",
+      "reaction_id": "R01878",
+      "reaction_name": "rn:R01878",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Uridine",
+      "target": "Uracil",
+      "reaction_id": "R01876",
+      "reaction_name": "rn:R01876",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Uracil",
+      "target": "Cytosine",
+      "reaction_id": "R00974",
+      "reaction_name": "rn:R00974",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Cytidine",
+      "target": "Cytosine",
+      "reaction_id": "R02137",
+      "reaction_name": "rn:R02137 rn:R02296",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Uracil",
+      "target": "Hydrouracil",
+      "reaction_id": "R00977",
+      "reaction_name": "rn:R00977 rn:R00978",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Hydrouracil",
+      "target": "3-Ureidopropanoate",
+      "reaction_id": "R02269",
+      "reaction_name": "rn:R02269",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "3-Ureidopropanoate",
+      "target": "beta-Alanine",
+      "reaction_id": "R00905",
+      "reaction_name": "rn:R00905",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "CTP",
+      "target": "dCTP",
+      "reaction_id": "R02022",
+      "reaction_name": "rn:R02022 rn:R11636",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "CDP",
+      "target": "dCDP",
+      "reaction_id": "R02024",
+      "reaction_name": "rn:R02024",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dCTP",
+      "target": "dUTP",
+      "reaction_id": "R02325",
+      "reaction_name": "rn:R02325",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dUTP",
+      "target": "dUMP",
+      "reaction_id": "R02100",
+      "reaction_name": "rn:R02100",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dUMP",
+      "target": "dTMP",
+      "reaction_id": "R02101",
+      "reaction_name": "rn:R02101",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dTMP",
+      "target": "dTDP",
+      "reaction_id": "R02094",
+      "reaction_name": "rn:R02094",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dTDP",
+      "target": "TTP",
+      "reaction_id": "R02093",
+      "reaction_name": "rn:R02093",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dCTP",
+      "target": "dCDP",
+      "reaction_id": "R02326",
+      "reaction_name": "rn:R02326",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dCTP",
+      "target": "DNA",
+      "reaction_id": "R00377",
+      "reaction_name": "rn:R00377",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "TTP",
+      "target": "DNA",
+      "reaction_id": "R00378",
+      "reaction_name": "rn:R00378",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "DNA",
+      "target": "dATP",
+      "reaction_id": "R00375",
+      "reaction_name": "rn:R00375",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dGTP",
+      "target": "DNA",
+      "reaction_id": "R00376",
+      "reaction_name": "rn:R00376",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "UTP",
+      "target": "RNA",
+      "reaction_id": "R00443",
+      "reaction_name": "rn:R00443",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "CTP",
+      "target": "RNA",
+      "reaction_id": "R00442",
+      "reaction_name": "rn:R00442",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "ATP",
+      "target": "RNA",
+      "reaction_id": "R00435",
+      "reaction_name": "rn:R00435",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Orotidylic_acid",
+      "target": "UMP",
+      "reaction_id": "R00965",
+      "reaction_name": "rn:R00965",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Thymidine",
+      "target": "dTMP",
+      "reaction_id": "R01567",
+      "reaction_name": "rn:R01567 rn:R01569",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Thymine",
+      "target": "Thymidine",
+      "reaction_id": "R01570",
+      "reaction_name": "rn:R01570 rn:R02806",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "(5R)-Dihydrothymine",
+      "target": "Thymine",
+      "reaction_id": "R01415",
+      "reaction_name": "rn:R01415 rn:R11026",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "(5R)-Dihydrothymine",
+      "target": "C21029",
+      "reaction_id": "R03055",
+      "reaction_name": "rn:R03055",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "C21029",
+      "target": "C01205",
+      "reaction_id": "R04666",
+      "reaction_name": "rn:R04666",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Adenosine",
+      "target": "Adenine",
+      "reaction_id": "R01245",
+      "reaction_name": "rn:R01245 rn:R01561",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Purine-6-ol",
+      "target": "Adenine",
+      "reaction_id": "R01244",
+      "reaction_name": "rn:R01244",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "IMP",
+      "target": "AMP",
+      "reaction_id": "R00181",
+      "reaction_name": "rn:R00181",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dADP",
+      "target": "dAMP",
+      "reaction_id": "R01547",
+      "reaction_name": "rn:R01547",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dAMP",
+      "target": "Deoxyadenosine",
+      "reaction_id": "R02088",
+      "reaction_name": "rn:R02088 rn:R02089",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Deoxyadenosine",
+      "target": "Deoxyinosine",
+      "reaction_id": "R02556",
+      "reaction_name": "rn:R02556",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Purine-6-ol",
+      "target": "Deoxyinosine",
+      "reaction_id": "R02748",
+      "reaction_name": "rn:R02748",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dGDP",
+      "target": "dGMP",
+      "reaction_id": "R02090",
+      "reaction_name": "rn:R02090",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Deoxyguanosine",
+      "target": "dGMP",
+      "reaction_id": "R01967",
+      "reaction_name": "rn:R01967 rn:R01968",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Deoxyguanosine",
+      "target": "Guanine",
+      "reaction_id": "R01969",
+      "reaction_name": "rn:R01969",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Xanthine",
+      "target": "XMP",
+      "reaction_id": "R02142",
+      "reaction_name": "rn:R02142",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Deoxyadenosine",
+      "target": "Adenine",
+      "reaction_id": "R02557",
+      "reaction_name": "rn:R02557",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "UMP",
+      "target": "UTP",
+      "reaction_id": "R00662",
+      "reaction_name": "rn:R00662",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Uracil",
+      "target": "UMP",
+      "reaction_id": "R00966",
+      "reaction_name": "rn:R00966",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dCDP",
+      "target": "dCMP",
+      "reaction_id": "R01665",
+      "reaction_name": "rn:R01665 rn:R01667",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dUMP",
+      "target": "dCMP",
+      "reaction_id": "R01663",
+      "reaction_name": "rn:R01663",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "RNA",
+      "target": "GTP",
+      "reaction_id": "R00441",
+      "reaction_name": "rn:R00441",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Allantoate",
+      "target": "Urea",
+      "reaction_id": "R02422",
+      "reaction_name": "rn:R02422",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "(-)-Ureidoglycolate",
+      "target": "NH3",
+      "reaction_id": "R00469",
+      "reaction_name": "rn:R00469",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dUTP",
+      "target": "dUDP",
+      "reaction_id": "R02331",
+      "reaction_name": "rn:R02331",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dUDP",
+      "target": "dUMP",
+      "reaction_id": "R02098",
+      "reaction_name": "rn:R02098",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "AIR",
+      "target": "C15667",
+      "reaction_id": "R07404",
+      "reaction_name": "rn:R07404",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "C15667",
+      "target": "C04751",
+      "reaction_id": "R07405",
+      "reaction_name": "rn:R07405",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Aminoacrylate",
+      "target": "3-Oxopropanoate",
+      "reaction_id": "R09983",
+      "reaction_name": "rn:R09983",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "C20249",
+      "target": "Aminoacrylate",
+      "reaction_id": "R09982",
+      "reaction_name": "rn:R09982",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "C20231",
+      "target": "C20249",
+      "reaction_id": "R09947",
+      "reaction_name": "rn:R09947",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Uracil",
+      "target": "C20231",
+      "reaction_id": "R09936",
+      "reaction_name": "rn:R09936",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "Hydracrylic_acid",
+      "target": "3-Oxopropanoate",
+      "reaction_id": "R09289",
+      "reaction_name": "rn:R09289",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    },
+    {
+      "source": "dCTP",
+      "target": "dCMP",
+      "reaction_id": "R01668",
+      "reaction_name": "rn:R01668",
+      "reversible": false,
+      "subsystem": "Nucleotide Metabolism"
+    }
+  ]
+}

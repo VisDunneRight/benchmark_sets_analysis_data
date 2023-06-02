@@ -1,0 +1,21 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "shape": "\"record\"",
+      "label": "\"<foo>foo\"",
+      "id": "label_foo"
+    },
+    {
+      "id": "label_foo:foo"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "label_foo:foo",
+      "target": "label_foo"
+    }
+  ]
+}

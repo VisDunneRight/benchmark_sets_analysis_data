@@ -1,0 +1,33 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"\"",
+      "shapefile": "\"graphs/jcr.gif\"",
+      "id": "n"
+    },
+    {
+      "width": "3",
+      "height": "3",
+      "label": "\"\"",
+      "shapefile": "\"graphs/jcr.gif\"",
+      "id": "x"
+    },
+    {
+      "id": "m"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "n",
+      "target": "x"
+    },
+    {
+      "key": 0,
+      "source": "m",
+      "target": "n"
+    }
+  ]
+}

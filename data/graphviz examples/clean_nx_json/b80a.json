@@ -1,0 +1,31 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "height": "2.0",
+      "id": "c"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "b"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "c",
+      "target": "b"
+    },
+    {
+      "key": 0,
+      "source": "a",
+      "target": "b"
+    }
+  ]
+}

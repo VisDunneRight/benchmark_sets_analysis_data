@@ -1,0 +1,122 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "LR_0"
+    },
+    {
+      "id": "LR_3"
+    },
+    {
+      "id": "LR_4"
+    },
+    {
+      "id": "LR_8"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "LR_2"
+    },
+    {
+      "id": "LR_1"
+    },
+    {
+      "id": "LR_6"
+    },
+    {
+      "id": "LR_5"
+    },
+    {
+      "id": "LR_7"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"SS(B)\"",
+      "key": 0,
+      "source": "LR_0",
+      "target": "LR_2"
+    },
+    {
+      "label": "\"SS(S)\"",
+      "key": 0,
+      "source": "LR_0",
+      "target": "LR_1"
+    },
+    {
+      "label": "\"S(b)\"",
+      "key": 0,
+      "source": "LR_8",
+      "target": "LR_6"
+    },
+    {
+      "label": "\"S(a)\"",
+      "key": 0,
+      "source": "LR_8",
+      "target": "LR_5"
+    },
+    {
+      "label": "\"SS(b)\"",
+      "key": 0,
+      "source": "LR_2",
+      "target": "LR_6"
+    },
+    {
+      "label": "\"SS(a)\"",
+      "key": 0,
+      "source": "LR_2",
+      "target": "LR_5"
+    },
+    {
+      "label": "\"S(A)\"",
+      "key": 0,
+      "source": "LR_2",
+      "target": "LR_4"
+    },
+    {
+      "label": "\"S($end)\"",
+      "key": 0,
+      "source": "LR_1",
+      "target": "LR_3"
+    },
+    {
+      "label": "\"S(b)\"",
+      "key": 0,
+      "source": "LR_6",
+      "target": "LR_6"
+    },
+    {
+      "label": "\"S(a)\"",
+      "key": 0,
+      "source": "LR_6",
+      "target": "LR_5"
+    },
+    {
+      "label": "\"S(b)\"",
+      "key": 0,
+      "source": "LR_5",
+      "target": "LR_7"
+    },
+    {
+      "label": "\"S(a)\"",
+      "key": 0,
+      "source": "LR_5",
+      "target": "LR_5"
+    },
+    {
+      "label": "\"S(b)\"",
+      "key": 0,
+      "source": "LR_7",
+      "target": "LR_8"
+    },
+    {
+      "label": "\"S(a)\"",
+      "key": 0,
+      "source": "LR_7",
+      "target": "LR_5"
+    }
+  ]
+}

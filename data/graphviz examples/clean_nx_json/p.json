@@ -1,0 +1,107 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "root": "true",
+      "id": "kernel"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "run"
+    },
+    {
+      "id": "intr"
+    },
+    {
+      "id": "runbl"
+    },
+    {
+      "id": "zombie"
+    },
+    {
+      "id": "sleep"
+    },
+    {
+      "id": "runmem"
+    },
+    {
+      "id": "swap"
+    },
+    {
+      "id": "runswap"
+    },
+    {
+      "id": "new"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "kernel",
+      "target": "run"
+    },
+    {
+      "key": 0,
+      "source": "kernel",
+      "target": "zombie"
+    },
+    {
+      "key": 0,
+      "source": "kernel",
+      "target": "sleep"
+    },
+    {
+      "key": 0,
+      "source": "kernel",
+      "target": "runmem"
+    },
+    {
+      "key": 0,
+      "source": "run",
+      "target": "intr"
+    },
+    {
+      "key": 0,
+      "source": "run",
+      "target": "runbl"
+    },
+    {
+      "key": 0,
+      "source": "intr",
+      "target": "runbl"
+    },
+    {
+      "key": 0,
+      "source": "sleep",
+      "target": "swap"
+    },
+    {
+      "key": 0,
+      "source": "sleep",
+      "target": "runmem"
+    },
+    {
+      "key": 0,
+      "source": "runmem",
+      "target": "runswap"
+    },
+    {
+      "key": 0,
+      "source": "runmem",
+      "target": "new"
+    },
+    {
+      "key": 0,
+      "source": "swap",
+      "target": "runswap"
+    },
+    {
+      "key": 0,
+      "source": "runswap",
+      "target": "new"
+    }
+  ]
+}

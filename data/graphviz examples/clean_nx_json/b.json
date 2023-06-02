@@ -1,0 +1,60 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "style": "filled",
+      "color": "lightgrey",
+      "id": "0"
+    },
+    {
+      "shape": "doublecircle",
+      "id": "2"
+    },
+    {
+      "shape": "plaintext",
+      "id": "Machine: a"
+    },
+    {
+      "id": "1"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"a \"",
+      "key": 0,
+      "source": "0",
+      "target": "2"
+    },
+    {
+      "label": "\"other \"",
+      "key": 0,
+      "source": "0",
+      "target": "1"
+    },
+    {
+      "label": "\"a \"",
+      "key": 0,
+      "source": "2",
+      "target": "2"
+    },
+    {
+      "label": "\"other \"",
+      "key": 0,
+      "source": "2",
+      "target": "1"
+    },
+    {
+      "label": "\"a \"",
+      "key": 0,
+      "source": "1",
+      "target": "2"
+    },
+    {
+      "label": "\"other \"",
+      "key": 0,
+      "source": "1",
+      "target": "1"
+    }
+  ]
+}

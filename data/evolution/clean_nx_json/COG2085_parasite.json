@@ -1,0 +1,657 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "root_0"
+    },
+    {
+      "id": "root_1"
+    },
+    {
+      "id": "root_2"
+    },
+    {
+      "id": "root_3"
+    },
+    {
+      "id": "root_4"
+    },
+    {
+      "id": "7955.03",
+      "host_node": "7955"
+    },
+    {
+      "id": "root_5"
+    },
+    {
+      "id": "root_6"
+    },
+    {
+      "id": "10090.02",
+      "host_node": "10090"
+    },
+    {
+      "id": "root_7"
+    },
+    {
+      "id": "root_8"
+    },
+    {
+      "id": "root_9"
+    },
+    {
+      "id": "10090.03",
+      "host_node": "10090"
+    },
+    {
+      "id": "9598.01",
+      "host_node": "9598"
+    },
+    {
+      "id": "9606.01",
+      "host_node": "9606"
+    },
+    {
+      "id": "7955.02",
+      "host_node": "7955"
+    },
+    {
+      "id": "7955.01",
+      "host_node": "7955"
+    },
+    {
+      "id": "10090.01",
+      "host_node": "10090"
+    },
+    {
+      "id": "root_10"
+    },
+    {
+      "id": "9606.02",
+      "host_node": "9606"
+    },
+    {
+      "id": "9598.02",
+      "host_node": "9598"
+    },
+    {
+      "id": "root_11"
+    },
+    {
+      "id": "root_12"
+    },
+    {
+      "id": "root_13"
+    },
+    {
+      "id": "251221.01",
+      "host_node": "251221"
+    },
+    {
+      "id": "root_14"
+    },
+    {
+      "id": "root_15"
+    },
+    {
+      "id": "100226.06",
+      "host_node": "100226"
+    },
+    {
+      "id": "root_16"
+    },
+    {
+      "id": "root_17"
+    },
+    {
+      "id": "267608.01",
+      "host_node": "267608"
+    },
+    {
+      "id": "root_18"
+    },
+    {
+      "id": "root_19"
+    },
+    {
+      "id": "root_20"
+    },
+    {
+      "id": "root_21"
+    },
+    {
+      "id": "root_22"
+    },
+    {
+      "id": "root_23"
+    },
+    {
+      "id": "root_24"
+    },
+    {
+      "id": "234267.02",
+      "host_node": "234267"
+    },
+    {
+      "id": "root_25"
+    },
+    {
+      "id": "root_26"
+    },
+    {
+      "id": "root_27"
+    },
+    {
+      "id": "64091.01",
+      "host_node": "64091"
+    },
+    {
+      "id": "187420.01",
+      "host_node": "187420"
+    },
+    {
+      "id": "root_28"
+    },
+    {
+      "id": "272623.01",
+      "host_node": "272623"
+    },
+    {
+      "id": "root_29"
+    },
+    {
+      "id": "100226.05",
+      "host_node": "100226"
+    },
+    {
+      "id": "100226.04",
+      "host_node": "100226"
+    },
+    {
+      "id": "root_30"
+    },
+    {
+      "id": "103690.01",
+      "host_node": "103690"
+    },
+    {
+      "id": "root_31"
+    },
+    {
+      "id": "100226.03",
+      "host_node": "100226"
+    },
+    {
+      "id": "root_32"
+    },
+    {
+      "id": "root_33"
+    },
+    {
+      "id": "188937.01",
+      "host_node": "188937"
+    },
+    {
+      "id": "root_34"
+    },
+    {
+      "id": "190192.01",
+      "host_node": "190192"
+    },
+    {
+      "id": "243232.01",
+      "host_node": "243232"
+    },
+    {
+      "id": "220668.03",
+      "host_node": "220668"
+    },
+    {
+      "id": "196627.02",
+      "host_node": "196627"
+    },
+    {
+      "id": "204669.01",
+      "host_node": "204669"
+    },
+    {
+      "id": "189518.01",
+      "host_node": "189518"
+    },
+    {
+      "id": "160492.01",
+      "host_node": "160492"
+    },
+    {
+      "id": "266835.03",
+      "host_node": "266835"
+    },
+    {
+      "id": "220668.02",
+      "host_node": "220668"
+    },
+    {
+      "id": "196627.01",
+      "host_node": "196627"
+    },
+    {
+      "id": "root_35"
+    },
+    {
+      "id": "root_36"
+    },
+    {
+      "id": "224325.02",
+      "host_node": "224325"
+    },
+    {
+      "id": "224325.01",
+      "host_node": "224325"
+    },
+    {
+      "id": "root_37"
+    },
+    {
+      "id": "100226.01",
+      "host_node": "100226"
+    },
+    {
+      "id": "220668.01",
+      "host_node": "220668"
+    },
+    {
+      "id": "root_38"
+    },
+    {
+      "id": "root_39"
+    },
+    {
+      "id": "266835.02",
+      "host_node": "266835"
+    },
+    {
+      "id": "176299.01",
+      "host_node": "176299"
+    },
+    {
+      "id": "root_40"
+    },
+    {
+      "id": "100226.02",
+      "host_node": "100226"
+    },
+    {
+      "id": "190485.01",
+      "host_node": "190485"
+    },
+    {
+      "id": "266834.01",
+      "host_node": "266834"
+    },
+    {
+      "id": "root_41"
+    },
+    {
+      "id": "266835.01",
+      "host_node": "266835"
+    },
+    {
+      "id": "root_42"
+    },
+    {
+      "id": "234267.01",
+      "host_node": "234267"
+    },
+    {
+      "id": "224911.01",
+      "host_node": "224911"
+    }
+  ],
+  "links": [
+    {
+      "source": "root_0",
+      "target": "root_1"
+    },
+    {
+      "source": "root_0",
+      "target": "root_2"
+    },
+    {
+      "source": "root_1",
+      "target": "root_3"
+    },
+    {
+      "source": "root_1",
+      "target": "root_4"
+    },
+    {
+      "source": "root_2",
+      "target": "7955.03"
+    },
+    {
+      "source": "root_2",
+      "target": "root_5"
+    },
+    {
+      "source": "root_3",
+      "target": "root_6"
+    },
+    {
+      "source": "root_3",
+      "target": "10090.02"
+    },
+    {
+      "source": "root_4",
+      "target": "root_7"
+    },
+    {
+      "source": "root_4",
+      "target": "root_8"
+    },
+    {
+      "source": "root_5",
+      "target": "root_9"
+    },
+    {
+      "source": "root_5",
+      "target": "10090.03"
+    },
+    {
+      "source": "root_6",
+      "target": "9598.01"
+    },
+    {
+      "source": "root_6",
+      "target": "9606.01"
+    },
+    {
+      "source": "root_7",
+      "target": "7955.02"
+    },
+    {
+      "source": "root_7",
+      "target": "7955.01"
+    },
+    {
+      "source": "root_8",
+      "target": "10090.01"
+    },
+    {
+      "source": "root_8",
+      "target": "root_10"
+    },
+    {
+      "source": "root_9",
+      "target": "9606.02"
+    },
+    {
+      "source": "root_9",
+      "target": "9598.02"
+    },
+    {
+      "source": "root_10",
+      "target": "root_11"
+    },
+    {
+      "source": "root_10",
+      "target": "root_12"
+    },
+    {
+      "source": "root_11",
+      "target": "root_13"
+    },
+    {
+      "source": "root_11",
+      "target": "251221.01"
+    },
+    {
+      "source": "root_12",
+      "target": "root_14"
+    },
+    {
+      "source": "root_12",
+      "target": "root_15"
+    },
+    {
+      "source": "root_13",
+      "target": "100226.06"
+    },
+    {
+      "source": "root_13",
+      "target": "root_16"
+    },
+    {
+      "source": "root_14",
+      "target": "root_17"
+    },
+    {
+      "source": "root_14",
+      "target": "267608.01"
+    },
+    {
+      "source": "root_15",
+      "target": "root_18"
+    },
+    {
+      "source": "root_15",
+      "target": "root_19"
+    },
+    {
+      "source": "root_16",
+      "target": "root_20"
+    },
+    {
+      "source": "root_16",
+      "target": "root_21"
+    },
+    {
+      "source": "root_17",
+      "target": "root_22"
+    },
+    {
+      "source": "root_17",
+      "target": "root_23"
+    },
+    {
+      "source": "root_18",
+      "target": "root_24"
+    },
+    {
+      "source": "root_18",
+      "target": "234267.02"
+    },
+    {
+      "source": "root_19",
+      "target": "root_25"
+    },
+    {
+      "source": "root_19",
+      "target": "root_26"
+    },
+    {
+      "source": "root_20",
+      "target": "root_27"
+    },
+    {
+      "source": "root_20",
+      "target": "64091.01"
+    },
+    {
+      "source": "root_21",
+      "target": "187420.01"
+    },
+    {
+      "source": "root_21",
+      "target": "root_28"
+    },
+    {
+      "source": "root_22",
+      "target": "272623.01"
+    },
+    {
+      "source": "root_22",
+      "target": "root_29"
+    },
+    {
+      "source": "root_23",
+      "target": "100226.05"
+    },
+    {
+      "source": "root_23",
+      "target": "100226.04"
+    },
+    {
+      "source": "root_24",
+      "target": "root_30"
+    },
+    {
+      "source": "root_24",
+      "target": "103690.01"
+    },
+    {
+      "source": "root_25",
+      "target": "root_31"
+    },
+    {
+      "source": "root_25",
+      "target": "100226.03"
+    },
+    {
+      "source": "root_26",
+      "target": "root_32"
+    },
+    {
+      "source": "root_26",
+      "target": "root_33"
+    },
+    {
+      "source": "root_27",
+      "target": "188937.01"
+    },
+    {
+      "source": "root_27",
+      "target": "root_34"
+    },
+    {
+      "source": "root_28",
+      "target": "190192.01"
+    },
+    {
+      "source": "root_28",
+      "target": "243232.01"
+    },
+    {
+      "source": "root_29",
+      "target": "220668.03"
+    },
+    {
+      "source": "root_29",
+      "target": "196627.02"
+    },
+    {
+      "source": "root_30",
+      "target": "204669.01"
+    },
+    {
+      "source": "root_30",
+      "target": "189518.01"
+    },
+    {
+      "source": "root_31",
+      "target": "160492.01"
+    },
+    {
+      "source": "root_31",
+      "target": "266835.03"
+    },
+    {
+      "source": "root_32",
+      "target": "220668.02"
+    },
+    {
+      "source": "root_32",
+      "target": "196627.01"
+    },
+    {
+      "source": "root_33",
+      "target": "root_35"
+    },
+    {
+      "source": "root_33",
+      "target": "root_36"
+    },
+    {
+      "source": "root_34",
+      "target": "224325.02"
+    },
+    {
+      "source": "root_34",
+      "target": "224325.01"
+    },
+    {
+      "source": "root_35",
+      "target": "root_37"
+    },
+    {
+      "source": "root_35",
+      "target": "100226.01"
+    },
+    {
+      "source": "root_36",
+      "target": "220668.01"
+    },
+    {
+      "source": "root_36",
+      "target": "root_38"
+    },
+    {
+      "source": "root_37",
+      "target": "root_39"
+    },
+    {
+      "source": "root_37",
+      "target": "266835.02"
+    },
+    {
+      "source": "root_38",
+      "target": "176299.01"
+    },
+    {
+      "source": "root_38",
+      "target": "root_40"
+    },
+    {
+      "source": "root_39",
+      "target": "100226.02"
+    },
+    {
+      "source": "root_39",
+      "target": "190485.01"
+    },
+    {
+      "source": "root_40",
+      "target": "266834.01"
+    },
+    {
+      "source": "root_40",
+      "target": "root_41"
+    },
+    {
+      "source": "root_41",
+      "target": "266835.01"
+    },
+    {
+      "source": "root_41",
+      "target": "root_42"
+    },
+    {
+      "source": "root_42",
+      "target": "234267.01"
+    },
+    {
+      "source": "root_42",
+      "target": "224911.01"
+    }
+  ]
+}

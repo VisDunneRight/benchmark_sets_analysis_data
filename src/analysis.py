@@ -160,7 +160,7 @@ def convert_all_nonmultigraph_to_nx_json(path_to_folder):
 			elif all_undir:
 				new_g["directed"] = False
 			else:
-				print("both dir/undir edges")
+				print(f"{path_to_folder} both dir/undir edges")
 			if "clean_nx_json" not in os.listdir(path_to_folder):
 				os.mkdir(path_to_folder + "/clean_nx_json")
 			with open(path_to_folder + "/clean_nx_json/" + cfile, 'w') as fdesc:
@@ -168,10 +168,10 @@ def convert_all_nonmultigraph_to_nx_json(path_to_folder):
 
 
 if __name__ == '__main__':
-	collection = "../data/investment interdependence"
+	collection = "../data/KEGG pathways"
 	# collection_distributions_4in1(collection)
 	# single_graph_charts(collection, binned=False)
-	# convert_all_nonmultigraph_to_nx_json(collection)
+	convert_all_nonmultigraph_to_nx_json(collection)
 
 	# with open("../data/investment interdependence/clean_nx_json/investment_obstacles.json") as fds:
 	# 	grz = json.load(fds)

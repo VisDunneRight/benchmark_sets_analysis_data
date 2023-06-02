@@ -1,0 +1,27 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"<f0> foo | x | <f1> bar\"",
+      "id": "a"
+    },
+    {
+      "label": "\"a | { <f0> foo | x | <f1> bar } | b\"",
+      "id": "b"
+    },
+    {
+      "id": "a:f0"
+    },
+    {
+      "id": "b:f1"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "a:f0",
+      "target": "b:f1"
+    }
+  ]
+}

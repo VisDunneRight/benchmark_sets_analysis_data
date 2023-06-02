@@ -1,0 +1,696 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "2-Hydroxyethyl-ThPP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Oxoglutarate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Phosphoglycerate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00118",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00199",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00204",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00231",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00236",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00279",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00345",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00631",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00668",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01172",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01218",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01236",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04442",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05345",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05378",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05382",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06019",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06473",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Citrate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cori_ester",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Gluconate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Glyceraldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DPG",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ethanal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ethanol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Fumarate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gluconolactone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glucose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glycerate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glycerone_phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Isocitrate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Malate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Oxaloacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Oxalosuccinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PEP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PRPP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ribose_5-phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Succinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Succinyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "alpha-D-Glucose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "beta-D-Glucose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "cis-Aconitate",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "source": "Citrate",
+      "target": "Oxaloacetate",
+      "reaction_id": "R00351",
+      "reaction_name": "rn:R00351 rn:R00352",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Isocitrate",
+      "target": "Oxalosuccinate",
+      "reaction_id": "R01899",
+      "reaction_name": "rn:R01899",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "2-Oxoglutarate",
+      "target": "Oxalosuccinate",
+      "reaction_id": "R00268",
+      "reaction_name": "rn:R00268",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C05345",
+      "target": "C05378",
+      "reaction_id": "R04779",
+      "reaction_name": "rn:R04779 rn:R04780 rn:R09084 rn:R02073",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C05378",
+      "target": "Glycerone_phosphate",
+      "reaction_id": "R01070",
+      "reaction_name": "rn:R01070",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Glycerone_phosphate",
+      "target": "C00118",
+      "reaction_id": "R01015",
+      "reaction_name": "rn:R01015",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00118",
+      "target": "C00236",
+      "reaction_id": "R01061",
+      "reaction_name": "rn:R01061 rn:R01063",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00236",
+      "target": "3-Phosphoglycerate",
+      "reaction_id": "R01512",
+      "reaction_name": "rn:R01512",
+      "reversible": true,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "3-Phosphoglycerate",
+      "target": "C00631",
+      "reaction_id": "R01518",
+      "reaction_name": "rn:R01518",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00631",
+      "target": "PEP",
+      "reaction_id": "R00658",
+      "reaction_name": "rn:R00658",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "PEP",
+      "target": "Pyruvate",
+      "reaction_id": "R00199",
+      "reaction_name": "rn:R00199 rn:R00200 rn:R00206 rn:R02320",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "Acetyl-CoA",
+      "reaction_id": "R00209",
+      "reaction_name": "rn:R00209 rn:R00212 rn:R01196 rn:R10866",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00345",
+      "target": "C00199",
+      "reaction_id": "R01528",
+      "reaction_name": "rn:R01528 rn:R10221",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C01236",
+      "target": "C00345",
+      "reaction_id": "R02035",
+      "reaction_name": "rn:R02035",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C01172",
+      "target": "C01236",
+      "reaction_id": "R02736",
+      "reaction_name": "rn:R02736 rn:R10907",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00118",
+      "target": "C04442",
+      "reaction_id": "R05605",
+      "reaction_name": "rn:R05605",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C05345",
+      "target": "C00668",
+      "reaction_id": "R02740",
+      "reaction_name": "rn:R02740",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00668",
+      "target": "C01172",
+      "reaction_id": "R02739",
+      "reaction_name": "rn:R02739",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00345",
+      "target": "C04442",
+      "reaction_id": "R02036",
+      "reaction_name": "rn:R02036",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Cori_ester",
+      "target": "C00668",
+      "reaction_id": "R00959",
+      "reaction_name": "rn:R00959",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00668",
+      "target": "alpha-D-Glucose",
+      "reaction_id": "R01786",
+      "reaction_name": "rn:R01786 rn:R01788 rn:R02189 rn:R09085",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00118",
+      "target": "C05345",
+      "reaction_id": "R01827",
+      "reaction_name": "rn:R01827",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00118",
+      "target": "C00279",
+      "reaction_id": "R01830",
+      "reaction_name": "rn:R01830",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "PRPP",
+      "target": "Ribose_5-phosphate",
+      "reaction_id": "R01049",
+      "reaction_name": "rn:R01049",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Malate",
+      "target": "Oxaloacetate",
+      "reaction_id": "R00342",
+      "reaction_name": "rn:R00342 rn:R00361",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Fumarate",
+      "target": "Malate",
+      "reaction_id": "R01082",
+      "reaction_name": "rn:R01082",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Succinate",
+      "target": "Fumarate",
+      "reaction_id": "R02164",
+      "reaction_name": "rn:R02164",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Succinyl-CoA",
+      "target": "Succinate",
+      "reaction_id": "R00405",
+      "reaction_name": "rn:R00405 rn:R00432 rn:R00727 rn:R10343",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "2-Oxoglutarate",
+      "target": "Succinyl-CoA",
+      "reaction_id": "R08549",
+      "reaction_name": "rn:R08549 rn:R01197",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "2-Oxoglutarate",
+      "target": "Isocitrate",
+      "reaction_id": "R00267",
+      "reaction_name": "rn:R00267 rn:R00709",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Isocitrate",
+      "target": "cis-Aconitate",
+      "reaction_id": "R01900",
+      "reaction_name": "rn:R01900",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "cis-Aconitate",
+      "target": "Citrate",
+      "reaction_id": "R01325",
+      "reaction_name": "rn:R01325",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00118",
+      "target": "3-Phosphoglycerate",
+      "reaction_id": "R01058",
+      "reaction_name": "rn:R01058 rn:R07159 rn:R10860",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "2-Hydroxyethyl-ThPP",
+      "target": "Ethanal",
+      "reaction_id": "R00755",
+      "reaction_name": "rn:R00755",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Ethanal",
+      "target": "Acetate",
+      "reaction_id": "R00710",
+      "reaction_name": "rn:R00710 rn:R00711",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Ethanol",
+      "target": "Ethanal",
+      "reaction_id": "R00746",
+      "reaction_name": "rn:R00746 rn:R00754 rn:R05198 rn:R09127 rn:R09479",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "D-Gluconate",
+      "target": "C00345",
+      "reaction_id": "R01737",
+      "reaction_name": "rn:R01737",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "D-Gluconate",
+      "target": "C00204",
+      "reaction_id": "R01538",
+      "reaction_name": "rn:R01538",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C01218",
+      "target": "C00345",
+      "reaction_id": "R02032",
+      "reaction_name": "rn:R02032 rn:R02034",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C06473",
+      "target": "C01218",
+      "reaction_id": "R02658",
+      "reaction_name": "rn:R02658",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C06473",
+      "target": "D-Gluconate",
+      "reaction_id": "R01739",
+      "reaction_name": "rn:R01739 rn:R01741",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "D-Gluconate",
+      "target": "Gluconolactone",
+      "reaction_id": "R01519",
+      "reaction_name": "rn:R01519",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Gluconolactone",
+      "target": "Glucose",
+      "reaction_id": "R00305",
+      "reaction_name": "rn:R00305 rn:R06620 rn:R07147",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Gluconolactone",
+      "target": "beta-D-Glucose",
+      "reaction_id": "R01522",
+      "reaction_name": "rn:R01522",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00204",
+      "target": "D-Glyceraldehyde",
+      "reaction_id": "R08570",
+      "reaction_name": "rn:R08570",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Glycerate",
+      "target": "C00631",
+      "reaction_id": "R08572",
+      "reaction_name": "rn:R08572",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "D-Glyceraldehyde",
+      "target": "Glycerate",
+      "reaction_id": "R08571",
+      "reaction_name": "rn:R08571 rn:R10324 rn:R10615",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C04442",
+      "target": "C00204",
+      "reaction_id": "R01541",
+      "reaction_name": "rn:R01541",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C05345",
+      "target": "C01172",
+      "reaction_id": "R03321",
+      "reaction_name": "rn:R03321",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Isocitrate",
+      "target": "Citrate",
+      "reaction_id": "R01324",
+      "reaction_name": "rn:R01324",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "Acetate",
+      "target": "Acetyl-CoA",
+      "reaction_id": "R00229",
+      "reaction_name": "rn:R00229 rn:R00235",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00199",
+      "target": "C06019",
+      "reaction_id": "R05338",
+      "reaction_name": "rn:R05338",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C06019",
+      "target": "C05345",
+      "reaction_id": "R09780",
+      "reaction_name": "rn:R09780",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "C00236",
+      "target": "DPG",
+      "reaction_id": "R01662",
+      "reaction_name": "rn:R01662",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "DPG",
+      "target": "3-Phosphoglycerate",
+      "reaction_id": "R01516",
+      "reaction_name": "rn:R01516",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    },
+    {
+      "source": "DPG",
+      "target": "C00631",
+      "reaction_id": "R09532",
+      "reaction_name": "rn:R09532",
+      "reversible": false,
+      "subsystem": "Pentose Phosphate Metabolism"
+    }
+  ]
+}
