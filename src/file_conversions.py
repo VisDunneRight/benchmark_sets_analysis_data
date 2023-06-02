@@ -533,12 +533,12 @@ if __name__ == '__main__':
 	# read_investment()
 	# read_randdag()
 
-	direct = "../data/evolution/clean"
-	for fle in os.listdir(direct):
-		if os.path.splitext(fle)[1] == ".json":
-			with open(direct + "/" + fle) as fd1:
-				gr = json.load(fd1)
-			with open(direct + "/" + fle, 'w') as fd1:
-				json.dump(gr, fd1, indent=2)
+	# direct = "../data/investment interdependence/clean"
+	# for fle in os.listdir(direct):
+	# 	if os.path.splitext(fle)[1] == ".json":
+	# 		with open(direct + "/" + fle) as fd1:
+	# 			gr = json.load(fd1)
+	# 		with open(direct + "/" + fle, 'w') as fd1:
+	# 			json.dump(gr, fd1, indent=2)
 
 	exit()
