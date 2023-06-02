@@ -6,9 +6,9 @@ import os
 import re
 import shutil
 import xml.etree.ElementTree as ET
-from Bio import Phylo
-import newick
-import graphviz
+#from Bio import Phylo
+#import newick
+#import graphviz
 
 
 def read_storyline():
@@ -511,6 +511,23 @@ def read_investment():
 	with open("../data/investment interdependence/clean/investment_obstacles.json", 'w') as f:
 		json.dump(graph, f, indent=2)
 
+def read_california():
+	graph = {"nodes" : [], "links" : []}
+	link_seen = set()
+	with open("data\california\california.txt") as f:
+		for ln in f.readlines():
+			ln_lst = ln.split()
+			if ln_lst[0] == 'n':
+				graph["nodes"].append({"id": ln_lst[1], "url":ln_lst[2]})
+			elif ln_lst[0] == 'e':
+				link = (ln_lst[1], ln_lst[2])
+				if link not in link_seen:
+					link_seen.add(link)
+					graph["links"].append({"nodes": [ln_lst[1], ln_lst[2]]})
+                    
+	with open(f"data\california\clean\california.json", 'w') as f:
+		json.dump(graph, f, indent=2)
+
 
 if __name__ == '__main__':
 	# read_storyline()
@@ -532,6 +549,7 @@ if __name__ == '__main__':
 	# read_trade()
 	# read_investment()
 	# read_randdag()
+	# read_california()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
