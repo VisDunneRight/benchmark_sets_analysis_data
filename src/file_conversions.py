@@ -524,7 +524,7 @@ def read_california():
 				link = (ln_lst[1], ln_lst[2])
 				if link not in link_seen:
 					link_seen.add(link)
-					graph["links"].append({"nodes": [ln_lst[1], ln_lst[2]]})
+					graph["links"].append({"nodes": [ln_lst[1], ln_lst[2]],  "directed": False})
 	with open(f"data\california\clean\california.json", 'w') as f:
 		json.dump(graph, f, indent=2)
 
@@ -600,9 +600,9 @@ if __name__ == '__main__':
 	# read_trade()
 	# read_investment()
 	# read_randdag()
-	# read_california()
+	read_california()
 	# read_collaborations()
-	read_codecommits()
+	#read_codecommits()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
