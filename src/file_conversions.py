@@ -511,8 +511,9 @@ def read_investment():
 	with open("../data/investment interdependence/clean/investment_obstacles.json", 'w') as f:
 		json.dump(graph, f, indent=2)
 
+
 def read_california():
-	graph = {"nodes" : [], "links" : []}
+	graph = {"nodes": [], "links": []}
 	link_seen = set()
 	with open("data\california\california.txt") as f:
 		for ln in f.readlines():
@@ -524,9 +525,46 @@ def read_california():
 				if link not in link_seen:
 					link_seen.add(link)
 					graph["links"].append({"nodes": [ln_lst[1], ln_lst[2]]})
-                    
 	with open(f"data\california\clean\california.json", 'w') as f:
 		json.dump(graph, f, indent=2)
+
+
+def read_collaborations():
+	with open("../data/collaborations/IEEE VIS papers 1990-2021 - Main dataset.csv") as f:
+		rdr = csv.reader(f)
+		next(rdr)
+		auth_seen = set()
+		graph1 = {"nodes": [], "links": []}
+		graph2 = {"nodes": [], "links": []}
+		for ln in rdr:
+			auths = re.split(r'[;|,]', ln[10])
+			for i, auth in enumerate(auths):
+				if auth not in auth_seen:
+					graph1["nodes"].append({"id": auth})
+					auth_seen.add(auth)
+				for auth2 in auths[i+1:]:
+					graph1["links"].append({"nodes": [auth, auth2], "directed": False, "paper_title": ln[2], "DOI": ln[3], "conference": ln[0], "year": ln[1]})
+			cites = re.split(r'[;|,]', ln[12])
+			graph2["nodes"].append({"id": ln[3], "paper_title": ln[2], "conference": ln[0], "year": ln[1]})
+			if ln[12] != "":
+				for cite in cites:
+					graph2["links"].append({"nodes": [ln[3], cite], "directed": True})
+		with open("../data/collaborations/clean/collaboration_network.json", 'w') as fd:
+			json.dump(graph1, fd, indent=2)
+		with open("../data/collaborations/clean/citation_network.json", 'w') as fd:
+			json.dump(graph2, fd, indent=2)
+	with open("../data/collaborations/Cpan_edge.csv") as f:
+		rdr = csv.reader(f)
+		seen = set()
+		graph = {"nodes": [], "links": []}
+		for ln in rdr:
+			if int(ln[0]) not in seen:
+				graph["nodes"].append({"id": int(ln[0])})
+			if int(ln[1]) not in seen:
+				graph["nodes"].append({"id": int(ln[1])})
+			graph["links"].append({"nodes": [int(ln[0]), int(ln[1])], "directed": False})
+		with open("../data/collaborations/clean/cpan_perl_module_users.json", 'w') as fd:
+			json.dump(graph, fd, indent=2)
 
 
 if __name__ == '__main__':
@@ -550,6 +588,7 @@ if __name__ == '__main__':
 	# read_investment()
 	# read_randdag()
 	# read_california()
+	read_collaborations()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
