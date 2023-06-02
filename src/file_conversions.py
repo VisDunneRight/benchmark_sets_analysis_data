@@ -567,6 +567,19 @@ def read_collaborations():
 			json.dump(graph, fd, indent=2)
 
 
+def read_codecommits():
+	for cfile in os.listdir("../data/code/software"):
+		with open("../data/code/software/" + cfile) as f:
+			graph = {"nodes": [], "links": []}
+			gr = json.load(f)
+			for nd in gr["nodes"]:
+				graph["nodes"].append(nd)
+			for lk in gr["links"]:
+				graph["links"].append({"nodes": [lk["source"], lk["target"]], "directed": True})
+		with open("../data/code/clean/" + cfile, 'w') as fd:
+			json.dump(graph, fd, indent=2)
+
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -588,7 +601,8 @@ if __name__ == '__main__':
 	# read_investment()
 	# read_randdag()
 	# read_california()
-	read_collaborations()
+	# read_collaborations()
+	read_codecommits()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
