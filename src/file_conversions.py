@@ -579,6 +579,30 @@ def read_codecommits():
 		with open("../data/code/clean/" + cfile, 'w') as fd:
 			json.dump(graph, fd, indent=2)
 
+def read_pi():
+    seen_nodes = set() # nodes are proteins
+    
+    graph = {"nodes": [], "links": []}
+    with open("data\protein interactions\FriesCards.tsv") as f:
+        rdr = csv.reader(f, delimiter="\t")
+        next(rdr)
+        
+        for ln in rdr:
+            proteins = re.split(r';', ln[5])
+            for protein in proteins:
+                if protein not in seen_nodes:
+                    seen_nodes.add(protein)
+                    graph["nodes"].append({"id": protein})
+            
+            graph["links"].append({"nodes": [proteins[0], proteins[1]], 
+                              "year": ln[1], 
+                              "type": ln[2], 
+                              "publication title": ln[3], 
+                              "evidence": ln[4], 
+							  "directed": True}) 
+            
+    with open("data\protein interactions\clean\protein_interactions_publications.json", 'w') as f:
+        json.dump(graph, f, indent=2)    
 
 if __name__ == '__main__':
 	# read_storyline()
@@ -600,9 +624,10 @@ if __name__ == '__main__':
 	# read_trade()
 	# read_investment()
 	# read_randdag()
-	read_california()
+	# read_california()
 	# read_collaborations()
 	#read_codecommits()
+	read_pi()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
