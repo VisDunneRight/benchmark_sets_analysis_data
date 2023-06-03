@@ -668,8 +668,54 @@ def read_mooc(): #bipartite user - target
             
     with open(r"data\blogposts-tweets-forum\clean\MOOC\mooc.json", 'w') as f:
         json.dump(graph, f, indent=2)   
+	
+def read_tweets():
+    for gfile in os.listdir(r"data\blogposts-tweets-forum\tweets"):
+        if os.path.splitext(gfile)[1] == ".wdnet":
+            with open(r"data\blogposts-tweets-forum\tweets\\" + gfile) as f:
+                graph = {"nodes": [], "links": []}
+                nodes_seen = set()
+                rdr = csv.reader(f, delimiter=" ")
 
+                for ln in rdr:
+                    for i, elem in enumerate(ln[1:-1]): # elems consist of hashtags or user mentions 
+                        if elem not in nodes_seen:
+                            nodes_seen.add(elem)
+                            graph["nodes"].append({"id": elem})
+                            
+                        for elem2 in ln[i+2:-1]:
+                            graph["links"].append({
+                                            "nodes": [elem, elem2], 
+                                            "timestamp": ln[0],
+                                            "weight": ln[-1], 
+                                            "directed": False
+                                        })
 
+                with open(r"data\blogposts-tweets-forum\clean\tweets\\" + gfile.replace(".wdnet", ".json"), 'w') as f:
+                    json.dump(graph, f, indent=2)   
+            
+        with open(r"data\blogposts-tweets-forum\tweets\rugby tweets\pro12_mentions.csv",  encoding="utf-8") as f:
+            graph = {"nodes": [], "links": []}
+            nodes_seen = set()
+
+            rdr = csv.reader(f)
+            next(rdr)
+
+            for ln in rdr:
+                for user in [ln[1], ln[2]]:
+                    if user not in nodes_seen:
+                        nodes_seen.add(user)
+                        graph["nodes"].append({"id": user})
+
+                graph["links"].append({"nodes": [ln[1], ln[2]], 
+                                        "timestamp": ln[0],
+                                        "directed": True
+                                        })
+                
+        with open(r"data\blogposts-tweets-forum\clean\tweets\\pro12_mentions.json", 'w') as f:
+            json.dump(graph, f, indent=2)   
+               
+    
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -696,7 +742,8 @@ if __name__ == '__main__':
 	# read_pi()
 
 	# read_blogs() <-- Havent run having problems
-	read_mooc()
+	# read_mooc()
+	# read_tweets()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
