@@ -1,0 +1,90 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Marden"
+    },
+    {
+      "id": "ldt"
+    },
+    {
+      "id": "kg"
+    },
+    {
+      "id": "hg"
+    },
+    {
+      "id": "Cannon"
+    },
+    {
+      "id": "ggt"
+    },
+    {
+      "id": "Epstein"
+    },
+    {
+      "id": "Conway"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "Marden",
+      "target": "ldt"
+    },
+    {
+      "key": 0,
+      "source": "Marden",
+      "target": "kg"
+    },
+    {
+      "key": 0,
+      "source": "Marden",
+      "target": "hg"
+    },
+    {
+      "key": 0,
+      "source": "ldt",
+      "target": "Cannon"
+    },
+    {
+      "key": 0,
+      "source": "ldt",
+      "target": "Epstein"
+    },
+    {
+      "key": 0,
+      "source": "kg",
+      "target": "Cannon"
+    },
+    {
+      "key": 0,
+      "source": "kg",
+      "target": "Epstein"
+    },
+    {
+      "key": 0,
+      "source": "hg",
+      "target": "Epstein"
+    },
+    {
+      "key": 0,
+      "source": "Cannon",
+      "target": "ggt"
+    },
+    {
+      "key": 0,
+      "source": "ggt",
+      "target": "Epstein"
+    },
+    {
+      "key": 0,
+      "source": "ggt",
+      "target": "Conway"
+    }
+  ]
+}

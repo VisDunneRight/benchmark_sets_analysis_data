@@ -1,0 +1,46 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "x"
+    },
+    {
+      "id": "a0"
+    },
+    {
+      "id": "b0"
+    },
+    {
+      "id": "a1"
+    },
+    {
+      "id": "a3"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "x",
+      "target": "a0"
+    },
+    {
+      "key": 0,
+      "source": "x",
+      "target": "b0"
+    },
+    {
+      "key": 0,
+      "source": "a1",
+      "target": "a3"
+    },
+    {
+      "key": 0,
+      "source": "a3",
+      "target": "a0"
+    }
+  ]
+}

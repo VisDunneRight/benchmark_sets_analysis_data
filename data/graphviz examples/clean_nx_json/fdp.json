@@ -1,0 +1,38 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "e"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "D"
+    },
+    {
+      "id": "clusterB"
+    },
+    {
+      "id": "clusterC"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "e",
+      "target": "clusterB"
+    },
+    {
+      "key": 0,
+      "source": "d",
+      "target": "D"
+    },
+    {
+      "key": 0,
+      "source": "clusterB",
+      "target": "clusterC"
+    }
+  ]
+}

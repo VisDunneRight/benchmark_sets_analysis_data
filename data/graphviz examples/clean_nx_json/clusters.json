@@ -1,0 +1,69 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "shape": "Mdiamond",
+      "id": "start"
+    },
+    {
+      "shape": "Msquare",
+      "id": "end"
+    },
+    {
+      "id": "a0"
+    },
+    {
+      "id": "b0"
+    },
+    {
+      "id": "a1"
+    },
+    {
+      "id": "b3"
+    },
+    {
+      "id": "b2"
+    },
+    {
+      "id": "a3"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "start",
+      "target": "a0"
+    },
+    {
+      "key": 0,
+      "source": "start",
+      "target": "b0"
+    },
+    {
+      "key": 0,
+      "source": "a1",
+      "target": "b3"
+    },
+    {
+      "key": 0,
+      "source": "b3",
+      "target": "end"
+    },
+    {
+      "key": 0,
+      "source": "b2",
+      "target": "a3"
+    },
+    {
+      "key": 0,
+      "source": "a3",
+      "target": "a0"
+    },
+    {
+      "key": 0,
+      "source": "a3",
+      "target": "end"
+    }
+  ]
+}

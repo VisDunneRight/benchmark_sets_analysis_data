@@ -1,0 +1,58 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"Empty\"",
+      "id": "empty"
+    },
+    {
+      "label": "\"Stolen\"",
+      "id": "stolen"
+    },
+    {
+      "label": "\"Waiting\"",
+      "id": "waiting"
+    },
+    {
+      "label": "\"Full\"",
+      "id": "full"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"return\"",
+      "key": 0,
+      "source": "empty",
+      "target": "full"
+    },
+    {
+      "label": "\"dispatch\"",
+      "wt": "28",
+      "key": 0,
+      "source": "empty",
+      "target": "stolen"
+    },
+    {
+      "label": "\"return\"",
+      "key": 0,
+      "source": "stolen",
+      "target": "full"
+    },
+    {
+      "label": "\"touch\"",
+      "key": 0,
+      "source": "stolen",
+      "target": "waiting"
+    },
+    {
+      "label": "\"return\"",
+      "key": 0,
+      "source": "waiting",
+      "target": "full"
+    }
+  ]
+}

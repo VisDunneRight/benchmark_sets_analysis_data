@@ -1,0 +1,430 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Trapezium"
+    },
+    {
+      "id": "A"
+    },
+    {
+      "id": "B"
+    },
+    {
+      "id": "C"
+    },
+    {
+      "id": "D"
+    },
+    {
+      "id": "E"
+    },
+    {
+      "id": "F"
+    },
+    {
+      "id": "G"
+    },
+    {
+      "id": "H"
+    },
+    {
+      "id": "I"
+    },
+    {
+      "id": "J"
+    },
+    {
+      "id": "K"
+    },
+    {
+      "id": "L"
+    },
+    {
+      "id": "M"
+    },
+    {
+      "id": "N"
+    },
+    {
+      "id": "O"
+    },
+    {
+      "id": "P"
+    },
+    {
+      "id": "Q"
+    },
+    {
+      "id": "R"
+    },
+    {
+      "id": "S"
+    },
+    {
+      "id": "T"
+    },
+    {
+      "id": "U"
+    },
+    {
+      "id": "V"
+    },
+    {
+      "id": "W"
+    },
+    {
+      "id": "X"
+    },
+    {
+      "id": "Y"
+    },
+    {
+      "id": "Z"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "e"
+    },
+    {
+      "id": "f"
+    },
+    {
+      "id": "g"
+    },
+    {
+      "id": "h"
+    },
+    {
+      "id": "i"
+    },
+    {
+      "id": "j"
+    },
+    {
+      "id": "k"
+    },
+    {
+      "id": "l"
+    },
+    {
+      "id": "m"
+    },
+    {
+      "id": "n"
+    },
+    {
+      "id": "o"
+    },
+    {
+      "id": "p"
+    },
+    {
+      "id": "q"
+    },
+    {
+      "id": "r"
+    },
+    {
+      "id": "s"
+    },
+    {
+      "id": "t"
+    },
+    {
+      "id": "u"
+    },
+    {
+      "id": "v"
+    },
+    {
+      "id": "w"
+    },
+    {
+      "id": "x"
+    },
+    {
+      "id": "y"
+    },
+    {
+      "id": "z"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "A"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "B"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "C"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "D"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "E"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "F"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "G"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "H"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "I"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "J"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "K"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "L"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "M"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "N"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "O"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "P"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "Q"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "R"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "S"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "T"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "U"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "V"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "W"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "X"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "Y"
+    },
+    {
+      "key": 0,
+      "source": "Trapezium",
+      "target": "Z"
+    },
+    {
+      "key": 0,
+      "source": "a",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "b",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "c",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "d",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "e",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "f",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "g",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "h",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "i",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "j",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "k",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "l",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "m",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "n",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "o",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "p",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "q",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "r",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "s",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "t",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "u",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "v",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "w",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "x",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "y",
+      "target": "Trapezium"
+    },
+    {
+      "key": 0,
+      "source": "z",
+      "target": "Trapezium"
+    }
+  ]
+}

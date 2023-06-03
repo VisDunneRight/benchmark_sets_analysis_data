@@ -1,0 +1,167 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "run"
+    },
+    {
+      "id": "intr"
+    },
+    {
+      "id": "runbl"
+    },
+    {
+      "id": "kernel"
+    },
+    {
+      "id": "zombie"
+    },
+    {
+      "id": "sleep"
+    },
+    {
+      "id": "runmem"
+    },
+    {
+      "id": "swap"
+    },
+    {
+      "id": "runswap"
+    },
+    {
+      "id": "new"
+    },
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "4"
+    },
+    {
+      "id": "5"
+    },
+    {
+      "id": "6"
+    },
+    {
+      "id": "7"
+    },
+    {
+      "id": "8"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "run",
+      "target": "intr"
+    },
+    {
+      "key": 0,
+      "source": "run",
+      "target": "runbl"
+    },
+    {
+      "key": 0,
+      "source": "run",
+      "target": "kernel"
+    },
+    {
+      "key": 0,
+      "source": "intr",
+      "target": "runbl"
+    },
+    {
+      "key": 0,
+      "source": "kernel",
+      "target": "zombie"
+    },
+    {
+      "key": 0,
+      "source": "kernel",
+      "target": "sleep"
+    },
+    {
+      "key": 0,
+      "source": "kernel",
+      "target": "runmem"
+    },
+    {
+      "key": 0,
+      "source": "zombie",
+      "target": "1"
+    },
+    {
+      "key": 0,
+      "source": "zombie",
+      "target": "8"
+    },
+    {
+      "key": 0,
+      "source": "sleep",
+      "target": "swap"
+    },
+    {
+      "key": 0,
+      "source": "sleep",
+      "target": "runmem"
+    },
+    {
+      "key": 0,
+      "source": "runmem",
+      "target": "runswap"
+    },
+    {
+      "key": 0,
+      "source": "runmem",
+      "target": "new"
+    },
+    {
+      "key": 0,
+      "source": "swap",
+      "target": "runswap"
+    },
+    {
+      "key": 0,
+      "source": "runswap",
+      "target": "new"
+    },
+    {
+      "key": 0,
+      "source": "1",
+      "target": "2"
+    },
+    {
+      "key": 0,
+      "source": "2",
+      "target": "4"
+    },
+    {
+      "key": 0,
+      "source": "4",
+      "target": "5"
+    },
+    {
+      "key": 0,
+      "source": "5",
+      "target": "6"
+    },
+    {
+      "key": 0,
+      "source": "6",
+      "target": "7"
+    },
+    {
+      "key": 0,
+      "source": "7",
+      "target": "8"
+    }
+  ]
+}

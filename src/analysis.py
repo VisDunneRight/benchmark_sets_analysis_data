@@ -1,6 +1,7 @@
 import json
 import os
 import altair as alt
+import networkx as nx
 
 
 def read_json(path_to_file):
@@ -68,12 +69,12 @@ def collection_distributions_4in1(path_to_folder):
 	base = alt.Chart().mark_bar().encode()
 	chart = alt.vconcat(data=alt.Data(values=data))
 	r1 = alt.hconcat()
-	r1 |= base.encode(x=alt.X(f"Node Count:Q").bin(), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0F7B6C"))
-	r1 |= base.encode(x=alt.X(f"Edge Count:Q").bin(), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0B6E99"))
+	r1 |= base.encode(x=alt.X(f"Node Count:Q").bin(minstep=1), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0F7B6C"))
+	r1 |= base.encode(x=alt.X(f"Edge Count:Q").bin(minstep=1), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0B6E99"))
 	chart &= r1
 	r2 = alt.hconcat()
 	r2 |= base.encode(x=alt.X(f"Mean Degree:Q").bin(), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#AD1A72"))
-	r2 |= base.encode(x=alt.X(f"Maximum Degree:Q").bin(), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#6940A5"))
+	r2 |= base.encode(x=alt.X(f"Maximum Degree:Q").bin(minstep=1), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#6940A5"))
 	chart &= r2
 	chart.save(path_to_folder + "/charts/four_in_one.svg", embed_options={'renderer': 'svg'})
 
@@ -90,22 +91,91 @@ def construct_adjacency(json_graph):
 	return adj_list
 
 
-def single_graph_charts(path_to_folder):
+def single_graph_charts(path_to_folder, binned=True):
 	fpath = path_to_folder + "/clean"
-	data = []
+	if "charts" not in os.listdir(path_to_folder):
+		os.mkdir(path_to_folder + "/charts")
 	for gfile in os.listdir(fpath):
 		if os.path.splitext(gfile)[1] == ".json":
-			comp_sizes = []
+			data = []
 			gr = read_json(fpath + "/" + gfile)
 			adj = construct_adjacency(gr)
+			search_start = 0
 			seen_nds = set()
 			while len(seen_nds) != len(gr["nodes"]):
-				dfsq = [gr["nodes"][0]["id"]]
+				compsize = 1
+				i = search_start
+				while gr["nodes"][i]["id"] in seen_nds:
+					i += 1
+				search_start = i
+				dfsq = [gr["nodes"][i]["id"]]
+				seen_nds.add(gr["nodes"][i]["id"])
 				while dfsq:
-					nd_next = 
+					nd_next = dfsq.pop()
+					for nd_adj in adj[nd_next]:
+						if nd_adj not in seen_nds:
+							seen_nds.add(nd_adj)
+							dfsq.append(nd_adj)
+							compsize += 1
+				data.append({"Component Size": compsize, "Node Degree": -1})
+			for nd in gr["nodes"]:
+				data.append({"Component Size": -1, "Node Degree": len(adj[nd["id"]])})
+			if binned:
+				base = alt.Chart().mark_bar().encode()
+				chart = alt.hconcat(data=alt.Data(values=data))
+				chart |= base.encode(x=alt.X(f"Component Size:Q").bin(minstep=1), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0F7B6C")).transform_filter(alt.FieldEqualPredicate(field='Node Degree', equal=-1))
+				chart |= base.encode(x=alt.X(f"Node Degree:Q").bin(minstep=1), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0B6E99")).transform_filter(alt.FieldEqualPredicate(field='Component Size', equal=-1))
+			else:
+				base = alt.Chart().mark_bar(size=20).encode()
+				chart = alt.hconcat(data=alt.Data(values=data))
+				chart |= base.encode(x=alt.X(f"Component Size:Q"), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0F7B6C")).transform_filter(alt.FieldEqualPredicate(field='Node Degree', equal=-1))
+				chart |= base.encode(x=alt.X(f"Node Degree:Q"), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0B6E99")).transform_filter(alt.FieldEqualPredicate(field='Component Size', equal=-1))
+			chart.save(path_to_folder + "/charts/two_in_one.svg", embed_options={'renderer': 'svg'})
 
+
+def convert_all_nonmultigraph_to_nx_json(path_to_folder):
+	for cfile in os.listdir(path_to_folder + "/clean"):
+		if os.path.splitext(cfile)[1] == ".json":
+			with open(path_to_folder + "/clean/" + cfile) as fdesc:
+				gr = json.load(fdesc)
+			new_g = {"multigraph": False, "directed": True, "nodes": gr["nodes"], "links": []}
+			all_dir = True
+			all_undir = True
+			for link in gr["links"]:
+				new_lk = {}
+				for k, v in link.items():
+					if k == "nodes":
+						new_lk["source"] = v[0]
+						new_lk["target"] = v[1]
+					elif k == "directed":
+						if v:
+							all_undir = False
+						else:
+							all_dir = False
+					else:
+						new_lk[k] = v
+				new_g["links"].append(new_lk)
+			if all_dir:
+				new_g["directed"] = True
+			elif all_undir:
+				new_g["directed"] = False
+			else:
+				print(f"{path_to_folder} both dir/undir edges")
+			if "clean_nx_json" not in os.listdir(path_to_folder):
+				os.mkdir(path_to_folder + "/clean_nx_json")
+			with open(path_to_folder + "/clean_nx_json/" + cfile, 'w') as fdesc:
+				json.dump(new_g, fdesc, indent=2)
 
 
 if __name__ == '__main__':
-	collection = "../data/rome"
-	collection_distributions_4in1(collection)
+	collection = "../data/KEGG pathways"
+	# collection_distributions_4in1(collection)
+	# single_graph_charts(collection, binned=False)
+	convert_all_nonmultigraph_to_nx_json(collection)
+
+	# with open("../data/investment interdependence/clean_nx_json/investment_obstacles.json") as fds:
+	# 	grz = json.load(fds)
+	# gr = nx.node_link_graph(grz)
+	# print(gr.nodes(data=True))
+	# print(gr.edges(data=True))
+	# print(gr.nodes[1]["obstacle_name"])

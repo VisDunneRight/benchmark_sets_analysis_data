@@ -1,0 +1,591 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "2-Oxoarginine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxopropanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Phosphonopyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Sulfinoalanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Anserine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00669",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01110",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03167",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03170",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03740",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05674",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05675",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05676",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05730",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06459",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CMPciliatine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Carnosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ciliatine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cys-Gly",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cysteamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Ala",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Ala-D-Ala",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Arginine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Glutamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Glutamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Ornithine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ethanal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GSH",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glutamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gly",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "HCN",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hypotaurine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Isethionate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-3-Cyanoalanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Alanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Arg",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Asp",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Asparagine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Cysteate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Cysteine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Selenocysteine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PEP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pidolic_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Selenide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Selenophosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Spermidine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sulfoacetaldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Taurine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Trypanothione",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "beta-Alanine",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "source": "L-Cysteine",
+      "target": "C00669",
+      "reaction_id": "R00894",
+      "reaction_name": "rn:R00894",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "C00669",
+      "target": "GSH",
+      "reaction_id": "R00497",
+      "reaction_name": "rn:R00497",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "GSH",
+      "target": "Cys-Gly",
+      "reaction_id": "R00494",
+      "reaction_name": "rn:R00494",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Cys-Gly",
+      "target": "L-Cysteine",
+      "reaction_id": "R00899",
+      "reaction_name": "rn:R00899",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "D-Ala",
+      "target": "Pyruvate",
+      "reaction_id": "R01148",
+      "reaction_name": "rn:R01148",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "L-Alanine",
+      "target": "D-Ala",
+      "reaction_id": "R00401",
+      "reaction_name": "rn:R00401",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "D-Glutamate",
+      "target": "D-Glutamine",
+      "reaction_id": "R01579",
+      "reaction_name": "rn:R01579",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Glutamate",
+      "target": "D-Glutamate",
+      "reaction_id": "R00260",
+      "reaction_name": "rn:R00260",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "L-Selenocysteine",
+      "target": "Selenide",
+      "reaction_id": "R03599",
+      "reaction_name": "rn:R03599",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Selenide",
+      "target": "Selenophosphate",
+      "reaction_id": "R03595",
+      "reaction_name": "rn:R03595",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "PEP",
+      "target": "3-Phosphonopyruvate",
+      "reaction_id": "R00661",
+      "reaction_name": "rn:R00661",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "3-Phosphonopyruvate",
+      "target": "C03167",
+      "reaction_id": "R04053",
+      "reaction_name": "rn:R04053",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Ciliatine",
+      "target": "C03167",
+      "reaction_id": "R04152",
+      "reaction_name": "rn:R04152",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Ciliatine",
+      "target": "CMPciliatine",
+      "reaction_id": "R04247",
+      "reaction_name": "rn:R04247",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "CMPciliatine",
+      "target": "C05675",
+      "reaction_id": "R04920",
+      "reaction_name": "rn:R04920",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "3-Sulfinoalanine",
+      "target": "Hypotaurine",
+      "reaction_id": "R02466",
+      "reaction_name": "rn:R02466",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Cysteamine",
+      "target": "Hypotaurine",
+      "reaction_id": "R02467",
+      "reaction_name": "rn:R02467",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Taurine",
+      "target": "Sulfoacetaldehyde",
+      "reaction_id": "R05652",
+      "reaction_name": "rn:R05652",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "3-Oxopropanoate",
+      "target": "beta-Alanine",
+      "reaction_id": "R00907",
+      "reaction_name": "rn:R00907 rn:R00908",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "L-Asparagine",
+      "target": "L-3-Cyanoalanine",
+      "reaction_id": "R01267",
+      "reaction_name": "rn:R01267",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Taurine",
+      "target": "L-Cysteate",
+      "reaction_id": "R01682",
+      "reaction_name": "rn:R01682",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Anserine",
+      "target": "beta-Alanine",
+      "reaction_id": "R03288",
+      "reaction_name": "rn:R03288",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "beta-Alanine",
+      "target": "Carnosine",
+      "reaction_id": "R01166",
+      "reaction_name": "rn:R01166",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Ethanal",
+      "target": "C03167",
+      "reaction_id": "R00747",
+      "reaction_name": "rn:R00747",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "C05730",
+      "target": "GSH",
+      "reaction_id": "R01917",
+      "reaction_name": "rn:R01917 rn:R01918",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "C05730",
+      "target": "Trypanothione",
+      "reaction_id": "R03822",
+      "reaction_name": "rn:R03822 rn:R08350",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "C03170",
+      "target": "Trypanothione",
+      "reaction_id": "R03821",
+      "reaction_name": "rn:R03821 rn:R08362 rn:R08364",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Sulfoacetaldehyde",
+      "target": "Isethionate",
+      "reaction_id": "R02600",
+      "reaction_name": "rn:R02600",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "D-Ala",
+      "target": "D-Ala-D-Ala",
+      "reaction_id": "R01150",
+      "reaction_name": "rn:R01150",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "D-Ornithine",
+      "target": "C01110",
+      "reaction_id": "R02457",
+      "reaction_name": "rn:R02457 rn:R02459",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "L-3-Cyanoalanine",
+      "target": "L-Asp",
+      "reaction_id": "R00486",
+      "reaction_name": "rn:R00486",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "L-Cysteine",
+      "target": "L-3-Cyanoalanine",
+      "reaction_id": "R03524",
+      "reaction_name": "rn:R03524",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "D-Arginine",
+      "target": "2-Oxoarginine",
+      "reaction_id": "R02923",
+      "reaction_name": "rn:R02923 rn:R02924 rn:R11018",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "2-Oxoarginine",
+      "target": "L-Arg",
+      "reaction_id": "R11031",
+      "reaction_name": "rn:R11031 rn:R11032",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "C06459",
+      "target": "C05674",
+      "reaction_id": "R02590",
+      "reaction_name": "rn:R02590",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "C05674",
+      "target": "C05676",
+      "reaction_id": "R04922",
+      "reaction_name": "rn:R04922",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "GSH",
+      "target": "C03740",
+      "reaction_id": "R01262",
+      "reaction_name": "rn:R01262",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "C03740",
+      "target": "Pidolic_acid",
+      "reaction_id": "R03749",
+      "reaction_name": "rn:R03749",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "Pidolic_acid",
+      "target": "Glutamate",
+      "reaction_id": "R00251",
+      "reaction_name": "rn:R00251",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "C00669",
+      "target": "L-Cysteine",
+      "reaction_id": "R02743",
+      "reaction_name": "rn:R02743",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    },
+    {
+      "source": "GSH",
+      "target": "Cys-Gly",
+      "reaction_id": "R11861",
+      "reaction_name": "rn:R11861",
+      "reversible": false,
+      "subsystem": "Metabolism of Other Amino Acid"
+    }
+  ]
+}

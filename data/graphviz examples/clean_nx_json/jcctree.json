@@ -1,0 +1,182 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "DEF",
+      "id": "DEF1"
+    },
+    {
+      "label": "DEF",
+      "id": "DEF2"
+    },
+    {
+      "label": "SET",
+      "id": "SET1"
+    },
+    {
+      "label": "\";\"",
+      "id": "SC1"
+    },
+    {
+      "label": "\";\"",
+      "id": "SC3"
+    },
+    {
+      "label": "SET",
+      "id": "SET2"
+    },
+    {
+      "label": "\";\"",
+      "id": "SC2"
+    },
+    {
+      "label": "\"{\"",
+      "id": "OPEN1"
+    },
+    {
+      "label": "\"{\"",
+      "id": "OPEN2"
+    },
+    {
+      "label": "\"}\"",
+      "id": "CLOSE1"
+    },
+    {
+      "label": "\"}\"",
+      "id": "CLOSE2"
+    },
+    {
+      "label": "ELEMENT",
+      "id": "ELEM1"
+    },
+    {
+      "label": "ELEMENT",
+      "id": "ELEM2"
+    },
+    {
+      "label": "ELEMENT",
+      "id": "ELEM3"
+    },
+    {
+      "label": "cities",
+      "id": "ID1"
+    },
+    {
+      "label": "insects",
+      "id": "ID2"
+    },
+    {
+      "label": "andover",
+      "id": "ID3"
+    },
+    {
+      "label": "boston",
+      "id": "ID4"
+    },
+    {
+      "label": "fly",
+      "id": "ID5"
+    },
+    {
+      "id": "SPEC"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "DEF1",
+      "target": "ID1"
+    },
+    {
+      "key": 0,
+      "source": "DEF1",
+      "target": "SET1"
+    },
+    {
+      "key": 0,
+      "source": "DEF1",
+      "target": "SC1"
+    },
+    {
+      "key": 0,
+      "source": "DEF2",
+      "target": "ID2"
+    },
+    {
+      "key": 0,
+      "source": "DEF2",
+      "target": "SET2"
+    },
+    {
+      "key": 0,
+      "source": "DEF2",
+      "target": "SC2"
+    },
+    {
+      "key": 0,
+      "source": "SET1",
+      "target": "OPEN1"
+    },
+    {
+      "key": 0,
+      "source": "SET1",
+      "target": "ELEM1"
+    },
+    {
+      "key": 0,
+      "source": "SET1",
+      "target": "SC3"
+    },
+    {
+      "key": 0,
+      "source": "SET1",
+      "target": "ELEM2"
+    },
+    {
+      "key": 0,
+      "source": "SET1",
+      "target": "CLOSE1"
+    },
+    {
+      "key": 0,
+      "source": "SET2",
+      "target": "OPEN2"
+    },
+    {
+      "key": 0,
+      "source": "SET2",
+      "target": "ELEM3"
+    },
+    {
+      "key": 0,
+      "source": "SET2",
+      "target": "CLOSE2"
+    },
+    {
+      "key": 0,
+      "source": "ELEM1",
+      "target": "ID3"
+    },
+    {
+      "key": 0,
+      "source": "ELEM2",
+      "target": "ID4"
+    },
+    {
+      "key": 0,
+      "source": "ELEM3",
+      "target": "ID5"
+    },
+    {
+      "key": 0,
+      "source": "SPEC",
+      "target": "DEF2"
+    },
+    {
+      "key": 0,
+      "source": "SPEC",
+      "target": "DEF1"
+    }
+  ]
+}

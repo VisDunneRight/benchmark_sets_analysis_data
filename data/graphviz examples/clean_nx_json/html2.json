@@ -1,0 +1,51 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "<\n<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n  <TR><TD ROWSPAN=\"3\" BGCOLOR=\"yellow\">class</TD></TR>\n  <TR><TD PORT=\"here\" BGCOLOR=\"lightblue\">qualifier</TD></TR>\n</TABLE>>",
+      "id": "a"
+    },
+    {
+      "shape": "ellipse",
+      "style": "filled",
+      "href": "\"http://www.graphviz.org/content/node-shapes\"",
+      "label": "<\n<TABLE BGCOLOR=\"bisque\" href=\"http://www.graphviz.org/content/node-shapes#html\">\n  <TR><TD COLSPAN=\"3\" BGCOLOR=\"bisque\" href=\"http://go/wiki/Elephant\">elephant</TD> \n      <TD ROWSPAN=\"2\" BGCOLOR=\"chartreuse\" \n          VALIGN=\"bottom\" ALIGN=\"right\">two</TD> </TR>\n  <TR><TD COLSPAN=\"2\" ROWSPAN=\"2\">\n        <TABLE BGCOLOR=\"grey\" href=\"http://go/wiki/Grey\">\n          <TR> <TD href=\"http://go/wiki/Sweet_corn\">corn</TD> </TR> \n          <TR> <TD BGCOLOR=\"yellow\">c</TD> </TR> \n          <TR> <TD href=\"http://go/wiki/F\">f</TD> </TR> \n        </TABLE> </TD>\n      <TD BGCOLOR=\"white\">penguin</TD> \n  </TR> \n  <TR> <TD COLSPAN=\"2\" BORDER=\"4\" ALIGN=\"right\" PORT=\"there\">4</TD> </TR>\n</TABLE>>",
+      "id": "b"
+    },
+    {
+      "label": "<long line 1<BR/>line 2<BR ALIGN=\"LEFT\"/>line 3<BR ALIGN=\"RIGHT\"/>>",
+      "id": "c"
+    },
+    {
+      "shape": "triangle",
+      "id": "d"
+    },
+    {
+      "id": "a:here"
+    },
+    {
+      "id": "b:there"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "c",
+      "target": "b"
+    },
+    {
+      "label": "<\n<TABLE>\n  <TR><TD BGCOLOR=\"red\" WIDTH=\"10\"> </TD>\n      <TD>Edge labels<BR/>also</TD>\n      <TD BGCOLOR=\"blue\" WIDTH=\"10\"> </TD>\n  </TR>\n</TABLE>>",
+      "key": 0,
+      "source": "d",
+      "target": "c"
+    },
+    {
+      "dir": "both",
+      "arrowtail": "diamond",
+      "key": 0,
+      "source": "a:here",
+      "target": "b:there"
+    }
+  ]
+}

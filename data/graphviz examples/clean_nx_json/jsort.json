@@ -1,0 +1,761 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "color": "\"0.000 1.000 1.000\"",
+      "id": "cmpa"
+    },
+    {
+      "color": "\"0.201 0.753 1.000\"",
+      "id": "wline"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "insert"
+    },
+    {
+      "color": "\"0.355 0.563 1.000\"",
+      "id": "rline"
+    },
+    {
+      "color": "\"0.408 0.498 1.000\"",
+      "id": "sort"
+    },
+    {
+      "color": "\"0.449 0.447 1.000\"",
+      "id": "qsort"
+    },
+    {
+      "color": "\"0.499 0.386 1.000\"",
+      "id": "write"
+    },
+    {
+      "color": "\"0.578 0.289 1.000\"",
+      "id": "read"
+    },
+    {
+      "color": "\"0.590 0.273 1.000\"",
+      "id": "msort"
+    },
+    {
+      "color": "\"0.603 0.258 1.000\"",
+      "id": "merge"
+    },
+    {
+      "color": "\"0.628 0.227 1.000\"",
+      "id": "unlink"
+    },
+    {
+      "color": "\"0.641 0.212 1.000\"",
+      "id": "filbuf"
+    },
+    {
+      "color": "\"0.641 0.212 1.000\"",
+      "id": "open"
+    },
+    {
+      "color": "\"0.647 0.204 1.000\"",
+      "id": "sbrk"
+    },
+    {
+      "color": "\"0.647 0.204 1.000\"",
+      "id": "signal"
+    },
+    {
+      "color": "\"0.647 0.204 1.000\"",
+      "id": "moncontrol"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "xflsbuf"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "flsbuf"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "div"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "cmpsave"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "rem"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "setfil"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "close"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "fclose"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "fflush"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "setbuf"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "endopen"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "findiop"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "fopen"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "mul"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "newfile"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "sigblock"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "sigsetmask"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "sigvec"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "udiv"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "urem"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "brk"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "getfreehdr"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "strlen"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "umul"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "doprnt"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "copyproto"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "creat"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "demote"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "exit"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "free"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "getpagesize"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "getpid"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "initree"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "localeconv"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "main"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "malloc"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "morecore"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "oldfile"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "on_exit"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "profil"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "putfreehdr"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "safeoutfil"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "sprintf"
+    },
+    {
+      "color": "\"0.650 0.200 1.000\"",
+      "id": "term"
+    },
+    {
+      "id": "start"
+    }
+  ],
+  "links": [
+    {
+      "color": "\"0.649 0.700 0.700\"",
+      "key": 0,
+      "source": "wline",
+      "target": "flsbuf"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "insert",
+      "target": "cmpa"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "insert",
+      "target": "getfreehdr"
+    },
+    {
+      "color": "\"0.649 0.700 0.700\"",
+      "key": 0,
+      "source": "rline",
+      "target": "filbuf"
+    },
+    {
+      "color": "\"0.619 0.714 0.714\"",
+      "key": 0,
+      "source": "sort",
+      "target": "msort"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "sort",
+      "target": "filbuf"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "sort",
+      "target": "newfile"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "sort",
+      "target": "fclose"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "sort",
+      "target": "setbuf"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "sort",
+      "target": "setfil"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "qsort",
+      "target": "cmpa"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "msort",
+      "target": "qsort"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "msort",
+      "target": "insert"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "msort",
+      "target": "wline"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "msort",
+      "target": "div"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "msort",
+      "target": "cmpsave"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "merge",
+      "target": "insert"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "merge",
+      "target": "rline"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "merge",
+      "target": "wline"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "merge",
+      "target": "unlink"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "merge",
+      "target": "fopen"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "merge",
+      "target": "fclose"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "merge",
+      "target": "setfil"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "merge",
+      "target": "mul"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "merge",
+      "target": "setbuf"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "merge",
+      "target": "cmpsave"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "filbuf",
+      "target": "read"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "signal",
+      "target": "sigvec"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "moncontrol",
+      "target": "profil"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "xflsbuf",
+      "target": "write"
+    },
+    {
+      "color": "\"0.649 0.700 0.700\"",
+      "key": 0,
+      "source": "flsbuf",
+      "target": "xflsbuf"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "setfil",
+      "target": "div"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "setfil",
+      "target": "rem"
+    },
+    {
+      "color": "\"0.642 0.704 0.704\"",
+      "key": 0,
+      "source": "fclose",
+      "target": "fflush"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "fclose",
+      "target": "close"
+    },
+    {
+      "color": "\"0.635 0.707 0.707\"",
+      "key": 0,
+      "source": "fflush",
+      "target": "xflsbuf"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "endopen",
+      "target": "open"
+    },
+    {
+      "color": "\"0.639 0.705 0.705\"",
+      "key": 0,
+      "source": "fopen",
+      "target": "endopen"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "fopen",
+      "target": "findiop"
+    },
+    {
+      "color": "\"0.634 0.707 0.707\"",
+      "key": 0,
+      "source": "newfile",
+      "target": "fopen"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "newfile",
+      "target": "setfil"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "sigvec",
+      "target": "sigblock"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "sigvec",
+      "target": "sigsetmask"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "getfreehdr",
+      "target": "sbrk"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "doprnt",
+      "target": "urem"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "doprnt",
+      "target": "udiv"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "doprnt",
+      "target": "strlen"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "doprnt",
+      "target": "localeconv"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "free",
+      "target": "insert"
+    },
+    {
+      "color": "\"0.348 0.839 0.839\"",
+      "key": 0,
+      "source": "main",
+      "target": "sort"
+    },
+    {
+      "color": "\"0.515 0.762 0.762\"",
+      "key": 0,
+      "source": "main",
+      "target": "merge"
+    },
+    {
+      "color": "\"0.647 0.702 0.702\"",
+      "key": 0,
+      "source": "main",
+      "target": "term"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "signal"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "sbrk"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "unlink"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "newfile"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "fclose"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "close"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "brk"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "setbuf"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "copyproto"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "initree"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "safeoutfil"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "getpid"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "sprintf"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "creat"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "rem"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "main",
+      "target": "oldfile"
+    },
+    {
+      "color": "\"0.325 0.850 0.850\"",
+      "key": 0,
+      "source": "malloc",
+      "target": "morecore"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "malloc",
+      "target": "demote"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "morecore",
+      "target": "sbrk"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "morecore",
+      "target": "getfreehdr"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "morecore",
+      "target": "free"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "morecore",
+      "target": "getpagesize"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "morecore",
+      "target": "putfreehdr"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "morecore",
+      "target": "udiv"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "morecore",
+      "target": "umul"
+    },
+    {
+      "color": "\"0.325 0.850 0.850\"",
+      "key": 0,
+      "source": "on_exit",
+      "target": "malloc"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "sprintf",
+      "target": "doprnt"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "term",
+      "target": "unlink"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "term",
+      "target": "signal"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "term",
+      "target": "setfil"
+    },
+    {
+      "color": "\"0.650 0.700 0.700\"",
+      "key": 0,
+      "source": "term",
+      "target": "exit"
+    },
+    {
+      "color": "\"0.002 0.999 0.999\"",
+      "key": 0,
+      "source": "start",
+      "target": "main"
+    },
+    {
+      "color": "\"0.649 0.701 0.701\"",
+      "key": 0,
+      "source": "start",
+      "target": "on_exit"
+    }
+  ]
+}

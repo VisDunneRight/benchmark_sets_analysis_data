@@ -1,0 +1,131 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "Hef1a"
+    },
+    {
+      "id": "TRE"
+    },
+    {
+      "id": "UAS"
+    },
+    {
+      "label": "\"Hef1a-LacOid\"",
+      "id": "Hef1aLacOid"
+    },
+    {
+      "label": "\"Gal4-VP16\"",
+      "id": "Gal4VP16"
+    },
+    {
+      "id": "LacI"
+    },
+    {
+      "id": "rtTA3"
+    },
+    {
+      "id": "DeltamCherry"
+    },
+    {
+      "shape": "oval",
+      "style": "filled",
+      "colorscheme": "rdbu5",
+      "color": "2",
+      "label": "\"\"",
+      "id": "product"
+    },
+    {
+      "shape": "oval",
+      "label": "\"LacI repression\"",
+      "fontcolor": "black",
+      "style": "dotted",
+      "id": "repression"
+    },
+    {
+      "label": "\"rtTA3 + Doxycycline\"",
+      "id": "combination"
+    },
+    {
+      "label": "\"LacI\"",
+      "id": "LacIprotein"
+    },
+    {
+      "label": "\"rtTA3\"",
+      "id": "rtTA3protein"
+    },
+    {
+      "label": "\"Gal4-VP16\"",
+      "id": "Gal4VP16protein"
+    },
+    {
+      "id": "\\n\t\\n\t\\n\t\t\\n"
+    },
+    {
+      "id": "IPTG"
+    },
+    {
+      "id": "Doxycycline"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "Gal4VP16",
+      "target": "Gal4VP16protein"
+    },
+    {
+      "key": 0,
+      "source": "LacI",
+      "target": "LacIprotein"
+    },
+    {
+      "key": 0,
+      "source": "rtTA3",
+      "target": "rtTA3protein"
+    },
+    {
+      "key": 0,
+      "source": "DeltamCherry",
+      "target": "product"
+    },
+    {
+      "arrowhead": "tee",
+      "key": 0,
+      "source": "repression",
+      "target": "Hef1aLacOid"
+    },
+    {
+      "key": 0,
+      "source": "combination",
+      "target": "TRE"
+    },
+    {
+      "key": 0,
+      "source": "LacIprotein",
+      "target": "repression"
+    },
+    {
+      "key": 0,
+      "source": "rtTA3protein",
+      "target": "combination"
+    },
+    {
+      "key": 0,
+      "source": "Gal4VP16protein",
+      "target": "UAS"
+    },
+    {
+      "arrowhead": "tee",
+      "key": 0,
+      "source": "IPTG",
+      "target": "repression"
+    },
+    {
+      "key": 0,
+      "source": "Doxycycline",
+      "target": "combination"
+    }
+  ]
+}

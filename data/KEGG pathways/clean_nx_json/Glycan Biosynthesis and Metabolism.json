@@ -1,0 +1,2907 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "1,4-beta-D-Xylan",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "10-Formyl-THF",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2,5-Dioxopentanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Inosose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Phosphoglycolate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Dehydro-L-gulonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Oxopropanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Phosphoglycerate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Hydroxybutanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Hydroxybutyryl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Oxobutanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "5,10-Methylene-THF",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "ADP-glucose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetyl_phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acrylyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Amylose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ascorbate_radical",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Bios_I",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Butanoylphosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Butyrate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Butyryl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00043",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00118",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00128",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00199",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00203",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00204",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00231",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00275",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00352",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00357",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00445",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00446",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00636",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00645",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00679",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00684",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00689",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01094",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01097",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01101",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01113",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01115",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01146",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01170",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01182",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01216",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01220",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01222",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01243",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01272",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01277",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01284",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01286",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03289",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03291",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03383",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03618",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03785",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03906",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04063",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04257",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04287",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04477",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04501",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04549",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04631",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04637",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05345",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05385",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05668",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06156",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06241",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06311",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06400",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C11554",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C14899",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15926",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16156",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16157",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16186",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16737",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20237",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20680",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C21027",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CDP-glucose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CDP-ribitol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cellobiose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cellodextrin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cellulose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chitin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chitobiose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chitosamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chitosan",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cori_ester",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Crotonyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Altronate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Fructuronate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Galactonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Galactose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Galacturonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Glucosaminide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Glyceraldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Lyxitol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Lyxulose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Mannonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Methylmalonyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Ribulose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Tagaturonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Xylose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DKH",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DKHP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dehydroascorbate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dextrin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Digalacturonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dulcose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ethanal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Formate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Formyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GDP-L-fucose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GDP-L-galactose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GDP-mannose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GlcNAc",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glucarate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glucose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glucuronate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glucurone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glucuronide",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glutamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glycerate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glycerin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glycerone_phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glycolate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glyoxalate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gulonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydracrylic_acid",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydroxypyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Inositol_3-phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Inositol_4-phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ins(1,4,5)P3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Isocitrate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Arabinonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Arabinose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Arabonolactone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Citramalyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Fucose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Fucose_1-phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Galactonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Galactose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Glycerose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Gulonolactone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Lactate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Lyxitol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Lyxulose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Methylmalonyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Ribulose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lactose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lactose_6'-phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Lactoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Levulose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Malate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Malonyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Maltodextrin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Maltose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Mannose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Mesaconate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "MurNAc_6-phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Acetylmuramate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Neu5Ac",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Oxalate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Oxaloacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Oxalyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PEP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pectate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pectin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phosphatidylinositol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phytate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Propionate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Propionyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Propionyl_phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ribitol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ribitol_5-phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Robison_ester",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sorbitol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Starch",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Succinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Succinyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sucrose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sucrose_6F-phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Trehalose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP-L-Ara4FN",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP-L-Ara4N",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP-L-Ara4O",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP-L-arabinose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP-MurNAc",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP-galactose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP-xylose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDPgalacturonate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDPglucose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDPglucuronate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Vitamin_C",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Xylitol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "alpha-D-Galactose",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "alpha-D-Glucose",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "source": "C01101",
+      "target": "C00231",
+      "reaction_id": "R05850",
+      "reaction_name": "rn:R05850",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01101",
+      "target": "L-Ribulose",
+      "reaction_id": "R02439",
+      "reaction_name": "rn:R02439",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Arabinose",
+      "target": "L-Ribulose",
+      "reaction_id": "R01761",
+      "reaction_name": "rn:R01761",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Lyxitol",
+      "target": "L-Arabinose",
+      "reaction_id": "R01758",
+      "reaction_name": "rn:R01758 rn:R01759",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Xylitol",
+      "target": "L-Lyxulose",
+      "reaction_id": "R01904",
+      "reaction_name": "rn:R01904",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Xylitol",
+      "target": "D-Lyxulose",
+      "reaction_id": "R01896",
+      "reaction_name": "rn:R01896",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Lyxulose",
+      "target": "C00231",
+      "reaction_id": "R01639",
+      "reaction_name": "rn:R01639",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Xylose",
+      "target": "Xylitol",
+      "reaction_id": "R01431",
+      "reaction_name": "rn:R01431 rn:R07152 rn:R09477",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Xylose",
+      "target": "D-Lyxulose",
+      "reaction_id": "R01432",
+      "reaction_name": "rn:R01432",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00199",
+      "target": "D-Ribulose",
+      "reaction_id": "R01526",
+      "reaction_name": "rn:R01526",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Ribulose",
+      "target": "Ribitol",
+      "reaction_id": "R01895",
+      "reaction_name": "rn:R01895",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPglucose",
+      "target": "Cori_ester",
+      "reaction_id": "R00287",
+      "reaction_name": "rn:R00287 rn:R00289 rn:R00955",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPglucose",
+      "target": "UDPglucuronate",
+      "reaction_id": "R00286",
+      "reaction_name": "rn:R00286",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPglucuronate",
+      "target": "Glucuronide",
+      "reaction_id": "R01383",
+      "reaction_name": "rn:R01383",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glucuronide",
+      "target": "Glucuronate",
+      "reaction_id": "R01478",
+      "reaction_name": "rn:R01478",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glucuronate",
+      "target": "Gulonate",
+      "reaction_id": "R01481",
+      "reaction_name": "rn:R01481",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "3-Dehydro-L-gulonate",
+      "target": "Gulonate",
+      "reaction_id": "R02640",
+      "reaction_name": "rn:R02640",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Fructuronate",
+      "target": "Glucuronate",
+      "reaction_id": "R01482",
+      "reaction_name": "rn:R01482",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Fructuronate",
+      "target": "D-Mannonate",
+      "reaction_id": "R02454",
+      "reaction_name": "rn:R02454",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Mannonate",
+      "target": "C00204",
+      "reaction_id": "R05606",
+      "reaction_name": "rn:R05606",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00204",
+      "target": "D-Altronate",
+      "reaction_id": "R01540",
+      "reaction_name": "rn:R01540",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Tagaturonate",
+      "target": "D-Altronate",
+      "reaction_id": "R02555",
+      "reaction_name": "rn:R02555",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Galacturonate",
+      "target": "D-Tagaturonate",
+      "reaction_id": "R01983",
+      "reaction_name": "rn:R01983",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Digalacturonate",
+      "target": "D-Galacturonate",
+      "reaction_id": "R07413",
+      "reaction_name": "rn:R07413",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Pectate",
+      "target": "Digalacturonate",
+      "reaction_id": "R02360",
+      "reaction_name": "rn:R02360",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Pectin",
+      "target": "Pectate",
+      "reaction_id": "R02362",
+      "reaction_name": "rn:R02362",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00446",
+      "target": "UDP-galactose",
+      "reaction_id": "R00955",
+      "reaction_name": "rn:R00955",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "alpha-D-Galactose",
+      "target": "C00446",
+      "reaction_id": "R01092",
+      "reaction_name": "rn:R01092",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00446",
+      "target": "UDP-galactose",
+      "reaction_id": "R00502",
+      "reaction_name": "rn:R00502 rn:R00955",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "ADP-glucose",
+      "target": "Cori_ester",
+      "reaction_id": "R00948",
+      "reaction_name": "rn:R00948 rn:R00951",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Amylose",
+      "target": "ADP-glucose",
+      "reaction_id": "R02421",
+      "reaction_name": "rn:R02421",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Starch",
+      "target": "Amylose",
+      "reaction_id": "R02110",
+      "reaction_name": "rn:R02110",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Starch",
+      "target": "Dextrin",
+      "reaction_id": "R02112",
+      "reaction_name": "rn:R02112",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "alpha-D-Glucose",
+      "target": "Dextrin",
+      "reaction_id": "R01791",
+      "reaction_name": "rn:R01791",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Starch",
+      "target": "alpha-D-Glucose",
+      "reaction_id": "R01790",
+      "reaction_name": "rn:R01790",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Sucrose_6F-phosphate",
+      "target": "UDPglucose",
+      "reaction_id": "R00766",
+      "reaction_name": "rn:R00766",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDP-galactose",
+      "target": "UDPglucose",
+      "reaction_id": "R00291",
+      "reaction_name": "rn:R00291",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPgalacturonate",
+      "target": "UDPglucuronate",
+      "reaction_id": "R01385",
+      "reaction_name": "rn:R01385",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPglucuronate",
+      "target": "UDP-xylose",
+      "reaction_id": "R01384",
+      "reaction_name": "rn:R01384",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "1,4-beta-D-Xylan",
+      "target": "UDP-xylose",
+      "reaction_id": "R03928",
+      "reaction_name": "rn:R03928",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "1,4-beta-D-Xylan",
+      "target": "D-Xylose",
+      "reaction_id": "R01433",
+      "reaction_name": "rn:R01433",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C05345",
+      "target": "C00352",
+      "reaction_id": "R00768",
+      "reaction_name": "rn:R00768",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C06156",
+      "target": "C00352",
+      "reaction_id": "R02060",
+      "reaction_name": "rn:R02060",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C04501",
+      "target": "C06156",
+      "reaction_id": "R05332",
+      "reaction_name": "rn:R05332",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00043",
+      "target": "C04501",
+      "reaction_id": "R00416",
+      "reaction_name": "rn:R00416",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00203",
+      "target": "C00043",
+      "reaction_id": "R00418",
+      "reaction_name": "rn:R00418",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01170",
+      "target": "C00043",
+      "reaction_id": "R00420",
+      "reaction_name": "rn:R00420",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C04631",
+      "target": "C00043",
+      "reaction_id": "R00660",
+      "reaction_name": "rn:R00660",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C04631",
+      "target": "UDP-MurNAc",
+      "reaction_id": "R03191",
+      "reaction_name": "rn:R03191 rn:R03192",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00645",
+      "target": "C04257",
+      "reaction_id": "R02705",
+      "reaction_name": "rn:R02705",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C04257",
+      "target": "C06241",
+      "reaction_id": "R04435",
+      "reaction_name": "rn:R04435",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C06241",
+      "target": "Neu5Ac",
+      "reaction_id": "R01805",
+      "reaction_name": "rn:R01805",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Neu5Ac",
+      "target": "C00128",
+      "reaction_id": "R01117",
+      "reaction_name": "rn:R01117",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Levulose",
+      "target": "C05345",
+      "reaction_id": "R00867",
+      "reaction_name": "rn:R00867",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Levulose",
+      "target": "C01094",
+      "reaction_id": "R00866",
+      "reaction_name": "rn:R00866 rn:R03232",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01094",
+      "target": "Glycerone_phosphate",
+      "reaction_id": "R02568",
+      "reaction_name": "rn:R02568",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Mannose",
+      "target": "C00275",
+      "reaction_id": "R01326",
+      "reaction_name": "rn:R01326 rn:R02630",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00275",
+      "target": "C05345",
+      "reaction_id": "R01819",
+      "reaction_name": "rn:R01819",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00636",
+      "target": "C00275",
+      "reaction_id": "R01818",
+      "reaction_name": "rn:R01818",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "GDP-mannose",
+      "target": "C00636",
+      "reaction_id": "R00883",
+      "reaction_name": "rn:R00883 rn:R00885",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "GDP-mannose",
+      "target": "C01222",
+      "reaction_id": "R00888",
+      "reaction_name": "rn:R00888",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01222",
+      "target": "GDP-L-fucose",
+      "reaction_id": "R05692",
+      "reaction_name": "rn:R05692",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "GDP-L-fucose",
+      "target": "L-Fucose_1-phosphate",
+      "reaction_id": "R01951",
+      "reaction_name": "rn:R01951",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Fucose_1-phosphate",
+      "target": "L-Fucose",
+      "reaction_id": "R03161",
+      "reaction_name": "rn:R03161",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Inositol_3-phosphate",
+      "target": "Bios_I",
+      "reaction_id": "R01187",
+      "reaction_name": "rn:R01187 rn:R07279",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C04063",
+      "target": "Inositol_3-phosphate",
+      "reaction_id": "R04372",
+      "reaction_name": "rn:R04372",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01272",
+      "target": "C01243",
+      "reaction_id": "R03430",
+      "reaction_name": "rn:R03430",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Ins(1,4,5)P3",
+      "target": "C01272",
+      "reaction_id": "R03433",
+      "reaction_name": "rn:R03433",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Ins(1,4,5)P3",
+      "target": "C01220",
+      "reaction_id": "R03394",
+      "reaction_name": "rn:R03394",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01220",
+      "target": "Inositol_4-phosphate",
+      "reaction_id": "R03393",
+      "reaction_name": "rn:R03393",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C04637",
+      "target": "Ins(1,4,5)P3",
+      "reaction_id": "R03435",
+      "reaction_name": "rn:R03435",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01277",
+      "target": "C04637",
+      "reaction_id": "R03469",
+      "reaction_name": "rn:R03469 rn:R04404",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Phosphatidylinositol",
+      "target": "C01277",
+      "reaction_id": "R03361",
+      "reaction_name": "rn:R03361 rn:R11680",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01243",
+      "target": "C04477",
+      "reaction_id": "R03429",
+      "reaction_name": "rn:R03429",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01284",
+      "target": "C04477",
+      "reaction_id": "R03478",
+      "reaction_name": "rn:R03478",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01284",
+      "target": "Phytate",
+      "reaction_id": "R05202",
+      "reaction_name": "rn:R05202",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Bios_I",
+      "target": "2-Inosose",
+      "reaction_id": "R01183",
+      "reaction_name": "rn:R01183",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "2-Inosose",
+      "target": "C04287",
+      "reaction_id": "R02782",
+      "reaction_name": "rn:R02782",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C16737",
+      "target": "DKH",
+      "reaction_id": "R08503",
+      "reaction_name": "rn:R08503",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "DKHP",
+      "target": "DKH",
+      "reaction_id": "R05661",
+      "reaction_name": "rn:R05661",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glycerone_phosphate",
+      "target": "DKHP",
+      "reaction_id": "R05378",
+      "reaction_name": "rn:R05378",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Malate",
+      "target": "Glyoxalate",
+      "reaction_id": "R00472",
+      "reaction_name": "rn:R00472",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glyoxalate",
+      "target": "Isocitrate",
+      "reaction_id": "R00479",
+      "reaction_name": "rn:R00479",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Hydroxypyruvate",
+      "target": "Glycerate",
+      "reaction_id": "R01388",
+      "reaction_name": "rn:R01388 rn:R01392",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "3-Phosphoglycerate",
+      "target": "Glycerate",
+      "reaction_id": "R01514",
+      "reaction_name": "rn:R01514",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01182",
+      "target": "3-Phosphoglycerate",
+      "reaction_id": "R03140",
+      "reaction_name": "rn:R03140",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "2-Phosphoglycolate",
+      "target": "Glycolate",
+      "reaction_id": "R01334",
+      "reaction_name": "rn:R01334",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glyoxalate",
+      "target": "Glycolate",
+      "reaction_id": "R00465",
+      "reaction_name": "rn:R00465 rn:R00475 rn:R00717",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Oxaloacetate",
+      "target": "PEP",
+      "reaction_id": "R00341",
+      "reaction_name": "rn:R00341 rn:R00345 rn:R00346 rn:R00431 rn:R00726",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "L-Lactate",
+      "reaction_id": "R00196",
+      "reaction_name": "rn:R00196 rn:R00703 rn:R01447",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "Acetyl_phosphate",
+      "reaction_id": "R00207",
+      "reaction_name": "rn:R00207",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Acetyl_phosphate",
+      "target": "Acetate",
+      "reaction_id": "R00315",
+      "reaction_name": "rn:R00315 rn:R00320",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Oxaloacetate",
+      "target": "Pyruvate",
+      "reaction_id": "R00217",
+      "reaction_name": "rn:R00217 rn:R00344",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Acetyl-CoA",
+      "target": "3-Oxopropanoate",
+      "reaction_id": "R00705",
+      "reaction_name": "rn:R00705 rn:R00706",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Hydracrylic_acid",
+      "target": "C05668",
+      "reaction_id": "R03158",
+      "reaction_name": "rn:R03158",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Acetyl-CoA",
+      "target": "Malonyl-CoA",
+      "reaction_id": "R00233",
+      "reaction_name": "rn:R00233",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C05668",
+      "target": "Acrylyl-CoA",
+      "reaction_id": "R03045",
+      "reaction_name": "rn:R03045",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Lactoyl-CoA",
+      "target": "Acrylyl-CoA",
+      "reaction_id": "R02963",
+      "reaction_name": "rn:R02963",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Lactate",
+      "target": "Lactoyl-CoA",
+      "reaction_id": "R01449",
+      "reaction_name": "rn:R01449",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Acrylyl-CoA",
+      "target": "Propionyl-CoA",
+      "reaction_id": "R00919",
+      "reaction_name": "rn:R00919 rn:R04432 rn:R10161",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Propionate",
+      "target": "Propionyl-CoA",
+      "reaction_id": "R00925",
+      "reaction_name": "rn:R00925 rn:R00920 rn:R00928",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Propionyl-CoA",
+      "target": "D-Methylmalonyl-CoA",
+      "reaction_id": "R01859",
+      "reaction_name": "rn:R01859",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Methylmalonyl-CoA",
+      "target": "L-Methylmalonyl-CoA",
+      "reaction_id": "R02765",
+      "reaction_name": "rn:R02765",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Methylmalonyl-CoA",
+      "target": "Succinyl-CoA",
+      "reaction_id": "R00833",
+      "reaction_name": "rn:R00833",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Butyrate",
+      "target": "Butyryl-CoA",
+      "reaction_id": "R01176",
+      "reaction_name": "rn:R01176 rn:R01179",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Butanoylphosphate",
+      "target": "Butyrate",
+      "reaction_id": "R01688",
+      "reaction_name": "rn:R01688",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Butanoylphosphate",
+      "target": "Butyryl-CoA",
+      "reaction_id": "R01174",
+      "reaction_name": "rn:R01174",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Gulonate",
+      "target": "L-Gulonolactone",
+      "reaction_id": "R02933",
+      "reaction_name": "rn:R02933",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Gulonolactone",
+      "target": "C03289",
+      "reaction_id": "R03184",
+      "reaction_name": "rn:R03184",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Vitamin_C",
+      "target": "Ascorbate_radical",
+      "reaction_id": "R00095",
+      "reaction_name": "rn:R00095",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Vitamin_C",
+      "target": "Dehydroascorbate",
+      "reaction_id": "R00068",
+      "reaction_name": "rn:R00068 rn:R01108",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Ethanal",
+      "target": "Acetyl-CoA",
+      "reaction_id": "R00228",
+      "reaction_name": "rn:R00228",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "10-Formyl-THF",
+      "target": "C00445",
+      "reaction_id": "R01655",
+      "reaction_name": "rn:R01655",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "L-Citramalyl-CoA",
+      "reaction_id": "R00237",
+      "reaction_name": "rn:R00237",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Mesaconate",
+      "target": "C03618",
+      "reaction_id": "R03696",
+      "reaction_name": "rn:R03696",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C03618",
+      "target": "Glutamate",
+      "reaction_id": "R00262",
+      "reaction_name": "rn:R00262",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "3-Oxopropanoate",
+      "target": "Malonyl-CoA",
+      "reaction_id": "R00740",
+      "reaction_name": "rn:R00740",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPglucuronate",
+      "target": "C05385",
+      "reaction_id": "R01381",
+      "reaction_name": "rn:R01381",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glucuronate",
+      "target": "C05385",
+      "reaction_id": "R01476",
+      "reaction_name": "rn:R01476",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPglucose",
+      "target": "Sucrose",
+      "reaction_id": "R00806",
+      "reaction_name": "rn:R00806",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01115",
+      "target": "Vitamin_C",
+      "reaction_id": "R00640",
+      "reaction_name": "rn:R00640 rn:R00643",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01115",
+      "target": "L-Galactose",
+      "reaction_id": "R07675",
+      "reaction_name": "rn:R07675",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C15926",
+      "target": "L-Galactose",
+      "reaction_id": "R07674",
+      "reaction_name": "rn:R07674",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "GDP-L-galactose",
+      "target": "C15926",
+      "reaction_id": "R07678",
+      "reaction_name": "rn:R07678",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "GDP-L-galactose",
+      "target": "GDP-mannose",
+      "reaction_id": "R00889",
+      "reaction_name": "rn:R00889",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glucose",
+      "target": "Sucrose",
+      "reaction_id": "R05140",
+      "reaction_name": "rn:R05140",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C04287",
+      "target": "C16737",
+      "reaction_id": "R08603",
+      "reaction_name": "rn:R08603",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glucurone",
+      "target": "Glucarate",
+      "reaction_id": "R02957",
+      "reaction_name": "rn:R02957",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glyoxalate",
+      "target": "C01146",
+      "reaction_id": "R00013",
+      "reaction_name": "rn:R00013",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glycerate",
+      "target": "C01146",
+      "reaction_id": "R01745",
+      "reaction_name": "rn:R01745 rn:R01747",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "3-Oxopropanoate",
+      "target": "DKHP",
+      "reaction_id": "R05378",
+      "reaction_name": "rn:R05378",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00043",
+      "target": "C00645",
+      "reaction_id": "R00414",
+      "reaction_name": "rn:R00414",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01243",
+      "target": "C04063",
+      "reaction_id": "R03427",
+      "reaction_name": "rn:R03427",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Inositol_4-phosphate",
+      "target": "Bios_I",
+      "reaction_id": "R01186",
+      "reaction_name": "rn:R01186",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Formate",
+      "target": "Oxalate",
+      "reaction_id": "R00522",
+      "reaction_name": "rn:R00522",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Formyl-CoA",
+      "target": "Oxalyl-CoA",
+      "reaction_id": "R01908",
+      "reaction_name": "rn:R01908",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Oxalate",
+      "target": "Oxalyl-CoA",
+      "reaction_id": "R01558",
+      "reaction_name": "rn:R01558 rn:R01559",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "10-Formyl-THF",
+      "target": "Formate",
+      "reaction_id": "R00943",
+      "reaction_name": "rn:R00943",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00445",
+      "target": "10-Formyl-THF",
+      "reaction_id": "R01655",
+      "reaction_name": "rn:R01655",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00445",
+      "target": "5,10-Methylene-THF",
+      "reaction_id": "R01220",
+      "reaction_name": "rn:R01220",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Pectate",
+      "target": "D-Galacturonate",
+      "reaction_id": "R01982",
+      "reaction_name": "rn:R01982",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Hydroxypyruvate",
+      "target": "C01146",
+      "reaction_id": "R01394",
+      "reaction_name": "rn:R01394",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Robison_ester",
+      "target": "Inositol_3-phosphate",
+      "reaction_id": "R07324",
+      "reaction_name": "rn:R07324",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C03906",
+      "target": "UDP-L-arabinose",
+      "reaction_id": "R03077",
+      "reaction_name": "rn:R03077",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Arabinose",
+      "target": "C03906",
+      "reaction_id": "R01754",
+      "reaction_name": "rn:R01754",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C11554",
+      "target": "C04549",
+      "reaction_id": "R07299",
+      "reaction_name": "rn:R07299",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Phosphatidylinositol",
+      "target": "C04549",
+      "reaction_id": "R03362",
+      "reaction_name": "rn:R03362 rn:R03363",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01277",
+      "target": "C11554",
+      "reaction_id": "R05795",
+      "reaction_name": "rn:R05795",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDP-L-arabinose",
+      "target": "UDP-xylose",
+      "reaction_id": "R01473",
+      "reaction_name": "rn:R01473",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Cori_ester",
+      "target": "CDP-glucose",
+      "reaction_id": "R00956",
+      "reaction_name": "rn:R00956",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Sorbitol",
+      "target": "Levulose",
+      "reaction_id": "R00875",
+      "reaction_name": "rn:R00875",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "alpha-D-Glucose",
+      "target": "Levulose",
+      "reaction_id": "R00878",
+      "reaction_name": "rn:R00878",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Maltose",
+      "target": "Glucose",
+      "reaction_id": "R00028",
+      "reaction_name": "rn:R00028 rn:R01555 rn:R05196",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Acetyl-CoA",
+      "target": "Acetyl_phosphate",
+      "reaction_id": "R00230",
+      "reaction_name": "rn:R00230",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Lactose",
+      "target": "D-Galactose",
+      "reaction_id": "R01678",
+      "reaction_name": "rn:R01678",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Glucarate",
+      "target": "C00679",
+      "reaction_id": "R02752",
+      "reaction_name": "rn:R02752",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00679",
+      "target": "2,5-Dioxopentanoate",
+      "reaction_id": "R02279",
+      "reaction_name": "rn:R02279",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00684",
+      "target": "2,5-Dioxopentanoate",
+      "reaction_id": "R02278",
+      "reaction_name": "rn:R02278",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Arabinonate",
+      "target": "C00684",
+      "reaction_id": "R02522",
+      "reaction_name": "rn:R02522",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Arabonolactone",
+      "target": "L-Arabinonate",
+      "reaction_id": "R02526",
+      "reaction_name": "rn:R02526",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPglucose",
+      "target": "Cellulose",
+      "reaction_id": "R02889",
+      "reaction_name": "rn:R02889",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Cellulose",
+      "target": "Cellobiose",
+      "reaction_id": "R02886",
+      "reaction_name": "rn:R02886",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPglucose",
+      "target": "C00689",
+      "reaction_id": "R02737",
+      "reaction_name": "rn:R02737",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00689",
+      "target": "Trehalose",
+      "reaction_id": "R02778",
+      "reaction_name": "rn:R02778",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Trehalose",
+      "target": "Glucose",
+      "reaction_id": "R00010",
+      "reaction_name": "rn:R00010 rn:R02727",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "ADP-glucose",
+      "target": "Trehalose",
+      "reaction_id": "R08946",
+      "reaction_name": "rn:R08946",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Maltose",
+      "target": "Trehalose",
+      "reaction_id": "R01557",
+      "reaction_name": "rn:R01557",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Vitamin_C",
+      "target": "C03289",
+      "reaction_id": "R00647",
+      "reaction_name": "rn:R00647",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Galactose",
+      "target": "Dulcose",
+      "reaction_id": "R01093",
+      "reaction_name": "rn:R01093 rn:R01095",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Dulcose",
+      "target": "C06311",
+      "reaction_id": "R05570",
+      "reaction_name": "rn:R05570",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C06311",
+      "target": "C01097",
+      "reaction_id": "R05571",
+      "reaction_name": "rn:R05571",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C03785",
+      "target": "C00118",
+      "reaction_id": "R01069",
+      "reaction_name": "rn:R01069",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01286",
+      "target": "C00118",
+      "reaction_id": "R01064",
+      "reaction_name": "rn:R01064",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01216",
+      "target": "C01286",
+      "reaction_id": "R03387",
+      "reaction_name": "rn:R03387",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Galactonate",
+      "target": "C01216",
+      "reaction_id": "R03033",
+      "reaction_name": "rn:R03033",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Galactose",
+      "target": "C03383",
+      "reaction_id": "R01094",
+      "reaction_name": "rn:R01094 rn:R01097",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01097",
+      "target": "C03785",
+      "reaction_id": "R03236",
+      "reaction_name": "rn:R03236 rn:R03237 rn:R03238 rn:R03239",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Lactose",
+      "target": "Lactose_6'-phosphate",
+      "reaction_id": "R04393",
+      "reaction_name": "rn:R04393",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Lactose_6'-phosphate",
+      "target": "C01113",
+      "reaction_id": "R03256",
+      "reaction_name": "rn:R03256",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01113",
+      "target": "C01097",
+      "reaction_id": "R03240",
+      "reaction_name": "rn:R03240",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Starch",
+      "target": "Cori_ester",
+      "reaction_id": "R02111",
+      "reaction_name": "rn:R02111",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Vitamin_C",
+      "target": "C16186",
+      "reaction_id": "R07671",
+      "reaction_name": "rn:R07671",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C16186",
+      "target": "C14899",
+      "reaction_id": "R07677",
+      "reaction_name": "rn:R07677",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C14899",
+      "target": "C03291",
+      "reaction_id": "R07125",
+      "reaction_name": "rn:R07125",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01101",
+      "target": "C03291",
+      "reaction_id": "R03244",
+      "reaction_name": "rn:R03244",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Lyxitol",
+      "target": "D-Ribulose",
+      "reaction_id": "R07134",
+      "reaction_name": "rn:R07134 rn:R07144",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Lyxitol",
+      "target": "D-Lyxulose",
+      "reaction_id": "R05604",
+      "reaction_name": "rn:R05604 rn:R07143",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Succinyl-CoA",
+      "target": "Succinate",
+      "reaction_id": "R10343",
+      "reaction_name": "rn:R10343",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Succinyl-CoA",
+      "target": "4-Oxobutanoate",
+      "reaction_id": "R09280",
+      "reaction_name": "rn:R09280",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "4-Hydroxybutanoate",
+      "target": "4-Oxobutanoate",
+      "reaction_id": "R01644",
+      "reaction_name": "rn:R01644 rn:R09281",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "4-Hydroxybutanoate",
+      "target": "4-Hydroxybutyryl-CoA",
+      "reaction_id": "R05336",
+      "reaction_name": "rn:R05336",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "4-Hydroxybutyryl-CoA",
+      "target": "Crotonyl-CoA",
+      "reaction_id": "R10782",
+      "reaction_name": "rn:R10782",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Galactose",
+      "target": "alpha-D-Galactose",
+      "reaction_id": "R10619",
+      "reaction_name": "rn:R10619",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Galacturonate",
+      "target": "L-Galactonate",
+      "reaction_id": "R07676",
+      "reaction_name": "rn:R07676 rn:R10565",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Galactonate",
+      "target": "C20680",
+      "reaction_id": "R10532",
+      "reaction_name": "rn:R10532",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C20680",
+      "target": "L-Glycerose",
+      "reaction_id": "R10550",
+      "reaction_name": "rn:R10550",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "L-Glycerose",
+      "target": "Glycerin",
+      "reaction_id": "R10563",
+      "reaction_name": "rn:R10563",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C01216",
+      "target": "Pyruvate",
+      "reaction_id": "R10616",
+      "reaction_name": "rn:R10616",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Gulonate",
+      "target": "D-Fructuronate",
+      "reaction_id": "R10848",
+      "reaction_name": "rn:R10848",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Chitosamine",
+      "target": "C00352",
+      "reaction_id": "R01961",
+      "reaction_name": "rn:R01961",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Chitosamine",
+      "target": "D-Glucosaminide",
+      "reaction_id": "R01966",
+      "reaction_name": "rn:R01966",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Chitosan",
+      "target": "D-Glucosaminide",
+      "reaction_id": "R02833",
+      "reaction_name": "rn:R02833",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Chitin",
+      "target": "Chitosan",
+      "reaction_id": "R02333",
+      "reaction_name": "rn:R02333",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Chitin",
+      "target": "Chitobiose",
+      "reaction_id": "R02334",
+      "reaction_name": "rn:R02334",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Chitobiose",
+      "target": "GlcNAc",
+      "reaction_id": "R00022",
+      "reaction_name": "rn:R00022",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "GlcNAc",
+      "target": "C00357",
+      "reaction_id": "R01201",
+      "reaction_name": "rn:R01201",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00357",
+      "target": "C04501",
+      "reaction_id": "R08193",
+      "reaction_name": "rn:R08193",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C21027",
+      "target": "UDP-MurNAc",
+      "reaction_id": "R11025",
+      "reaction_name": "rn:R11025",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "N-Acetylmuramate",
+      "target": "C21027",
+      "reaction_id": "R11024",
+      "reaction_name": "rn:R11024",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00357",
+      "target": "MurNAc_6-phosphate",
+      "reaction_id": "R08555",
+      "reaction_name": "rn:R08555",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Propionate",
+      "target": "Propionyl_phosphate",
+      "reaction_id": "R01353",
+      "reaction_name": "rn:R01353",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Propionyl-CoA",
+      "target": "Propionyl_phosphate",
+      "reaction_id": "R00921",
+      "reaction_name": "rn:R00921",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Cellulose",
+      "target": "Cellodextrin",
+      "reaction_id": "R11307",
+      "reaction_name": "rn:R11307",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Cellodextrin",
+      "target": "Cellobiose",
+      "reaction_id": "R02887",
+      "reaction_name": "rn:R02887 rn:R11308",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Cellobiose",
+      "target": "Glucose",
+      "reaction_id": "R00306",
+      "reaction_name": "rn:R00306",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Cellobiose",
+      "target": "Cori_ester",
+      "reaction_id": "R00952",
+      "reaction_name": "rn:R00952",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Maltodextrin",
+      "target": "Maltose",
+      "reaction_id": "R11262",
+      "reaction_name": "rn:R11262",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Starch",
+      "target": "Maltodextrin",
+      "reaction_id": "R11261",
+      "reaction_name": "rn:R11261",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Maltodextrin",
+      "target": "C06400",
+      "reaction_id": "R01824",
+      "reaction_name": "rn:R01824",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C06400",
+      "target": "Trehalose",
+      "reaction_id": "R11256",
+      "reaction_name": "rn:R11256",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPglucose",
+      "target": "Amylose",
+      "reaction_id": "R00292",
+      "reaction_name": "rn:R00292",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Maltose",
+      "target": "C20237",
+      "reaction_id": "R09945",
+      "reaction_name": "rn:R09945",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C20237",
+      "target": "Amylose",
+      "reaction_id": "R09994",
+      "reaction_name": "rn:R09994",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C00199",
+      "target": "Ribitol_5-phosphate",
+      "reaction_id": "R01524",
+      "reaction_name": "rn:R01524 rn:R01525",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Ribitol_5-phosphate",
+      "target": "CDP-ribitol",
+      "reaction_id": "R02921",
+      "reaction_name": "rn:R02921",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "Sucrose",
+      "target": "Levulose",
+      "reaction_id": "R00801",
+      "reaction_name": "rn:R00801",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "ADP-glucose",
+      "target": "C20237",
+      "reaction_id": "R11530",
+      "reaction_name": "rn:R11530",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "D-Tagaturonate",
+      "target": "D-Fructuronate",
+      "reaction_id": "R11624",
+      "reaction_name": "rn:R11624",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDPglucuronate",
+      "target": "UDP-L-Ara4O",
+      "reaction_id": "R07658",
+      "reaction_name": "rn:R07658",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDP-L-Ara4O",
+      "target": "UDP-L-Ara4N",
+      "reaction_id": "R07659",
+      "reaction_name": "rn:R07659",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDP-L-Ara4N",
+      "target": "UDP-L-Ara4FN",
+      "reaction_id": "R07660",
+      "reaction_name": "rn:R07660",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "UDP-L-Ara4FN",
+      "target": "C16156",
+      "reaction_id": "R07661",
+      "reaction_name": "rn:R07661",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    },
+    {
+      "source": "C16156",
+      "target": "C16157",
+      "reaction_id": "R07662",
+      "reaction_name": "rn:R07662",
+      "reversible": false,
+      "subsystem": "Glycan Biosynthesis and Metabolism"
+    }
+  ]
+}

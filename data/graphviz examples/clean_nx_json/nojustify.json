@@ -1,0 +1,50 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "width": "3",
+      "id": "n"
+    },
+    {
+      "width": "3",
+      "nojustify": "true",
+      "id": "m"
+    },
+    {
+      "nojustify": "true",
+      "id": "b"
+    },
+    {
+      "shape": "record",
+      "label": "\"{aaaaaaaaaaaaaa\\n | bbbbbb\\nddd\\l}\"",
+      "id": "l"
+    },
+    {
+      "nojustify": "true",
+      "shape": "record",
+      "label": "\"{aaaaaaaaaaaaaa\\n | bbbbbb\\nddd\\l}\"",
+      "id": "p"
+    },
+    {
+      "id": "a"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "n",
+      "target": "m"
+    },
+    {
+      "key": 0,
+      "source": "l",
+      "target": "p"
+    },
+    {
+      "key": 0,
+      "source": "a",
+      "target": "b"
+    }
+  ]
+}

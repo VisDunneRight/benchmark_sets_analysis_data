@@ -1,0 +1,75 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "1"
+    },
+    {
+      "id": "2"
+    },
+    {
+      "id": "4"
+    },
+    {
+      "id": "5"
+    },
+    {
+      "id": "7"
+    },
+    {
+      "id": "6"
+    },
+    {
+      "id": "3"
+    },
+    {
+      "id": "8"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "1",
+      "target": "2"
+    },
+    {
+      "key": 0,
+      "source": "4",
+      "target": "5"
+    },
+    {
+      "key": 0,
+      "source": "7",
+      "target": "5"
+    },
+    {
+      "key": 0,
+      "source": "7",
+      "target": "4"
+    },
+    {
+      "key": 0,
+      "source": "6",
+      "target": "1"
+    },
+    {
+      "key": 0,
+      "source": "6",
+      "target": "4"
+    },
+    {
+      "key": 0,
+      "source": "3",
+      "target": "6"
+    },
+    {
+      "key": 0,
+      "source": "3",
+      "target": "8"
+    }
+  ]
+}

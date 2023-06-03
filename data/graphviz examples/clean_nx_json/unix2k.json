@@ -1,0 +1,427 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "5th Edition"
+    },
+    {
+      "id": "6th Edition"
+    },
+    {
+      "id": "PWB 1.0"
+    },
+    {
+      "id": "LSX"
+    },
+    {
+      "id": "1 BSD"
+    },
+    {
+      "id": "Mini Unix"
+    },
+    {
+      "id": "Wollongong"
+    },
+    {
+      "id": "Interdata"
+    },
+    {
+      "id": "Unix/TS 3.0"
+    },
+    {
+      "id": "PWB 2.0"
+    },
+    {
+      "id": "7th Edition"
+    },
+    {
+      "id": "8th Edition"
+    },
+    {
+      "id": "32V"
+    },
+    {
+      "id": "V7M"
+    },
+    {
+      "id": "Ultrix-11"
+    },
+    {
+      "id": "Xenix"
+    },
+    {
+      "id": "UniPlus+"
+    },
+    {
+      "id": "9th Edition"
+    },
+    {
+      "id": "10th Edition"
+    },
+    {
+      "id": "2 BSD"
+    },
+    {
+      "id": "2.8 BSD"
+    },
+    {
+      "id": "2.9 BSD"
+    },
+    {
+      "id": "3 BSD"
+    },
+    {
+      "id": "4 BSD"
+    },
+    {
+      "id": "4.1 BSD"
+    },
+    {
+      "id": "4.2 BSD"
+    },
+    {
+      "id": "4.3 BSD"
+    },
+    {
+      "id": "Ultrix-32"
+    },
+    {
+      "id": "4.4 BSD"
+    },
+    {
+      "id": "FreeBSD"
+    },
+    {
+      "id": "NetBSD"
+    },
+    {
+      "id": "OpenBSD"
+    },
+    {
+      "id": "PWB 1.2"
+    },
+    {
+      "id": "USG 1.0"
+    },
+    {
+      "id": "CB Unix 1"
+    },
+    {
+      "id": "USG 2.0"
+    },
+    {
+      "id": "CB Unix 2"
+    },
+    {
+      "id": "CB Unix 3"
+    },
+    {
+      "id": "Unix/TS++"
+    },
+    {
+      "id": "PDP-11 Sys V"
+    },
+    {
+      "id": "USG 3.0"
+    },
+    {
+      "id": "Unix/TS 1.0"
+    },
+    {
+      "id": "TS 4.0"
+    },
+    {
+      "id": "System V.0"
+    },
+    {
+      "id": "System V.2"
+    },
+    {
+      "id": "System V.3"
+    },
+    {
+      "id": "System V.4"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "5th Edition",
+      "target": "6th Edition"
+    },
+    {
+      "key": 0,
+      "source": "5th Edition",
+      "target": "PWB 1.0"
+    },
+    {
+      "key": 0,
+      "source": "6th Edition",
+      "target": "LSX"
+    },
+    {
+      "key": 0,
+      "source": "6th Edition",
+      "target": "1 BSD"
+    },
+    {
+      "key": 0,
+      "source": "6th Edition",
+      "target": "Mini Unix"
+    },
+    {
+      "key": 0,
+      "source": "6th Edition",
+      "target": "Wollongong"
+    },
+    {
+      "key": 0,
+      "source": "6th Edition",
+      "target": "Interdata"
+    },
+    {
+      "key": 0,
+      "source": "PWB 1.0",
+      "target": "PWB 1.2"
+    },
+    {
+      "key": 0,
+      "source": "PWB 1.0",
+      "target": "USG 1.0"
+    },
+    {
+      "key": 0,
+      "source": "1 BSD",
+      "target": "2 BSD"
+    },
+    {
+      "key": 0,
+      "source": "Interdata",
+      "target": "Unix/TS 3.0"
+    },
+    {
+      "key": 0,
+      "source": "Interdata",
+      "target": "PWB 2.0"
+    },
+    {
+      "key": 0,
+      "source": "Interdata",
+      "target": "7th Edition"
+    },
+    {
+      "key": 0,
+      "source": "Unix/TS 3.0",
+      "target": "TS 4.0"
+    },
+    {
+      "key": 0,
+      "source": "PWB 2.0",
+      "target": "Unix/TS 3.0"
+    },
+    {
+      "key": 0,
+      "source": "7th Edition",
+      "target": "8th Edition"
+    },
+    {
+      "key": 0,
+      "source": "7th Edition",
+      "target": "32V"
+    },
+    {
+      "key": 0,
+      "source": "7th Edition",
+      "target": "V7M"
+    },
+    {
+      "key": 0,
+      "source": "7th Edition",
+      "target": "Ultrix-11"
+    },
+    {
+      "key": 0,
+      "source": "7th Edition",
+      "target": "Xenix"
+    },
+    {
+      "key": 0,
+      "source": "7th Edition",
+      "target": "UniPlus+"
+    },
+    {
+      "key": 0,
+      "source": "8th Edition",
+      "target": "9th Edition"
+    },
+    {
+      "key": 0,
+      "source": "32V",
+      "target": "3 BSD"
+    },
+    {
+      "key": 0,
+      "source": "V7M",
+      "target": "Ultrix-11"
+    },
+    {
+      "key": 0,
+      "source": "9th Edition",
+      "target": "10th Edition"
+    },
+    {
+      "key": 0,
+      "source": "2 BSD",
+      "target": "2.8 BSD"
+    },
+    {
+      "key": 0,
+      "source": "2.8 BSD",
+      "target": "Ultrix-11"
+    },
+    {
+      "key": 0,
+      "source": "2.8 BSD",
+      "target": "2.9 BSD"
+    },
+    {
+      "key": 0,
+      "source": "3 BSD",
+      "target": "4 BSD"
+    },
+    {
+      "key": 0,
+      "source": "4 BSD",
+      "target": "4.1 BSD"
+    },
+    {
+      "key": 0,
+      "source": "4.1 BSD",
+      "target": "4.2 BSD"
+    },
+    {
+      "key": 0,
+      "source": "4.1 BSD",
+      "target": "2.8 BSD"
+    },
+    {
+      "key": 0,
+      "source": "4.1 BSD",
+      "target": "8th Edition"
+    },
+    {
+      "key": 0,
+      "source": "4.2 BSD",
+      "target": "4.3 BSD"
+    },
+    {
+      "key": 0,
+      "source": "4.2 BSD",
+      "target": "Ultrix-32"
+    },
+    {
+      "key": 0,
+      "source": "4.3 BSD",
+      "target": "4.4 BSD"
+    },
+    {
+      "key": 0,
+      "source": "4.4 BSD",
+      "target": "FreeBSD"
+    },
+    {
+      "key": 0,
+      "source": "4.4 BSD",
+      "target": "NetBSD"
+    },
+    {
+      "key": 0,
+      "source": "4.4 BSD",
+      "target": "OpenBSD"
+    },
+    {
+      "key": 0,
+      "source": "PWB 1.2",
+      "target": "PWB 2.0"
+    },
+    {
+      "key": 0,
+      "source": "USG 1.0",
+      "target": "CB Unix 1"
+    },
+    {
+      "key": 0,
+      "source": "USG 1.0",
+      "target": "USG 2.0"
+    },
+    {
+      "key": 0,
+      "source": "CB Unix 1",
+      "target": "CB Unix 2"
+    },
+    {
+      "key": 0,
+      "source": "USG 2.0",
+      "target": "USG 3.0"
+    },
+    {
+      "key": 0,
+      "source": "CB Unix 2",
+      "target": "CB Unix 3"
+    },
+    {
+      "key": 0,
+      "source": "CB Unix 3",
+      "target": "Unix/TS++"
+    },
+    {
+      "key": 0,
+      "source": "CB Unix 3",
+      "target": "PDP-11 Sys V"
+    },
+    {
+      "key": 0,
+      "source": "CB Unix 3",
+      "target": "TS 4.0"
+    },
+    {
+      "key": 0,
+      "source": "Unix/TS++",
+      "target": "TS 4.0"
+    },
+    {
+      "key": 0,
+      "source": "USG 3.0",
+      "target": "Unix/TS 3.0"
+    },
+    {
+      "key": 0,
+      "source": "Unix/TS 1.0",
+      "target": "Unix/TS 3.0"
+    },
+    {
+      "key": 0,
+      "source": "TS 4.0",
+      "target": "System V.0"
+    },
+    {
+      "key": 0,
+      "source": "System V.0",
+      "target": "System V.2"
+    },
+    {
+      "key": 0,
+      "source": "System V.2",
+      "target": "System V.3"
+    },
+    {
+      "key": 0,
+      "source": "System V.3",
+      "target": "System V.4"
+    }
+  ]
+}

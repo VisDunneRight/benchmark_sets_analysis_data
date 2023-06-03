@@ -632,10 +632,10 @@
         "C11437",
         "C00118"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05636",
       "reaction_name": "rn:R05636",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -643,10 +643,10 @@
         "C11434",
         "C11437"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05688",
       "reaction_name": "rn:R05688",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -654,10 +654,10 @@
         "C11435",
         "C11434"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05633",
       "reaction_name": "rn:R05633",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -665,10 +665,10 @@
         "C11436",
         "C11435"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05634",
       "reaction_name": "rn:R05634",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -676,10 +676,10 @@
         "C11453",
         "C11436"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05637",
       "reaction_name": "rn:R05637",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -687,10 +687,10 @@
         "C11453",
         "C11811"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08689",
       "reaction_name": "rn:R08689 rn:R10859",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -698,10 +698,10 @@
         "C11811",
         "C00129"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05884",
       "reaction_name": "rn:R05884",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -709,10 +709,10 @@
         "C01143",
         "C00129"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01121",
       "reaction_name": "rn:R01121",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -720,10 +720,10 @@
         "C01143",
         "C01107"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03245",
       "reaction_name": "rn:R03245",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -731,10 +731,10 @@
         "C01107",
         "Mevalonic_acid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02245",
       "reaction_name": "rn:R02245",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -742,10 +742,10 @@
         "Mevalonic_acid",
         "HMG-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02082",
       "reaction_name": "rn:R02082",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -753,10 +753,10 @@
         "Farnesyl_diphosphate",
         "C03428"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00702",
       "reaction_name": "rn:R00702",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -764,10 +764,10 @@
         "C03428",
         "Supraene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02872",
       "reaction_name": "rn:R02872",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -775,10 +775,10 @@
         "Supraene",
         "2,3-Oxidosqualene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02874",
       "reaction_name": "rn:R02874",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -786,10 +786,10 @@
         "Phytyl_diphosphate",
         "C00353"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02063",
       "reaction_name": "rn:R02063",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -797,10 +797,10 @@
         "C00129",
         "DMAPP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01123",
       "reaction_name": "rn:R01123",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -808,10 +808,10 @@
         "Geranyl_diphosphate",
         "C00129"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01658",
       "reaction_name": "rn:R01658",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -819,10 +819,10 @@
         "Farnesyl_diphosphate",
         "C00129"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02003",
       "reaction_name": "rn:R02003",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -830,10 +830,10 @@
         "C00129",
         "C00353"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02061",
       "reaction_name": "rn:R02061",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -841,10 +841,10 @@
         "Casbene",
         "C00353"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02064",
       "reaction_name": "rn:R02064",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -852,10 +852,10 @@
         "C00353",
         "Copalyl_diphosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06298",
       "reaction_name": "rn:R06298",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -863,10 +863,10 @@
         "Copalyl_diphosphate",
         "Abietadiene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06301",
       "reaction_name": "rn:R06301",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -874,10 +874,10 @@
         "C06089",
         "C00353"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02068",
       "reaction_name": "rn:R02068",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -885,10 +885,10 @@
         "C00353",
         "Taxa-4,11-diene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06305",
       "reaction_name": "rn:R06305",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -896,10 +896,10 @@
         "Taxa-4,11-diene",
         "C11895"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06306",
       "reaction_name": "rn:R06306",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -907,10 +907,10 @@
         "C11895",
         "C11897"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06308",
       "reaction_name": "rn:R06308",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -918,10 +918,10 @@
         "C11700",
         "Baccatin_III"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06311",
       "reaction_name": "rn:R06311",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -929,10 +929,10 @@
         "C06089",
         "ent-Kaurene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05092",
       "reaction_name": "rn:R05092",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -940,10 +940,10 @@
         "ent-Kaurene",
         "Kaurenic_acid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10066",
       "reaction_name": "rn:R10066",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -951,10 +951,10 @@
         "Kaurenic_acid",
         "Gibberellin_A12"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10067",
       "reaction_name": "rn:R10067",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -962,10 +962,10 @@
         "C11899",
         "C11700"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06310",
       "reaction_name": "rn:R06310",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -973,10 +973,10 @@
         "Geranyl_diphosphate",
         "(-)-alpha-Pinene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05765",
       "reaction_name": "rn:R05765",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -984,10 +984,10 @@
         "C03190",
         "Geranyl_diphosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02007",
       "reaction_name": "rn:R02007",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -995,10 +995,10 @@
         "Geranyl_diphosphate",
         "(L)-alpha-Terpineol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06421",
       "reaction_name": "rn:R06421",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1006,10 +1006,10 @@
         "(-)-Limonene",
         "Geranyl_diphosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02013",
       "reaction_name": "rn:R02013",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1017,10 +1017,10 @@
         "d-Limonene",
         "Geranyl_diphosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06120",
       "reaction_name": "rn:R06120",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1028,10 +1028,10 @@
         "DMAPP",
         "C04432"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01122",
       "reaction_name": "rn:R01122",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1039,10 +1039,10 @@
         "DMAPP",
         "Isopentenyl-ATP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08051",
       "reaction_name": "rn:R08051",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1050,10 +1050,10 @@
         "Isopentenyl-ATP",
         "C16428"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08053",
       "reaction_name": "rn:R08053",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1061,10 +1061,10 @@
         "C00353",
         "C03427"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02065",
       "reaction_name": "rn:R02065",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1072,10 +1072,10 @@
         "Phytoene",
         "C05414"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09692",
       "reaction_name": "rn:R09692",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1083,10 +1083,10 @@
         "C05430",
         "C05414"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04787",
       "reaction_name": "rn:R04787",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1094,10 +1094,10 @@
         "C05430",
         "C05431"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04798",
       "reaction_name": "rn:R04798",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1105,10 +1105,10 @@
         "C05431",
         "Lycopene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04800",
       "reaction_name": "rn:R04800",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1116,10 +1116,10 @@
         "Lycopene",
         "gamma-Carotene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05341",
       "reaction_name": "rn:R05341",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1127,10 +1127,10 @@
         "Lycopene",
         "delta-Carotene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06963",
       "reaction_name": "rn:R06963",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1138,10 +1138,10 @@
         "delta-Carotene",
         "epsilon-Carotene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07840",
       "reaction_name": "rn:R07840",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1149,10 +1149,10 @@
         "alpha-Carotene",
         "delta-Carotene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06962",
       "reaction_name": "rn:R06962",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1160,10 +1160,10 @@
         "alpha-Carotene",
         "Zeinoxanthin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07530",
       "reaction_name": "rn:R07530",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1171,10 +1171,10 @@
         "Zeinoxanthin",
         "Lutein"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07531",
       "reaction_name": "rn:R07531",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1182,10 +1182,10 @@
         "gamma-Carotene",
         "beta-Carotene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03824",
       "reaction_name": "rn:R03824",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1193,10 +1193,10 @@
         "Zeaxanthin",
         "Antheraxanthin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06946",
       "reaction_name": "rn:R06946 rn:R07179",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1204,10 +1204,10 @@
         "9-cis-Violaxanthin",
         "Xanthoxin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06953",
       "reaction_name": "rn:R06953",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1215,10 +1215,10 @@
         "Abscisic_aldehyde",
         "Xanthoxin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06954",
       "reaction_name": "rn:R06954",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1226,10 +1226,10 @@
         "ABA",
         "Abscisic_aldehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06957",
       "reaction_name": "rn:R06957",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1237,10 +1237,10 @@
         "C15970",
         "ABA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07575",
       "reaction_name": "rn:R07575",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1248,10 +1248,10 @@
         "C15786",
         "Campest-4-en-3-one"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07429",
       "reaction_name": "rn:R07429",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1259,10 +1259,10 @@
         "Campestanol",
         "6-Deoxocathasterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07454",
       "reaction_name": "rn:R07454",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1270,10 +1270,10 @@
         "6-Deoxoteasterone",
         "6-Deoxocathasterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07448",
       "reaction_name": "rn:R07448",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1281,10 +1281,10 @@
         "C15800",
         "6-Deoxoteasterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07449",
       "reaction_name": "rn:R07449",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1292,10 +1292,10 @@
         "6-Deoxotyphasterol",
         "6-Deoxocastasterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07474",
       "reaction_name": "rn:R07474",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1303,10 +1303,10 @@
         "C15803",
         "6-Deoxocastasterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07450",
       "reaction_name": "rn:R07450",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1314,10 +1314,10 @@
         "Castasterone",
         "C15803"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07451",
       "reaction_name": "rn:R07451",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1325,10 +1325,10 @@
         "Cathasterone",
         "6-Oxocampestanol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07430",
       "reaction_name": "rn:R07430",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1336,10 +1336,10 @@
         "Teasterone",
         "Cathasterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07431",
       "reaction_name": "rn:R07431",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1347,10 +1347,10 @@
         "3-Dehydroteasterone",
         "Teasterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07444",
       "reaction_name": "rn:R07444",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1358,10 +1358,10 @@
         "Typhasterol",
         "Castasterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07470",
       "reaction_name": "rn:R07470",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1369,10 +1369,10 @@
         "Brassinolide",
         "Castasterone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07471",
       "reaction_name": "rn:R07471",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1380,10 +1380,10 @@
         "Farnesyl_diphosphate",
         "Supraene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06223",
       "reaction_name": "rn:R06223",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1391,10 +1391,10 @@
         "Geraniol",
         "8-Hydroxygeraniol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08785",
       "reaction_name": "rn:R08785",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1402,10 +1402,10 @@
         "Geranyl_diphosphate",
         "Geraniol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08396",
       "reaction_name": "rn:R08396",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1413,10 +1413,10 @@
         "Antheraxanthin",
         "Violaxanthin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06947",
       "reaction_name": "rn:R06947 rn:R07178",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1424,10 +1424,10 @@
         "Loganin",
         "Secologanin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03555",
       "reaction_name": "rn:R03555",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1435,10 +1435,10 @@
         "Farnesyl_diphosphate",
         "gamma-Humulene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08540",
       "reaction_name": "rn:R08540",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1446,10 +1446,10 @@
         "Farnesyl_diphosphate",
         "Longifolene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08542",
       "reaction_name": "rn:R08542",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1457,10 +1457,10 @@
         "Farnesyl_diphosphate",
         "Caryophyllene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08541",
       "reaction_name": "rn:R08541",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1468,10 +1468,10 @@
         "Farnesyl_diphosphate",
         "delta-Cadinene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02311",
       "reaction_name": "rn:R02311",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1479,10 +1479,10 @@
         "Farnesyl_diphosphate",
         "Aristolochene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02307",
       "reaction_name": "rn:R02307",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1490,10 +1490,10 @@
         "Farnesyl_diphosphate",
         "Germacradienol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07647",
       "reaction_name": "rn:R07647",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1501,10 +1501,10 @@
         "Farnesyl_diphosphate",
         "Levomenol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08370",
       "reaction_name": "rn:R08370",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1512,10 +1512,10 @@
         "Farnesyl_diphosphate",
         "Nerolidol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08374",
       "reaction_name": "rn:R08374",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1523,10 +1523,10 @@
         "C15800",
         "6-Deoxotyphasterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07473",
       "reaction_name": "rn:R07473",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1534,10 +1534,10 @@
         "3-Dehydroteasterone",
         "Typhasterol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07469",
       "reaction_name": "rn:R07469",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1545,10 +1545,10 @@
         "Abietol",
         "Abietal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06354",
       "reaction_name": "rn:R06354",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1556,10 +1556,10 @@
         "HMG-CoA",
         "Acetoacetyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01978",
       "reaction_name": "rn:R01978",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1567,10 +1567,10 @@
         "C03427",
         "Phytoene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04218",
       "reaction_name": "rn:R04218",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1578,10 +1578,10 @@
         "Phytoene",
         "C19765"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09653",
       "reaction_name": "rn:R09653",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1589,10 +1589,10 @@
         "C19765",
         "C19764"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09654",
       "reaction_name": "rn:R09654",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1600,10 +1600,10 @@
         "C19764",
         "C15857"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09655",
       "reaction_name": "rn:R09655",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1611,10 +1611,10 @@
         "C15857",
         "C19759"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09656",
       "reaction_name": "rn:R09656",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1622,10 +1622,10 @@
         "C19759",
         "C15858"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09658",
       "reaction_name": "rn:R09658",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1633,10 +1633,10 @@
         "C15858",
         "Lycopene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07512",
       "reaction_name": "rn:R07512",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1644,10 +1644,10 @@
         "Violaxanthin",
         "Neoxanthin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06948",
       "reaction_name": "rn:R06948",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1655,10 +1655,10 @@
         "9-cis-Violaxanthin",
         "9'-cis-Neoxanthin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06951",
       "reaction_name": "rn:R06951",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1666,10 +1666,10 @@
         "Lycopene",
         "3,4-Dehydrolycopene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07518",
       "reaction_name": "rn:R07518",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1677,10 +1677,10 @@
         "3,4-Dehydrolycopene",
         "Torulene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10508",
       "reaction_name": "rn:R10508",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1688,10 +1688,10 @@
         "Torulene",
         "C19892"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09782",
       "reaction_name": "rn:R09782",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1699,10 +1699,10 @@
         "C19892",
         "Neurosporaxanthin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09783",
       "reaction_name": "rn:R09783",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1710,10 +1710,10 @@
         "Lycopene",
         "Rhodopin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07519",
       "reaction_name": "rn:R07519",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1721,10 +1721,10 @@
         "Rhodopin",
         "C15886"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07527",
       "reaction_name": "rn:R07527",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1732,10 +1732,10 @@
         "C15886",
         "C15887"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07528",
       "reaction_name": "rn:R07528",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1743,10 +1743,10 @@
         "C15887",
         "C15888"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07529",
       "reaction_name": "rn:R07529",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1754,10 +1754,10 @@
         "Rhodopin",
         "3,4-Dehydrorhodopin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07520",
       "reaction_name": "rn:R07520",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1765,10 +1765,10 @@
         "3,4-Dehydrorhodopin",
         "Anhydrorhodovibrin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07521",
       "reaction_name": "rn:R07521",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1776,10 +1776,10 @@
         "Anhydrorhodovibrin",
         "Rhodovibrin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07522",
       "reaction_name": "rn:R07522",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1787,10 +1787,10 @@
         "Rhodovibrin",
         "C15879"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07523",
       "reaction_name": "rn:R07523",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1798,10 +1798,10 @@
         "C15879",
         "Rhodoviolascin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07524",
       "reaction_name": "rn:R07524",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1809,10 +1809,10 @@
         "Rhodoviolascin",
         "2-Oxospirilloxanthin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07525",
       "reaction_name": "rn:R07525",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1820,10 +1820,10 @@
         "2-Oxospirilloxanthin",
         "C15885"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07526",
       "reaction_name": "rn:R07526",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1831,10 +1831,10 @@
         "C05431",
         "Chloroxanthin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07532",
       "reaction_name": "rn:R07532",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1842,10 +1842,10 @@
         "Chloroxanthin",
         "Demethylspheroidene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07534",
       "reaction_name": "rn:R07534",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1853,10 +1853,10 @@
         "Demethylspheroidene",
         "Spheroidene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07535",
       "reaction_name": "rn:R07535",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1864,10 +1864,10 @@
         "Spheroidene",
         "Spheroidenone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07537",
       "reaction_name": "rn:R07537",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1875,10 +1875,10 @@
         "Spheroidenone",
         "Hydroxyspheroidenone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07539",
       "reaction_name": "rn:R07539",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1886,10 +1886,10 @@
         "Hydroxyspheroidene",
         "Hydroxyspheroidenone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07538",
       "reaction_name": "rn:R07538",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1897,10 +1897,10 @@
         "Spheroidene",
         "Hydroxyspheroidene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07536",
       "reaction_name": "rn:R07536",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1908,10 +1908,10 @@
         "Chloroxanthin",
         "Methoxyneurosporene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07533",
       "reaction_name": "rn:R07533",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1919,10 +1919,10 @@
         "9'-cis-Neoxanthin",
         "Xanthoxin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06952",
       "reaction_name": "rn:R06952",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     },
     {
@@ -1930,10 +1930,10 @@
         "Geranyl_diphosphate",
         "(-)-Comphene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09972",
       "reaction_name": "rn:R09972",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Terpenoids and Polyketides"
     }
   ]

@@ -1,0 +1,22 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "tester_run_ksh:ne"
+    },
+    {
+      "id": "tester_run_ksh:n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "tester_run_ksh:ne",
+      "target": "tester_run_ksh:n"
+    }
+  ]
+}

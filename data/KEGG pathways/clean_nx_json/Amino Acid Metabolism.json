@@ -1,0 +1,4084 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "(-)-Ureidoglycolate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(E)-Cinnamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(S)-2-Acetolactate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(S)-2-Aminobutanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Ketovaline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Oxoadipate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Oxoarginine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Oxobutyrate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Oxoglutarate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "2-Oxoisocaproate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Dehydroshikimate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Fumarylpyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Iodo-L-tyrosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Isopropylmalate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Methoxytyramine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Phosphoglycerate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Phosphooxypyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Sulfinoalanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Sulfinopyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Acetamidobutanal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Acetamidobutanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Aminobutanal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Guanidinobutanal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Guanidinobutanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Maleylacetoacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Oxobutanoate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "5,10-Methylene-THF",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "5-Dehydroquinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetoacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Agmatine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Allophanate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Allysine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Arterenol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Betaine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Betaine_aldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00021",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00173",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00279",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00436",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00439",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00441",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00450",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00632",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00666",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00671",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00680",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01100",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01102",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01165",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01179",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01180",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01234",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01242",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01250",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01252",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01267",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01269",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01302",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C02504",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03082",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03089",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03175",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03227",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03231",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03283",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03287",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03296",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03344",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03366",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03415",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03506",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03539",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03680",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03824",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03871",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03912",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03972",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04043",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04092",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04133",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04188",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04236",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04272",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04281",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04302",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04390",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04405",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04409",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04421",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04462",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04582",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04666",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04896",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04916",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05539",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05576",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05577",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05580",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05583",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05584",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05594",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05634",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05635",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05852",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05931",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05932",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05946",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05947",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06000",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06001",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06002",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06006",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06007",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06032",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06157",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06442",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C07303",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C08276",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15532",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15606",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15650",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15651",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15699",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15700",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15975",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15977",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15979",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15980",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C17938",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19787",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19886",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19887",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19888",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C19929",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20949",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20950",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C21015",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CO2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Carbamoyl_phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Carboxyspermidine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Choline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Chorismate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Citraconate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Citrate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Citrulline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Creatine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Creatinine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Crotonyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Citramalate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Proline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "D-Serine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DAHP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DHI",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DHICA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Decarboxy-AdoMet",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dexfosfoserine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dimethylacryloyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dimethylglycine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dopamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dopaquinone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ectoine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ethene",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Feruloyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Fumarate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Fumarylacetoacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "GABA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gentisate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gentisate_aldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gln-tRNA(Gln)",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glu-tRNA(Gln)",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glutamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glutaryl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Gly",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glycocyamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glyoxalate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "H2S",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "HMG-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "HTPA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Histamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Homocitrate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Homocysteine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Homogentisate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Homoisocitrate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Homoprotocatechuate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Homovanillate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Homovanillin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydroxyproline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hydroxypyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "IAA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Indole",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Indole-5,6-quinone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Indoleacetaldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Indolepyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Isobutyryl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Isovaleryl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-2-Aminoadipate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Adrenaline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Alanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Allothreonine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Arg",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Argininosuccinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Asp",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Asparagine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Cystathionine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Cysteine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Diiodotyrosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Dopa",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Dopachrome",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Glutamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Histidinal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Histidine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Histidinol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Homoserine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Hydroxylysine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Isoleucine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Kynurenine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Leucine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Lysine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Metanephrine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Normetanephrine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Ornithine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Phenylalanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Pipecolate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Proline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Threonine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Valine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "LysW-L-ornithine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "LysW-gamma-L-lysine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "LysW-glutamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "MTA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Maleylpyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Melatonin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Mercaptopyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Methacrylyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Methionine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Acetyl-L-aspartate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Acetyl-L-glutamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Acetylornithine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Acetylputrescine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Acetylserotonin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Carbamoylsarcosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Formylkynurenine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Methylhydantoin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "NAAG",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "NAAG2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "NH3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "O-Acetyl-L-serine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "O-Acetylhomoserine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "O-Succinylhomoserine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ophthalmate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Oxaloacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Oxitriptan",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PEP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PRPP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phenylacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phenylpyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phosphocreatine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phosphoribosyl-AMP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Phosphoribosyl-ATP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Prephenate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pretyrosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Propionyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Putrescine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "S-Sulfo-L-cysteine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "SAM",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Saccharopine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sarcosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Serine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Serotonin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Shikimate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Spermidine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Spermine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Succinate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "T3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "T4",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tiglyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tryptamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tryptophan",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tyrosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Urea",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Urocanate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Vanillin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Vitamin_L1",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "alpha-Tolualdehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "beta-Alanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "beta-Citrylglutamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "cis-Homoaconitate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "gamma-Glutamyl-GABA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "o-Aminomuconate",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "source": "Succinate",
+      "target": "4-Oxobutanoate",
+      "reaction_id": "R00713",
+      "reaction_name": "rn:R00713 rn:R00714",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "4-Oxobutanoate",
+      "target": "GABA",
+      "reaction_id": "R01648",
+      "reaction_name": "rn:R01648 rn:R10178",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Glutamate",
+      "target": "GABA",
+      "reaction_id": "R00261",
+      "reaction_name": "rn:R00261",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "2-Oxoglutarate",
+      "target": "Glutamate",
+      "reaction_id": "R00093",
+      "reaction_name": "rn:R00093 rn:R00114 rn:R00243 rn:R00248",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Oxaloacetate",
+      "target": "L-Asp",
+      "reaction_id": "R00357",
+      "reaction_name": "rn:R00357",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Fumarate",
+      "target": "L-Asp",
+      "reaction_id": "R00490",
+      "reaction_name": "rn:R00490",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Asparagine",
+      "target": "L-Asp",
+      "reaction_id": "R00483",
+      "reaction_name": "rn:R00483 rn:R00485 rn:R00578",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "Serine",
+      "reaction_id": "R00220",
+      "reaction_name": "rn:R00220",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "3-Phosphoglycerate",
+      "target": "3-Phosphooxypyruvate",
+      "reaction_id": "R01513",
+      "reaction_name": "rn:R01513",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Dexfosfoserine",
+      "target": "3-Phosphooxypyruvate",
+      "reaction_id": "R04173",
+      "reaction_name": "rn:R04173",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Dexfosfoserine",
+      "target": "Serine",
+      "reaction_id": "R00582",
+      "reaction_name": "rn:R00582",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Asp",
+      "target": "C03082",
+      "reaction_id": "R00480",
+      "reaction_name": "rn:R00480",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03082",
+      "target": "C00441",
+      "reaction_id": "R02291",
+      "reaction_name": "rn:R02291",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Homoserine",
+      "target": "C00441",
+      "reaction_id": "R01773",
+      "reaction_name": "rn:R01773 rn:R01775",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01102",
+      "target": "L-Homoserine",
+      "reaction_id": "R01771",
+      "reaction_name": "rn:R01771",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Threonine",
+      "target": "C01102",
+      "reaction_id": "R01466",
+      "reaction_name": "rn:R01466",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Gly",
+      "target": "L-Threonine",
+      "reaction_id": "R00751",
+      "reaction_name": "rn:R00751",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Serine",
+      "target": "5,10-Methylene-THF",
+      "reaction_id": "R00945",
+      "reaction_name": "rn:R00945",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01242",
+      "target": "5,10-Methylene-THF",
+      "reaction_id": "R04125",
+      "reaction_name": "rn:R04125",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01242",
+      "target": "Gly",
+      "reaction_id": "R03425",
+      "reaction_name": "rn:R03425",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Glyoxalate",
+      "target": "Gly",
+      "reaction_id": "R00364",
+      "reaction_name": "rn:R00364 rn:R00366 rn:R00372",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00441",
+      "target": "C03283",
+      "reaction_id": "R06977",
+      "reaction_name": "rn:R06977",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Ectoine",
+      "target": "C06442",
+      "reaction_id": "R06979",
+      "reaction_name": "rn:R06979",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Allothreonine",
+      "target": "Gly",
+      "reaction_id": "R06171",
+      "reaction_name": "rn:R06171",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "O-Acetylhomoserine",
+      "target": "L-Homoserine",
+      "reaction_id": "R01776",
+      "reaction_name": "rn:R01776",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "O-Acetylhomoserine",
+      "target": "L-Cystathionine",
+      "reaction_id": "R03217",
+      "reaction_name": "rn:R03217",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Cystathionine",
+      "target": "O-Succinylhomoserine",
+      "reaction_id": "R03260",
+      "reaction_name": "rn:R03260",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "O-Succinylhomoserine",
+      "target": "L-Homoserine",
+      "reaction_id": "R01777",
+      "reaction_name": "rn:R01777",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "O-Succinylhomoserine",
+      "target": "2-Oxobutyrate",
+      "reaction_id": "R00999",
+      "reaction_name": "rn:R00999",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Cystathionine",
+      "target": "L-Cysteine",
+      "reaction_id": "R01001",
+      "reaction_name": "rn:R01001",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "O-Succinylhomoserine",
+      "target": "Homocysteine",
+      "reaction_id": "R01288",
+      "reaction_name": "rn:R01288",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Homocysteine",
+      "target": "Methionine",
+      "reaction_id": "R00650",
+      "reaction_name": "rn:R00650 rn:R00946 rn:R02821 rn:R04405",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Methionine",
+      "target": "C01180",
+      "reaction_id": "R00648",
+      "reaction_name": "rn:R00648 rn:R07396",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Homocysteine",
+      "target": "C00021",
+      "reaction_id": "R00192",
+      "reaction_name": "rn:R00192",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00021",
+      "target": "SAM",
+      "reaction_id": "R04858",
+      "reaction_name": "rn:R04858 rn:R10404",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Methionine",
+      "target": "SAM",
+      "reaction_id": "R00177",
+      "reaction_name": "rn:R00177",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00021",
+      "target": "C03539",
+      "reaction_id": "R00194",
+      "reaction_name": "rn:R00194",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01180",
+      "target": "C15606",
+      "reaction_id": "R07364",
+      "reaction_name": "rn:R07364",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C15606",
+      "target": "C15651",
+      "reaction_id": "R07394",
+      "reaction_name": "rn:R07394",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C15651",
+      "target": "C15650",
+      "reaction_id": "R07393",
+      "reaction_name": "rn:R07393",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C15650",
+      "target": "C04582",
+      "reaction_id": "R07392",
+      "reaction_name": "rn:R07392",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04188",
+      "target": "C04582",
+      "reaction_id": "R04420",
+      "reaction_name": "rn:R04420",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03089",
+      "target": "C04188",
+      "reaction_id": "R04143",
+      "reaction_name": "rn:R04143",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "SAM",
+      "target": "Decarboxy-AdoMet",
+      "reaction_id": "R00178",
+      "reaction_name": "rn:R00178",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C08276",
+      "target": "C15606",
+      "reaction_id": "R07363",
+      "reaction_name": "rn:R07363",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04188",
+      "target": "MTA",
+      "reaction_id": "R01402",
+      "reaction_name": "rn:R01402",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "O-Acetyl-L-serine",
+      "target": "Serine",
+      "reaction_id": "R00586",
+      "reaction_name": "rn:R00586",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "Mercaptopyruvate",
+      "reaction_id": "R03105",
+      "reaction_name": "rn:R03105",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "3-Sulfinoalanine",
+      "target": "L-Cysteine",
+      "reaction_id": "R00893",
+      "reaction_name": "rn:R00893",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "3-Sulfinopyruvate",
+      "target": "3-Sulfinoalanine",
+      "reaction_id": "R02619",
+      "reaction_name": "rn:R02619",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "L-Cysteine",
+      "reaction_id": "R00782",
+      "reaction_name": "rn:R00782",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Acetyl-CoA",
+      "target": "Homocitrate",
+      "reaction_id": "R00271",
+      "reaction_name": "rn:R00271",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Homocitrate",
+      "target": "cis-Homoaconitate",
+      "reaction_id": "R03444",
+      "reaction_name": "rn:R03444",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Homoisocitrate",
+      "target": "2-Oxoadipate",
+      "reaction_id": "R01934",
+      "reaction_name": "rn:R01934",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "2-Oxoadipate",
+      "target": "L-2-Aminoadipate",
+      "reaction_id": "R01939",
+      "reaction_name": "rn:R01939",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C19886",
+      "target": "L-2-Aminoadipate",
+      "reaction_id": "R09775",
+      "reaction_name": "rn:R09775",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C19886",
+      "target": "C19887",
+      "reaction_id": "R09776",
+      "reaction_name": "rn:R09776",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C19887",
+      "target": "C19888",
+      "reaction_id": "R09777",
+      "reaction_name": "rn:R09777",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C19888",
+      "target": "LysW-gamma-L-lysine",
+      "reaction_id": "R09778",
+      "reaction_name": "rn:R09778",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "LysW-gamma-L-lysine",
+      "target": "L-Lysine",
+      "reaction_id": "R09779",
+      "reaction_name": "rn:R09779",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Lysine",
+      "target": "C00680",
+      "reaction_id": "R00451",
+      "reaction_name": "rn:R00451",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00680",
+      "target": "C00666",
+      "reaction_id": "R02735",
+      "reaction_name": "rn:R02735",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04421",
+      "target": "C00666",
+      "reaction_id": "R02734",
+      "reaction_name": "rn:R02734",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04462",
+      "target": "C04421",
+      "reaction_id": "R04475",
+      "reaction_name": "rn:R04475",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04462",
+      "target": "C03972",
+      "reaction_id": "R04365",
+      "reaction_name": "rn:R04365",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03972",
+      "target": "HTPA",
+      "reaction_id": "R04198",
+      "reaction_name": "rn:R04198 rn:R04199",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00441",
+      "target": "HTPA",
+      "reaction_id": "R10147",
+      "reaction_name": "rn:R10147",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Allysine",
+      "target": "Saccharopine",
+      "reaction_id": "R02313",
+      "reaction_name": "rn:R02313 rn:R02315",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Lysine",
+      "target": "Saccharopine",
+      "reaction_id": "R00715",
+      "reaction_name": "rn:R00715 rn:R00716",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Lysine",
+      "target": "Allysine",
+      "reaction_id": "R00446",
+      "reaction_name": "rn:R00446",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Allysine",
+      "target": "C00450",
+      "reaction_id": "R02317",
+      "reaction_name": "rn:R02317",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00450",
+      "target": "L-Pipecolate",
+      "reaction_id": "R02204",
+      "reaction_name": "rn:R02204 rn:R02205 rn:R08414",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Pipecolate",
+      "target": "C04092",
+      "reaction_id": "R02201",
+      "reaction_name": "rn:R02201 rn:R02203",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Crotonyl-CoA",
+      "target": "Glutaryl-CoA",
+      "reaction_id": "R02488",
+      "reaction_name": "rn:R02488",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Glutaryl-CoA",
+      "target": "C06157",
+      "reaction_id": "R02571",
+      "reaction_name": "rn:R02571",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C06157",
+      "target": "2-Oxoadipate",
+      "reaction_id": "R01940",
+      "reaction_name": "rn:R01940",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Glyoxalate",
+      "target": "C05946",
+      "reaction_id": "R00471",
+      "reaction_name": "rn:R00471",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05946",
+      "target": "C05947",
+      "reaction_id": "R05052",
+      "reaction_name": "rn:R05052 rn:R05053",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05947",
+      "target": "C04281",
+      "reaction_id": "R04444",
+      "reaction_name": "rn:R04444 rn:R04445",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Hydroxyproline",
+      "target": "C04281",
+      "reaction_id": "R03291",
+      "reaction_name": "rn:R03291 rn:R03293 rn:R03295",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Proline",
+      "target": "Hydroxyproline",
+      "reaction_id": "R01252",
+      "reaction_name": "rn:R01252",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03912",
+      "target": "L-Proline",
+      "reaction_id": "R01248",
+      "reaction_name": "rn:R01248 rn:R01251 rn:R01253",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Glutamate",
+      "target": "C03912",
+      "reaction_id": "R00707",
+      "reaction_name": "rn:R00707 rn:R00708",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Ornithine",
+      "target": "C01165",
+      "reaction_id": "R00667",
+      "reaction_name": "rn:R00667",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Carbamoyl_phosphate",
+      "target": "Citrulline",
+      "reaction_id": "R01398",
+      "reaction_name": "rn:R01398",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Argininosuccinate",
+      "target": "L-Arg",
+      "reaction_id": "R01086",
+      "reaction_name": "rn:R01086",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Arg",
+      "target": "Urea",
+      "reaction_id": "R00551",
+      "reaction_name": "rn:R00551",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Citrulline",
+      "target": "L-Arg",
+      "reaction_id": "R00552",
+      "reaction_name": "rn:R00552 rn:R00557 rn:R11711",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Arg",
+      "target": "Glycocyamine",
+      "reaction_id": "R00565",
+      "reaction_name": "rn:R00565",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Creatine",
+      "target": "Phosphocreatine",
+      "reaction_id": "R01881",
+      "reaction_name": "rn:R01881",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "PRPP",
+      "target": "Phosphoribosyl-ATP",
+      "reaction_id": "R01071",
+      "reaction_name": "rn:R01071",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Phosphoribosyl-ATP",
+      "target": "Phosphoribosyl-AMP",
+      "reaction_id": "R04035",
+      "reaction_name": "rn:R04035",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Phosphoribosyl-AMP",
+      "target": "C04896",
+      "reaction_id": "R04037",
+      "reaction_name": "rn:R04037",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04896",
+      "target": "C04916",
+      "reaction_id": "R04640",
+      "reaction_name": "rn:R04640",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04916",
+      "target": "C04666",
+      "reaction_id": "R04558",
+      "reaction_name": "rn:R04558",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01267",
+      "target": "C04666",
+      "reaction_id": "R03457",
+      "reaction_name": "rn:R03457",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01267",
+      "target": "C01100",
+      "reaction_id": "R03243",
+      "reaction_name": "rn:R03243",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01100",
+      "target": "L-Histidinol",
+      "reaction_id": "R03013",
+      "reaction_name": "rn:R03013",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Histidinal",
+      "target": "L-Histidine",
+      "reaction_id": "R01163",
+      "reaction_name": "rn:R01163",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Histamine",
+      "target": "L-Histidine",
+      "reaction_id": "R01167",
+      "reaction_name": "rn:R01167",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Histidine",
+      "target": "Urocanate",
+      "reaction_id": "R01168",
+      "reaction_name": "rn:R01168",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Urocanate",
+      "target": "C03680",
+      "reaction_id": "R02914",
+      "reaction_name": "rn:R02914",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03680",
+      "target": "C00439",
+      "reaction_id": "R02288",
+      "reaction_name": "rn:R02288",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00439",
+      "target": "Glutamate",
+      "reaction_id": "R02285",
+      "reaction_name": "rn:R02285 rn:R02287",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "PEP",
+      "target": "DAHP",
+      "reaction_id": "R01826",
+      "reaction_name": "rn:R01826",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "DAHP",
+      "target": "5-Dehydroquinate",
+      "reaction_id": "R03083",
+      "reaction_name": "rn:R03083",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "5-Dehydroquinate",
+      "target": "3-Dehydroshikimate",
+      "reaction_id": "R03084",
+      "reaction_name": "rn:R03084",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "3-Dehydroshikimate",
+      "target": "Shikimate",
+      "reaction_id": "R02413",
+      "reaction_name": "rn:R02413 rn:R02415 rn:R06847",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03175",
+      "target": "Shikimate",
+      "reaction_id": "R02412",
+      "reaction_name": "rn:R02412",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01269",
+      "target": "C03175",
+      "reaction_id": "R03460",
+      "reaction_name": "rn:R03460",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Chorismate",
+      "target": "C01269",
+      "reaction_id": "R01714",
+      "reaction_name": "rn:R01714",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Chorismate",
+      "target": "Vitamin_L1",
+      "reaction_id": "R00985",
+      "reaction_name": "rn:R00985 rn:R00986",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Vitamin_L1",
+      "target": "C04302",
+      "reaction_id": "R01073",
+      "reaction_name": "rn:R01073",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04302",
+      "target": "C01302",
+      "reaction_id": "R03509",
+      "reaction_name": "rn:R03509",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01302",
+      "target": "C03506",
+      "reaction_id": "R03508",
+      "reaction_name": "rn:R03508",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Prephenate",
+      "target": "Chorismate",
+      "reaction_id": "R01715",
+      "reaction_name": "rn:R01715",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Phenylpyruvate",
+      "target": "Prephenate",
+      "reaction_id": "R01373",
+      "reaction_name": "rn:R01373",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Phenylalanine",
+      "target": "Phenylpyruvate",
+      "reaction_id": "R00688",
+      "reaction_name": "rn:R00688 rn:R00689 rn:R00692 rn:R00694",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01179",
+      "target": "Prephenate",
+      "reaction_id": "R01728",
+      "reaction_name": "rn:R01728 rn:R01730",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Tyrosine",
+      "target": "C01179",
+      "reaction_id": "R00729",
+      "reaction_name": "rn:R00729 rn:R00734 rn:R09254",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Phenylalanine",
+      "target": "Tyrosine",
+      "reaction_id": "R01795",
+      "reaction_name": "rn:R01795",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Tyrosine",
+      "target": "Pretyrosine",
+      "reaction_id": "R00732",
+      "reaction_name": "rn:R00732 rn:R00733",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Prephenate",
+      "target": "Pretyrosine",
+      "reaction_id": "R01731",
+      "reaction_name": "rn:R01731 rn:R07276",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01179",
+      "target": "Homogentisate",
+      "reaction_id": "R02521",
+      "reaction_name": "rn:R02521",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Gentisate_aldehyde",
+      "target": "Gentisate",
+      "reaction_id": "R02655",
+      "reaction_name": "rn:R02655 rn:R02657",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Gentisate",
+      "target": "Maleylpyruvate",
+      "reaction_id": "R02656",
+      "reaction_name": "rn:R02656",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Maleylpyruvate",
+      "target": "3-Fumarylpyruvate",
+      "reaction_id": "R03868",
+      "reaction_name": "rn:R03868",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Homogentisate",
+      "target": "4-Maleylacetoacetate",
+      "reaction_id": "R02519",
+      "reaction_name": "rn:R02519",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "4-Maleylacetoacetate",
+      "target": "Fumarylacetoacetate",
+      "reaction_id": "R03181",
+      "reaction_name": "rn:R03181",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Dopa",
+      "target": "Tyrosine",
+      "reaction_id": "R00031",
+      "reaction_name": "rn:R00031 rn:R00731 rn:R01815",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Dopa",
+      "target": "Dopamine",
+      "reaction_id": "R02080",
+      "reaction_name": "rn:R02080",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Dopamine",
+      "target": "Arterenol",
+      "reaction_id": "R02535",
+      "reaction_name": "rn:R02535",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Arterenol",
+      "target": "L-Adrenaline",
+      "reaction_id": "R02533",
+      "reaction_name": "rn:R02533",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Adrenaline",
+      "target": "L-Metanephrine",
+      "reaction_id": "R02920",
+      "reaction_name": "rn:R02920",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Metanephrine",
+      "target": "C05583",
+      "reaction_id": "R04894",
+      "reaction_name": "rn:R04894",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Arterenol",
+      "target": "C05577",
+      "reaction_id": "R02532",
+      "reaction_name": "rn:R02532",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05577",
+      "target": "C05580",
+      "reaction_id": "R04882",
+      "reaction_name": "rn:R04882 rn:R04883",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05580",
+      "target": "C05584",
+      "reaction_id": "R04887",
+      "reaction_name": "rn:R04887",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05583",
+      "target": "C05584",
+      "reaction_id": "R04891",
+      "reaction_name": "rn:R04891 rn:R04892",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05577",
+      "target": "C05576",
+      "reaction_id": "R04880",
+      "reaction_name": "rn:R04880",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05576",
+      "target": "C05594",
+      "reaction_id": "R04881",
+      "reaction_name": "rn:R04881",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Arterenol",
+      "target": "L-Normetanephrine",
+      "reaction_id": "R02534",
+      "reaction_name": "rn:R02534",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Normetanephrine",
+      "target": "C05583",
+      "reaction_id": "R04893",
+      "reaction_name": "rn:R04893",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05577",
+      "target": "L-Adrenaline",
+      "reaction_id": "R02919",
+      "reaction_name": "rn:R02919",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Dopamine",
+      "target": "3-Methoxytyramine",
+      "reaction_id": "R04301",
+      "reaction_name": "rn:R04301",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "3-Methoxytyramine",
+      "target": "Homovanillin",
+      "reaction_id": "R04890",
+      "reaction_name": "rn:R04890",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Homovanillin",
+      "target": "Homovanillate",
+      "reaction_id": "R04888",
+      "reaction_name": "rn:R04888 rn:R04889",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Homovanillate",
+      "target": "Homoprotocatechuate",
+      "reaction_id": "R03304",
+      "reaction_name": "rn:R03304",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04043",
+      "target": "Homoprotocatechuate",
+      "reaction_id": "R03300",
+      "reaction_name": "rn:R03300 rn:R03302",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Dopamine",
+      "target": "C04043",
+      "reaction_id": "R04300",
+      "reaction_name": "rn:R04300",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Dopa",
+      "target": "Dopaquinone",
+      "reaction_id": "R02078",
+      "reaction_name": "rn:R02078",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Dopa",
+      "target": "Dopaquinone",
+      "reaction_id": "R00045",
+      "reaction_name": "rn:R00045",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "DHI",
+      "target": "Indole-5,6-quinone",
+      "reaction_id": "R04884",
+      "reaction_name": "rn:R04884",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Dopachrome",
+      "target": "DHICA",
+      "reaction_id": "R03673",
+      "reaction_name": "rn:R03673",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "3-Iodo-L-tyrosine",
+      "target": "Tyrosine",
+      "reaction_id": "R03539",
+      "reaction_name": "rn:R03539",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "3-Fumarylpyruvate",
+      "target": "Pyruvate",
+      "reaction_id": "R01085",
+      "reaction_name": "rn:R01085",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "N-Formylkynurenine",
+      "target": "Tryptophan",
+      "reaction_id": "R00678",
+      "reaction_name": "rn:R00678",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Kynurenine",
+      "target": "N-Formylkynurenine",
+      "reaction_id": "R01959",
+      "reaction_name": "rn:R01959",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Vitamin_L1",
+      "target": "L-Kynurenine",
+      "reaction_id": "R00987",
+      "reaction_name": "rn:R00987",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Kynurenine",
+      "target": "C01252",
+      "reaction_id": "R01956",
+      "reaction_name": "rn:R01956",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Kynurenine",
+      "target": "C03227",
+      "reaction_id": "R01960",
+      "reaction_name": "rn:R01960",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03227",
+      "target": "C00632",
+      "reaction_id": "R02668",
+      "reaction_name": "rn:R02668",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04409",
+      "target": "C00632",
+      "reaction_id": "R02665",
+      "reaction_name": "rn:R02665",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03824",
+      "target": "C04409",
+      "reaction_id": "R04323",
+      "reaction_name": "rn:R04323",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03824",
+      "target": "o-Aminomuconate",
+      "reaction_id": "R03889",
+      "reaction_name": "rn:R03889",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Tryptophan",
+      "target": "Indolepyruvate",
+      "reaction_id": "R00677",
+      "reaction_name": "rn:R00677 rn:R00684 rn:R10180",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Indolepyruvate",
+      "target": "Indoleacetaldehyde",
+      "reaction_id": "R01974",
+      "reaction_name": "rn:R01974",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Indoleacetaldehyde",
+      "target": "IAA",
+      "reaction_id": "R02678",
+      "reaction_name": "rn:R02678",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Tryptophan",
+      "target": "Tryptamine",
+      "reaction_id": "R00685",
+      "reaction_name": "rn:R00685",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Oxitriptan",
+      "target": "Tryptophan",
+      "reaction_id": "R01814",
+      "reaction_name": "rn:R01814",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Serotonin",
+      "target": "Oxitriptan",
+      "reaction_id": "R02701",
+      "reaction_name": "rn:R02701",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Serotonin",
+      "target": "N-Acetylserotonin",
+      "reaction_id": "R02911",
+      "reaction_name": "rn:R02911",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "N-Acetylserotonin",
+      "target": "Melatonin",
+      "reaction_id": "R03130",
+      "reaction_name": "rn:R03130",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05634",
+      "target": "Serotonin",
+      "reaction_id": "R02908",
+      "reaction_name": "rn:R02908",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05634",
+      "target": "C05635",
+      "reaction_id": "R04903",
+      "reaction_name": "rn:R04903 rn:R04904",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Citrulline",
+      "target": "L-Argininosuccinate",
+      "reaction_id": "R01954",
+      "reaction_name": "rn:R01954",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01165",
+      "target": "C03287",
+      "reaction_id": "R03313",
+      "reaction_name": "rn:R03313",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Glutamate",
+      "target": "C03287",
+      "reaction_id": "R00239",
+      "reaction_name": "rn:R00239",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Glutamate",
+      "target": "N-Acetyl-L-glutamate",
+      "reaction_id": "R00259",
+      "reaction_name": "rn:R00259",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "N-Acetyl-L-glutamate",
+      "target": "C04133",
+      "reaction_id": "R02649",
+      "reaction_name": "rn:R02649",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04133",
+      "target": "C01250",
+      "reaction_id": "R03443",
+      "reaction_name": "rn:R03443",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01250",
+      "target": "N-Acetylornithine",
+      "reaction_id": "R02283",
+      "reaction_name": "rn:R02283",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "N-Acetylornithine",
+      "target": "L-Ornithine",
+      "reaction_id": "R00669",
+      "reaction_name": "rn:R00669 rn:R02282",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "NH3",
+      "target": "Carbamoyl_phosphate",
+      "reaction_id": "R00149",
+      "reaction_name": "rn:R00149 rn:R00150",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Ornithine",
+      "target": "Putrescine",
+      "reaction_id": "R00670",
+      "reaction_name": "rn:R00670",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Agmatine",
+      "target": "Putrescine",
+      "reaction_id": "R01157",
+      "reaction_name": "rn:R01157",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Arg",
+      "target": "Agmatine",
+      "reaction_id": "R00566",
+      "reaction_name": "rn:R00566",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Putrescine",
+      "target": "N-Acetylputrescine",
+      "reaction_id": "R01154",
+      "reaction_name": "rn:R01154 rn:R01156",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "N-Acetylputrescine",
+      "target": "4-Acetamidobutanal",
+      "reaction_id": "R04025",
+      "reaction_name": "rn:R04025",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "4-Acetamidobutanal",
+      "target": "4-Acetamidobutanoate",
+      "reaction_id": "R05050",
+      "reaction_name": "rn:R05050",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Putrescine",
+      "target": "C15699",
+      "reaction_id": "R07414",
+      "reaction_name": "rn:R07414",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C15699",
+      "target": "C15700",
+      "reaction_id": "R07415",
+      "reaction_name": "rn:R07415",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C15700",
+      "target": "gamma-Glutamyl-GABA",
+      "reaction_id": "R07417",
+      "reaction_name": "rn:R07417 rn:R07418",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "GABA",
+      "target": "gamma-Glutamyl-GABA",
+      "reaction_id": "R07419",
+      "reaction_name": "rn:R07419",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Threonine",
+      "target": "2-Oxobutyrate",
+      "reaction_id": "R00996",
+      "reaction_name": "rn:R00996",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "C06006",
+      "reaction_id": "R08648",
+      "reaction_name": "rn:R08648",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C06007",
+      "target": "C00671",
+      "reaction_id": "R05070",
+      "reaction_name": "rn:R05070",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00671",
+      "target": "L-Isoleucine",
+      "reaction_id": "R02197",
+      "reaction_name": "rn:R02197 rn:R02199",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "(S)-2-Acetolactate",
+      "target": "Pyruvate",
+      "reaction_id": "R00226",
+      "reaction_name": "rn:R00226",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04272",
+      "target": "2-Ketovaline",
+      "reaction_id": "R04441",
+      "reaction_name": "rn:R04441",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C02504",
+      "target": "2-Ketovaline",
+      "reaction_id": "R01213",
+      "reaction_name": "rn:R01213",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "3-Isopropylmalate",
+      "target": "C04236",
+      "reaction_id": "R04426",
+      "reaction_name": "rn:R04426",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "2-Oxoisocaproate",
+      "target": "L-Leucine",
+      "reaction_id": "R01088",
+      "reaction_name": "rn:R01088 rn:R01090",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "2-Ketovaline",
+      "target": "L-Valine",
+      "reaction_id": "R01214",
+      "reaction_name": "rn:R01214 rn:R01215 rn:R01434",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Propionyl-CoA",
+      "target": "C03344",
+      "reaction_id": "R00927",
+      "reaction_name": "rn:R00927",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04405",
+      "target": "C03344",
+      "reaction_id": "R04203",
+      "reaction_name": "rn:R04203",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04405",
+      "target": "Tiglyl-CoA",
+      "reaction_id": "R04204",
+      "reaction_name": "rn:R04204",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Tiglyl-CoA",
+      "target": "C15980",
+      "reaction_id": "R03172",
+      "reaction_name": "rn:R03172",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C15980",
+      "target": "C15979",
+      "reaction_id": "R03174",
+      "reaction_name": "rn:R03174",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00671",
+      "target": "C15979",
+      "reaction_id": "R04225",
+      "reaction_name": "rn:R04225",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "2-Oxoisocaproate",
+      "target": "C15975",
+      "reaction_id": "R01702",
+      "reaction_name": "rn:R01702",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Isovaleryl-CoA",
+      "target": "C15975",
+      "reaction_id": "R04097",
+      "reaction_name": "rn:R04097",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Isovaleryl-CoA",
+      "target": "Dimethylacryloyl-CoA",
+      "reaction_id": "R04095",
+      "reaction_name": "rn:R04095",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Dimethylacryloyl-CoA",
+      "target": "C03231",
+      "reaction_id": "R04138",
+      "reaction_name": "rn:R04138",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03231",
+      "target": "HMG-CoA",
+      "reaction_id": "R02085",
+      "reaction_name": "rn:R02085",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "(E)-Cinnamate",
+      "target": "L-Phenylalanine",
+      "reaction_id": "R00697",
+      "reaction_name": "rn:R00697",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "H2S",
+      "target": "L-Cysteine",
+      "reaction_id": "R00897",
+      "reaction_name": "rn:R00897",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Glutamine",
+      "target": "Carbamoyl_phosphate",
+      "reaction_id": "R00575",
+      "reaction_name": "rn:R00575",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Alanine",
+      "target": "L-Asp",
+      "reaction_id": "R00397",
+      "reaction_name": "rn:R00397",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Asp",
+      "target": "beta-Alanine",
+      "reaction_id": "R00489",
+      "reaction_name": "rn:R00489",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "O-Acetylhomoserine",
+      "target": "Homocysteine",
+      "reaction_id": "R01287",
+      "reaction_name": "rn:R01287 rn:R02026",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Hydroxypyruvate",
+      "target": "Serine",
+      "reaction_id": "R00585",
+      "reaction_name": "rn:R00585 rn:R00588",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Gly",
+      "target": "Sarcosine",
+      "reaction_id": "R00610",
+      "reaction_name": "rn:R00610 rn:R00611",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Sarcosine",
+      "target": "Dimethylglycine",
+      "reaction_id": "R01565",
+      "reaction_name": "rn:R01565",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Dimethylglycine",
+      "target": "Betaine",
+      "reaction_id": "R02821",
+      "reaction_name": "rn:R02821",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Mercaptopyruvate",
+      "target": "L-Cysteine",
+      "reaction_id": "R00895",
+      "reaction_name": "rn:R00895 rn:R00896",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Diiodotyrosine",
+      "target": "3-Iodo-L-tyrosine",
+      "reaction_id": "R03973",
+      "reaction_name": "rn:R03973",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Diiodotyrosine",
+      "target": "T3",
+      "reaction_id": "R03953",
+      "reaction_name": "rn:R03953",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03283",
+      "target": "C06442",
+      "reaction_id": "R06978",
+      "reaction_name": "rn:R06978",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03089",
+      "target": "MTA",
+      "reaction_id": "R01401",
+      "reaction_name": "rn:R01401",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Urea",
+      "target": "Allophanate",
+      "reaction_id": "R00774",
+      "reaction_name": "rn:R00774",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Glycocyamine",
+      "target": "Creatine",
+      "reaction_id": "R01883",
+      "reaction_name": "rn:R01883",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Urea",
+      "target": "CO2",
+      "reaction_id": "R00131",
+      "reaction_name": "rn:R00131",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Gln-tRNA(Gln)",
+      "target": "L-Glutamine",
+      "reaction_id": "R03652",
+      "reaction_name": "rn:R03652",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Glu-tRNA(Gln)",
+      "target": "Glutamate",
+      "reaction_id": "R03651",
+      "reaction_name": "rn:R03651",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Gln-tRNA(Gln)",
+      "target": "Glu-tRNA(Gln)",
+      "reaction_id": "R03905",
+      "reaction_name": "rn:R03905",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "2-Oxoisocaproate",
+      "target": "Isovaleryl-CoA",
+      "reaction_id": "R08566",
+      "reaction_name": "rn:R08566",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00671",
+      "target": "C15980",
+      "reaction_id": "R08567",
+      "reaction_name": "rn:R08567",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Alanine",
+      "target": "Pyruvate",
+      "reaction_id": "R00258",
+      "reaction_name": "rn:R00258 rn:R00369 rn:R00396 rn:R00400",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Proline",
+      "target": "D-Proline",
+      "reaction_id": "R01255",
+      "reaction_name": "rn:R01255",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "N-Carbamoylsarcosine",
+      "target": "Sarcosine",
+      "reaction_id": "R01563",
+      "reaction_name": "rn:R01563",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "N-Methylhydantoin",
+      "target": "N-Carbamoylsarcosine",
+      "reaction_id": "R03187",
+      "reaction_name": "rn:R03187",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Creatine",
+      "target": "Sarcosine",
+      "reaction_id": "R01566",
+      "reaction_name": "rn:R01566",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Creatinine",
+      "target": "N-Methylhydantoin",
+      "reaction_id": "R02922",
+      "reaction_name": "rn:R02922",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00436",
+      "target": "Putrescine",
+      "reaction_id": "R01152",
+      "reaction_name": "rn:R01152",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Agmatine",
+      "target": "C00436",
+      "reaction_id": "R01416",
+      "reaction_name": "rn:R01416",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Spermidine",
+      "target": "Spermine",
+      "reaction_id": "R02869",
+      "reaction_name": "rn:R02869",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Arg",
+      "target": "2-Oxoarginine",
+      "reaction_id": "R08197",
+      "reaction_name": "rn:R08197",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "2-Oxoarginine",
+      "target": "4-Guanidinobutanal",
+      "reaction_id": "R03178",
+      "reaction_name": "rn:R03178",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "4-Guanidinobutanal",
+      "target": "4-Guanidinobutanoate",
+      "reaction_id": "R03177",
+      "reaction_name": "rn:R03177",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "4-Guanidinobutanoate",
+      "target": "GABA",
+      "reaction_id": "R01989",
+      "reaction_name": "rn:R01989 rn:R01990",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Serine",
+      "target": "Tryptophan",
+      "reaction_id": "R02722",
+      "reaction_name": "rn:R02722",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "O-Acetyl-L-serine",
+      "target": "L-Cysteine",
+      "reaction_id": "R04859",
+      "reaction_name": "rn:R04859",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C06002",
+      "target": "Propionyl-CoA",
+      "reaction_id": "R00935",
+      "reaction_name": "rn:R00935",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C06001",
+      "target": "C06002",
+      "reaction_id": "R05066",
+      "reaction_name": "rn:R05066",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C06000",
+      "target": "C06001",
+      "reaction_id": "R05064",
+      "reaction_name": "rn:R05064",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Methacrylyl-CoA",
+      "target": "C06000",
+      "reaction_id": "R04224",
+      "reaction_name": "rn:R04224",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Isobutyryl-CoA",
+      "target": "Methacrylyl-CoA",
+      "reaction_id": "R02661",
+      "reaction_name": "rn:R02661",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Isobutyryl-CoA",
+      "target": "C15977",
+      "reaction_id": "R02662",
+      "reaction_name": "rn:R02662",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "2-Ketovaline",
+      "target": "C15977",
+      "reaction_id": "R01701",
+      "reaction_name": "rn:R01701",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Phenylacetate",
+      "target": "C05852",
+      "reaction_id": "R05487",
+      "reaction_name": "rn:R05487",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Phenylpyruvate",
+      "target": "C05852",
+      "reaction_id": "R01372",
+      "reaction_name": "rn:R01372",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Phenylpyruvate",
+      "target": "alpha-Tolualdehyde",
+      "reaction_id": "R01377",
+      "reaction_name": "rn:R01377",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "DHICA",
+      "target": "C17938",
+      "reaction_id": "R08965",
+      "reaction_name": "rn:R08965",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Diiodotyrosine",
+      "target": "T4",
+      "reaction_id": "R03208",
+      "reaction_name": "rn:R03208",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03506",
+      "target": "Indole",
+      "reaction_id": "R02340",
+      "reaction_name": "rn:R02340",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Indole",
+      "target": "Tryptophan",
+      "reaction_id": "R00674",
+      "reaction_name": "rn:R00674",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Serine",
+      "target": "L-Cystathionine",
+      "reaction_id": "R01290",
+      "reaction_name": "rn:R01290",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Cystathionine",
+      "target": "Homocysteine",
+      "reaction_id": "R01286",
+      "reaction_name": "rn:R01286 rn:R01290 rn:R10305",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Acetoacetate",
+      "target": "Fumarylacetoacetate",
+      "reaction_id": "R01364",
+      "reaction_name": "rn:R01364",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Feruloyl-CoA",
+      "target": "C07303",
+      "reaction_id": "R05772",
+      "reaction_name": "rn:R05772",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C07303",
+      "target": "Vanillin",
+      "reaction_id": "R05773",
+      "reaction_name": "rn:R05773",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Putrescine",
+      "target": "Spermidine",
+      "reaction_id": "R01920",
+      "reaction_name": "rn:R01920",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "SAM",
+      "target": "C01234",
+      "reaction_id": "R00179",
+      "reaction_name": "rn:R00179",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01234",
+      "target": "Ethene",
+      "reaction_id": "R07214",
+      "reaction_name": "rn:R07214",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Homoisocitrate",
+      "target": "cis-Homoaconitate",
+      "reaction_id": "R04371",
+      "reaction_name": "rn:R04371",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Ectoine",
+      "target": "C19929",
+      "reaction_id": "R09800",
+      "reaction_name": "rn:R09800",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C19929",
+      "target": "C03283",
+      "reaction_id": "R09801",
+      "reaction_name": "rn:R09801",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03972",
+      "target": "C05539",
+      "reaction_id": "R04364",
+      "reaction_name": "rn:R04364",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04390",
+      "target": "C05539",
+      "reaction_id": "R04467",
+      "reaction_name": "rn:R04467",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C04390",
+      "target": "C00666",
+      "reaction_id": "R02733",
+      "reaction_name": "rn:R02733",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00680",
+      "target": "C03871",
+      "reaction_id": "R02755",
+      "reaction_name": "rn:R02755",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00666",
+      "target": "C03972",
+      "reaction_id": "R07613",
+      "reaction_name": "rn:R07613",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "D-Citramalate",
+      "reaction_id": "R07399",
+      "reaction_name": "rn:R07399",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "D-Citramalate",
+      "target": "Citraconate",
+      "reaction_id": "R03896",
+      "reaction_name": "rn:R03896",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Citraconate",
+      "target": "C06032",
+      "reaction_id": "R03898",
+      "reaction_name": "rn:R03898",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "2-Oxobutyrate",
+      "target": "C06032",
+      "reaction_id": "R00994",
+      "reaction_name": "rn:R00994",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Histidinol",
+      "target": "L-Histidinal",
+      "reaction_id": "R03012",
+      "reaction_name": "rn:R03012",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Betaine_aldehyde",
+      "target": "Betaine",
+      "reaction_id": "R02565",
+      "reaction_name": "rn:R02565 rn:R02566 rn:R08211",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Choline",
+      "target": "Betaine_aldehyde",
+      "reaction_id": "R01022",
+      "reaction_name": "rn:R01022 rn:R08557 rn:R08558",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Indolepyruvate",
+      "target": "IAA",
+      "reaction_id": "R10181",
+      "reaction_name": "rn:R10181",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "(-)-Ureidoglycolate",
+      "target": "Urea",
+      "reaction_id": "R00776",
+      "reaction_name": "rn:R00776",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03366",
+      "target": "Allysine",
+      "reaction_id": "R10270",
+      "reaction_name": "rn:R10270",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Hydroxylysine",
+      "target": "C03366",
+      "reaction_id": "R03378",
+      "reaction_name": "rn:R03378",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03539",
+      "target": "Homocysteine",
+      "reaction_id": "R01291",
+      "reaction_name": "rn:R01291",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C15650",
+      "target": "C15606",
+      "reaction_id": "R07395",
+      "reaction_name": "rn:R07395",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Citrate",
+      "target": "beta-Citrylglutamate",
+      "reaction_id": "R10677",
+      "reaction_name": "rn:R10677",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Asp",
+      "target": "N-Acetyl-L-aspartate",
+      "reaction_id": "R00487",
+      "reaction_name": "rn:R00487 rn:R00488",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "NAAG",
+      "target": "N-Acetyl-L-aspartate",
+      "reaction_id": "R10678",
+      "reaction_name": "rn:R10678 rn:R10687",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "NAAG2",
+      "target": "NAAG",
+      "reaction_id": "R10693",
+      "reaction_name": "rn:R10693 rn:R10688",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Glutamate",
+      "target": "LysW-glutamate",
+      "reaction_id": "R10929",
+      "reaction_name": "rn:R10929",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "LysW-glutamate",
+      "target": "C20949",
+      "reaction_id": "R10930",
+      "reaction_name": "rn:R10930",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C20949",
+      "target": "C20950",
+      "reaction_id": "R10931",
+      "reaction_name": "rn:R10931",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C20950",
+      "target": "LysW-L-ornithine",
+      "reaction_id": "R10932",
+      "reaction_name": "rn:R10932",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "LysW-L-ornithine",
+      "target": "L-Ornithine",
+      "reaction_id": "R10933",
+      "reaction_name": "rn:R10933",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "N-Acetylornithine",
+      "target": "C15532",
+      "reaction_id": "R07245",
+      "reaction_name": "rn:R07245",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C15532",
+      "target": "Citrulline",
+      "reaction_id": "R09107",
+      "reaction_name": "rn:R09107",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05931",
+      "target": "Glutamate",
+      "reaction_id": "R00411",
+      "reaction_name": "rn:R00411",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C05932",
+      "target": "C05931",
+      "reaction_id": "R05049",
+      "reaction_name": "rn:R05049",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03415",
+      "target": "C05932",
+      "reaction_id": "R04217",
+      "reaction_name": "rn:R04217",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C03296",
+      "target": "C03415",
+      "reaction_id": "R04189",
+      "reaction_name": "rn:R04189",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "L-Arg",
+      "target": "C03296",
+      "reaction_id": "R00832",
+      "reaction_name": "rn:R00832",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Putrescine",
+      "target": "4-Aminobutanal",
+      "reaction_id": "R01151",
+      "reaction_name": "rn:R01151 rn:R01155 rn:R08714",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "4-Aminobutanal",
+      "target": "GABA",
+      "reaction_id": "R01986",
+      "reaction_name": "rn:R01986 rn:R02549",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Spermidine",
+      "target": "4-Aminobutanal",
+      "reaction_id": "R01914",
+      "reaction_name": "rn:R01914 rn:R01915",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Putrescine",
+      "target": "Carboxyspermidine",
+      "reaction_id": "R09079",
+      "reaction_name": "rn:R09079",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Carboxyspermidine",
+      "target": "Spermidine",
+      "reaction_id": "R09081",
+      "reaction_name": "rn:R09081",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Gly",
+      "target": "NH3",
+      "reaction_id": "R01221",
+      "reaction_name": "rn:R01221",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C00173",
+      "target": "MTA",
+      "reaction_id": "R08940",
+      "reaction_name": "rn:R08940",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "MTA",
+      "target": "C19787",
+      "reaction_id": "R09660",
+      "reaction_name": "rn:R09660",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C19787",
+      "target": "C04188",
+      "reaction_id": "R09668",
+      "reaction_name": "rn:R09668",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "(S)-2-Aminobutanoate",
+      "target": "2-Oxobutyrate",
+      "reaction_id": "R10991",
+      "reaction_name": "rn:R10991",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "(S)-2-Aminobutanoate",
+      "target": "C21015",
+      "reaction_id": "R10993",
+      "reaction_name": "rn:R10993",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C21015",
+      "target": "Ophthalmate",
+      "reaction_id": "R10994",
+      "reaction_name": "rn:R10994",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "Serine",
+      "target": "D-Serine",
+      "reaction_id": "R00589",
+      "reaction_name": "rn:R00589",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "C01165",
+      "target": "C01250",
+      "reaction_id": "R12085",
+      "reaction_name": "rn:R12085",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    },
+    {
+      "source": "O-Acetyl-L-serine",
+      "target": "S-Sulfo-L-cysteine",
+      "reaction_id": "R03132",
+      "reaction_name": "rn:R03132",
+      "reversible": false,
+      "subsystem": "Amino Acid Metabolism"
+    }
+  ]
+}

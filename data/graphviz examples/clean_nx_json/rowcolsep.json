@@ -1,0 +1,40 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "aaa"
+    },
+    {
+      "id": "bbb"
+    },
+    {
+      "id": "BBB"
+    },
+    {
+      "id": "AAA"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "aaa",
+      "target": "bbb"
+    },
+    {
+      "key": 0,
+      "source": "aaa",
+      "target": "BBB"
+    },
+    {
+      "key": 0,
+      "source": "AAA",
+      "target": "BBB"
+    },
+    {
+      "key": 0,
+      "source": "AAA",
+      "target": "bbb"
+    }
+  ]
+}

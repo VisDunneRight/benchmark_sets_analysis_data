@@ -1,0 +1,79 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"hello\\nworld\"",
+      "color": "\"slateblue\"",
+      "fontsize": "24",
+      "fontname": "\"Palatino-Italic\"",
+      "style": "filled",
+      "fontcolor": "\"hotpink\"",
+      "id": "xyz"
+    },
+    {
+      "color": "red",
+      "id": "red"
+    },
+    {
+      "color": "green",
+      "id": "green"
+    },
+    {
+      "color": "blue",
+      "fontcolor": "black",
+      "id": "blue"
+    },
+    {
+      "color": "cyan",
+      "id": "cyan"
+    },
+    {
+      "color": "magenta",
+      "id": "magenta"
+    },
+    {
+      "color": "yellow",
+      "id": "yellow"
+    },
+    {
+      "color": "orange",
+      "id": "orange"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "red",
+      "target": "green"
+    },
+    {
+      "key": 0,
+      "source": "red",
+      "target": "blue"
+    },
+    {
+      "key": 0,
+      "source": "green",
+      "target": "yellow"
+    },
+    {
+      "key": 0,
+      "source": "green",
+      "target": "orange"
+    },
+    {
+      "key": 0,
+      "source": "blue",
+      "target": "cyan"
+    },
+    {
+      "key": 0,
+      "source": "blue",
+      "target": "magenta"
+    }
+  ]
+}

@@ -1,0 +1,1288 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "(+)-Reticuline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(E)-Cinnamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(R)-Reticuline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(S)-Cheilanthifoline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(S)-Norcoclaurine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "(S)-Scoulerine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "1-Methylpyrrolinium",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "1-Methylxanthine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Methylxanthine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Coumarate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Coumaroyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "4-Coumaroylshikimate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "5-Aminopentanal",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "6-Hydroxyprotopine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "7-Methylxanthine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "7-Methylxanthosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "ACV",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "AFMU",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Adicillin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Apigenin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Aromadendrin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00353",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03112",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03309",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03325",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C03648",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05176",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05202",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05322",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05619",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06163",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C06167",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C10434",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C12137",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C12203",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C12204",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C15804",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C16356",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20525",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20526",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C20529",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cadaverine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Caffeate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Caffeine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Caffeoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cephalosporin_C",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cinnamaldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cinnamoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Cocaine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Coclaurine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Codeine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Codeinone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Coniferol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "DAOC",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Daturine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Dopamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Emindole_SB",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ferulaldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ferulate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Feruloyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Guaiacyl_lignin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Isopenicillin_N",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Isosalipurpol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Isotrifoliin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-2-Aminoadipate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Lysine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Valine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Luteolin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Methyl_ecgonine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Morphine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N-Methylputrescine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Naringenin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Neopinone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Paraxanthine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Paspaline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pelargonidin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Penam",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Protopine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Putrescine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Quercetin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Salutaridinol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Secologanin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sinapaldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sinapate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sinapoyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sinapyl_alcohol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sinoacutine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Strictosidine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Stylopine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Swartziol",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Syringyl_lignin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Taxifolin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Thebaine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Theobromine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Theophylline",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tropine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tropinone",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tryptamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Tyrosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "UDP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Xanthine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Xanthosine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "p-Coumaraldehyde",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "p-Coumaryl_alcohol",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "source": "Tryptamine",
+      "target": "Strictosidine",
+      "reaction_id": "R03738",
+      "reaction_name": "rn:R03738",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Strictosidine",
+      "target": "C03309",
+      "reaction_id": "R03820",
+      "reaction_name": "rn:R03820",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Cinnamoyl-CoA",
+      "target": "(E)-Cinnamate",
+      "reaction_id": "R02255",
+      "reaction_name": "rn:R02255",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Cinnamaldehyde",
+      "target": "Cinnamoyl-CoA",
+      "reaction_id": "R02506",
+      "reaction_name": "rn:R02506",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "4-Coumarate",
+      "target": "4-Coumaroyl-CoA",
+      "reaction_id": "R01616",
+      "reaction_name": "rn:R01616",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "4-Coumaroyl-CoA",
+      "target": "p-Coumaraldehyde",
+      "reaction_id": "R01615",
+      "reaction_name": "rn:R01615",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "p-Coumaraldehyde",
+      "target": "p-Coumaryl_alcohol",
+      "reaction_id": "R07437",
+      "reaction_name": "rn:R07437",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "p-Coumaryl_alcohol",
+      "target": "C15804",
+      "reaction_id": "R04007",
+      "reaction_name": "rn:R04007",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "4-Coumarate",
+      "target": "Caffeate",
+      "reaction_id": "R07826",
+      "reaction_name": "rn:R07826",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Caffeate",
+      "target": "Caffeoyl-CoA",
+      "reaction_id": "R01943",
+      "reaction_name": "rn:R01943",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Caffeate",
+      "target": "Ferulate",
+      "reaction_id": "R03366",
+      "reaction_name": "rn:R03366",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Caffeoyl-CoA",
+      "target": "Feruloyl-CoA",
+      "reaction_id": "R01942",
+      "reaction_name": "rn:R01942",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Ferulate",
+      "target": "Feruloyl-CoA",
+      "reaction_id": "R02194",
+      "reaction_name": "rn:R02194",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Feruloyl-CoA",
+      "target": "Ferulaldehyde",
+      "reaction_id": "R02193",
+      "reaction_name": "rn:R02193",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Ferulaldehyde",
+      "target": "Coniferol",
+      "reaction_id": "R02593",
+      "reaction_name": "rn:R02593",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Coniferol",
+      "target": "Guaiacyl_lignin",
+      "reaction_id": "R02596",
+      "reaction_name": "rn:R02596",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Ferulate",
+      "target": "C05619",
+      "reaction_id": "R07440",
+      "reaction_name": "rn:R07440",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Ferulaldehyde",
+      "target": "C12204",
+      "reaction_id": "R06572",
+      "reaction_name": "rn:R06572",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C05619",
+      "target": "C12203",
+      "reaction_id": "R06583",
+      "reaction_name": "rn:R06583",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C12203",
+      "target": "C12204",
+      "reaction_id": "R06569",
+      "reaction_name": "rn:R06569",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C05619",
+      "target": "Sinapate",
+      "reaction_id": "R02379",
+      "reaction_name": "rn:R02379",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C12203",
+      "target": "Sinapoyl-CoA",
+      "reaction_id": "R06578",
+      "reaction_name": "rn:R06578",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C12204",
+      "target": "Sinapaldehyde",
+      "reaction_id": "R06576",
+      "reaction_name": "rn:R06576",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Sinapate",
+      "target": "Sinapoyl-CoA",
+      "reaction_id": "R02221",
+      "reaction_name": "rn:R02221",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Sinapoyl-CoA",
+      "target": "Sinapaldehyde",
+      "reaction_id": "R02220",
+      "reaction_name": "rn:R02220",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Sinapyl_alcohol",
+      "target": "Sinapaldehyde",
+      "reaction_id": "R03918",
+      "reaction_name": "rn:R03918",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Sinapyl_alcohol",
+      "target": "Syringyl_lignin",
+      "reaction_id": "R03919",
+      "reaction_name": "rn:R03919",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "4-Coumaroyl-CoA",
+      "target": "Isosalipurpol",
+      "reaction_id": "R01613",
+      "reaction_name": "rn:R01613",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Isosalipurpol",
+      "target": "Naringenin",
+      "reaction_id": "R02446",
+      "reaction_name": "rn:R02446",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Naringenin",
+      "target": "Aromadendrin",
+      "reaction_id": "R02444",
+      "reaction_name": "rn:R02444",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Aromadendrin",
+      "target": "C03648",
+      "reaction_id": "R03123",
+      "reaction_name": "rn:R03123 rn:R06540",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C03648",
+      "target": "Pelargonidin",
+      "reaction_id": "R04276",
+      "reaction_name": "rn:R04276",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Apigenin",
+      "target": "Naringenin",
+      "reaction_id": "R02445",
+      "reaction_name": "rn:R02445",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Taxifolin",
+      "target": "Aromadendrin",
+      "reaction_id": "R03124",
+      "reaction_name": "rn:R03124",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Swartziol",
+      "target": "Aromadendrin",
+      "reaction_id": "R03126",
+      "reaction_name": "rn:R03126",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Taxifolin",
+      "target": "Quercetin",
+      "reaction_id": "R02160",
+      "reaction_name": "rn:R02160",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Apigenin",
+      "target": "Luteolin",
+      "reaction_id": "R06537",
+      "reaction_name": "rn:R06537",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Swartziol",
+      "target": "Quercetin",
+      "reaction_id": "R06538",
+      "reaction_name": "rn:R06538",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Quercetin",
+      "target": "Isotrifoliin",
+      "reaction_id": "R02158",
+      "reaction_name": "rn:R02158",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Pelargonidin",
+      "target": "UDP",
+      "reaction_id": "R06534",
+      "reaction_name": "rn:R06534",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Dopamine",
+      "target": "(S)-Norcoclaurine",
+      "reaction_id": "R04305",
+      "reaction_name": "rn:R04305",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "(S)-Norcoclaurine",
+      "target": "Coclaurine",
+      "reaction_id": "R05123",
+      "reaction_name": "rn:R05123",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Coclaurine",
+      "target": "C05176",
+      "reaction_id": "R04692",
+      "reaction_name": "rn:R04692",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C05176",
+      "target": "C05202",
+      "reaction_id": "R05732",
+      "reaction_name": "rn:R05732",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C05202",
+      "target": "(+)-Reticuline",
+      "reaction_id": "R03832",
+      "reaction_name": "rn:R03832",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "(+)-Reticuline",
+      "target": "C06167",
+      "reaction_id": "R03833",
+      "reaction_name": "rn:R03833",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C06167",
+      "target": "(R)-Reticuline",
+      "reaction_id": "R04695",
+      "reaction_name": "rn:R04695",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "(R)-Reticuline",
+      "target": "Sinoacutine",
+      "reaction_id": "R04696",
+      "reaction_name": "rn:R04696",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Sinoacutine",
+      "target": "Salutaridinol",
+      "reaction_id": "R04697",
+      "reaction_name": "rn:R04697",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Salutaridinol",
+      "target": "C05322",
+      "reaction_id": "R04723",
+      "reaction_name": "rn:R04723",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Codeine",
+      "target": "Codeinone",
+      "reaction_id": "R05124",
+      "reaction_name": "rn:R05124",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "(S)-Scoulerine",
+      "target": "(+)-Reticuline",
+      "reaction_id": "R03831",
+      "reaction_name": "rn:R03831",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "(S)-Cheilanthifoline",
+      "target": "(S)-Scoulerine",
+      "reaction_id": "R03834",
+      "reaction_name": "rn:R03834",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Stylopine",
+      "target": "(S)-Cheilanthifoline",
+      "reaction_id": "R04690",
+      "reaction_name": "rn:R04690",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Stylopine",
+      "target": "C06163",
+      "reaction_id": "R04691",
+      "reaction_name": "rn:R04691",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C06163",
+      "target": "Protopine",
+      "reaction_id": "R04700",
+      "reaction_name": "rn:R04700",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "6-Hydroxyprotopine",
+      "target": "Protopine",
+      "reaction_id": "R04699",
+      "reaction_name": "rn:R04699",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Putrescine",
+      "target": "N-Methylputrescine",
+      "reaction_id": "R01153",
+      "reaction_name": "rn:R01153",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "N-Methylputrescine",
+      "target": "1-Methylpyrrolinium",
+      "reaction_id": "R04027",
+      "reaction_name": "rn:R04027",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Tropinone",
+      "target": "Tropine",
+      "reaction_id": "R02832",
+      "reaction_name": "rn:R02832",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Daturine",
+      "target": "C03325",
+      "reaction_id": "R03812",
+      "reaction_name": "rn:R03812",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Methyl_ecgonine",
+      "target": "Cocaine",
+      "reaction_id": "R06728",
+      "reaction_name": "rn:R06728 rn:R08430",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "L-Lysine",
+      "target": "Cadaverine",
+      "reaction_id": "R00462",
+      "reaction_name": "rn:R00462",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Cadaverine",
+      "target": "5-Aminopentanal",
+      "reaction_id": "R06740",
+      "reaction_name": "rn:R06740",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Xanthosine",
+      "target": "7-Methylxanthosine",
+      "reaction_id": "R07917",
+      "reaction_name": "rn:R07917",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "7-Methylxanthine",
+      "target": "Theobromine",
+      "reaction_id": "R07919",
+      "reaction_name": "rn:R07919",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Theobromine",
+      "target": "Caffeine",
+      "reaction_id": "R07920",
+      "reaction_name": "rn:R07920 rn:R07955 rn:R07956",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "3-Methylxanthine",
+      "target": "Theophylline",
+      "reaction_id": "R07973",
+      "reaction_name": "rn:R07973 rn:R07974",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Xanthine",
+      "target": "3-Methylxanthine",
+      "reaction_id": "R07967",
+      "reaction_name": "rn:R07967 rn:R07968",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "1-Methylxanthine",
+      "target": "Theophylline",
+      "reaction_id": "R07975",
+      "reaction_name": "rn:R07975 rn:R07976",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Xanthine",
+      "target": "1-Methylxanthine",
+      "reaction_id": "R07969",
+      "reaction_name": "rn:R07969 rn:R07970",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Caffeine",
+      "target": "Paraxanthine",
+      "reaction_id": "R07939",
+      "reaction_name": "rn:R07939 rn:R07954",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Paraxanthine",
+      "target": "AFMU",
+      "reaction_id": "R07940",
+      "reaction_name": "rn:R07940",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Paraxanthine",
+      "target": "C16356",
+      "reaction_id": "R07945",
+      "reaction_name": "rn:R07945 rn:R07977",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "1-Methylxanthine",
+      "target": "Paraxanthine",
+      "reaction_id": "R07943",
+      "reaction_name": "rn:R07943 rn:R07959 rn:R07960",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "ACV",
+      "target": "L-Valine",
+      "reaction_id": "R04870",
+      "reaction_name": "rn:R04870",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "ACV",
+      "target": "Isopenicillin_N",
+      "reaction_id": "R04872",
+      "reaction_name": "rn:R04872",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Isopenicillin_N",
+      "target": "Penam",
+      "reaction_id": "R06361",
+      "reaction_name": "rn:R06361",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Isopenicillin_N",
+      "target": "Adicillin",
+      "reaction_id": "R04147",
+      "reaction_name": "rn:R04147",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Adicillin",
+      "target": "DAOC",
+      "reaction_id": "R05301",
+      "reaction_name": "rn:R05301",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "DAOC",
+      "target": "C03112",
+      "reaction_id": "R05229",
+      "reaction_name": "rn:R05229",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C03112",
+      "target": "Cephalosporin_C",
+      "reaction_id": "R03064",
+      "reaction_name": "rn:R03064",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "4-Coumarate",
+      "target": "(E)-Cinnamate",
+      "reaction_id": "R02253",
+      "reaction_name": "rn:R02253",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Codeine",
+      "target": "Morphine",
+      "reaction_id": "R09402",
+      "reaction_name": "rn:R09402",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Thebaine",
+      "target": "Neopinone",
+      "reaction_id": "R05126",
+      "reaction_name": "rn:R05126",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C00353",
+      "target": "C20525",
+      "reaction_id": "R10349",
+      "reaction_name": "rn:R10349",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C20525",
+      "target": "C20526",
+      "reaction_id": "R10350",
+      "reaction_name": "rn:R10350",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C20526",
+      "target": "Emindole_SB",
+      "reaction_id": "R10352",
+      "reaction_name": "rn:R10352",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Emindole_SB",
+      "target": "C20529",
+      "reaction_id": "R10351",
+      "reaction_name": "rn:R10351",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C20529",
+      "target": "Paspaline",
+      "reaction_id": "R10353",
+      "reaction_name": "rn:R10353",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "4-Coumaroyl-CoA",
+      "target": "4-Coumaroylshikimate",
+      "reaction_id": "R02416",
+      "reaction_name": "rn:R02416",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "4-Coumaroylshikimate",
+      "target": "C10434",
+      "reaction_id": "R06582",
+      "reaction_name": "rn:R06582",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C10434",
+      "target": "Caffeoyl-CoA",
+      "reaction_id": "R07433",
+      "reaction_name": "rn:R07433",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "C10434",
+      "target": "Caffeate",
+      "reaction_id": "R10701",
+      "reaction_name": "rn:R10701",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    },
+    {
+      "source": "Tyrosine",
+      "target": "4-Coumarate",
+      "reaction_id": "R00737",
+      "reaction_name": "rn:R00737",
+      "reversible": false,
+      "subsystem": "Biosynthesis of Other Secondary Metabolites"
+    }
+  ]
+}

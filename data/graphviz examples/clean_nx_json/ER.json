@@ -1,0 +1,119 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "course"
+    },
+    {
+      "id": "institute"
+    },
+    {
+      "id": "student"
+    },
+    {
+      "id": "code"
+    },
+    {
+      "id": "grade"
+    },
+    {
+      "id": "number"
+    },
+    {
+      "id": "C-I"
+    },
+    {
+      "id": "S-C"
+    },
+    {
+      "id": "S-I"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "name0"
+    },
+    {
+      "id": "name1"
+    },
+    {
+      "id": "name2"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "course",
+      "target": "name0"
+    },
+    {
+      "key": 0,
+      "source": "course",
+      "target": "code"
+    },
+    {
+      "label": "\"n\"",
+      "len": "1.00",
+      "key": 0,
+      "source": "course",
+      "target": "C-I"
+    },
+    {
+      "label": "\"n\"",
+      "len": "1.00",
+      "key": 0,
+      "source": "course",
+      "target": "S-C"
+    },
+    {
+      "label": "\"1\"",
+      "len": "1.00",
+      "key": 0,
+      "source": "institute",
+      "target": "C-I"
+    },
+    {
+      "key": 0,
+      "source": "institute",
+      "target": "name1"
+    },
+    {
+      "label": "\"1\"",
+      "len": "1.00",
+      "key": 0,
+      "source": "institute",
+      "target": "S-I"
+    },
+    {
+      "label": "\"n\"",
+      "len": "1.00",
+      "key": 0,
+      "source": "student",
+      "target": "S-I"
+    },
+    {
+      "key": 0,
+      "source": "student",
+      "target": "grade"
+    },
+    {
+      "key": 0,
+      "source": "student",
+      "target": "name2"
+    },
+    {
+      "key": 0,
+      "source": "student",
+      "target": "number"
+    },
+    {
+      "label": "\"m\"",
+      "len": "1.00",
+      "key": 0,
+      "source": "student",
+      "target": "S-C"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "fontname": "\"Times-Bold\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Times-Bold\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "30"
+    },
+    {
+      "fontname": "\"Times-BoldItalic\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Times-BoldItalic\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "31"
+    },
+    {
+      "fontname": "\"Times-Italic\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Times-Italic\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "32"
+    },
+    {
+      "fontname": "\"Times-Roman\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"Times-Roman\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "33"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "30",
+      "target": "31"
+    },
+    {
+      "key": 0,
+      "source": "31",
+      "target": "32"
+    },
+    {
+      "key": 0,
+      "source": "32",
+      "target": "33"
+    }
+  ]
+}

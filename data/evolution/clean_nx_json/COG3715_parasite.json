@@ -1,0 +1,597 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "root_0"
+    },
+    {
+      "id": "root_1"
+    },
+    {
+      "id": "220668.02",
+      "host_node": "220668"
+    },
+    {
+      "id": "221109.01",
+      "host_node": "221109"
+    },
+    {
+      "id": "root_2"
+    },
+    {
+      "id": "root_3"
+    },
+    {
+      "id": "root_4"
+    },
+    {
+      "id": "root_5"
+    },
+    {
+      "id": "170187.04",
+      "host_node": "170187"
+    },
+    {
+      "id": "272623.01",
+      "host_node": "272623"
+    },
+    {
+      "id": "root_6"
+    },
+    {
+      "id": "272626.03",
+      "host_node": "272626"
+    },
+    {
+      "id": "226185.13",
+      "host_node": "226185"
+    },
+    {
+      "id": "root_7"
+    },
+    {
+      "id": "root_8"
+    },
+    {
+      "id": "root_9"
+    },
+    {
+      "id": "root_10"
+    },
+    {
+      "id": "170187.03",
+      "host_node": "170187"
+    },
+    {
+      "id": "root_11"
+    },
+    {
+      "id": "root_12"
+    },
+    {
+      "id": "272626.04",
+      "host_node": "272626"
+    },
+    {
+      "id": "198214.03",
+      "host_node": "198214"
+    },
+    {
+      "id": "224308.01",
+      "host_node": "224308"
+    },
+    {
+      "id": "root_13"
+    },
+    {
+      "id": "root_14"
+    },
+    {
+      "id": "187410.02",
+      "host_node": "187410"
+    },
+    {
+      "id": "root_15"
+    },
+    {
+      "id": "root_16"
+    },
+    {
+      "id": "root_17"
+    },
+    {
+      "id": "root_18"
+    },
+    {
+      "id": "root_19"
+    },
+    {
+      "id": "209261.02",
+      "host_node": "209261"
+    },
+    {
+      "id": "root_20"
+    },
+    {
+      "id": "root_21"
+    },
+    {
+      "id": "226185.10",
+      "host_node": "226185"
+    },
+    {
+      "id": "226185.09",
+      "host_node": "226185"
+    },
+    {
+      "id": "root_22"
+    },
+    {
+      "id": "root_23"
+    },
+    {
+      "id": "226185.03",
+      "host_node": "226185"
+    },
+    {
+      "id": "root_24"
+    },
+    {
+      "id": "root_25"
+    },
+    {
+      "id": "83333.02",
+      "host_node": "83333"
+    },
+    {
+      "id": "198214.04",
+      "host_node": "198214"
+    },
+    {
+      "id": "root_26"
+    },
+    {
+      "id": "root_27"
+    },
+    {
+      "id": "272626.02",
+      "host_node": "272626"
+    },
+    {
+      "id": "root_28"
+    },
+    {
+      "id": "root_29"
+    },
+    {
+      "id": "272626.01",
+      "host_node": "272626"
+    },
+    {
+      "id": "74109.02",
+      "host_node": "74109"
+    },
+    {
+      "id": "187410.01",
+      "host_node": "187410"
+    },
+    {
+      "id": "root_30"
+    },
+    {
+      "id": "root_31"
+    },
+    {
+      "id": "273068.01",
+      "host_node": "273068"
+    },
+    {
+      "id": "226185.12",
+      "host_node": "226185"
+    },
+    {
+      "id": "226185.11",
+      "host_node": "226185"
+    },
+    {
+      "id": "209261.01",
+      "host_node": "209261"
+    },
+    {
+      "id": "root_32"
+    },
+    {
+      "id": "226185.06",
+      "host_node": "226185"
+    },
+    {
+      "id": "226185.05",
+      "host_node": "226185"
+    },
+    {
+      "id": "root_33"
+    },
+    {
+      "id": "root_34"
+    },
+    {
+      "id": "226185.02",
+      "host_node": "226185"
+    },
+    {
+      "id": "root_35"
+    },
+    {
+      "id": "root_36"
+    },
+    {
+      "id": "root_37"
+    },
+    {
+      "id": "226185.07",
+      "host_node": "226185"
+    },
+    {
+      "id": "190304.01",
+      "host_node": "190304"
+    },
+    {
+      "id": "226185.04",
+      "host_node": "226185"
+    },
+    {
+      "id": "74109.01",
+      "host_node": "74109"
+    },
+    {
+      "id": "198214.02",
+      "host_node": "198214"
+    },
+    {
+      "id": "226185.01",
+      "host_node": "226185"
+    },
+    {
+      "id": "170187.01",
+      "host_node": "170187"
+    },
+    {
+      "id": "220668.01",
+      "host_node": "220668"
+    },
+    {
+      "id": "root_38"
+    },
+    {
+      "id": "170187.02",
+      "host_node": "170187"
+    },
+    {
+      "id": "226185.08",
+      "host_node": "226185"
+    },
+    {
+      "id": "198214.01",
+      "host_node": "198214"
+    },
+    {
+      "id": "83333.01",
+      "host_node": "83333"
+    }
+  ],
+  "links": [
+    {
+      "source": "root_0",
+      "target": "root_1"
+    },
+    {
+      "source": "root_0",
+      "target": "220668.02"
+    },
+    {
+      "source": "root_1",
+      "target": "221109.01"
+    },
+    {
+      "source": "root_1",
+      "target": "root_2"
+    },
+    {
+      "source": "root_2",
+      "target": "root_3"
+    },
+    {
+      "source": "root_2",
+      "target": "root_4"
+    },
+    {
+      "source": "root_3",
+      "target": "root_5"
+    },
+    {
+      "source": "root_3",
+      "target": "170187.04"
+    },
+    {
+      "source": "root_4",
+      "target": "272623.01"
+    },
+    {
+      "source": "root_4",
+      "target": "root_6"
+    },
+    {
+      "source": "root_5",
+      "target": "272626.03"
+    },
+    {
+      "source": "root_5",
+      "target": "226185.13"
+    },
+    {
+      "source": "root_6",
+      "target": "root_7"
+    },
+    {
+      "source": "root_6",
+      "target": "root_8"
+    },
+    {
+      "source": "root_7",
+      "target": "root_9"
+    },
+    {
+      "source": "root_7",
+      "target": "root_10"
+    },
+    {
+      "source": "root_8",
+      "target": "170187.03"
+    },
+    {
+      "source": "root_8",
+      "target": "root_11"
+    },
+    {
+      "source": "root_9",
+      "target": "root_12"
+    },
+    {
+      "source": "root_9",
+      "target": "272626.04"
+    },
+    {
+      "source": "root_10",
+      "target": "198214.03"
+    },
+    {
+      "source": "root_10",
+      "target": "224308.01"
+    },
+    {
+      "source": "root_11",
+      "target": "root_13"
+    },
+    {
+      "source": "root_11",
+      "target": "root_14"
+    },
+    {
+      "source": "root_12",
+      "target": "187410.02"
+    },
+    {
+      "source": "root_12",
+      "target": "root_15"
+    },
+    {
+      "source": "root_13",
+      "target": "root_16"
+    },
+    {
+      "source": "root_13",
+      "target": "root_17"
+    },
+    {
+      "source": "root_14",
+      "target": "root_18"
+    },
+    {
+      "source": "root_14",
+      "target": "root_19"
+    },
+    {
+      "source": "root_15",
+      "target": "209261.02"
+    },
+    {
+      "source": "root_15",
+      "target": "root_20"
+    },
+    {
+      "source": "root_16",
+      "target": "root_21"
+    },
+    {
+      "source": "root_16",
+      "target": "226185.10"
+    },
+    {
+      "source": "root_17",
+      "target": "226185.09"
+    },
+    {
+      "source": "root_17",
+      "target": "root_22"
+    },
+    {
+      "source": "root_18",
+      "target": "root_23"
+    },
+    {
+      "source": "root_18",
+      "target": "226185.03"
+    },
+    {
+      "source": "root_19",
+      "target": "root_24"
+    },
+    {
+      "source": "root_19",
+      "target": "root_25"
+    },
+    {
+      "source": "root_20",
+      "target": "83333.02"
+    },
+    {
+      "source": "root_20",
+      "target": "198214.04"
+    },
+    {
+      "source": "root_21",
+      "target": "root_26"
+    },
+    {
+      "source": "root_21",
+      "target": "root_27"
+    },
+    {
+      "source": "root_22",
+      "target": "272626.02"
+    },
+    {
+      "source": "root_22",
+      "target": "root_28"
+    },
+    {
+      "source": "root_23",
+      "target": "root_29"
+    },
+    {
+      "source": "root_23",
+      "target": "272626.01"
+    },
+    {
+      "source": "root_24",
+      "target": "74109.02"
+    },
+    {
+      "source": "root_24",
+      "target": "187410.01"
+    },
+    {
+      "source": "root_25",
+      "target": "root_30"
+    },
+    {
+      "source": "root_25",
+      "target": "root_31"
+    },
+    {
+      "source": "root_26",
+      "target": "273068.01"
+    },
+    {
+      "source": "root_26",
+      "target": "226185.12"
+    },
+    {
+      "source": "root_27",
+      "target": "226185.11"
+    },
+    {
+      "source": "root_27",
+      "target": "209261.01"
+    },
+    {
+      "source": "root_28",
+      "target": "root_32"
+    },
+    {
+      "source": "root_28",
+      "target": "226185.06"
+    },
+    {
+      "source": "root_29",
+      "target": "226185.05"
+    },
+    {
+      "source": "root_29",
+      "target": "root_33"
+    },
+    {
+      "source": "root_30",
+      "target": "root_34"
+    },
+    {
+      "source": "root_30",
+      "target": "226185.02"
+    },
+    {
+      "source": "root_31",
+      "target": "root_35"
+    },
+    {
+      "source": "root_31",
+      "target": "root_36"
+    },
+    {
+      "source": "root_32",
+      "target": "root_37"
+    },
+    {
+      "source": "root_32",
+      "target": "226185.07"
+    },
+    {
+      "source": "root_33",
+      "target": "190304.01"
+    },
+    {
+      "source": "root_33",
+      "target": "226185.04"
+    },
+    {
+      "source": "root_34",
+      "target": "74109.01"
+    },
+    {
+      "source": "root_34",
+      "target": "198214.02"
+    },
+    {
+      "source": "root_35",
+      "target": "226185.01"
+    },
+    {
+      "source": "root_35",
+      "target": "170187.01"
+    },
+    {
+      "source": "root_36",
+      "target": "220668.01"
+    },
+    {
+      "source": "root_36",
+      "target": "root_38"
+    },
+    {
+      "source": "root_37",
+      "target": "170187.02"
+    },
+    {
+      "source": "root_37",
+      "target": "226185.08"
+    },
+    {
+      "source": "root_38",
+      "target": "198214.01"
+    },
+    {
+      "source": "root_38",
+      "target": "83333.01"
+    }
+  ]
+}

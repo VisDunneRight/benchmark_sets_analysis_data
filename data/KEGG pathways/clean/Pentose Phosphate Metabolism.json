@@ -247,10 +247,10 @@
         "Citrate",
         "Oxaloacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00351",
       "reaction_name": "rn:R00351 rn:R00352",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -258,10 +258,10 @@
         "Isocitrate",
         "Oxalosuccinate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01899",
       "reaction_name": "rn:R01899",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -269,10 +269,10 @@
         "2-Oxoglutarate",
         "Oxalosuccinate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00268",
       "reaction_name": "rn:R00268",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -280,10 +280,10 @@
         "C05345",
         "C05378"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04779",
       "reaction_name": "rn:R04779 rn:R04780 rn:R09084 rn:R02073",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -291,10 +291,10 @@
         "C05378",
         "Glycerone_phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01070",
       "reaction_name": "rn:R01070",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -302,10 +302,10 @@
         "Glycerone_phosphate",
         "C00118"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01015",
       "reaction_name": "rn:R01015",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -313,10 +313,10 @@
         "C00118",
         "C00236"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01061",
       "reaction_name": "rn:R01061 rn:R01063",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -327,7 +327,7 @@
       "directed": false,
       "reaction_id": "R01512",
       "reaction_name": "rn:R01512",
-      "reversible": "true",
+      "reversible": true,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -335,10 +335,10 @@
         "3-Phosphoglycerate",
         "C00631"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01518",
       "reaction_name": "rn:R01518",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -346,10 +346,10 @@
         "C00631",
         "PEP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00658",
       "reaction_name": "rn:R00658",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -357,10 +357,10 @@
         "PEP",
         "Pyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00199",
       "reaction_name": "rn:R00199 rn:R00200 rn:R00206 rn:R02320",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -368,10 +368,10 @@
         "Pyruvate",
         "Acetyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00209",
       "reaction_name": "rn:R00209 rn:R00212 rn:R01196 rn:R10866",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -379,10 +379,10 @@
         "C00345",
         "C00199"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01528",
       "reaction_name": "rn:R01528 rn:R10221",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -390,10 +390,10 @@
         "C01236",
         "C00345"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02035",
       "reaction_name": "rn:R02035",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -401,10 +401,10 @@
         "C01172",
         "C01236"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02736",
       "reaction_name": "rn:R02736 rn:R10907",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -412,10 +412,10 @@
         "C00118",
         "C04442"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05605",
       "reaction_name": "rn:R05605",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -423,10 +423,10 @@
         "C05345",
         "C00668"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02740",
       "reaction_name": "rn:R02740",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -434,10 +434,10 @@
         "C00668",
         "C01172"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02739",
       "reaction_name": "rn:R02739",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -445,10 +445,10 @@
         "C00345",
         "C04442"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02036",
       "reaction_name": "rn:R02036",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -456,10 +456,10 @@
         "Cori_ester",
         "C00668"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00959",
       "reaction_name": "rn:R00959",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -467,10 +467,10 @@
         "C00668",
         "alpha-D-Glucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01786",
       "reaction_name": "rn:R01786 rn:R01788 rn:R02189 rn:R09085",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -478,10 +478,10 @@
         "C00118",
         "C05345"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01827",
       "reaction_name": "rn:R01827",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -489,10 +489,10 @@
         "C00118",
         "C00279"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01830",
       "reaction_name": "rn:R01830",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -500,10 +500,10 @@
         "PRPP",
         "Ribose_5-phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01049",
       "reaction_name": "rn:R01049",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -511,10 +511,10 @@
         "Malate",
         "Oxaloacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00342",
       "reaction_name": "rn:R00342 rn:R00361",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -522,10 +522,10 @@
         "Fumarate",
         "Malate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01082",
       "reaction_name": "rn:R01082",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -533,10 +533,10 @@
         "Succinate",
         "Fumarate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02164",
       "reaction_name": "rn:R02164",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -544,10 +544,10 @@
         "Succinyl-CoA",
         "Succinate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00405",
       "reaction_name": "rn:R00405 rn:R00432 rn:R00727 rn:R10343",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -555,10 +555,10 @@
         "2-Oxoglutarate",
         "Succinyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08549",
       "reaction_name": "rn:R08549 rn:R01197",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -566,10 +566,10 @@
         "2-Oxoglutarate",
         "Isocitrate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00267",
       "reaction_name": "rn:R00267 rn:R00709",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -577,10 +577,10 @@
         "Isocitrate",
         "cis-Aconitate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01900",
       "reaction_name": "rn:R01900",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -588,10 +588,10 @@
         "cis-Aconitate",
         "Citrate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01325",
       "reaction_name": "rn:R01325",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -599,10 +599,10 @@
         "C00118",
         "3-Phosphoglycerate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01058",
       "reaction_name": "rn:R01058 rn:R07159 rn:R10860",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -610,10 +610,10 @@
         "2-Hydroxyethyl-ThPP",
         "Ethanal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00755",
       "reaction_name": "rn:R00755",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -621,10 +621,10 @@
         "Ethanal",
         "Acetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00710",
       "reaction_name": "rn:R00710 rn:R00711",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -632,10 +632,10 @@
         "Ethanol",
         "Ethanal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00746",
       "reaction_name": "rn:R00746 rn:R00754 rn:R05198 rn:R09127 rn:R09479",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -643,10 +643,10 @@
         "D-Gluconate",
         "C00345"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01737",
       "reaction_name": "rn:R01737",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -654,10 +654,10 @@
         "D-Gluconate",
         "C00204"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01538",
       "reaction_name": "rn:R01538",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -665,10 +665,10 @@
         "C01218",
         "C00345"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02032",
       "reaction_name": "rn:R02032 rn:R02034",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -676,10 +676,10 @@
         "C06473",
         "C01218"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02658",
       "reaction_name": "rn:R02658",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -687,10 +687,10 @@
         "C06473",
         "D-Gluconate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01739",
       "reaction_name": "rn:R01739 rn:R01741",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -698,10 +698,10 @@
         "D-Gluconate",
         "Gluconolactone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01519",
       "reaction_name": "rn:R01519",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -709,10 +709,10 @@
         "Gluconolactone",
         "Glucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00305",
       "reaction_name": "rn:R00305 rn:R06620 rn:R07147",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -720,10 +720,10 @@
         "Gluconolactone",
         "beta-D-Glucose"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01522",
       "reaction_name": "rn:R01522",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -731,10 +731,10 @@
         "C00204",
         "D-Glyceraldehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08570",
       "reaction_name": "rn:R08570",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -742,10 +742,10 @@
         "Glycerate",
         "C00631"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08572",
       "reaction_name": "rn:R08572",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -753,10 +753,10 @@
         "D-Glyceraldehyde",
         "Glycerate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08571",
       "reaction_name": "rn:R08571 rn:R10324 rn:R10615",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -764,10 +764,10 @@
         "C04442",
         "C00204"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01541",
       "reaction_name": "rn:R01541",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -775,10 +775,10 @@
         "C05345",
         "C01172"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03321",
       "reaction_name": "rn:R03321",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -786,10 +786,10 @@
         "Isocitrate",
         "Citrate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01324",
       "reaction_name": "rn:R01324",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -797,10 +797,10 @@
         "Acetate",
         "Acetyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00229",
       "reaction_name": "rn:R00229 rn:R00235",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -808,10 +808,10 @@
         "C00199",
         "C06019"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05338",
       "reaction_name": "rn:R05338",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -819,10 +819,10 @@
         "C06019",
         "C05345"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09780",
       "reaction_name": "rn:R09780",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -830,10 +830,10 @@
         "C00236",
         "DPG"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01662",
       "reaction_name": "rn:R01662",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -841,10 +841,10 @@
         "DPG",
         "3-Phosphoglycerate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01516",
       "reaction_name": "rn:R01516",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     },
     {
@@ -852,10 +852,10 @@
         "DPG",
         "C00631"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09532",
       "reaction_name": "rn:R09532",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Pentose Phosphate Metabolism"
     }
   ]

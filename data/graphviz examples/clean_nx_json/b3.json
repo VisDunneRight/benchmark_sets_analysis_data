@@ -1,0 +1,31 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"(balanced)\"",
+      "color": "\"black\"",
+      "width": "\"0.833333\"",
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "pos": "\"151.378446,405.811623\"",
+      "height": "\"0.416667\"",
+      "shape": "\"ellipse\"",
+      "id": "n0"
+    },
+    {
+      "label": "\"(unbalanced\"",
+      "color": "\"black\"",
+      "width": "\"0.833333\"",
+      "fontsize": "\"14\"",
+      "fontname": "\"Times-Roman\"",
+      "fontcolor": "\"black\"",
+      "pos": "\"163.408521,310.621242\"",
+      "height": "\"0.416667\"",
+      "shape": "\"ellipse\"",
+      "id": "n1"
+    }
+  ],
+  "links": []
+}

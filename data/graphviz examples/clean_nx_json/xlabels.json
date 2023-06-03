@@ -1,0 +1,78 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"All items\"",
+      "xlabel": "\"100\"",
+      "id": "all"
+    },
+    {
+      "label": "\"Part 1\"",
+      "xlabel": "\"75\"",
+      "id": "t1"
+    },
+    {
+      "label": "\"Part 2\"",
+      "xlabel": "\"25\"",
+      "id": "t2"
+    },
+    {
+      "label": "\"pPart 1\"",
+      "xlabel": "\"50\"",
+      "id": "p1"
+    },
+    {
+      "label": "\"pPart 2\"",
+      "xlabel": "\"50\"",
+      "id": "p2"
+    },
+    {
+      "label": "\"pPart 3\"",
+      "xlabel": "\"50\"",
+      "id": "p3"
+    },
+    {
+      "label": "\"pPart 4\"",
+      "xlabel": "\"50\"",
+      "id": "p4"
+    },
+    {
+      "id": "\\n"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"75%\"",
+      "key": 0,
+      "source": "all",
+      "target": "t1"
+    },
+    {
+      "key": 0,
+      "source": "all",
+      "target": "t2"
+    },
+    {
+      "label": "\"20%\"",
+      "key": 0,
+      "source": "t1",
+      "target": "p1"
+    },
+    {
+      "key": 0,
+      "source": "t1",
+      "target": "p2"
+    },
+    {
+      "key": 0,
+      "source": "t2",
+      "target": "p3"
+    },
+    {
+      "key": 0,
+      "source": "t2",
+      "target": "p4"
+    }
+  ]
+}

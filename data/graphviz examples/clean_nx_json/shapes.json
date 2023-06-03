@@ -1,0 +1,280 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "shape": "box",
+      "id": "a"
+    },
+    {
+      "shape": "polygon",
+      "id": "b"
+    },
+    {
+      "shape": "ellipse",
+      "id": "c"
+    },
+    {
+      "shape": "circle",
+      "id": "d"
+    },
+    {
+      "shape": "point",
+      "id": "e"
+    },
+    {
+      "shape": "egg",
+      "id": "f"
+    },
+    {
+      "shape": "triangle",
+      "id": "g"
+    },
+    {
+      "shape": "plaintext",
+      "id": "h"
+    },
+    {
+      "shape": "diamond",
+      "id": "i"
+    },
+    {
+      "shape": "trapezium",
+      "id": "j"
+    },
+    {
+      "shape": "parallelogram",
+      "id": "k"
+    },
+    {
+      "shape": "house",
+      "id": "l"
+    },
+    {
+      "shape": "pentagon",
+      "id": "m"
+    },
+    {
+      "shape": "hexagon",
+      "id": "n"
+    },
+    {
+      "shape": "septagon",
+      "id": "o"
+    },
+    {
+      "shape": "octagon",
+      "id": "p"
+    },
+    {
+      "shape": "doublecircle",
+      "id": "q"
+    },
+    {
+      "shape": "doubleoctagon",
+      "id": "r"
+    },
+    {
+      "shape": "tripleoctagon",
+      "id": "s"
+    },
+    {
+      "shape": "invtriangle",
+      "id": "t"
+    },
+    {
+      "shape": "invtrapezium",
+      "id": "u"
+    },
+    {
+      "shape": "invhouse",
+      "id": "v"
+    },
+    {
+      "shape": "Mdiamond",
+      "id": "w"
+    },
+    {
+      "shape": "Msquare",
+      "id": "x"
+    },
+    {
+      "shape": "Mcircle",
+      "id": "y"
+    },
+    {
+      "shape": "rect",
+      "id": "z"
+    },
+    {
+      "shape": "rectangle",
+      "id": "1"
+    },
+    {
+      "shape": "none",
+      "id": "2"
+    },
+    {
+      "shape": "note",
+      "id": "3"
+    },
+    {
+      "shape": "tab",
+      "id": "4"
+    },
+    {
+      "shape": "box3d",
+      "id": "5"
+    },
+    {
+      "shape": "component",
+      "id": "6"
+    },
+    {
+      "shape": "folder",
+      "id": "7"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "a",
+      "target": "b"
+    },
+    {
+      "key": 0,
+      "source": "b",
+      "target": "c"
+    },
+    {
+      "key": 0,
+      "source": "c",
+      "target": "d"
+    },
+    {
+      "key": 0,
+      "source": "d",
+      "target": "e"
+    },
+    {
+      "key": 0,
+      "source": "e",
+      "target": "f"
+    },
+    {
+      "key": 0,
+      "source": "f",
+      "target": "g"
+    },
+    {
+      "key": 0,
+      "source": "h",
+      "target": "i"
+    },
+    {
+      "key": 0,
+      "source": "i",
+      "target": "j"
+    },
+    {
+      "key": 0,
+      "source": "j",
+      "target": "k"
+    },
+    {
+      "key": 0,
+      "source": "k",
+      "target": "l"
+    },
+    {
+      "key": 0,
+      "source": "l",
+      "target": "m"
+    },
+    {
+      "key": 0,
+      "source": "m",
+      "target": "n"
+    },
+    {
+      "key": 0,
+      "source": "o",
+      "target": "p"
+    },
+    {
+      "key": 0,
+      "source": "p",
+      "target": "q"
+    },
+    {
+      "key": 0,
+      "source": "q",
+      "target": "r"
+    },
+    {
+      "key": 0,
+      "source": "r",
+      "target": "s"
+    },
+    {
+      "key": 0,
+      "source": "s",
+      "target": "t"
+    },
+    {
+      "key": 0,
+      "source": "t",
+      "target": "u"
+    },
+    {
+      "key": 0,
+      "source": "v",
+      "target": "w"
+    },
+    {
+      "key": 0,
+      "source": "w",
+      "target": "x"
+    },
+    {
+      "key": 0,
+      "source": "x",
+      "target": "y"
+    },
+    {
+      "key": 0,
+      "source": "y",
+      "target": "z"
+    },
+    {
+      "key": 0,
+      "source": "z",
+      "target": "1"
+    },
+    {
+      "key": 0,
+      "source": "1",
+      "target": "2"
+    },
+    {
+      "key": 0,
+      "source": "3",
+      "target": "4"
+    },
+    {
+      "key": 0,
+      "source": "4",
+      "target": "5"
+    },
+    {
+      "key": 0,
+      "source": "5",
+      "target": "6"
+    },
+    {
+      "key": 0,
+      "source": "6",
+      "target": "7"
+    }
+  ]
+}

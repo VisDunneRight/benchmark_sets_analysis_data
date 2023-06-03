@@ -1,0 +1,342 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "node23"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "node24"
+    },
+    {
+      "id": "node25"
+    },
+    {
+      "id": "node26"
+    },
+    {
+      "id": "node32"
+    },
+    {
+      "id": "node34"
+    },
+    {
+      "id": "node35"
+    },
+    {
+      "id": "node36"
+    },
+    {
+      "id": "node42"
+    },
+    {
+      "id": "node43"
+    },
+    {
+      "id": "node44"
+    },
+    {
+      "id": "node45"
+    },
+    {
+      "id": "node46"
+    },
+    {
+      "id": "node52"
+    },
+    {
+      "id": "node53"
+    },
+    {
+      "id": "node54"
+    },
+    {
+      "id": "node56"
+    },
+    {
+      "id": "node62"
+    },
+    {
+      "id": "node63"
+    },
+    {
+      "id": "node64"
+    },
+    {
+      "id": "node65"
+    }
+  ],
+  "links": [
+    {
+      "label": "\"tailport=n headport=ne\"",
+      "tailport": "n",
+      "headport": "ne",
+      "key": 0,
+      "source": "node23",
+      "target": "node23"
+    },
+    {
+      "key": 0,
+      "source": "node23",
+      "target": "node24"
+    },
+    {
+      "label": "\"tailport=n headport=e\"",
+      "tailport": "n",
+      "headport": "e",
+      "key": 0,
+      "source": "node24",
+      "target": "node24"
+    },
+    {
+      "key": 0,
+      "source": "node24",
+      "target": "node25"
+    },
+    {
+      "label": "\"tailport=n headport=se\"",
+      "tailport": "n",
+      "headport": "se",
+      "key": 0,
+      "source": "node25",
+      "target": "node25"
+    },
+    {
+      "key": 0,
+      "source": "node25",
+      "target": "node26"
+    },
+    {
+      "label": "\"tailport=n headport=s\"",
+      "tailport": "n",
+      "headport": "s",
+      "key": 0,
+      "source": "node26",
+      "target": "node26"
+    },
+    {
+      "key": 0,
+      "source": "node26",
+      "target": "node32"
+    },
+    {
+      "label": "\"tailport=ne headport=n\"",
+      "tailport": "ne",
+      "headport": "n",
+      "key": 0,
+      "source": "node32",
+      "target": "node32"
+    },
+    {
+      "key": 0,
+      "source": "node32",
+      "target": "node34"
+    },
+    {
+      "label": "\"tailport=ne headport=e\"",
+      "tailport": "ne",
+      "headport": "e",
+      "key": 0,
+      "source": "node34",
+      "target": "node34"
+    },
+    {
+      "key": 0,
+      "source": "node34",
+      "target": "node35"
+    },
+    {
+      "label": "\"tailport=ne headport=se\"",
+      "tailport": "ne",
+      "headport": "se",
+      "key": 0,
+      "source": "node35",
+      "target": "node35"
+    },
+    {
+      "key": 0,
+      "source": "node35",
+      "target": "node36"
+    },
+    {
+      "label": "\"tailport=ne headport=s\"",
+      "tailport": "ne",
+      "headport": "s",
+      "key": 0,
+      "source": "node36",
+      "target": "node36"
+    },
+    {
+      "key": 0,
+      "source": "node36",
+      "target": "node42"
+    },
+    {
+      "label": "\"tailport=e headport=n\"",
+      "tailport": "e",
+      "headport": "n",
+      "key": 0,
+      "source": "node42",
+      "target": "node42"
+    },
+    {
+      "key": 0,
+      "source": "node42",
+      "target": "node43"
+    },
+    {
+      "label": "\"tailport=e headport=ne\"",
+      "tailport": "e",
+      "headport": "ne",
+      "key": 0,
+      "source": "node43",
+      "target": "node43"
+    },
+    {
+      "key": 0,
+      "source": "node43",
+      "target": "node44"
+    },
+    {
+      "label": "\"tailport=e headport=e\"",
+      "tailport": "e",
+      "headport": "e",
+      "key": 0,
+      "source": "node44",
+      "target": "node44"
+    },
+    {
+      "key": 0,
+      "source": "node44",
+      "target": "node45"
+    },
+    {
+      "label": "\"tailport=e headport=se\"",
+      "tailport": "e",
+      "headport": "se",
+      "key": 0,
+      "source": "node45",
+      "target": "node45"
+    },
+    {
+      "key": 0,
+      "source": "node45",
+      "target": "node46"
+    },
+    {
+      "label": "\"tailport=e headport=s\"",
+      "tailport": "e",
+      "headport": "s",
+      "key": 0,
+      "source": "node46",
+      "target": "node46"
+    },
+    {
+      "key": 0,
+      "source": "node46",
+      "target": "node52"
+    },
+    {
+      "label": "\"tailport=se headport=n\"",
+      "tailport": "se",
+      "headport": "n",
+      "key": 0,
+      "source": "node52",
+      "target": "node52"
+    },
+    {
+      "key": 0,
+      "source": "node52",
+      "target": "node53"
+    },
+    {
+      "label": "\"tailport=se headport=ne\"",
+      "tailport": "se",
+      "headport": "ne",
+      "key": 0,
+      "source": "node53",
+      "target": "node53"
+    },
+    {
+      "key": 0,
+      "source": "node53",
+      "target": "node54"
+    },
+    {
+      "label": "\"tailport=se headport=e\"",
+      "tailport": "se",
+      "headport": "e",
+      "key": 0,
+      "source": "node54",
+      "target": "node54"
+    },
+    {
+      "key": 0,
+      "source": "node54",
+      "target": "node56"
+    },
+    {
+      "label": "\"tailport=se headport=s\"",
+      "tailport": "se",
+      "headport": "s",
+      "key": 0,
+      "source": "node56",
+      "target": "node56"
+    },
+    {
+      "key": 0,
+      "source": "node56",
+      "target": "node62"
+    },
+    {
+      "label": "\"tailport=s headport=n\"",
+      "tailport": "s",
+      "headport": "n",
+      "key": 0,
+      "source": "node62",
+      "target": "node62"
+    },
+    {
+      "key": 0,
+      "source": "node62",
+      "target": "node63"
+    },
+    {
+      "label": "\"tailport=s headport=ne\"",
+      "tailport": "s",
+      "headport": "ne",
+      "key": 0,
+      "source": "node63",
+      "target": "node63"
+    },
+    {
+      "key": 0,
+      "source": "node63",
+      "target": "node64"
+    },
+    {
+      "label": "\"tailport=s headport=e\"",
+      "tailport": "s",
+      "headport": "e",
+      "key": 0,
+      "source": "node64",
+      "target": "node64"
+    },
+    {
+      "key": 0,
+      "source": "node64",
+      "target": "node65"
+    },
+    {
+      "label": "\"tailport=s headport=se\"",
+      "tailport": "s",
+      "headport": "se",
+      "key": 0,
+      "source": "node65",
+      "target": "node65"
+    }
+  ]
+}

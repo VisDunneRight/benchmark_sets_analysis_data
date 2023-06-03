@@ -1,0 +1,59 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "fontname": "\"NewCenturySchlbk-Bold\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"NewCenturySchlbk-Bold\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "21"
+    },
+    {
+      "fontname": "\"NewCenturySchlbk-BoldItalic\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"NewCenturySchlbk-BoldItalic\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "22"
+    },
+    {
+      "fontname": "\"NewCenturySchlbk-Italic\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"NewCenturySchlbk-Italic\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "23"
+    },
+    {
+      "fontname": "\"NewCenturySchlbk-Roman\"",
+      "shape": "box",
+      "width": "0",
+      "height": "0",
+      "margin": "\"0,0\"",
+      "label": "<<TABLE BORDER=\"0\" CELLBORDER=\"1\" CELLSPACING=\"0\">\n\t<TR><TD>\"NewCenturySchlbk-Roman\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\"</TD></TR>\n\t<TR><TD>\"abcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t<TR><TD>\"ABCDEFGHIJLKLMNOPQRSTUVWXYZ\\nabcdefghijlklmnopqrstuvwxyz\"</TD></TR>\n\t</TABLE>>",
+      "id": "24"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "21",
+      "target": "22"
+    },
+    {
+      "key": 0,
+      "source": "22",
+      "target": "23"
+    },
+    {
+      "key": 0,
+      "source": "23",
+      "target": "24"
+    }
+  ]
+}

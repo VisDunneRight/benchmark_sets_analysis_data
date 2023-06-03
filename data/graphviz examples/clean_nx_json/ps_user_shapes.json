@@ -1,0 +1,11 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"\"",
+      "id": "n"
+    }
+  ],
+  "links": []
+}

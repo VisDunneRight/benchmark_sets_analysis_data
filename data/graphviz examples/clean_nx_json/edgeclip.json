@@ -1,0 +1,44 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "ab"
+    },
+    {
+      "id": "cd"
+    },
+    {
+      "id": "CD"
+    },
+    {
+      "id": "AB"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "ab",
+      "target": "cd"
+    },
+    {
+      "tailclip": "false",
+      "key": 0,
+      "source": "ab",
+      "target": "CD"
+    },
+    {
+      "headclip": "false",
+      "key": 0,
+      "source": "AB",
+      "target": "CD"
+    },
+    {
+      "tailclip": "false",
+      "headclip": "false",
+      "key": 0,
+      "source": "AB",
+      "target": "cd"
+    }
+  ]
+}

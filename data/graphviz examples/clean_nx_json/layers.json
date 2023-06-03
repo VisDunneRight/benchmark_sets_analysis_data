@@ -1,0 +1,38 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "layer": "\"pvt\"",
+      "id": "node1"
+    },
+    {
+      "layer": "\"all\"",
+      "id": "node2"
+    },
+    {
+      "layer": "\"pvt:ofc\"",
+      "id": "node3"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "node4"
+    }
+  ],
+  "links": [
+    {
+      "layer": "\"pvt:all\"",
+      "key": 0,
+      "source": "node2",
+      "target": "node3"
+    },
+    {
+      "layer": "3",
+      "key": 0,
+      "source": "node2",
+      "target": "node4"
+    }
+  ]
+}

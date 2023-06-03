@@ -1,0 +1,32 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "cluster_foo"
+    },
+    {
+      "id": "label_xxxxxxx"
+    },
+    {
+      "id": "columns_foo_insider:foo"
+    },
+    {
+      "id": "label_foo"
+    }
+  ],
+  "links": [
+    {
+      "lhead": "\"cluster_foo\"",
+      "key": 0,
+      "source": "cluster_foo",
+      "target": "label_xxxxxxx"
+    },
+    {
+      "lhead": "\"cluster_foo\"",
+      "key": 0,
+      "source": "columns_foo_insider:foo",
+      "target": "label_foo"
+    }
+  ]
+}

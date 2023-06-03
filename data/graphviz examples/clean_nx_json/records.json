@@ -1,0 +1,106 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"<bala> Graphs can\\lbe fun\\l|<f1> mid|<f2> right\\r\"",
+      "id": "a"
+    },
+    {
+      "label": "\"<left>   |<mid> b |   \"",
+      "id": "b"
+    },
+    {
+      "label": "\"<p1>   | c |<p2>   \"",
+      "id": "c"
+    },
+    {
+      "label": "\"<p1>   | x |<p2>   \"",
+      "id": "x"
+    },
+    {
+      "label": "\"<p1>   | y |<p2>   \"",
+      "id": "y"
+    },
+    {
+      "label": "\"   | z |<p2>   \"",
+      "id": "z"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "a:bala"
+    },
+    {
+      "id": "b:left"
+    },
+    {
+      "id": "a:f1"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "a:f2"
+    },
+    {
+      "id": "y:\"p1"
+    },
+    {
+      "id": "c:\"p1"
+    },
+    {
+      "id": "b:mid"
+    },
+    {
+      "id": "x:\"p1"
+    },
+    {
+      "id": "c:\"p2"
+    },
+    {
+      "id": "y:\"p2"
+    },
+    {
+      "id": "z:\"p2"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "a:bala",
+      "target": "b:left"
+    },
+    {
+      "key": 0,
+      "source": "b:left",
+      "target": "z:\"p2"
+    },
+    {
+      "key": 0,
+      "source": "a:f1",
+      "target": "d"
+    },
+    {
+      "key": 0,
+      "source": "a:f2",
+      "target": "y:\"p1"
+    },
+    {
+      "key": 0,
+      "source": "c:\"p1",
+      "target": "d"
+    },
+    {
+      "key": 0,
+      "source": "b:mid",
+      "target": "x:\"p1"
+    },
+    {
+      "key": 0,
+      "source": "c:\"p2",
+      "target": "y:\"p2"
+    }
+  ]
+}

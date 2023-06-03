@@ -6,9 +6,9 @@ import os
 import re
 import shutil
 import xml.etree.ElementTree as ET
-#from Bio import Phylo
-#import newick
-#import graphviz
+from Bio import Phylo
+import newick
+import graphviz
 
 
 def read_storyline():
@@ -119,7 +119,7 @@ def read_kegg():
 						name = reaction.find('name').text
 						reactant = reaction.find('reactant').text
 						product = reaction.find('product').text
-						reversible = reaction.find('reversible').text
+						reversible = False if reaction.find('reversible').text == "false" else True
 						subsystem = reaction.find('subsystem').text
 						graph["links"].append({"nodes": [reactant, product], "directed": True if reversible == "false" else False, "reaction_id": id, "reaction_name": name, "reversible": reversible, "subsystem": subsystem})
 			with open(f"../data/KEGG pathways/clean/{kfile.replace('.xml', '.json')}", 'w') as f:
@@ -626,8 +626,7 @@ if __name__ == '__main__':
 	# read_randdag()
 	# read_california()
 	# read_collaborations()
-	#read_codecommits()
-	read_pi()
+	# read_codecommits()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):

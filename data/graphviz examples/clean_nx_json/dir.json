@@ -1,0 +1,55 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "a"
+    },
+    {
+      "id": "b"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "d"
+    },
+    {
+      "id": "e"
+    },
+    {
+      "id": "f"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "a",
+      "target": "b"
+    },
+    {
+      "dir": "forward",
+      "key": 0,
+      "source": "a",
+      "target": "c"
+    },
+    {
+      "dir": "back",
+      "key": 0,
+      "source": "a",
+      "target": "d"
+    },
+    {
+      "dir": "both",
+      "key": 0,
+      "source": "a",
+      "target": "e"
+    },
+    {
+      "dir": "none",
+      "key": 0,
+      "source": "a",
+      "target": "f"
+    }
+  ]
+}

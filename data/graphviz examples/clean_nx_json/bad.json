@@ -1,0 +1,52 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Marden"
+    },
+    {
+      "id": "hg"
+    },
+    {
+      "id": "Cannon"
+    },
+    {
+      "id": "ggt"
+    },
+    {
+      "id": "Epstein"
+    },
+    {
+      "id": "kg"
+    },
+    {
+      "id": "ldt"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "Marden",
+      "target": "hg"
+    },
+    {
+      "key": 0,
+      "source": "Cannon",
+      "target": "ggt"
+    },
+    {
+      "key": 0,
+      "source": "Epstein",
+      "target": "kg"
+    },
+    {
+      "key": 0,
+      "source": "Epstein",
+      "target": "ldt"
+    }
+  ]
+}

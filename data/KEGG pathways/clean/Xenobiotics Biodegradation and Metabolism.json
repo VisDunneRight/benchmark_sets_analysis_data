@@ -982,10 +982,10 @@
         "Biphenyl",
         "C06589"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05263",
       "reaction_name": "rn:R05263 rn:R05264",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -993,10 +993,10 @@
         "C06589",
         "3-Phenylcatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05239",
       "reaction_name": "rn:R05239",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1004,10 +1004,10 @@
         "3-Phenylcatechol",
         "C01273"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03462",
       "reaction_name": "rn:R03462",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1015,10 +1015,10 @@
         "C01273",
         "Oxopent-4-enoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02606",
       "reaction_name": "rn:R02606",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1026,10 +1026,10 @@
         "Oxopent-4-enoate",
         "C03589"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02601",
       "reaction_name": "rn:R02601",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1037,10 +1037,10 @@
         "Pyruvate",
         "C03589"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00750",
       "reaction_name": "rn:R00750",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1048,10 +1048,10 @@
         "o-Xylene",
         "C07213"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05442",
       "reaction_name": "rn:R05442",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1059,10 +1059,10 @@
         "C07213",
         "o-Tolualdehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05348",
       "reaction_name": "rn:R05348",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1070,10 +1070,10 @@
         "o-Tolualdehyde",
         "o-Toluate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05663",
       "reaction_name": "rn:R05663",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1081,10 +1081,10 @@
         "o-Toluate",
         "C06731"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05428",
       "reaction_name": "rn:R05428",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1092,10 +1092,10 @@
         "C06731",
         "3-Methylcatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05314",
       "reaction_name": "rn:R05314",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1103,10 +1103,10 @@
         "m-Xylene",
         "C07216"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05443",
       "reaction_name": "rn:R05443",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1114,10 +1114,10 @@
         "C07216",
         "m-Tolualdehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05347",
       "reaction_name": "rn:R05347",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1125,10 +1125,10 @@
         "m-Tolualdehyde",
         "m-Toluic_Acid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05664",
       "reaction_name": "rn:R05664",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1136,10 +1136,10 @@
         "m-Toluic_Acid",
         "C06720"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05665",
       "reaction_name": "rn:R05665",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1147,10 +1147,10 @@
         "C06720",
         "3-Methylcatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05309",
       "reaction_name": "rn:R05309",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1158,10 +1158,10 @@
         "Toluol",
         "o-Cresol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03560",
       "reaction_name": "rn:R03560",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1169,10 +1169,10 @@
         "o-Cresol",
         "3-Methylcatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03608",
       "reaction_name": "rn:R03608",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1180,10 +1180,10 @@
         "3-Methylcatechol",
         "C06210"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04089",
       "reaction_name": "rn:R04089",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1191,10 +1191,10 @@
         "Oxopent-4-enoate",
         "C06210"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05138",
       "reaction_name": "rn:R05138",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1202,10 +1202,10 @@
         "Toluol",
         "p-Cresol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05666",
       "reaction_name": "rn:R05666",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1213,10 +1213,10 @@
         "C00633",
         "p-Cresol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02675",
       "reaction_name": "rn:R02675",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1224,10 +1224,10 @@
         "4-Hydroxybenzoate",
         "C00633"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01293",
       "reaction_name": "rn:R01293",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1235,10 +1235,10 @@
         "Tosylate",
         "4-Methylcatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05294",
       "reaction_name": "rn:R05294",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1246,10 +1246,10 @@
         "p-Xylene",
         "4-Tolylcarbinol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05288",
       "reaction_name": "rn:R05288",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1257,10 +1257,10 @@
         "4-Tolylcarbinol",
         "p-Tolualdehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05282",
       "reaction_name": "rn:R05282",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1268,10 +1268,10 @@
         "Toluate",
         "C06729"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05290",
       "reaction_name": "rn:R05290 rn:R05291",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1279,10 +1279,10 @@
         "C06729",
         "4-Methylcatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05292",
       "reaction_name": "rn:R05292 rn:R05293",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1290,10 +1290,10 @@
         "4-Methylcatechol",
         "C06760"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05295",
       "reaction_name": "rn:R05295",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1301,10 +1301,10 @@
         "C06760",
         "C11354"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05865",
       "reaction_name": "rn:R05865",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1312,10 +1312,10 @@
         "C07479",
         "C11354"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05374",
       "reaction_name": "rn:R05374",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1323,10 +1323,10 @@
         "C07478",
         "C07479"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05389",
       "reaction_name": "rn:R05389",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1334,10 +1334,10 @@
         "C07478",
         "C06760"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05353",
       "reaction_name": "rn:R05353",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1345,10 +1345,10 @@
         "C11354",
         "C06762"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05864",
       "reaction_name": "rn:R05864",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1356,10 +1356,10 @@
         "p-Tolualdehyde",
         "Toluate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05289",
       "reaction_name": "rn:R05289",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1367,10 +1367,10 @@
         "Chloroacetic_acid",
         "Glycolate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05287",
       "reaction_name": "rn:R05287",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1378,10 +1378,10 @@
         "C12836",
         "C12835"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06848",
       "reaction_name": "rn:R06848",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1389,10 +1389,10 @@
         "C12835",
         "C12834"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06835",
       "reaction_name": "rn:R06835",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1400,10 +1400,10 @@
         "C12834",
         "C12833"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06834",
       "reaction_name": "rn:R06834",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1411,10 +1411,10 @@
         "C12833",
         "C12831"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06833",
       "reaction_name": "rn:R06833",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1422,10 +1422,10 @@
         "C12832",
         "C12831"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06832",
       "reaction_name": "rn:R06832",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1433,10 +1433,10 @@
         "Trichlorobenzene_A",
         "C12832"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06831",
       "reaction_name": "rn:R06831",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1444,10 +1444,10 @@
         "C06599",
         "C06600"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05243",
       "reaction_name": "rn:R05243",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1455,10 +1455,10 @@
         "C06611",
         "C06609"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05367",
       "reaction_name": "rn:R05367",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1466,10 +1466,10 @@
         "C06613",
         "C06611"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05233",
       "reaction_name": "rn:R05233",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1477,10 +1477,10 @@
         "C06614",
         "C06613"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05237",
       "reaction_name": "rn:R05237",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1488,10 +1488,10 @@
         "C06614",
         "3-Oxopropanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05371",
       "reaction_name": "rn:R05371",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1499,10 +1499,10 @@
         "C06612",
         "C06610"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05368",
       "reaction_name": "rn:R05368",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1510,10 +1510,10 @@
         "C16348",
         "C06612"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05234",
       "reaction_name": "rn:R05234",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1521,10 +1521,10 @@
         "C06615",
         "C16348"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05238",
       "reaction_name": "rn:R05238",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1532,10 +1532,10 @@
         "C06615",
         "3-Oxopropanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05372",
       "reaction_name": "rn:R05372",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1543,10 +1543,10 @@
         "4-Hydroxybenzoyl-CoA",
         "4-Hydroxybenzoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01300",
       "reaction_name": "rn:R01300 rn:R01301",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1554,10 +1554,10 @@
         "4-Hydroxybenzoate",
         "Protocatechuate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01296",
       "reaction_name": "rn:R01296 rn:R01298",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1565,10 +1565,10 @@
         "2-Chloroethanol",
         "Dutch_liquid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05284",
       "reaction_name": "rn:R05284",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1576,10 +1576,10 @@
         "2-Chloroethanal",
         "2-Chloroethanol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05285",
       "reaction_name": "rn:R05285 rn:R09128",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1587,10 +1587,10 @@
         "Chloroacetic_acid",
         "2-Chloroethanal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05286",
       "reaction_name": "rn:R05286",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1598,10 +1598,10 @@
         "PCE",
         "TCE"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05499",
       "reaction_name": "rn:R05499",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1609,10 +1609,10 @@
         "TCE",
         "C06791"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05500",
       "reaction_name": "rn:R05500",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1620,10 +1620,10 @@
         "TCE",
         "C06792"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05501",
       "reaction_name": "rn:R05501",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1631,10 +1631,10 @@
         "Ethene",
         "Ethylene_oxide"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05444",
       "reaction_name": "rn:R05444",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1642,10 +1642,10 @@
         "Ethylene_oxide",
         "1,2-Ethanediol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05842",
       "reaction_name": "rn:R05842",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1653,10 +1653,10 @@
         "Styrene",
         "(S)-Styrene_oxide"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05488",
       "reaction_name": "rn:R05488",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1664,10 +1664,10 @@
         "(S)-Styrene_oxide",
         "alpha-Tolualdehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10697",
       "reaction_name": "rn:R10697",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1675,10 +1675,10 @@
         "Phenylacetate",
         "alpha-Tolualdehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02536",
       "reaction_name": "rn:R02536 rn:R02537",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1686,10 +1686,10 @@
         "C07087",
         "3-Vinylcatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05404",
       "reaction_name": "rn:R05404",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1697,10 +1697,10 @@
         "Oxopent-4-enoate",
         "C07087"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05362",
       "reaction_name": "rn:R05362",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1708,10 +1708,10 @@
         "p-Dichlorobenzene",
         "C07093"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05429",
       "reaction_name": "rn:R05429",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1719,10 +1719,10 @@
         "C07093",
         "3,6-Dichlorocatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05397",
       "reaction_name": "rn:R05397",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1730,10 +1730,10 @@
         "3,6-Dichlorocatechol",
         "C07095"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05409",
       "reaction_name": "rn:R05409",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1741,10 +1741,10 @@
         "C07095",
         "C04729"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05392",
       "reaction_name": "rn:R05392",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1752,10 +1752,10 @@
         "C04706",
         "C06329"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05511",
       "reaction_name": "rn:R05511",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1763,10 +1763,10 @@
         "C06329",
         "Maleylacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05355",
       "reaction_name": "rn:R05355",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1774,10 +1774,10 @@
         "Chloranil",
         "C03434"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11585",
       "reaction_name": "rn:R11585",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1785,10 +1785,10 @@
         "C03434",
         "C07099"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05402",
       "reaction_name": "rn:R05402",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1796,10 +1796,10 @@
         "C07097",
         "C07099"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05403",
       "reaction_name": "rn:R05403",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1807,10 +1807,10 @@
         "C07097",
         "C06329"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05408",
       "reaction_name": "rn:R05408",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1818,10 +1818,10 @@
         "2,4,5-T",
         "C07101"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05418",
       "reaction_name": "rn:R05418",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1829,10 +1829,10 @@
         "C07101",
         "C21104"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05447",
       "reaction_name": "rn:R05447",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1840,10 +1840,10 @@
         "C06600",
         "C21105"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05446",
       "reaction_name": "rn:R05446",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1851,10 +1851,10 @@
         "Hydroxyquinol",
         "Maleylacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03891",
       "reaction_name": "rn:R03891",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1862,10 +1862,10 @@
         "p-Chlorophenol",
         "4-Chlorocatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05441",
       "reaction_name": "rn:R05441",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1873,10 +1873,10 @@
         "4-Chlorocatechol",
         "C07089"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05406",
       "reaction_name": "rn:R05406",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1884,10 +1884,10 @@
         "C00682",
         "Oxopent-4-enoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02604",
       "reaction_name": "rn:R02604",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1895,10 +1895,10 @@
         "4-Hydroxybenzoate",
         "Benzoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01295",
       "reaction_name": "rn:R01295",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1906,10 +1906,10 @@
         "C06321",
         "Benzoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05621",
       "reaction_name": "rn:R05621 rn:R05622",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1917,10 +1917,10 @@
         "C06321",
         "Catechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00813",
       "reaction_name": "rn:R00813",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1928,10 +1928,10 @@
         "Salicylate",
         "Catechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00818",
       "reaction_name": "rn:R00818",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1939,10 +1939,10 @@
         "C16203",
         "1,2-Anthracenediol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07705",
       "reaction_name": "rn:R07705",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1950,10 +1950,10 @@
         "Anthracene",
         "C16203"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07704",
       "reaction_name": "rn:R07704",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1961,10 +1961,10 @@
         "Salicylaldehyde",
         "Salicylate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02941",
       "reaction_name": "rn:R02941",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1972,10 +1972,10 @@
         "Salicylaldehyde",
         "C06203"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05136",
       "reaction_name": "rn:R05136",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1983,10 +1983,10 @@
         "C06203",
         "C06204"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05137",
       "reaction_name": "rn:R05137",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -1994,10 +1994,10 @@
         "1,2-Naphthalenediol",
         "C06204"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04117",
       "reaction_name": "rn:R04117",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2005,10 +2005,10 @@
         "C04314",
         "1,2-Naphthalenediol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04115",
       "reaction_name": "rn:R04115",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2016,10 +2016,10 @@
         "Naphthalene",
         "C04314"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02968",
       "reaction_name": "rn:R02968",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2027,10 +2027,10 @@
         "Phenanthrene",
         "C04468"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05843",
       "reaction_name": "rn:R05843",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2038,10 +2038,10 @@
         "C04468",
         "C03164"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04151",
       "reaction_name": "rn:R04151",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2049,10 +2049,10 @@
         "C03164",
         "C11425"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05650",
       "reaction_name": "rn:R05650",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2060,10 +2060,10 @@
         "C11427",
         "C11426"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05648",
       "reaction_name": "rn:R05648",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2071,10 +2071,10 @@
         "C03203",
         "C11427"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05649",
       "reaction_name": "rn:R05649",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2082,10 +2082,10 @@
         "1,2-Naphthalenediol",
         "C03203"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05632",
       "reaction_name": "rn:R05632",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2093,10 +2093,10 @@
         "Oxopent-4-enoate",
         "C07123"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05366",
       "reaction_name": "rn:R05366",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2104,10 +2104,10 @@
         "C07123",
         "3-Ethylcatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05416",
       "reaction_name": "rn:R05416",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2115,10 +2115,10 @@
         "C06727",
         "Ethylenzene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05440",
       "reaction_name": "rn:R05440",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2126,10 +2126,10 @@
         "Ethylenzene",
         "(S)-1-Phenylethanol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05745",
       "reaction_name": "rn:R05745",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2137,10 +2137,10 @@
         "Dibenzofuran",
         "C03569"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05434",
       "reaction_name": "rn:R05434",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2148,10 +2148,10 @@
         "C03569",
         "C07731"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05411",
       "reaction_name": "rn:R05411",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2159,10 +2159,10 @@
         "C07731",
         "Oxopent-4-enoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05360",
       "reaction_name": "rn:R05360",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2170,10 +2170,10 @@
         "Dibenzo-p-dioxin",
         "C07733"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05439",
       "reaction_name": "rn:R05439",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2181,10 +2181,10 @@
         "C07733",
         "C07734"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05413",
       "reaction_name": "rn:R05413",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2192,10 +2192,10 @@
         "C07734",
         "Catechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05361",
       "reaction_name": "rn:R05361",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2203,10 +2203,10 @@
         "2-Hydroxymuconate",
         "4-Oxalocrotonate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03966",
       "reaction_name": "rn:R03966",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2214,10 +2214,10 @@
         "Fluorene",
         "9-Fluorenol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05422",
       "reaction_name": "rn:R05422",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2225,10 +2225,10 @@
         "9-Fluorenone",
         "C16262"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07799",
       "reaction_name": "rn:R07799",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2236,10 +2236,10 @@
         "C16262",
         "C16263"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07800",
       "reaction_name": "rn:R07800",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2247,10 +2247,10 @@
         "C16263",
         "C16264"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07801",
       "reaction_name": "rn:R07801",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2258,10 +2258,10 @@
         "C16264",
         "Phthalate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07802",
       "reaction_name": "rn:R07802",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2269,10 +2269,10 @@
         "Phthalate",
         "C04783"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03630",
       "reaction_name": "rn:R03630",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2280,10 +2280,10 @@
         "C04783",
         "C03233"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05275",
       "reaction_name": "rn:R05275",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2291,10 +2291,10 @@
         "C03233",
         "Protocatechuate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01635",
       "reaction_name": "rn:R01635",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2302,10 +2302,10 @@
         "C08061",
         "Carbazole"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05414",
       "reaction_name": "rn:R05414",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2313,10 +2313,10 @@
         "C08061",
         "C08062"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05415",
       "reaction_name": "rn:R05415",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2324,10 +2324,10 @@
         "C08062",
         "Oxopent-4-enoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05365",
       "reaction_name": "rn:R05365",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2335,10 +2335,10 @@
         "Benzoyl-CoA",
         "4-Hydroxybenzoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05316",
       "reaction_name": "rn:R05316",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2346,10 +2346,10 @@
         "Benzoyl-CoA",
         "Benzoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01422",
       "reaction_name": "rn:R01422",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2357,10 +2357,10 @@
         "Benzoyl-CoA",
         "C06322"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02451",
       "reaction_name": "rn:R02451",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2368,10 +2368,10 @@
         "C06322",
         "C06749"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05597",
       "reaction_name": "rn:R05597",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2379,10 +2379,10 @@
         "C06749",
         "C09821"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05581",
       "reaction_name": "rn:R05581",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2390,10 +2390,10 @@
         "C09821",
         "3-Hydroxypimelyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05594",
       "reaction_name": "rn:R05594",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2401,10 +2401,10 @@
         "Toluol",
         "Benzylsuccinate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05598",
       "reaction_name": "rn:R05598",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2412,10 +2412,10 @@
         "Benzylsuccinyl-CoA",
         "Benzylsuccinate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05588",
       "reaction_name": "rn:R05588",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2423,10 +2423,10 @@
         "E-Phenylitaconyl-CoA",
         "Benzylsuccinyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05584",
       "reaction_name": "rn:R05584",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2434,10 +2434,10 @@
         "C09819",
         "E-Phenylitaconyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05599",
       "reaction_name": "rn:R05599",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2445,10 +2445,10 @@
         "C09819",
         "Benzoylsuccinyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05575",
       "reaction_name": "rn:R05575",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2456,10 +2456,10 @@
         "Benzoylsuccinyl-CoA",
         "Benzoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05587",
       "reaction_name": "rn:R05587",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2467,10 +2467,10 @@
         "Catechol",
         "cis,cis-Muconate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00817",
       "reaction_name": "rn:R00817",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2478,10 +2478,10 @@
         "(+)-Muconolactone",
         "cis,cis-Muconate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06989",
       "reaction_name": "rn:R06989",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2489,10 +2489,10 @@
         "C03586",
         "(+)-Muconolactone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06990",
       "reaction_name": "rn:R06990",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2500,10 +2500,10 @@
         "C03586",
         "3-Oxoadipate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02991",
       "reaction_name": "rn:R02991",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2511,10 +2511,10 @@
         "3-Oxoadipyl-CoA",
         "3-Oxoadipate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02990",
       "reaction_name": "rn:R02990",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2522,10 +2522,10 @@
         "Hydroxyquinol",
         "C03676"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04061",
       "reaction_name": "rn:R04061",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2533,10 +2533,10 @@
         "3-Oxoadipate",
         "Maleylacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02988",
       "reaction_name": "rn:R02988 rn:R02989",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2544,10 +2544,10 @@
         "C01163",
         "Protocatechuate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01631",
       "reaction_name": "rn:R01631",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2555,10 +2555,10 @@
         "C01278",
         "C01163"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03307",
       "reaction_name": "rn:R03307",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2566,10 +2566,10 @@
         "C01278",
         "C03586"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03470",
       "reaction_name": "rn:R03470",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2577,10 +2577,10 @@
         "6-Oxohexanoate",
         "Adipate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05099",
       "reaction_name": "rn:R05099",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2588,10 +2588,10 @@
         "Adipate",
         "Adipyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06944",
       "reaction_name": "rn:R06944",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2599,10 +2599,10 @@
         "Adipyl-CoA",
         "C14144"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06943",
       "reaction_name": "rn:R06943",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2610,10 +2610,10 @@
         "C14144",
         "C14145"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06942",
       "reaction_name": "rn:R06942",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2621,10 +2621,10 @@
         "C14145",
         "3-Oxoadipyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06941",
       "reaction_name": "rn:R06941",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2632,10 +2632,10 @@
         "Atrazine",
         "Hydroxyatrazine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05558",
       "reaction_name": "rn:R05558",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2643,10 +2643,10 @@
         "Hydroxyatrazine",
         "N-Isopropylammelide"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05559",
       "reaction_name": "rn:R05559",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2654,10 +2654,10 @@
         "N-Isopropylammelide",
         "Cyanuric_acid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05560",
       "reaction_name": "rn:R05560",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2665,10 +2665,10 @@
         "Cyanuric_acid",
         "Biuret"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05561",
       "reaction_name": "rn:R05561",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2676,10 +2676,10 @@
         "Biuret",
         "Allophanate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05563",
       "reaction_name": "rn:R05563",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2687,10 +2687,10 @@
         "Allophanate",
         "CO2"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00005",
       "reaction_name": "rn:R00005",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2698,10 +2698,10 @@
         "C10700",
         "C13636"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06892",
       "reaction_name": "rn:R06892",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2709,10 +2709,10 @@
         "C16476",
         "Maleylacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08121",
       "reaction_name": "rn:R08121",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2720,10 +2720,10 @@
         "C16474",
         "C16476"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08116",
       "reaction_name": "rn:R08116",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2731,10 +2731,10 @@
         "4-Fluorocatechol",
         "C16474"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08115",
       "reaction_name": "rn:R08115",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2742,10 +2742,10 @@
         "C16479",
         "4-Fluorocatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08112",
       "reaction_name": "rn:R08112",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2753,10 +2753,10 @@
         "3-Fluorobenzoate",
         "C16479"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08109",
       "reaction_name": "rn:R08109",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2764,10 +2764,10 @@
         "C16480",
         "4-Fluorocatechol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08113",
       "reaction_name": "rn:R08113",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2775,10 +2775,10 @@
         "4-Fluorobenzoate",
         "C16480"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08110",
       "reaction_name": "rn:R08110",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2786,10 +2786,10 @@
         "2-Fluorobenzoate",
         "C16482"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08100",
       "reaction_name": "rn:R08100",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2797,10 +2797,10 @@
         "Allophanate",
         "CO2"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00005",
       "reaction_name": "rn:R00005",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2808,10 +2808,10 @@
         "Androstenedione",
         "C20144"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09884",
       "reaction_name": "rn:R09884",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2819,10 +2819,10 @@
         "C20144",
         "C14909"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09860",
       "reaction_name": "rn:R09860",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2830,10 +2830,10 @@
         "Secophenol",
         "C04793"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09819",
       "reaction_name": "rn:R09819",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2841,10 +2841,10 @@
         "C04793",
         "DSHA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04597",
       "reaction_name": "rn:R04597",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2852,10 +2852,10 @@
         "DSHA",
         "HIP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09883",
       "reaction_name": "rn:R09883",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2863,10 +2863,10 @@
         "Catechol",
         "C00682"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00816",
       "reaction_name": "rn:R00816",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2874,10 +2874,10 @@
         "C00682",
         "2-Hydroxymuconate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02762",
       "reaction_name": "rn:R02762",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2885,10 +2885,10 @@
         "4-Oxalocrotonate",
         "Oxopent-4-enoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02602",
       "reaction_name": "rn:R02602",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2896,10 +2896,10 @@
         "Propanal",
         "C06762"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05298",
       "reaction_name": "rn:R05298",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2907,10 +2907,10 @@
         "C06318",
         "Protocatechuate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01633",
       "reaction_name": "rn:R01633",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2918,10 +2918,10 @@
         "Terephthalate",
         "C06318"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05148",
       "reaction_name": "rn:R05148",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2929,10 +2929,10 @@
         "Propanal",
         "Propionyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09097",
       "reaction_name": "rn:R09097",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2940,10 +2940,10 @@
         "HIP",
         "HIP-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10769",
       "reaction_name": "rn:R10769",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     },
     {
@@ -2951,10 +2951,10 @@
         "PCP",
         "Chloranil"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03982",
       "reaction_name": "rn:R03982",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Xenobiotics Biodegradation and Metabolism"
     }
   ]

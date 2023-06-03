@@ -1,0 +1,150 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"Torwaechter\"",
+      "id": "Torwaechter"
+    },
+    {
+      "label": "\"Torschluessel\"",
+      "id": "Torschluessel"
+    },
+    {
+      "label": "\"Schluesseloel\"",
+      "id": "Schluesseloel"
+    },
+    {
+      "label": "\"Schluesseltraeger\"",
+      "id": "Schluesseltraeger"
+    },
+    {
+      "label": "\"ge\\nPrefix\"",
+      "id": "Prefix"
+    },
+    {
+      "label": "\"legen\\nStamm\"",
+      "id": "Stem"
+    },
+    {
+      "label": "\"heit\\nSuffix\"",
+      "id": "Suffix"
+    },
+    {
+      "shape": "\"record\"",
+      "label": "\"<f0>ge\\nPrefix|<f1>legen\\nStamm|<f2>heit\\nSuffix\"",
+      "style": "\"invis\"",
+      "id": "creation"
+    },
+    {
+      "shape": "\"record\"",
+      "label": "\"<f0>ge\\nPrefix|<f1>Dieb\\nStamm|<f2>heit\\nSuffix\"",
+      "style": "\"invis\"",
+      "id": "creation1"
+    },
+    {
+      "id": "Tor"
+    },
+    {
+      "id": "Schlosstor"
+    },
+    {
+      "id": "Torfenster"
+    },
+    {
+      "id": "Schluesselbund"
+    },
+    {
+      "id": "Torwaechterhaeuschen"
+    },
+    {
+      "id": "Wort"
+    },
+    {
+      "id": "Dieb"
+    },
+    {
+      "id": "creation\":f1"
+    },
+    {
+      "id": "Fragewort"
+    },
+    {
+      "id": "creation1\":f1"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "Torwaechter",
+      "target": "Torwaechterhaeuschen"
+    },
+    {
+      "key": 0,
+      "source": "Torschluessel",
+      "target": "Schluesselbund"
+    },
+    {
+      "key": 0,
+      "source": "Torschluessel",
+      "target": "Schluesseltraeger"
+    },
+    {
+      "key": 0,
+      "source": "Torschluessel",
+      "target": "Schluesseloel"
+    },
+    {
+      "style": "\"invis\"",
+      "key": 0,
+      "source": "Prefix",
+      "target": "Wort"
+    },
+    {
+      "key": 0,
+      "source": "Stem",
+      "target": "Wort"
+    },
+    {
+      "style": "\"invis\"",
+      "key": 0,
+      "source": "Suffix",
+      "target": "Wort"
+    },
+    {
+      "key": 0,
+      "source": "Tor",
+      "target": "Schlosstor"
+    },
+    {
+      "key": 0,
+      "source": "Tor",
+      "target": "Torfenster"
+    },
+    {
+      "key": 0,
+      "source": "Tor",
+      "target": "Torschluessel"
+    },
+    {
+      "key": 0,
+      "source": "Tor",
+      "target": "Torwaechter"
+    },
+    {
+      "key": 0,
+      "source": "Dieb",
+      "target": "Wort"
+    },
+    {
+      "key": 0,
+      "source": "creation\":f1",
+      "target": "Fragewort"
+    },
+    {
+      "key": 0,
+      "source": "creation1\":f1",
+      "target": "Fragewort"
+    }
+  ]
+}

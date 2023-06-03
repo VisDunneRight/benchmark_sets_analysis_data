@@ -527,10 +527,10 @@
         "Tryptamine",
         "Strictosidine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03738",
       "reaction_name": "rn:R03738",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -538,10 +538,10 @@
         "Strictosidine",
         "C03309"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03820",
       "reaction_name": "rn:R03820",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -549,10 +549,10 @@
         "Cinnamoyl-CoA",
         "(E)-Cinnamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02255",
       "reaction_name": "rn:R02255",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -560,10 +560,10 @@
         "Cinnamaldehyde",
         "Cinnamoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02506",
       "reaction_name": "rn:R02506",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -571,10 +571,10 @@
         "4-Coumarate",
         "4-Coumaroyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01616",
       "reaction_name": "rn:R01616",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -582,10 +582,10 @@
         "4-Coumaroyl-CoA",
         "p-Coumaraldehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01615",
       "reaction_name": "rn:R01615",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -593,10 +593,10 @@
         "p-Coumaraldehyde",
         "p-Coumaryl_alcohol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07437",
       "reaction_name": "rn:R07437",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -604,10 +604,10 @@
         "p-Coumaryl_alcohol",
         "C15804"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04007",
       "reaction_name": "rn:R04007",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -615,10 +615,10 @@
         "4-Coumarate",
         "Caffeate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07826",
       "reaction_name": "rn:R07826",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -626,10 +626,10 @@
         "Caffeate",
         "Caffeoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01943",
       "reaction_name": "rn:R01943",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -637,10 +637,10 @@
         "Caffeate",
         "Ferulate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03366",
       "reaction_name": "rn:R03366",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -648,10 +648,10 @@
         "Caffeoyl-CoA",
         "Feruloyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01942",
       "reaction_name": "rn:R01942",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -659,10 +659,10 @@
         "Ferulate",
         "Feruloyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02194",
       "reaction_name": "rn:R02194",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -670,10 +670,10 @@
         "Feruloyl-CoA",
         "Ferulaldehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02193",
       "reaction_name": "rn:R02193",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -681,10 +681,10 @@
         "Ferulaldehyde",
         "Coniferol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02593",
       "reaction_name": "rn:R02593",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -692,10 +692,10 @@
         "Coniferol",
         "Guaiacyl_lignin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02596",
       "reaction_name": "rn:R02596",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -703,10 +703,10 @@
         "Ferulate",
         "C05619"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07440",
       "reaction_name": "rn:R07440",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -714,10 +714,10 @@
         "Ferulaldehyde",
         "C12204"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06572",
       "reaction_name": "rn:R06572",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -725,10 +725,10 @@
         "C05619",
         "C12203"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06583",
       "reaction_name": "rn:R06583",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -736,10 +736,10 @@
         "C12203",
         "C12204"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06569",
       "reaction_name": "rn:R06569",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -747,10 +747,10 @@
         "C05619",
         "Sinapate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02379",
       "reaction_name": "rn:R02379",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -758,10 +758,10 @@
         "C12203",
         "Sinapoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06578",
       "reaction_name": "rn:R06578",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -769,10 +769,10 @@
         "C12204",
         "Sinapaldehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06576",
       "reaction_name": "rn:R06576",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -780,10 +780,10 @@
         "Sinapate",
         "Sinapoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02221",
       "reaction_name": "rn:R02221",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -791,10 +791,10 @@
         "Sinapoyl-CoA",
         "Sinapaldehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02220",
       "reaction_name": "rn:R02220",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -802,10 +802,10 @@
         "Sinapyl_alcohol",
         "Sinapaldehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03918",
       "reaction_name": "rn:R03918",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -813,10 +813,10 @@
         "Sinapyl_alcohol",
         "Syringyl_lignin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03919",
       "reaction_name": "rn:R03919",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -824,10 +824,10 @@
         "4-Coumaroyl-CoA",
         "Isosalipurpol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01613",
       "reaction_name": "rn:R01613",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -835,10 +835,10 @@
         "Isosalipurpol",
         "Naringenin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02446",
       "reaction_name": "rn:R02446",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -846,10 +846,10 @@
         "Naringenin",
         "Aromadendrin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02444",
       "reaction_name": "rn:R02444",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -857,10 +857,10 @@
         "Aromadendrin",
         "C03648"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03123",
       "reaction_name": "rn:R03123 rn:R06540",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -868,10 +868,10 @@
         "C03648",
         "Pelargonidin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04276",
       "reaction_name": "rn:R04276",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -879,10 +879,10 @@
         "Apigenin",
         "Naringenin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02445",
       "reaction_name": "rn:R02445",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -890,10 +890,10 @@
         "Taxifolin",
         "Aromadendrin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03124",
       "reaction_name": "rn:R03124",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -901,10 +901,10 @@
         "Swartziol",
         "Aromadendrin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03126",
       "reaction_name": "rn:R03126",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -912,10 +912,10 @@
         "Taxifolin",
         "Quercetin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02160",
       "reaction_name": "rn:R02160",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -923,10 +923,10 @@
         "Apigenin",
         "Luteolin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06537",
       "reaction_name": "rn:R06537",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -934,10 +934,10 @@
         "Swartziol",
         "Quercetin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06538",
       "reaction_name": "rn:R06538",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -945,10 +945,10 @@
         "Quercetin",
         "Isotrifoliin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02158",
       "reaction_name": "rn:R02158",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -956,10 +956,10 @@
         "Pelargonidin",
         "UDP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06534",
       "reaction_name": "rn:R06534",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -967,10 +967,10 @@
         "Dopamine",
         "(S)-Norcoclaurine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04305",
       "reaction_name": "rn:R04305",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -978,10 +978,10 @@
         "(S)-Norcoclaurine",
         "Coclaurine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05123",
       "reaction_name": "rn:R05123",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -989,10 +989,10 @@
         "Coclaurine",
         "C05176"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04692",
       "reaction_name": "rn:R04692",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1000,10 +1000,10 @@
         "C05176",
         "C05202"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05732",
       "reaction_name": "rn:R05732",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1011,10 +1011,10 @@
         "C05202",
         "(+)-Reticuline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03832",
       "reaction_name": "rn:R03832",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1022,10 +1022,10 @@
         "(+)-Reticuline",
         "C06167"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03833",
       "reaction_name": "rn:R03833",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1033,10 +1033,10 @@
         "C06167",
         "(R)-Reticuline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04695",
       "reaction_name": "rn:R04695",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1044,10 +1044,10 @@
         "(R)-Reticuline",
         "Sinoacutine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04696",
       "reaction_name": "rn:R04696",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1055,10 +1055,10 @@
         "Sinoacutine",
         "Salutaridinol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04697",
       "reaction_name": "rn:R04697",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1066,10 +1066,10 @@
         "Salutaridinol",
         "C05322"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04723",
       "reaction_name": "rn:R04723",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1077,10 +1077,10 @@
         "Codeine",
         "Codeinone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05124",
       "reaction_name": "rn:R05124",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1088,10 +1088,10 @@
         "(S)-Scoulerine",
         "(+)-Reticuline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03831",
       "reaction_name": "rn:R03831",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1099,10 +1099,10 @@
         "(S)-Cheilanthifoline",
         "(S)-Scoulerine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03834",
       "reaction_name": "rn:R03834",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1110,10 +1110,10 @@
         "Stylopine",
         "(S)-Cheilanthifoline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04690",
       "reaction_name": "rn:R04690",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1121,10 +1121,10 @@
         "Stylopine",
         "C06163"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04691",
       "reaction_name": "rn:R04691",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1132,10 +1132,10 @@
         "C06163",
         "Protopine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04700",
       "reaction_name": "rn:R04700",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1143,10 +1143,10 @@
         "6-Hydroxyprotopine",
         "Protopine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04699",
       "reaction_name": "rn:R04699",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1154,10 +1154,10 @@
         "Putrescine",
         "N-Methylputrescine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01153",
       "reaction_name": "rn:R01153",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1165,10 +1165,10 @@
         "N-Methylputrescine",
         "1-Methylpyrrolinium"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04027",
       "reaction_name": "rn:R04027",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1176,10 +1176,10 @@
         "Tropinone",
         "Tropine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02832",
       "reaction_name": "rn:R02832",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1187,10 +1187,10 @@
         "Daturine",
         "C03325"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03812",
       "reaction_name": "rn:R03812",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1198,10 +1198,10 @@
         "Methyl_ecgonine",
         "Cocaine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06728",
       "reaction_name": "rn:R06728 rn:R08430",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1209,10 +1209,10 @@
         "L-Lysine",
         "Cadaverine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00462",
       "reaction_name": "rn:R00462",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1220,10 +1220,10 @@
         "Cadaverine",
         "5-Aminopentanal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06740",
       "reaction_name": "rn:R06740",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1231,10 +1231,10 @@
         "Xanthosine",
         "7-Methylxanthosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07917",
       "reaction_name": "rn:R07917",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1242,10 +1242,10 @@
         "7-Methylxanthine",
         "Theobromine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07919",
       "reaction_name": "rn:R07919",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1253,10 +1253,10 @@
         "Theobromine",
         "Caffeine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07920",
       "reaction_name": "rn:R07920 rn:R07955 rn:R07956",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1264,10 +1264,10 @@
         "3-Methylxanthine",
         "Theophylline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07973",
       "reaction_name": "rn:R07973 rn:R07974",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1275,10 +1275,10 @@
         "Xanthine",
         "3-Methylxanthine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07967",
       "reaction_name": "rn:R07967 rn:R07968",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1286,10 +1286,10 @@
         "1-Methylxanthine",
         "Theophylline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07975",
       "reaction_name": "rn:R07975 rn:R07976",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1297,10 +1297,10 @@
         "Xanthine",
         "1-Methylxanthine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07969",
       "reaction_name": "rn:R07969 rn:R07970",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1308,10 +1308,10 @@
         "Caffeine",
         "Paraxanthine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07939",
       "reaction_name": "rn:R07939 rn:R07954",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1319,10 +1319,10 @@
         "Paraxanthine",
         "AFMU"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07940",
       "reaction_name": "rn:R07940",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1330,10 +1330,10 @@
         "Paraxanthine",
         "C16356"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07945",
       "reaction_name": "rn:R07945 rn:R07977",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1341,10 +1341,10 @@
         "1-Methylxanthine",
         "Paraxanthine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07943",
       "reaction_name": "rn:R07943 rn:R07959 rn:R07960",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1352,10 +1352,10 @@
         "ACV",
         "L-Valine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04870",
       "reaction_name": "rn:R04870",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1363,10 +1363,10 @@
         "ACV",
         "Isopenicillin_N"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04872",
       "reaction_name": "rn:R04872",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1374,10 +1374,10 @@
         "Isopenicillin_N",
         "Penam"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06361",
       "reaction_name": "rn:R06361",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1385,10 +1385,10 @@
         "Isopenicillin_N",
         "Adicillin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04147",
       "reaction_name": "rn:R04147",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1396,10 +1396,10 @@
         "Adicillin",
         "DAOC"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05301",
       "reaction_name": "rn:R05301",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1407,10 +1407,10 @@
         "DAOC",
         "C03112"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05229",
       "reaction_name": "rn:R05229",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1418,10 +1418,10 @@
         "C03112",
         "Cephalosporin_C"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03064",
       "reaction_name": "rn:R03064",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1429,10 +1429,10 @@
         "4-Coumarate",
         "(E)-Cinnamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02253",
       "reaction_name": "rn:R02253",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1440,10 +1440,10 @@
         "Codeine",
         "Morphine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09402",
       "reaction_name": "rn:R09402",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1451,10 +1451,10 @@
         "Thebaine",
         "Neopinone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05126",
       "reaction_name": "rn:R05126",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1462,10 +1462,10 @@
         "C00353",
         "C20525"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10349",
       "reaction_name": "rn:R10349",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1473,10 +1473,10 @@
         "C20525",
         "C20526"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10350",
       "reaction_name": "rn:R10350",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1484,10 +1484,10 @@
         "C20526",
         "Emindole_SB"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10352",
       "reaction_name": "rn:R10352",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1495,10 +1495,10 @@
         "Emindole_SB",
         "C20529"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10351",
       "reaction_name": "rn:R10351",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1506,10 +1506,10 @@
         "C20529",
         "Paspaline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10353",
       "reaction_name": "rn:R10353",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1517,10 +1517,10 @@
         "4-Coumaroyl-CoA",
         "4-Coumaroylshikimate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02416",
       "reaction_name": "rn:R02416",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1528,10 +1528,10 @@
         "4-Coumaroylshikimate",
         "C10434"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06582",
       "reaction_name": "rn:R06582",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1539,10 +1539,10 @@
         "C10434",
         "Caffeoyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07433",
       "reaction_name": "rn:R07433",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1550,10 +1550,10 @@
         "C10434",
         "Caffeate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10701",
       "reaction_name": "rn:R10701",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     },
     {
@@ -1561,10 +1561,10 @@
         "Tyrosine",
         "4-Coumarate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00737",
       "reaction_name": "rn:R00737",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Biosynthesis of Other Secondary Metabolites"
     }
   ]

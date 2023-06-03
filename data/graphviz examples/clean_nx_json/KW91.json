@@ -1,0 +1,44 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "Ext_1"
+    },
+    {
+      "id": "Act_1"
+    },
+    {
+      "id": "Act_3"
+    },
+    {
+      "id": "Ext_2"
+    },
+    {
+      "id": "Ext_3"
+    },
+    {
+      "id": "Act_24"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "Ext_1",
+      "target": "Act_1"
+    },
+    {
+      "key": 0,
+      "source": "Act_3",
+      "target": "Ext_2"
+    },
+    {
+      "key": 0,
+      "source": "Ext_3",
+      "target": "Act_24"
+    }
+  ]
+}

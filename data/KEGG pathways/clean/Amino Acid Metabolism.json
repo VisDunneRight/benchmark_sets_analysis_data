@@ -1467,10 +1467,10 @@
         "Succinate",
         "4-Oxobutanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00713",
       "reaction_name": "rn:R00713 rn:R00714",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1478,10 +1478,10 @@
         "4-Oxobutanoate",
         "GABA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01648",
       "reaction_name": "rn:R01648 rn:R10178",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1489,10 +1489,10 @@
         "Glutamate",
         "GABA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00261",
       "reaction_name": "rn:R00261",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1500,10 +1500,10 @@
         "2-Oxoglutarate",
         "Glutamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00093",
       "reaction_name": "rn:R00093 rn:R00114 rn:R00243 rn:R00248",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1511,10 +1511,10 @@
         "Oxaloacetate",
         "L-Asp"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00357",
       "reaction_name": "rn:R00357",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1522,10 +1522,10 @@
         "Fumarate",
         "L-Asp"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00490",
       "reaction_name": "rn:R00490",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1533,10 +1533,10 @@
         "L-Asparagine",
         "L-Asp"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00483",
       "reaction_name": "rn:R00483 rn:R00485 rn:R00578",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1544,10 +1544,10 @@
         "Pyruvate",
         "Serine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00220",
       "reaction_name": "rn:R00220",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1555,10 +1555,10 @@
         "3-Phosphoglycerate",
         "3-Phosphooxypyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01513",
       "reaction_name": "rn:R01513",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1566,10 +1566,10 @@
         "Dexfosfoserine",
         "3-Phosphooxypyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04173",
       "reaction_name": "rn:R04173",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1577,10 +1577,10 @@
         "Dexfosfoserine",
         "Serine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00582",
       "reaction_name": "rn:R00582",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1588,10 +1588,10 @@
         "L-Asp",
         "C03082"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00480",
       "reaction_name": "rn:R00480",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1599,10 +1599,10 @@
         "C03082",
         "C00441"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02291",
       "reaction_name": "rn:R02291",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1610,10 +1610,10 @@
         "L-Homoserine",
         "C00441"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01773",
       "reaction_name": "rn:R01773 rn:R01775",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1621,10 +1621,10 @@
         "C01102",
         "L-Homoserine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01771",
       "reaction_name": "rn:R01771",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1632,10 +1632,10 @@
         "L-Threonine",
         "C01102"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01466",
       "reaction_name": "rn:R01466",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1643,10 +1643,10 @@
         "Gly",
         "L-Threonine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00751",
       "reaction_name": "rn:R00751",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1654,10 +1654,10 @@
         "Serine",
         "5,10-Methylene-THF"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00945",
       "reaction_name": "rn:R00945",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1665,10 +1665,10 @@
         "C01242",
         "5,10-Methylene-THF"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04125",
       "reaction_name": "rn:R04125",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1676,10 +1676,10 @@
         "C01242",
         "Gly"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03425",
       "reaction_name": "rn:R03425",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1687,10 +1687,10 @@
         "Glyoxalate",
         "Gly"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00364",
       "reaction_name": "rn:R00364 rn:R00366 rn:R00372",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1698,10 +1698,10 @@
         "C00441",
         "C03283"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06977",
       "reaction_name": "rn:R06977",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1709,10 +1709,10 @@
         "Ectoine",
         "C06442"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06979",
       "reaction_name": "rn:R06979",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1720,10 +1720,10 @@
         "L-Allothreonine",
         "Gly"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06171",
       "reaction_name": "rn:R06171",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1731,10 +1731,10 @@
         "O-Acetylhomoserine",
         "L-Homoserine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01776",
       "reaction_name": "rn:R01776",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1742,10 +1742,10 @@
         "O-Acetylhomoserine",
         "L-Cystathionine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03217",
       "reaction_name": "rn:R03217",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1753,10 +1753,10 @@
         "L-Cystathionine",
         "O-Succinylhomoserine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03260",
       "reaction_name": "rn:R03260",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1764,10 +1764,10 @@
         "O-Succinylhomoserine",
         "L-Homoserine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01777",
       "reaction_name": "rn:R01777",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1775,10 +1775,10 @@
         "O-Succinylhomoserine",
         "2-Oxobutyrate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00999",
       "reaction_name": "rn:R00999",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1786,10 +1786,10 @@
         "L-Cystathionine",
         "L-Cysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01001",
       "reaction_name": "rn:R01001",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1797,10 +1797,10 @@
         "O-Succinylhomoserine",
         "Homocysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01288",
       "reaction_name": "rn:R01288",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1808,10 +1808,10 @@
         "Homocysteine",
         "Methionine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00650",
       "reaction_name": "rn:R00650 rn:R00946 rn:R02821 rn:R04405",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1819,10 +1819,10 @@
         "Methionine",
         "C01180"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00648",
       "reaction_name": "rn:R00648 rn:R07396",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1830,10 +1830,10 @@
         "Homocysteine",
         "C00021"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00192",
       "reaction_name": "rn:R00192",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1841,10 +1841,10 @@
         "C00021",
         "SAM"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04858",
       "reaction_name": "rn:R04858 rn:R10404",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1852,10 +1852,10 @@
         "Methionine",
         "SAM"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00177",
       "reaction_name": "rn:R00177",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1863,10 +1863,10 @@
         "C00021",
         "C03539"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00194",
       "reaction_name": "rn:R00194",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1874,10 +1874,10 @@
         "C01180",
         "C15606"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07364",
       "reaction_name": "rn:R07364",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1885,10 +1885,10 @@
         "C15606",
         "C15651"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07394",
       "reaction_name": "rn:R07394",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1896,10 +1896,10 @@
         "C15651",
         "C15650"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07393",
       "reaction_name": "rn:R07393",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1907,10 +1907,10 @@
         "C15650",
         "C04582"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07392",
       "reaction_name": "rn:R07392",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1918,10 +1918,10 @@
         "C04188",
         "C04582"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04420",
       "reaction_name": "rn:R04420",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1929,10 +1929,10 @@
         "C03089",
         "C04188"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04143",
       "reaction_name": "rn:R04143",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1940,10 +1940,10 @@
         "SAM",
         "Decarboxy-AdoMet"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00178",
       "reaction_name": "rn:R00178",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1951,10 +1951,10 @@
         "C08276",
         "C15606"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07363",
       "reaction_name": "rn:R07363",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1962,10 +1962,10 @@
         "C04188",
         "MTA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01402",
       "reaction_name": "rn:R01402",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1973,10 +1973,10 @@
         "O-Acetyl-L-serine",
         "Serine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00586",
       "reaction_name": "rn:R00586",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1984,10 +1984,10 @@
         "Pyruvate",
         "Mercaptopyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03105",
       "reaction_name": "rn:R03105",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -1995,10 +1995,10 @@
         "3-Sulfinoalanine",
         "L-Cysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00893",
       "reaction_name": "rn:R00893",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2006,10 +2006,10 @@
         "3-Sulfinopyruvate",
         "3-Sulfinoalanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02619",
       "reaction_name": "rn:R02619",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2017,10 +2017,10 @@
         "Pyruvate",
         "L-Cysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00782",
       "reaction_name": "rn:R00782",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2028,10 +2028,10 @@
         "Acetyl-CoA",
         "Homocitrate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00271",
       "reaction_name": "rn:R00271",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2039,10 +2039,10 @@
         "Homocitrate",
         "cis-Homoaconitate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03444",
       "reaction_name": "rn:R03444",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2050,10 +2050,10 @@
         "Homoisocitrate",
         "2-Oxoadipate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01934",
       "reaction_name": "rn:R01934",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2061,10 +2061,10 @@
         "2-Oxoadipate",
         "L-2-Aminoadipate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01939",
       "reaction_name": "rn:R01939",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2072,10 +2072,10 @@
         "C19886",
         "L-2-Aminoadipate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09775",
       "reaction_name": "rn:R09775",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2083,10 +2083,10 @@
         "C19886",
         "C19887"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09776",
       "reaction_name": "rn:R09776",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2094,10 +2094,10 @@
         "C19887",
         "C19888"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09777",
       "reaction_name": "rn:R09777",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2105,10 +2105,10 @@
         "C19888",
         "LysW-gamma-L-lysine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09778",
       "reaction_name": "rn:R09778",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2116,10 +2116,10 @@
         "LysW-gamma-L-lysine",
         "L-Lysine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09779",
       "reaction_name": "rn:R09779",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2127,10 +2127,10 @@
         "L-Lysine",
         "C00680"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00451",
       "reaction_name": "rn:R00451",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2138,10 +2138,10 @@
         "C00680",
         "C00666"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02735",
       "reaction_name": "rn:R02735",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2149,10 +2149,10 @@
         "C04421",
         "C00666"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02734",
       "reaction_name": "rn:R02734",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2160,10 +2160,10 @@
         "C04462",
         "C04421"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04475",
       "reaction_name": "rn:R04475",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2171,10 +2171,10 @@
         "C04462",
         "C03972"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04365",
       "reaction_name": "rn:R04365",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2182,10 +2182,10 @@
         "C03972",
         "HTPA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04198",
       "reaction_name": "rn:R04198 rn:R04199",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2193,10 +2193,10 @@
         "C00441",
         "HTPA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10147",
       "reaction_name": "rn:R10147",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2204,10 +2204,10 @@
         "Allysine",
         "Saccharopine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02313",
       "reaction_name": "rn:R02313 rn:R02315",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2215,10 +2215,10 @@
         "L-Lysine",
         "Saccharopine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00715",
       "reaction_name": "rn:R00715 rn:R00716",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2226,10 +2226,10 @@
         "L-Lysine",
         "Allysine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00446",
       "reaction_name": "rn:R00446",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2237,10 +2237,10 @@
         "Allysine",
         "C00450"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02317",
       "reaction_name": "rn:R02317",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2248,10 +2248,10 @@
         "C00450",
         "L-Pipecolate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02204",
       "reaction_name": "rn:R02204 rn:R02205 rn:R08414",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2259,10 +2259,10 @@
         "L-Pipecolate",
         "C04092"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02201",
       "reaction_name": "rn:R02201 rn:R02203",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2270,10 +2270,10 @@
         "Crotonyl-CoA",
         "Glutaryl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02488",
       "reaction_name": "rn:R02488",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2281,10 +2281,10 @@
         "Glutaryl-CoA",
         "C06157"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02571",
       "reaction_name": "rn:R02571",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2292,10 +2292,10 @@
         "C06157",
         "2-Oxoadipate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01940",
       "reaction_name": "rn:R01940",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2303,10 +2303,10 @@
         "Glyoxalate",
         "C05946"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00471",
       "reaction_name": "rn:R00471",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2314,10 +2314,10 @@
         "C05946",
         "C05947"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05052",
       "reaction_name": "rn:R05052 rn:R05053",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2325,10 +2325,10 @@
         "C05947",
         "C04281"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04444",
       "reaction_name": "rn:R04444 rn:R04445",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2336,10 +2336,10 @@
         "Hydroxyproline",
         "C04281"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03291",
       "reaction_name": "rn:R03291 rn:R03293 rn:R03295",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2347,10 +2347,10 @@
         "L-Proline",
         "Hydroxyproline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01252",
       "reaction_name": "rn:R01252",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2358,10 +2358,10 @@
         "C03912",
         "L-Proline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01248",
       "reaction_name": "rn:R01248 rn:R01251 rn:R01253",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2369,10 +2369,10 @@
         "Glutamate",
         "C03912"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00707",
       "reaction_name": "rn:R00707 rn:R00708",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2380,10 +2380,10 @@
         "L-Ornithine",
         "C01165"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00667",
       "reaction_name": "rn:R00667",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2391,10 +2391,10 @@
         "Carbamoyl_phosphate",
         "Citrulline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01398",
       "reaction_name": "rn:R01398",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2402,10 +2402,10 @@
         "L-Argininosuccinate",
         "L-Arg"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01086",
       "reaction_name": "rn:R01086",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2413,10 +2413,10 @@
         "L-Arg",
         "Urea"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00551",
       "reaction_name": "rn:R00551",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2424,10 +2424,10 @@
         "Citrulline",
         "L-Arg"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00552",
       "reaction_name": "rn:R00552 rn:R00557 rn:R11711",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2435,10 +2435,10 @@
         "L-Arg",
         "Glycocyamine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00565",
       "reaction_name": "rn:R00565",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2446,10 +2446,10 @@
         "Creatine",
         "Phosphocreatine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01881",
       "reaction_name": "rn:R01881",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2457,10 +2457,10 @@
         "PRPP",
         "Phosphoribosyl-ATP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01071",
       "reaction_name": "rn:R01071",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2468,10 +2468,10 @@
         "Phosphoribosyl-ATP",
         "Phosphoribosyl-AMP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04035",
       "reaction_name": "rn:R04035",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2479,10 +2479,10 @@
         "Phosphoribosyl-AMP",
         "C04896"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04037",
       "reaction_name": "rn:R04037",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2490,10 +2490,10 @@
         "C04896",
         "C04916"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04640",
       "reaction_name": "rn:R04640",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2501,10 +2501,10 @@
         "C04916",
         "C04666"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04558",
       "reaction_name": "rn:R04558",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2512,10 +2512,10 @@
         "C01267",
         "C04666"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03457",
       "reaction_name": "rn:R03457",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2523,10 +2523,10 @@
         "C01267",
         "C01100"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03243",
       "reaction_name": "rn:R03243",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2534,10 +2534,10 @@
         "C01100",
         "L-Histidinol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03013",
       "reaction_name": "rn:R03013",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2545,10 +2545,10 @@
         "L-Histidinal",
         "L-Histidine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01163",
       "reaction_name": "rn:R01163",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2556,10 +2556,10 @@
         "Histamine",
         "L-Histidine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01167",
       "reaction_name": "rn:R01167",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2567,10 +2567,10 @@
         "L-Histidine",
         "Urocanate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01168",
       "reaction_name": "rn:R01168",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2578,10 +2578,10 @@
         "Urocanate",
         "C03680"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02914",
       "reaction_name": "rn:R02914",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2589,10 +2589,10 @@
         "C03680",
         "C00439"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02288",
       "reaction_name": "rn:R02288",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2600,10 +2600,10 @@
         "C00439",
         "Glutamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02285",
       "reaction_name": "rn:R02285 rn:R02287",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2611,10 +2611,10 @@
         "PEP",
         "DAHP"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01826",
       "reaction_name": "rn:R01826",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2622,10 +2622,10 @@
         "DAHP",
         "5-Dehydroquinate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03083",
       "reaction_name": "rn:R03083",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2633,10 +2633,10 @@
         "5-Dehydroquinate",
         "3-Dehydroshikimate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03084",
       "reaction_name": "rn:R03084",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2644,10 +2644,10 @@
         "3-Dehydroshikimate",
         "Shikimate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02413",
       "reaction_name": "rn:R02413 rn:R02415 rn:R06847",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2655,10 +2655,10 @@
         "C03175",
         "Shikimate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02412",
       "reaction_name": "rn:R02412",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2666,10 +2666,10 @@
         "C01269",
         "C03175"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03460",
       "reaction_name": "rn:R03460",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2677,10 +2677,10 @@
         "Chorismate",
         "C01269"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01714",
       "reaction_name": "rn:R01714",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2688,10 +2688,10 @@
         "Chorismate",
         "Vitamin_L1"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00985",
       "reaction_name": "rn:R00985 rn:R00986",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2699,10 +2699,10 @@
         "Vitamin_L1",
         "C04302"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01073",
       "reaction_name": "rn:R01073",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2710,10 +2710,10 @@
         "C04302",
         "C01302"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03509",
       "reaction_name": "rn:R03509",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2721,10 +2721,10 @@
         "C01302",
         "C03506"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03508",
       "reaction_name": "rn:R03508",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2732,10 +2732,10 @@
         "Prephenate",
         "Chorismate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01715",
       "reaction_name": "rn:R01715",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2743,10 +2743,10 @@
         "Phenylpyruvate",
         "Prephenate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01373",
       "reaction_name": "rn:R01373",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2754,10 +2754,10 @@
         "L-Phenylalanine",
         "Phenylpyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00688",
       "reaction_name": "rn:R00688 rn:R00689 rn:R00692 rn:R00694",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2765,10 +2765,10 @@
         "C01179",
         "Prephenate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01728",
       "reaction_name": "rn:R01728 rn:R01730",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2776,10 +2776,10 @@
         "Tyrosine",
         "C01179"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00729",
       "reaction_name": "rn:R00729 rn:R00734 rn:R09254",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2787,10 +2787,10 @@
         "L-Phenylalanine",
         "Tyrosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01795",
       "reaction_name": "rn:R01795",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2798,10 +2798,10 @@
         "Tyrosine",
         "Pretyrosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00732",
       "reaction_name": "rn:R00732 rn:R00733",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2809,10 +2809,10 @@
         "Prephenate",
         "Pretyrosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01731",
       "reaction_name": "rn:R01731 rn:R07276",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2820,10 +2820,10 @@
         "C01179",
         "Homogentisate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02521",
       "reaction_name": "rn:R02521",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2831,10 +2831,10 @@
         "Gentisate_aldehyde",
         "Gentisate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02655",
       "reaction_name": "rn:R02655 rn:R02657",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2842,10 +2842,10 @@
         "Gentisate",
         "Maleylpyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02656",
       "reaction_name": "rn:R02656",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2853,10 +2853,10 @@
         "Maleylpyruvate",
         "3-Fumarylpyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03868",
       "reaction_name": "rn:R03868",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2864,10 +2864,10 @@
         "Homogentisate",
         "4-Maleylacetoacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02519",
       "reaction_name": "rn:R02519",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2875,10 +2875,10 @@
         "4-Maleylacetoacetate",
         "Fumarylacetoacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03181",
       "reaction_name": "rn:R03181",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2886,10 +2886,10 @@
         "L-Dopa",
         "Tyrosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00031",
       "reaction_name": "rn:R00031 rn:R00731 rn:R01815",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2897,10 +2897,10 @@
         "L-Dopa",
         "Dopamine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02080",
       "reaction_name": "rn:R02080",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2908,10 +2908,10 @@
         "Dopamine",
         "Arterenol"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02535",
       "reaction_name": "rn:R02535",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2919,10 +2919,10 @@
         "Arterenol",
         "L-Adrenaline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02533",
       "reaction_name": "rn:R02533",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2930,10 +2930,10 @@
         "L-Adrenaline",
         "L-Metanephrine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02920",
       "reaction_name": "rn:R02920",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2941,10 +2941,10 @@
         "L-Metanephrine",
         "C05583"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04894",
       "reaction_name": "rn:R04894",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2952,10 +2952,10 @@
         "Arterenol",
         "C05577"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02532",
       "reaction_name": "rn:R02532",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2963,10 +2963,10 @@
         "C05577",
         "C05580"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04882",
       "reaction_name": "rn:R04882 rn:R04883",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2974,10 +2974,10 @@
         "C05580",
         "C05584"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04887",
       "reaction_name": "rn:R04887",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2985,10 +2985,10 @@
         "C05583",
         "C05584"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04891",
       "reaction_name": "rn:R04891 rn:R04892",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -2996,10 +2996,10 @@
         "C05577",
         "C05576"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04880",
       "reaction_name": "rn:R04880",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3007,10 +3007,10 @@
         "C05576",
         "C05594"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04881",
       "reaction_name": "rn:R04881",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3018,10 +3018,10 @@
         "Arterenol",
         "L-Normetanephrine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02534",
       "reaction_name": "rn:R02534",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3029,10 +3029,10 @@
         "L-Normetanephrine",
         "C05583"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04893",
       "reaction_name": "rn:R04893",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3040,10 +3040,10 @@
         "C05577",
         "L-Adrenaline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02919",
       "reaction_name": "rn:R02919",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3051,10 +3051,10 @@
         "Dopamine",
         "3-Methoxytyramine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04301",
       "reaction_name": "rn:R04301",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3062,10 +3062,10 @@
         "3-Methoxytyramine",
         "Homovanillin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04890",
       "reaction_name": "rn:R04890",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3073,10 +3073,10 @@
         "Homovanillin",
         "Homovanillate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04888",
       "reaction_name": "rn:R04888 rn:R04889",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3084,10 +3084,10 @@
         "Homovanillate",
         "Homoprotocatechuate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03304",
       "reaction_name": "rn:R03304",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3095,10 +3095,10 @@
         "C04043",
         "Homoprotocatechuate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03300",
       "reaction_name": "rn:R03300 rn:R03302",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3106,10 +3106,10 @@
         "Dopamine",
         "C04043"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04300",
       "reaction_name": "rn:R04300",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3117,10 +3117,10 @@
         "L-Dopa",
         "Dopaquinone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02078",
       "reaction_name": "rn:R02078",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3128,10 +3128,10 @@
         "L-Dopa",
         "Dopaquinone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00045",
       "reaction_name": "rn:R00045",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3139,10 +3139,10 @@
         "DHI",
         "Indole-5,6-quinone"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04884",
       "reaction_name": "rn:R04884",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3150,10 +3150,10 @@
         "L-Dopachrome",
         "DHICA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03673",
       "reaction_name": "rn:R03673",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3161,10 +3161,10 @@
         "3-Iodo-L-tyrosine",
         "Tyrosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03539",
       "reaction_name": "rn:R03539",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3172,10 +3172,10 @@
         "3-Fumarylpyruvate",
         "Pyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01085",
       "reaction_name": "rn:R01085",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3183,10 +3183,10 @@
         "N-Formylkynurenine",
         "Tryptophan"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00678",
       "reaction_name": "rn:R00678",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3194,10 +3194,10 @@
         "L-Kynurenine",
         "N-Formylkynurenine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01959",
       "reaction_name": "rn:R01959",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3205,10 +3205,10 @@
         "Vitamin_L1",
         "L-Kynurenine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00987",
       "reaction_name": "rn:R00987",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3216,10 +3216,10 @@
         "L-Kynurenine",
         "C01252"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01956",
       "reaction_name": "rn:R01956",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3227,10 +3227,10 @@
         "L-Kynurenine",
         "C03227"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01960",
       "reaction_name": "rn:R01960",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3238,10 +3238,10 @@
         "C03227",
         "C00632"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02668",
       "reaction_name": "rn:R02668",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3249,10 +3249,10 @@
         "C04409",
         "C00632"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02665",
       "reaction_name": "rn:R02665",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3260,10 +3260,10 @@
         "C03824",
         "C04409"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04323",
       "reaction_name": "rn:R04323",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3271,10 +3271,10 @@
         "C03824",
         "o-Aminomuconate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03889",
       "reaction_name": "rn:R03889",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3282,10 +3282,10 @@
         "Tryptophan",
         "Indolepyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00677",
       "reaction_name": "rn:R00677 rn:R00684 rn:R10180",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3293,10 +3293,10 @@
         "Indolepyruvate",
         "Indoleacetaldehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01974",
       "reaction_name": "rn:R01974",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3304,10 +3304,10 @@
         "Indoleacetaldehyde",
         "IAA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02678",
       "reaction_name": "rn:R02678",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3315,10 +3315,10 @@
         "Tryptophan",
         "Tryptamine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00685",
       "reaction_name": "rn:R00685",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3326,10 +3326,10 @@
         "Oxitriptan",
         "Tryptophan"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01814",
       "reaction_name": "rn:R01814",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3337,10 +3337,10 @@
         "Serotonin",
         "Oxitriptan"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02701",
       "reaction_name": "rn:R02701",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3348,10 +3348,10 @@
         "Serotonin",
         "N-Acetylserotonin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02911",
       "reaction_name": "rn:R02911",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3359,10 +3359,10 @@
         "N-Acetylserotonin",
         "Melatonin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03130",
       "reaction_name": "rn:R03130",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3370,10 +3370,10 @@
         "C05634",
         "Serotonin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02908",
       "reaction_name": "rn:R02908",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3381,10 +3381,10 @@
         "C05634",
         "C05635"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04903",
       "reaction_name": "rn:R04903 rn:R04904",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3392,10 +3392,10 @@
         "Citrulline",
         "L-Argininosuccinate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01954",
       "reaction_name": "rn:R01954",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3403,10 +3403,10 @@
         "C01165",
         "C03287"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03313",
       "reaction_name": "rn:R03313",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3414,10 +3414,10 @@
         "Glutamate",
         "C03287"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00239",
       "reaction_name": "rn:R00239",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3425,10 +3425,10 @@
         "Glutamate",
         "N-Acetyl-L-glutamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00259",
       "reaction_name": "rn:R00259",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3436,10 +3436,10 @@
         "N-Acetyl-L-glutamate",
         "C04133"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02649",
       "reaction_name": "rn:R02649",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3447,10 +3447,10 @@
         "C04133",
         "C01250"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03443",
       "reaction_name": "rn:R03443",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3458,10 +3458,10 @@
         "C01250",
         "N-Acetylornithine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02283",
       "reaction_name": "rn:R02283",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3469,10 +3469,10 @@
         "N-Acetylornithine",
         "L-Ornithine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00669",
       "reaction_name": "rn:R00669 rn:R02282",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3480,10 +3480,10 @@
         "NH3",
         "Carbamoyl_phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00149",
       "reaction_name": "rn:R00149 rn:R00150",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3491,10 +3491,10 @@
         "L-Ornithine",
         "Putrescine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00670",
       "reaction_name": "rn:R00670",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3502,10 +3502,10 @@
         "Agmatine",
         "Putrescine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01157",
       "reaction_name": "rn:R01157",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3513,10 +3513,10 @@
         "L-Arg",
         "Agmatine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00566",
       "reaction_name": "rn:R00566",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3524,10 +3524,10 @@
         "Putrescine",
         "N-Acetylputrescine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01154",
       "reaction_name": "rn:R01154 rn:R01156",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3535,10 +3535,10 @@
         "N-Acetylputrescine",
         "4-Acetamidobutanal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04025",
       "reaction_name": "rn:R04025",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3546,10 +3546,10 @@
         "4-Acetamidobutanal",
         "4-Acetamidobutanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05050",
       "reaction_name": "rn:R05050",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3557,10 +3557,10 @@
         "Putrescine",
         "C15699"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07414",
       "reaction_name": "rn:R07414",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3568,10 +3568,10 @@
         "C15699",
         "C15700"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07415",
       "reaction_name": "rn:R07415",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3579,10 +3579,10 @@
         "C15700",
         "gamma-Glutamyl-GABA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07417",
       "reaction_name": "rn:R07417 rn:R07418",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3590,10 +3590,10 @@
         "GABA",
         "gamma-Glutamyl-GABA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07419",
       "reaction_name": "rn:R07419",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3601,10 +3601,10 @@
         "L-Threonine",
         "2-Oxobutyrate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00996",
       "reaction_name": "rn:R00996",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3612,10 +3612,10 @@
         "Pyruvate",
         "C06006"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08648",
       "reaction_name": "rn:R08648",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3623,10 +3623,10 @@
         "C06007",
         "C00671"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05070",
       "reaction_name": "rn:R05070",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3634,10 +3634,10 @@
         "C00671",
         "L-Isoleucine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02197",
       "reaction_name": "rn:R02197 rn:R02199",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3645,10 +3645,10 @@
         "(S)-2-Acetolactate",
         "Pyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00226",
       "reaction_name": "rn:R00226",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3656,10 +3656,10 @@
         "C04272",
         "2-Ketovaline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04441",
       "reaction_name": "rn:R04441",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3667,10 +3667,10 @@
         "C02504",
         "2-Ketovaline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01213",
       "reaction_name": "rn:R01213",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3678,10 +3678,10 @@
         "3-Isopropylmalate",
         "C04236"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04426",
       "reaction_name": "rn:R04426",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3689,10 +3689,10 @@
         "2-Oxoisocaproate",
         "L-Leucine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01088",
       "reaction_name": "rn:R01088 rn:R01090",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3700,10 +3700,10 @@
         "2-Ketovaline",
         "L-Valine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01214",
       "reaction_name": "rn:R01214 rn:R01215 rn:R01434",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3711,10 +3711,10 @@
         "Propionyl-CoA",
         "C03344"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00927",
       "reaction_name": "rn:R00927",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3722,10 +3722,10 @@
         "C04405",
         "C03344"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04203",
       "reaction_name": "rn:R04203",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3733,10 +3733,10 @@
         "C04405",
         "Tiglyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04204",
       "reaction_name": "rn:R04204",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3744,10 +3744,10 @@
         "Tiglyl-CoA",
         "C15980"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03172",
       "reaction_name": "rn:R03172",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3755,10 +3755,10 @@
         "C15980",
         "C15979"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03174",
       "reaction_name": "rn:R03174",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3766,10 +3766,10 @@
         "C00671",
         "C15979"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04225",
       "reaction_name": "rn:R04225",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3777,10 +3777,10 @@
         "2-Oxoisocaproate",
         "C15975"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01702",
       "reaction_name": "rn:R01702",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3788,10 +3788,10 @@
         "Isovaleryl-CoA",
         "C15975"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04097",
       "reaction_name": "rn:R04097",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3799,10 +3799,10 @@
         "Isovaleryl-CoA",
         "Dimethylacryloyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04095",
       "reaction_name": "rn:R04095",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3810,10 +3810,10 @@
         "Dimethylacryloyl-CoA",
         "C03231"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04138",
       "reaction_name": "rn:R04138",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3821,10 +3821,10 @@
         "C03231",
         "HMG-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02085",
       "reaction_name": "rn:R02085",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3832,10 +3832,10 @@
         "(E)-Cinnamate",
         "L-Phenylalanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00697",
       "reaction_name": "rn:R00697",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3843,10 +3843,10 @@
         "H2S",
         "L-Cysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00897",
       "reaction_name": "rn:R00897",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3854,10 +3854,10 @@
         "L-Glutamine",
         "Carbamoyl_phosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00575",
       "reaction_name": "rn:R00575",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3865,10 +3865,10 @@
         "L-Alanine",
         "L-Asp"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00397",
       "reaction_name": "rn:R00397",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3876,10 +3876,10 @@
         "L-Asp",
         "beta-Alanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00489",
       "reaction_name": "rn:R00489",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3887,10 +3887,10 @@
         "O-Acetylhomoserine",
         "Homocysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01287",
       "reaction_name": "rn:R01287 rn:R02026",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3898,10 +3898,10 @@
         "Hydroxypyruvate",
         "Serine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00585",
       "reaction_name": "rn:R00585 rn:R00588",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3909,10 +3909,10 @@
         "Gly",
         "Sarcosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00610",
       "reaction_name": "rn:R00610 rn:R00611",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3920,10 +3920,10 @@
         "Sarcosine",
         "Dimethylglycine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01565",
       "reaction_name": "rn:R01565",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3931,10 +3931,10 @@
         "Dimethylglycine",
         "Betaine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02821",
       "reaction_name": "rn:R02821",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3942,10 +3942,10 @@
         "Mercaptopyruvate",
         "L-Cysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00895",
       "reaction_name": "rn:R00895 rn:R00896",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3953,10 +3953,10 @@
         "L-Diiodotyrosine",
         "3-Iodo-L-tyrosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03973",
       "reaction_name": "rn:R03973",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3964,10 +3964,10 @@
         "L-Diiodotyrosine",
         "T3"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03953",
       "reaction_name": "rn:R03953",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3975,10 +3975,10 @@
         "C03283",
         "C06442"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R06978",
       "reaction_name": "rn:R06978",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3986,10 +3986,10 @@
         "C03089",
         "MTA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01401",
       "reaction_name": "rn:R01401",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -3997,10 +3997,10 @@
         "Urea",
         "Allophanate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00774",
       "reaction_name": "rn:R00774",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4008,10 +4008,10 @@
         "Glycocyamine",
         "Creatine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01883",
       "reaction_name": "rn:R01883",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4019,10 +4019,10 @@
         "Urea",
         "CO2"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00131",
       "reaction_name": "rn:R00131",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4030,10 +4030,10 @@
         "Gln-tRNA(Gln)",
         "L-Glutamine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03652",
       "reaction_name": "rn:R03652",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4041,10 +4041,10 @@
         "Glu-tRNA(Gln)",
         "Glutamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03651",
       "reaction_name": "rn:R03651",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4052,10 +4052,10 @@
         "Gln-tRNA(Gln)",
         "Glu-tRNA(Gln)"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03905",
       "reaction_name": "rn:R03905",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4063,10 +4063,10 @@
         "2-Oxoisocaproate",
         "Isovaleryl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08566",
       "reaction_name": "rn:R08566",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4074,10 +4074,10 @@
         "C00671",
         "C15980"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08567",
       "reaction_name": "rn:R08567",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4085,10 +4085,10 @@
         "L-Alanine",
         "Pyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00258",
       "reaction_name": "rn:R00258 rn:R00369 rn:R00396 rn:R00400",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4096,10 +4096,10 @@
         "L-Proline",
         "D-Proline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01255",
       "reaction_name": "rn:R01255",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4107,10 +4107,10 @@
         "N-Carbamoylsarcosine",
         "Sarcosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01563",
       "reaction_name": "rn:R01563",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4118,10 +4118,10 @@
         "N-Methylhydantoin",
         "N-Carbamoylsarcosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03187",
       "reaction_name": "rn:R03187",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4129,10 +4129,10 @@
         "Creatine",
         "Sarcosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01566",
       "reaction_name": "rn:R01566",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4140,10 +4140,10 @@
         "Creatinine",
         "N-Methylhydantoin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02922",
       "reaction_name": "rn:R02922",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4151,10 +4151,10 @@
         "C00436",
         "Putrescine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01152",
       "reaction_name": "rn:R01152",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4162,10 +4162,10 @@
         "Agmatine",
         "C00436"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01416",
       "reaction_name": "rn:R01416",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4173,10 +4173,10 @@
         "Spermidine",
         "Spermine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02869",
       "reaction_name": "rn:R02869",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4184,10 +4184,10 @@
         "L-Arg",
         "2-Oxoarginine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08197",
       "reaction_name": "rn:R08197",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4195,10 +4195,10 @@
         "2-Oxoarginine",
         "4-Guanidinobutanal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03178",
       "reaction_name": "rn:R03178",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4206,10 +4206,10 @@
         "4-Guanidinobutanal",
         "4-Guanidinobutanoate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03177",
       "reaction_name": "rn:R03177",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4217,10 +4217,10 @@
         "4-Guanidinobutanoate",
         "GABA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01989",
       "reaction_name": "rn:R01989 rn:R01990",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4228,10 +4228,10 @@
         "Serine",
         "Tryptophan"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02722",
       "reaction_name": "rn:R02722",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4239,10 +4239,10 @@
         "O-Acetyl-L-serine",
         "L-Cysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04859",
       "reaction_name": "rn:R04859",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4250,10 +4250,10 @@
         "C06002",
         "Propionyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00935",
       "reaction_name": "rn:R00935",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4261,10 +4261,10 @@
         "C06001",
         "C06002"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05066",
       "reaction_name": "rn:R05066",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4272,10 +4272,10 @@
         "C06000",
         "C06001"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05064",
       "reaction_name": "rn:R05064",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4283,10 +4283,10 @@
         "Methacrylyl-CoA",
         "C06000"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04224",
       "reaction_name": "rn:R04224",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4294,10 +4294,10 @@
         "Isobutyryl-CoA",
         "Methacrylyl-CoA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02661",
       "reaction_name": "rn:R02661",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4305,10 +4305,10 @@
         "Isobutyryl-CoA",
         "C15977"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02662",
       "reaction_name": "rn:R02662",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4316,10 +4316,10 @@
         "2-Ketovaline",
         "C15977"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01701",
       "reaction_name": "rn:R01701",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4327,10 +4327,10 @@
         "Phenylacetate",
         "C05852"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05487",
       "reaction_name": "rn:R05487",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4338,10 +4338,10 @@
         "Phenylpyruvate",
         "C05852"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01372",
       "reaction_name": "rn:R01372",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4349,10 +4349,10 @@
         "Phenylpyruvate",
         "alpha-Tolualdehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01377",
       "reaction_name": "rn:R01377",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4360,10 +4360,10 @@
         "DHICA",
         "C17938"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08965",
       "reaction_name": "rn:R08965",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4371,10 +4371,10 @@
         "L-Diiodotyrosine",
         "T4"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03208",
       "reaction_name": "rn:R03208",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4382,10 +4382,10 @@
         "C03506",
         "Indole"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02340",
       "reaction_name": "rn:R02340",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4393,10 +4393,10 @@
         "Indole",
         "Tryptophan"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00674",
       "reaction_name": "rn:R00674",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4404,10 +4404,10 @@
         "Serine",
         "L-Cystathionine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01290",
       "reaction_name": "rn:R01290",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4415,10 +4415,10 @@
         "L-Cystathionine",
         "Homocysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01286",
       "reaction_name": "rn:R01286 rn:R01290 rn:R10305",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4426,10 +4426,10 @@
         "Acetoacetate",
         "Fumarylacetoacetate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01364",
       "reaction_name": "rn:R01364",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4437,10 +4437,10 @@
         "Feruloyl-CoA",
         "C07303"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05772",
       "reaction_name": "rn:R05772",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4448,10 +4448,10 @@
         "C07303",
         "Vanillin"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05773",
       "reaction_name": "rn:R05773",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4459,10 +4459,10 @@
         "Putrescine",
         "Spermidine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01920",
       "reaction_name": "rn:R01920",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4470,10 +4470,10 @@
         "SAM",
         "C01234"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00179",
       "reaction_name": "rn:R00179",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4481,10 +4481,10 @@
         "C01234",
         "Ethene"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07214",
       "reaction_name": "rn:R07214",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4492,10 +4492,10 @@
         "Homoisocitrate",
         "cis-Homoaconitate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04371",
       "reaction_name": "rn:R04371",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4503,10 +4503,10 @@
         "Ectoine",
         "C19929"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09800",
       "reaction_name": "rn:R09800",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4514,10 +4514,10 @@
         "C19929",
         "C03283"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09801",
       "reaction_name": "rn:R09801",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4525,10 +4525,10 @@
         "C03972",
         "C05539"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04364",
       "reaction_name": "rn:R04364",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4536,10 +4536,10 @@
         "C04390",
         "C05539"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04467",
       "reaction_name": "rn:R04467",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4547,10 +4547,10 @@
         "C04390",
         "C00666"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02733",
       "reaction_name": "rn:R02733",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4558,10 +4558,10 @@
         "C00680",
         "C03871"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02755",
       "reaction_name": "rn:R02755",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4569,10 +4569,10 @@
         "C00666",
         "C03972"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07613",
       "reaction_name": "rn:R07613",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4580,10 +4580,10 @@
         "Pyruvate",
         "D-Citramalate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07399",
       "reaction_name": "rn:R07399",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4591,10 +4591,10 @@
         "D-Citramalate",
         "Citraconate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03896",
       "reaction_name": "rn:R03896",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4602,10 +4602,10 @@
         "Citraconate",
         "C06032"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03898",
       "reaction_name": "rn:R03898",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4613,10 +4613,10 @@
         "2-Oxobutyrate",
         "C06032"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00994",
       "reaction_name": "rn:R00994",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4624,10 +4624,10 @@
         "L-Histidinol",
         "L-Histidinal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03012",
       "reaction_name": "rn:R03012",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4635,10 +4635,10 @@
         "Betaine_aldehyde",
         "Betaine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02565",
       "reaction_name": "rn:R02565 rn:R02566 rn:R08211",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4646,10 +4646,10 @@
         "Choline",
         "Betaine_aldehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01022",
       "reaction_name": "rn:R01022 rn:R08557 rn:R08558",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4657,10 +4657,10 @@
         "Indolepyruvate",
         "IAA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10181",
       "reaction_name": "rn:R10181",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4668,10 +4668,10 @@
         "(-)-Ureidoglycolate",
         "Urea"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00776",
       "reaction_name": "rn:R00776",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4679,10 +4679,10 @@
         "C03366",
         "Allysine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10270",
       "reaction_name": "rn:R10270",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4690,10 +4690,10 @@
         "L-Hydroxylysine",
         "C03366"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03378",
       "reaction_name": "rn:R03378",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4701,10 +4701,10 @@
         "C03539",
         "Homocysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01291",
       "reaction_name": "rn:R01291",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4712,10 +4712,10 @@
         "C15650",
         "C15606"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07395",
       "reaction_name": "rn:R07395",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4723,10 +4723,10 @@
         "Citrate",
         "beta-Citrylglutamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10677",
       "reaction_name": "rn:R10677",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4734,10 +4734,10 @@
         "L-Asp",
         "N-Acetyl-L-aspartate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00487",
       "reaction_name": "rn:R00487 rn:R00488",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4745,10 +4745,10 @@
         "NAAG",
         "N-Acetyl-L-aspartate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10678",
       "reaction_name": "rn:R10678 rn:R10687",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4756,10 +4756,10 @@
         "NAAG2",
         "NAAG"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10693",
       "reaction_name": "rn:R10693 rn:R10688",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4767,10 +4767,10 @@
         "Glutamate",
         "LysW-glutamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10929",
       "reaction_name": "rn:R10929",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4778,10 +4778,10 @@
         "LysW-glutamate",
         "C20949"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10930",
       "reaction_name": "rn:R10930",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4789,10 +4789,10 @@
         "C20949",
         "C20950"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10931",
       "reaction_name": "rn:R10931",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4800,10 +4800,10 @@
         "C20950",
         "LysW-L-ornithine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10932",
       "reaction_name": "rn:R10932",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4811,10 +4811,10 @@
         "LysW-L-ornithine",
         "L-Ornithine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10933",
       "reaction_name": "rn:R10933",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4822,10 +4822,10 @@
         "N-Acetylornithine",
         "C15532"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R07245",
       "reaction_name": "rn:R07245",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4833,10 +4833,10 @@
         "C15532",
         "Citrulline"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09107",
       "reaction_name": "rn:R09107",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4844,10 +4844,10 @@
         "C05931",
         "Glutamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00411",
       "reaction_name": "rn:R00411",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4855,10 +4855,10 @@
         "C05932",
         "C05931"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05049",
       "reaction_name": "rn:R05049",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4866,10 +4866,10 @@
         "C03415",
         "C05932"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04217",
       "reaction_name": "rn:R04217",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4877,10 +4877,10 @@
         "C03296",
         "C03415"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04189",
       "reaction_name": "rn:R04189",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4888,10 +4888,10 @@
         "L-Arg",
         "C03296"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00832",
       "reaction_name": "rn:R00832",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4899,10 +4899,10 @@
         "Putrescine",
         "4-Aminobutanal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01151",
       "reaction_name": "rn:R01151 rn:R01155 rn:R08714",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4910,10 +4910,10 @@
         "4-Aminobutanal",
         "GABA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01986",
       "reaction_name": "rn:R01986 rn:R02549",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4921,10 +4921,10 @@
         "Spermidine",
         "4-Aminobutanal"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01914",
       "reaction_name": "rn:R01914 rn:R01915",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4932,10 +4932,10 @@
         "Putrescine",
         "Carboxyspermidine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09079",
       "reaction_name": "rn:R09079",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4943,10 +4943,10 @@
         "Carboxyspermidine",
         "Spermidine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09081",
       "reaction_name": "rn:R09081",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4954,10 +4954,10 @@
         "Gly",
         "NH3"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01221",
       "reaction_name": "rn:R01221",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4965,10 +4965,10 @@
         "C00173",
         "MTA"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R08940",
       "reaction_name": "rn:R08940",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4976,10 +4976,10 @@
         "MTA",
         "C19787"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09660",
       "reaction_name": "rn:R09660",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4987,10 +4987,10 @@
         "C19787",
         "C04188"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R09668",
       "reaction_name": "rn:R09668",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -4998,10 +4998,10 @@
         "(S)-2-Aminobutanoate",
         "2-Oxobutyrate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10991",
       "reaction_name": "rn:R10991",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -5009,10 +5009,10 @@
         "(S)-2-Aminobutanoate",
         "C21015"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10993",
       "reaction_name": "rn:R10993",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -5020,10 +5020,10 @@
         "C21015",
         "Ophthalmate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R10994",
       "reaction_name": "rn:R10994",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -5031,10 +5031,10 @@
         "Serine",
         "D-Serine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00589",
       "reaction_name": "rn:R00589",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -5042,10 +5042,10 @@
         "C01165",
         "C01250"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R12085",
       "reaction_name": "rn:R12085",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     },
     {
@@ -5053,10 +5053,10 @@
         "O-Acetyl-L-serine",
         "S-Sulfo-L-cysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03132",
       "reaction_name": "rn:R03132",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Amino Acid Metabolism"
     }
   ]

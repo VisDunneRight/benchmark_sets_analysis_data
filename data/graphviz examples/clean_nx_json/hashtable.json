@@ -1,0 +1,121 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "label": "\"<f0> |<f1> |<f2> |<f3> |<f4> |<f5> |<f6> | \"",
+      "height": "2.0",
+      "id": "node0"
+    },
+    {
+      "label": "\"{<n> n14 | 719 |<p> }\"",
+      "id": "node1"
+    },
+    {
+      "label": "\"{<n> a1  | 805 |<p> }\"",
+      "id": "node2"
+    },
+    {
+      "label": "\"{<n> i9  | 718 |<p> }\"",
+      "id": "node3"
+    },
+    {
+      "label": "\"{<n> e5  | 989 |<p> }\"",
+      "id": "node4"
+    },
+    {
+      "label": "\"{<n> t20 | 959 |<p> }\"",
+      "id": "node5"
+    },
+    {
+      "label": "\"{<n> o15 | 794 |<p> }\"",
+      "id": "node6"
+    },
+    {
+      "label": "\"{<n> s19 | 659 |<p> }\"",
+      "id": "node7"
+    },
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "node0:f0"
+    },
+    {
+      "id": "node1:n"
+    },
+    {
+      "id": "node0:f1"
+    },
+    {
+      "id": "node2:n"
+    },
+    {
+      "id": "node0:f2"
+    },
+    {
+      "id": "node3:n"
+    },
+    {
+      "id": "node0:f5"
+    },
+    {
+      "id": "node4:n"
+    },
+    {
+      "id": "node0:f6"
+    },
+    {
+      "id": "node5:n"
+    },
+    {
+      "id": "node2:p"
+    },
+    {
+      "id": "node6:n"
+    },
+    {
+      "id": "node4:p"
+    },
+    {
+      "id": "node7:n"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "node0:f0",
+      "target": "node1:n"
+    },
+    {
+      "key": 0,
+      "source": "node0:f1",
+      "target": "node2:n"
+    },
+    {
+      "key": 0,
+      "source": "node0:f2",
+      "target": "node3:n"
+    },
+    {
+      "key": 0,
+      "source": "node0:f5",
+      "target": "node4:n"
+    },
+    {
+      "key": 0,
+      "source": "node0:f6",
+      "target": "node5:n"
+    },
+    {
+      "key": 0,
+      "source": "node2:p",
+      "target": "node6:n"
+    },
+    {
+      "key": 0,
+      "source": "node4:p",
+      "target": "node7:n"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "style": "filled",
+      "shape": "DFDbox",
+      "id": "a"
+    },
+    {
+      "id": "b"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "a",
+      "target": "b"
+    }
+  ]
+}

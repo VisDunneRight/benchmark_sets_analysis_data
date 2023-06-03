@@ -1,0 +1,635 @@
+{
+  "multigraph": false,
+  "directed": false,
+  "nodes": [
+    {
+      "id": "(3S)-Citryl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "3-Phosphoglycerate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "5-Formyl-H4MPT",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "5-Methyl-THMPT",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "APS",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Acetyl-CoA",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00118",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00199",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00231",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00279",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00354",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C00447",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01080",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C01182",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04330",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C04377",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "C05382",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CH3OH",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CH4",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CO2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Citrate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CoB",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "CoM-S-S-CoB",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Coenzyme_F420",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Formalin",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Formate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Formylmethanofuran",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Glutamate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "H+",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "H2S",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Hyposulfite",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Alanine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Asp",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "L-Glutamine",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Malate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Methanofuran",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Methyl-CoM",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "N2",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "NH3",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Neuberg_ester",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Oxaloacetate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PAPS",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "PEP",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Pyruvate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Ribose_5-phosphate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sulfate",
+      "formula": "none",
+      "desciption": "none"
+    },
+    {
+      "id": "Sulfite",
+      "formula": "none",
+      "desciption": "none"
+    }
+  ],
+  "links": [
+    {
+      "source": "Glutamate",
+      "target": "L-Glutamine",
+      "reaction_id": "R00253",
+      "reaction_name": "rn:R00253 rn:R00256",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "N2",
+      "target": "NH3",
+      "reaction_id": "R05185",
+      "reaction_name": "rn:R05185 rn:R05186",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C01182",
+      "target": "3-Phosphoglycerate",
+      "reaction_id": "R00024",
+      "reaction_name": "rn:R00024",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C00199",
+      "target": "C01182",
+      "reaction_id": "R01523",
+      "reaction_name": "rn:R01523",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Ribose_5-phosphate",
+      "target": "C00199",
+      "reaction_id": "R01056",
+      "reaction_name": "rn:R01056",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C05382",
+      "target": "Ribose_5-phosphate",
+      "reaction_id": "R01641",
+      "reaction_name": "rn:R01641",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C05382",
+      "target": "C00447",
+      "reaction_id": "R01845",
+      "reaction_name": "rn:R01845",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C00279",
+      "target": "C00447",
+      "reaction_id": "R01829",
+      "reaction_name": "rn:R01829",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Neuberg_ester",
+      "target": "C00279",
+      "reaction_id": "R01067",
+      "reaction_name": "rn:R01067",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Neuberg_ester",
+      "target": "C00354",
+      "reaction_id": "R00762",
+      "reaction_name": "rn:R00762",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C00354",
+      "target": "C00118",
+      "reaction_id": "R01068",
+      "reaction_name": "rn:R01068",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C00118",
+      "target": "C00231",
+      "reaction_id": "R01621",
+      "reaction_name": "rn:R01621",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C00231",
+      "target": "C00199",
+      "reaction_id": "R01529",
+      "reaction_name": "rn:R01529",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Malate",
+      "target": "Pyruvate",
+      "reaction_id": "R00214",
+      "reaction_name": "rn:R00214 rn:R00216",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "PEP",
+      "reaction_id": "R00206",
+      "reaction_name": "rn:R00206",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "PEP",
+      "target": "Oxaloacetate",
+      "reaction_id": "R00345",
+      "reaction_name": "rn:R00345",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Pyruvate",
+      "target": "L-Alanine",
+      "reaction_id": "R00258",
+      "reaction_name": "rn:R00258",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Malate",
+      "target": "Oxaloacetate",
+      "reaction_id": "R00342",
+      "reaction_name": "rn:R00342",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "CH4",
+      "target": "CH3OH",
+      "reaction_id": "R01142",
+      "reaction_name": "rn:R01142 rn:R09518",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "CH3OH",
+      "target": "Formalin",
+      "reaction_id": "R00602",
+      "reaction_name": "rn:R00602 rn:R00605 rn:R00608 rn:R01146",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Formalin",
+      "target": "Formate",
+      "reaction_id": "R00604",
+      "reaction_name": "rn:R00604",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Formate",
+      "target": "H+",
+      "reaction_id": "R00134",
+      "reaction_name": "rn:R00134 rn:R00519 rn:R10797",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Sulfate",
+      "target": "APS",
+      "reaction_id": "R00529",
+      "reaction_name": "rn:R00529 rn:R00530 rn:R00531",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "APS",
+      "target": "Sulfite",
+      "reaction_id": "R08553",
+      "reaction_name": "rn:R08553",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Sulfite",
+      "target": "H2S",
+      "reaction_id": "R00858",
+      "reaction_name": "rn:R00858 rn:R00859 rn:R00861 rn:R10146",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Formylmethanofuran",
+      "target": "CO2",
+      "reaction_id": "R03015",
+      "reaction_name": "rn:R03015",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Formylmethanofuran",
+      "target": "5-Formyl-H4MPT",
+      "reaction_id": "R03390",
+      "reaction_name": "rn:R03390",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "5-Formyl-H4MPT",
+      "target": "C04330",
+      "reaction_id": "R03464",
+      "reaction_name": "rn:R03464",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C04330",
+      "target": "C04377",
+      "reaction_id": "R04456",
+      "reaction_name": "rn:R04456 rn:R08059",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C01080",
+      "target": "5-Methyl-THMPT",
+      "reaction_id": "R04464",
+      "reaction_name": "rn:R04464",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C01080",
+      "target": "Coenzyme_F420",
+      "reaction_id": "R03025",
+      "reaction_name": "rn:R03025",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "5-Methyl-THMPT",
+      "target": "Methyl-CoM",
+      "reaction_id": "R04347",
+      "reaction_name": "rn:R04347",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "CoB",
+      "target": "CH4",
+      "reaction_id": "R04541",
+      "reaction_name": "rn:R04541",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Formate",
+      "target": "CO2",
+      "reaction_id": "R00134",
+      "reaction_name": "rn:R00134 rn:R10797",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Oxaloacetate",
+      "target": "L-Asp",
+      "reaction_id": "R00355",
+      "reaction_name": "rn:R00355",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "PEP",
+      "target": "Oxaloacetate",
+      "reaction_id": "R00341",
+      "reaction_name": "rn:R00341",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Oxaloacetate",
+      "target": "Malate",
+      "reaction_id": "R00343",
+      "reaction_name": "rn:R00343",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Ribose_5-phosphate",
+      "target": "C00118",
+      "reaction_id": "R01641",
+      "reaction_name": "rn:R01641",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C00199",
+      "target": "Ribose_5-phosphate",
+      "reaction_id": "R01056",
+      "reaction_name": "rn:R01056",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "C00199",
+      "target": "C00231",
+      "reaction_id": "R01529",
+      "reaction_name": "rn:R01529",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Glutamate",
+      "target": "L-Asp",
+      "reaction_id": "R00355",
+      "reaction_name": "rn:R00355",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "NH3",
+      "target": "L-Glutamine",
+      "reaction_id": "R00253",
+      "reaction_name": "rn:R00253 rn:R00256",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "PAPS",
+      "target": "APS",
+      "reaction_id": "R00508",
+      "reaction_name": "rn:R00508 rn:R00509",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "PAPS",
+      "target": "Sulfite",
+      "reaction_id": "R02021",
+      "reaction_name": "rn:R02021",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "CoM-S-S-CoB",
+      "target": "CoB",
+      "reaction_id": "R04540",
+      "reaction_name": "rn:R04540 rn:R11928 rn:R11931 rn:R11943 rn:R11944",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Citrate",
+      "target": "(3S)-Citryl-CoA",
+      "reaction_id": "R01322",
+      "reaction_name": "rn:R01322",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "(3S)-Citryl-CoA",
+      "target": "Oxaloacetate",
+      "reaction_id": "R00354",
+      "reaction_name": "rn:R00354",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Hyposulfite",
+      "target": "Sulfate",
+      "reaction_id": "R10151",
+      "reaction_name": "rn:R10151",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    },
+    {
+      "source": "Sulfite",
+      "target": "Sulfate",
+      "reaction_id": "R00528",
+      "reaction_name": "rn:R00528 rn:R00533 rn:R11487",
+      "reversible": false,
+      "subsystem": "Energy Metabolism"
+    }
+  ]
+}

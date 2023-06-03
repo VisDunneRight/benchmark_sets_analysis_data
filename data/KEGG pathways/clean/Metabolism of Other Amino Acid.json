@@ -262,10 +262,10 @@
         "L-Cysteine",
         "C00669"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00894",
       "reaction_name": "rn:R00894",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -273,10 +273,10 @@
         "C00669",
         "GSH"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00497",
       "reaction_name": "rn:R00497",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -284,10 +284,10 @@
         "GSH",
         "Cys-Gly"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00494",
       "reaction_name": "rn:R00494",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -295,10 +295,10 @@
         "Cys-Gly",
         "L-Cysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00899",
       "reaction_name": "rn:R00899",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -306,10 +306,10 @@
         "D-Ala",
         "Pyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01148",
       "reaction_name": "rn:R01148",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -317,10 +317,10 @@
         "L-Alanine",
         "D-Ala"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00401",
       "reaction_name": "rn:R00401",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -328,10 +328,10 @@
         "D-Glutamate",
         "D-Glutamine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01579",
       "reaction_name": "rn:R01579",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -339,10 +339,10 @@
         "Glutamate",
         "D-Glutamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00260",
       "reaction_name": "rn:R00260",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -350,10 +350,10 @@
         "L-Selenocysteine",
         "Selenide"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03599",
       "reaction_name": "rn:R03599",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -361,10 +361,10 @@
         "Selenide",
         "Selenophosphate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03595",
       "reaction_name": "rn:R03595",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -372,10 +372,10 @@
         "PEP",
         "3-Phosphonopyruvate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00661",
       "reaction_name": "rn:R00661",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -383,10 +383,10 @@
         "3-Phosphonopyruvate",
         "C03167"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04053",
       "reaction_name": "rn:R04053",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -394,10 +394,10 @@
         "Ciliatine",
         "C03167"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04152",
       "reaction_name": "rn:R04152",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -405,10 +405,10 @@
         "Ciliatine",
         "CMPciliatine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04247",
       "reaction_name": "rn:R04247",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -416,10 +416,10 @@
         "CMPciliatine",
         "C05675"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04920",
       "reaction_name": "rn:R04920",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -427,10 +427,10 @@
         "3-Sulfinoalanine",
         "Hypotaurine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02466",
       "reaction_name": "rn:R02466",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -438,10 +438,10 @@
         "Cysteamine",
         "Hypotaurine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02467",
       "reaction_name": "rn:R02467",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -449,10 +449,10 @@
         "Taurine",
         "Sulfoacetaldehyde"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R05652",
       "reaction_name": "rn:R05652",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -460,10 +460,10 @@
         "3-Oxopropanoate",
         "beta-Alanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00907",
       "reaction_name": "rn:R00907 rn:R00908",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -471,10 +471,10 @@
         "L-Asparagine",
         "L-3-Cyanoalanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01267",
       "reaction_name": "rn:R01267",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -482,10 +482,10 @@
         "Taurine",
         "L-Cysteate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01682",
       "reaction_name": "rn:R01682",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -493,10 +493,10 @@
         "Anserine",
         "beta-Alanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03288",
       "reaction_name": "rn:R03288",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -504,10 +504,10 @@
         "beta-Alanine",
         "Carnosine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01166",
       "reaction_name": "rn:R01166",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -515,10 +515,10 @@
         "Ethanal",
         "C03167"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00747",
       "reaction_name": "rn:R00747",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -526,10 +526,10 @@
         "C05730",
         "GSH"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01917",
       "reaction_name": "rn:R01917 rn:R01918",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -537,10 +537,10 @@
         "C05730",
         "Trypanothione"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03822",
       "reaction_name": "rn:R03822 rn:R08350",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -548,10 +548,10 @@
         "C03170",
         "Trypanothione"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03821",
       "reaction_name": "rn:R03821 rn:R08362 rn:R08364",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -559,10 +559,10 @@
         "Sulfoacetaldehyde",
         "Isethionate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02600",
       "reaction_name": "rn:R02600",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -570,10 +570,10 @@
         "D-Ala",
         "D-Ala-D-Ala"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01150",
       "reaction_name": "rn:R01150",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -581,10 +581,10 @@
         "D-Ornithine",
         "C01110"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02457",
       "reaction_name": "rn:R02457 rn:R02459",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -592,10 +592,10 @@
         "L-3-Cyanoalanine",
         "L-Asp"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00486",
       "reaction_name": "rn:R00486",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -603,10 +603,10 @@
         "L-Cysteine",
         "L-3-Cyanoalanine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03524",
       "reaction_name": "rn:R03524",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -614,10 +614,10 @@
         "D-Arginine",
         "2-Oxoarginine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02923",
       "reaction_name": "rn:R02923 rn:R02924 rn:R11018",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -625,10 +625,10 @@
         "2-Oxoarginine",
         "L-Arg"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11031",
       "reaction_name": "rn:R11031 rn:R11032",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -636,10 +636,10 @@
         "C06459",
         "C05674"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02590",
       "reaction_name": "rn:R02590",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -647,10 +647,10 @@
         "C05674",
         "C05676"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R04922",
       "reaction_name": "rn:R04922",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -658,10 +658,10 @@
         "GSH",
         "C03740"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R01262",
       "reaction_name": "rn:R01262",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -669,10 +669,10 @@
         "C03740",
         "Pidolic_acid"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R03749",
       "reaction_name": "rn:R03749",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -680,10 +680,10 @@
         "Pidolic_acid",
         "Glutamate"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R00251",
       "reaction_name": "rn:R00251",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -691,10 +691,10 @@
         "C00669",
         "L-Cysteine"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R02743",
       "reaction_name": "rn:R02743",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     },
     {
@@ -702,10 +702,10 @@
         "GSH",
         "Cys-Gly"
       ],
-      "directed": true,
+      "directed": false,
       "reaction_id": "R11861",
       "reaction_name": "rn:R11861",
-      "reversible": "false",
+      "reversible": false,
       "subsystem": "Metabolism of Other Amino Acid"
     }
   ]

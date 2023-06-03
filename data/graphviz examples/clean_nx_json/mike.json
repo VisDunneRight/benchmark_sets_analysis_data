@@ -1,0 +1,305 @@
+{
+  "multigraph": false,
+  "directed": true,
+  "nodes": [
+    {
+      "id": "\\n"
+    },
+    {
+      "id": "a"
+    },
+    {
+      "id": "A"
+    },
+    {
+      "id": "m"
+    },
+    {
+      "id": "E"
+    },
+    {
+      "id": "t"
+    },
+    {
+      "id": "O"
+    },
+    {
+      "id": "r"
+    },
+    {
+      "id": "V"
+    },
+    {
+      "id": "Q"
+    },
+    {
+      "id": "p"
+    },
+    {
+      "id": "B"
+    },
+    {
+      "id": "R"
+    },
+    {
+      "id": "l"
+    },
+    {
+      "id": "C"
+    },
+    {
+      "id": "c"
+    },
+    {
+      "id": "W"
+    },
+    {
+      "id": "X"
+    },
+    {
+      "id": "D"
+    },
+    {
+      "id": "T"
+    },
+    {
+      "id": "U"
+    },
+    {
+      "id": "H"
+    },
+    {
+      "id": "K"
+    },
+    {
+      "id": "L"
+    },
+    {
+      "id": "J"
+    },
+    {
+      "id": "I"
+    },
+    {
+      "id": "P"
+    },
+    {
+      "id": "F"
+    },
+    {
+      "id": "G"
+    },
+    {
+      "id": "Z"
+    },
+    {
+      "id": "S"
+    },
+    {
+      "id": "N"
+    },
+    {
+      "id": "M"
+    },
+    {
+      "id": "Y"
+    }
+  ],
+  "links": [
+    {
+      "key": 0,
+      "source": "a",
+      "target": "A"
+    },
+    {
+      "key": 0,
+      "source": "a",
+      "target": "m"
+    },
+    {
+      "key": 0,
+      "source": "a",
+      "target": "E"
+    },
+    {
+      "key": 0,
+      "source": "A",
+      "target": "M"
+    },
+    {
+      "key": 0,
+      "source": "m",
+      "target": "R"
+    },
+    {
+      "key": 0,
+      "source": "E",
+      "target": "G"
+    },
+    {
+      "key": 0,
+      "source": "t",
+      "target": "O"
+    },
+    {
+      "key": 0,
+      "source": "O",
+      "target": "K"
+    },
+    {
+      "key": 0,
+      "source": "r",
+      "target": "V"
+    },
+    {
+      "key": 0,
+      "source": "r",
+      "target": "Q"
+    },
+    {
+      "key": 0,
+      "source": "V",
+      "target": "W"
+    },
+    {
+      "key": 0,
+      "source": "Q",
+      "target": "T"
+    },
+    {
+      "key": 0,
+      "source": "Q",
+      "target": "H"
+    },
+    {
+      "key": 0,
+      "source": "Q",
+      "target": "A"
+    },
+    {
+      "key": 0,
+      "source": "p",
+      "target": "B"
+    },
+    {
+      "key": 0,
+      "source": "B",
+      "target": "N"
+    },
+    {
+      "key": 0,
+      "source": "B",
+      "target": "D"
+    },
+    {
+      "key": 0,
+      "source": "B",
+      "target": "S"
+    },
+    {
+      "key": 0,
+      "source": "R",
+      "target": "B"
+    },
+    {
+      "key": 0,
+      "source": "l",
+      "target": "C"
+    },
+    {
+      "key": 0,
+      "source": "C",
+      "target": "Z"
+    },
+    {
+      "key": 0,
+      "source": "C",
+      "target": "D"
+    },
+    {
+      "key": 0,
+      "source": "c",
+      "target": "C"
+    },
+    {
+      "key": 0,
+      "source": "W",
+      "target": "X"
+    },
+    {
+      "key": 0,
+      "source": "W",
+      "target": "D"
+    },
+    {
+      "key": 0,
+      "source": "T",
+      "target": "U"
+    },
+    {
+      "key": 0,
+      "source": "U",
+      "target": "H"
+    },
+    {
+      "key": 0,
+      "source": "H",
+      "target": "R"
+    },
+    {
+      "key": 0,
+      "source": "H",
+      "target": "P"
+    },
+    {
+      "key": 0,
+      "source": "K",
+      "target": "L"
+    },
+    {
+      "key": 0,
+      "source": "K",
+      "target": "J"
+    },
+    {
+      "key": 0,
+      "source": "K",
+      "target": "E"
+    },
+    {
+      "key": 0,
+      "source": "L",
+      "target": "U"
+    },
+    {
+      "key": 0,
+      "source": "J",
+      "target": "I"
+    },
+    {
+      "key": 0,
+      "source": "P",
+      "target": "F"
+    },
+    {
+      "key": 0,
+      "source": "G",
+      "target": "U"
+    },
+    {
+      "key": 0,
+      "source": "S",
+      "target": "D"
+    },
+    {
+      "key": 0,
+      "source": "N",
+      "target": "Y"
+    },
+    {
+      "key": 0,
+      "source": "M",
+      "target": "B"
+    }
+  ]
+}
