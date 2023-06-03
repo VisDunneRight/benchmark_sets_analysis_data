@@ -641,7 +641,33 @@ def read_blogs():
                         })
                         
             with open(r"data\blogposts-tweets-forum\clean\Blogposts\{}.json".format(file), 'w') as f:
-                json.dump(graph, f, indent=2)   
+                json.dump(graph, f, indent=2)
+def read_mooc(): #bipartite user - target
+    graph = {"nodes": [], "links": []}
+    nodes_seen = set()
+    
+    with open(r"data\blogposts-tweets-forum\MOOC\mooc_actions.tsv",  encoding="utf-8") as f:
+        rdr = csv.reader(f, delimiter="\t")
+        next(rdr)
+
+        for ln in rdr:
+            user = "user" + ln[1]
+            target = "target" + ln[2]
+            
+            for elem in [user, target]:
+                if elem not in nodes_seen:
+                    nodes_seen.add(elem)
+                    graph["nodes"].append({"id": elem})
+        
+            graph["links"].append({
+                            "nodes": [user, target], 
+                            "timestamp": ln[-1],
+                            "actionID": ln[0], 
+                            "directed": False
+                        })
+            
+    with open(r"data\blogposts-tweets-forum\clean\MOOC\mooc.json", 'w') as f:
+        json.dump(graph, f, indent=2)   
 
 
 if __name__ == '__main__':
@@ -668,8 +694,9 @@ if __name__ == '__main__':
 	# read_collaborations()
 	# read_codecommits()
 	# read_pi()
+
 	# read_blogs() <-- Havent run having problems
-	
+	read_mooc()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
