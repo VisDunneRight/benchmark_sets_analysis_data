@@ -603,6 +603,46 @@ def read_pi():
             
     with open("data\protein interactions\clean\protein_interactions_publications.json", 'w') as f:
         json.dump(graph, f, indent=2)    
+	
+def read_blogs():
+    files = ["corpus_ner_geo", "huffington", "wikinews"]
+    categories = ["person", "location", "organization", "miscellaneous"]
+    for file in files:
+        graph = {"nodes": [], "links": []}
+        seen_nodes = set() # nodes are all topics across four categories
+        
+        with open(r"data\blogposts-tweets-forum\Blogposts\\"+ file + ".tsv",  encoding="utf-8") as f:
+            rdr = csv.reader(f, delimiter="\t")
+            next(rdr)
+            
+            for ln in rdr:
+                topics_per_line = []
+                
+                for i in range(2, 5): # columns corresponding to categories
+                    topics_by_cat = re.split(r'\|', ln[i])
+                    topics_per_line += topics_by_cat
+                    for topic in topics_by_cat:
+                        if topic not in seen_nodes:
+                            seen_nodes.add(topic)
+                            graph["nodes"].append({"id": topic, 
+                                                  "category": categories[i-2]})
+			     
+                for i in range(len(topics_per_line)):
+                    for j in range(i + 1, len(topics_per_line)):
+                        if file == files[2]:
+                            source = "wikinews"
+                        else:
+                            source = ln[0]
+                        graph["links"].append({
+                            "nodes": [topics_per_line[i], topics_per_line[j]],
+                            "source": source, 
+                            "time": ln[1],
+                            "directed": False
+                        })
+                        
+            with open(r"data\blogposts-tweets-forum\clean\Blogposts\{}.json".format(file), 'w') as f:
+                json.dump(graph, f, indent=2)   
+
 
 if __name__ == '__main__':
 	# read_storyline()
@@ -627,6 +667,9 @@ if __name__ == '__main__':
 	# read_california()
 	# read_collaborations()
 	# read_codecommits()
+	# read_pi()
+	# read_blogs() <-- Havent run having problems
+	
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
