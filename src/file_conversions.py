@@ -9,7 +9,9 @@ import xml.etree.ElementTree as ET
 from Bio import Phylo
 import newick
 import graphviz
-
+from scipy.io import loadmat
+from scipy.sparse import find
+import numpy as np
 
 def read_storyline():
 	for sname in os.listdir("../data/Storylines"):
@@ -742,10 +744,43 @@ def read_contacts():
             with open("data\social network\clean\Contacts\\" + gfile.replace(".txt", ".json"), 'w') as f:
                 json.dump(graph, f, indent=2)   
 
+def read_facebook100():
+    dir_path = r"data\social network\facebook100\\"
+    for gfile in os.listdir(dir_path):
 
-    
-               
-    
+        if os.path.splitext(gfile)[1] == ".mat" and not os.path.isfile(r"data\social network\clean\facebook100\\"+ gfile.replace(".mat", ".json")):
+            graph = {"nodes": [], "links": []}
+            mat_data = loadmat(dir_path + gfile, squeeze_me=True)
+            
+            """
+            "local_info" variable, one row per node: a student/faculty status
+            flag, gender, major, second major/minor (if applicable), dorm/house,
+            year, and high school. Missing data is coded 0.
+            """
+            all_features = mat_data["local_info"]
+            adj = mat_data["A"]            
+        
+            for i, n_att in enumerate(all_features):
+                n_att = [int(n_att[x]) for x in range(len(n_att))]
+                graph["nodes"].append({"id": i, 
+                                      "student/faculty flag": n_att[0], 
+                                      "gender": n_att[1], 
+                                      "major": n_att[2], 
+                                      "second major": n_att[3], 
+                                      "dorm": n_att[4],
+                                      "year": n_att[5],
+                                      "highschool ID": n_att[6]})
+
+            row, col, val = find(adj)
+            
+            for i in range(len(row)):
+                graph["links"].append({"nodes": [int(row[i]), int(col[i])], 
+                                        "directed": False
+                                        })
+            
+            with open(r"data\social network\clean\facebook100\\"+ gfile.replace(".mat", ".json"), 'w') as f:
+                json.dump(graph, f, indent=2)  
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -773,7 +808,8 @@ if __name__ == '__main__':
 	# read_blogs() 
 	# read_mooc()
 	# read_tweets()
-	read_contacts()
+	# read_contacts()
+	# read_facebook100()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
