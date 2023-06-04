@@ -845,6 +845,24 @@ def read_vanDeBunt():
             with open(r"data\social network\clean\vanDeBunt\\" + gfile.replace(".DAT", ".json"), 'w') as f:
                 json.dump(graph, f, indent=2)  
             
+def add_karate():
+    graph = {"nodes": [], "links": []}
+    karate = nx.karate_club_graph()
+    
+
+    for nd in karate.nodes:
+        graph["nodes"].append({"id":nd, 
+                              "club": karate.nodes[nd]["club"]})
+    for u, v in karate.edges:
+        #print(karate[u][v]) <- docs said there were weights, but I cannot seem to find them
+        graph["links"].append({"nodes": [u, v], 
+                               "directed": False })
+        
+    
+    
+    with open(r"data\social network\clean\karate\karate.json", 'w') as f:
+        json.dump(graph, f, indent=2)
+
 
 if __name__ == '__main__':
 	# read_storyline()
@@ -875,7 +893,8 @@ if __name__ == '__main__':
 	# read_tweets()
 	# read_contacts()
 	# read_facebook100()
-	read_vanDeBunt()
+	# read_vanDeBunt()
+	add_karate()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
