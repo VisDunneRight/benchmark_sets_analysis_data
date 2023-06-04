@@ -1,0 +1,4062 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 1,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 2,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 3,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 4,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 5,
+      "gender": "F",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 6,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 7,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 8,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 9,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 10,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 11,
+      "gender": "M",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 12,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 13,
+      "gender": "M",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 14,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 15,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 16,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 17,
+      "gender": "F",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 18,
+      "gender": "M",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 19,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 20,
+      "gender": "M",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 21,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": false
+    },
+    {
+      "id": 22,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": false
+    },
+    {
+      "id": 23,
+      "gender": "F",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 24,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 25,
+      "gender": "M",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 26,
+      "gender": "M",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 27,
+      "gender": "M",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 28,
+      "gender": "M",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 29,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 30,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 31,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": false
+    }
+  ],
+  "links": [
+    {
+      "nodes": [
+        0,
+        2
+      ],
+      "realtionship": "item-non response",
+      "directed": true
+    },
+    {
+      "nodes": [
+        0,
+        6
+      ],
+      "realtionship": "item-non response",
+      "directed": true
+    },
+    {
+      "nodes": [
+        0,
+        8
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        0,
+        10
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        0,
+        20
+      ],
+      "realtionship": "item-non response",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        0
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        2
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        4
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        7
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        9
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        12
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        15
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        25
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        30
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        1
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        2
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        4
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        5
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        7
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        12
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        14
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        15
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        18
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        19
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        24
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        25
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        26
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        29
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        30
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        3,
+        31
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        1
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        2
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        5
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        7
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        12
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        14
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        15
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        19
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        4,
+        31
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        2
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        4
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        12
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        14
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        15
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        23
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        30
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        31
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        2
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        3
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        9
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        13
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        14
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        15
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        16
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        18
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        19
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        21
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        25
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        30
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        7,
+        31
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        1
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        4
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        6
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        7
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        13
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        14
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        15
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        16
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        19
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        21
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        23
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        29
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        9,
+        30
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        10,
+        0
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        10,
+        8
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        10,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        0
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        6
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        18
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        20
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        22
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        25
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        11,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        1
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        2
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        3
+      ],
+      "realtionship": "bestfriend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        4
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        5
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        6
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        7
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        10
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        14
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        15
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        17
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        18
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        19
+      ],
+      "realtionship": "bestfriend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        20
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        21
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        25
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        29
+      ],
+      "realtionship": "bestfriend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        30
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        12,
+        31
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        2
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        3
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        7
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        15
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        18
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        19
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        20
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        25
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        13,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        1
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        2
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        3
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        4
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        5
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        6
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        7
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        8
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        9
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        10
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        12
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        15
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        16
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        18
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        19
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        22
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        23
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        24
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        25
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        29
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        30
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        14,
+        31
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        0
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        1
+      ],
+      "realtionship": "bestfriend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        2
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        3
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        4
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        5
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        7
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        8
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        9
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        10
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        12
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        14
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        18
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        19
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        24
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        25
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        26
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        30
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        31
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        6
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        7
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        9
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        11
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        13
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        14
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        18
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        19
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        20
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        21
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        22
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        25
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        30
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        18,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        18,
+        20
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        18,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        18,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        18,
+        26
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        18,
+        27
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        18,
+        28
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        18,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        18,
+        31
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        0
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        1
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        2
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        3
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        4
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        5
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        7
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        10
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        12
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        14
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        15
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        17
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        18
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        24
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        25
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        26
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        27
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        28
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        29
+      ],
+      "realtionship": "bestfriend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        30
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        19,
+        31
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        0
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        2
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        3
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        4
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        6
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        7
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        8
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        10
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        13
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        18
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        25
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        26
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        30
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        0
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        2
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        7
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        8
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        9
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        13
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        16
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        18
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        19
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        22
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        25
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        30
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        21,
+        31
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        0
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        2
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        3
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        4
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        5
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        6
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        7
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        8
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        10
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        11
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        12
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        14
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        15
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        17
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        18
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        19
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        23
+      ],
+      "realtionship": "bestfriend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        24
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        25
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        30
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        22,
+        31
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        2
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        5
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        6
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        18
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        19
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        22
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        23,
+        31
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        24,
+        2
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        24,
+        6
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        24,
+        14
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        24,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        24,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        24,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        24,
+        31
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        1
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        7
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        11
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        13
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        15
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        16
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        18
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        20
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        21
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        26
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        25,
+        31
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        0
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        3
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        10
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        12
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        18
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        19
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        25
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        26
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        28
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        27,
+        29
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        0
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        4
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        5
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        7
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        10
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        11
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        15
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        18
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        19
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        25
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        26
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        27
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        29
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        30
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        28,
+        31
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        1
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        7
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        9
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        14
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        16
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        21
+      ],
+      "realtionship": "friend",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        22
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        23
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        25
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        26
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        27
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        29
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        0
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        2
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        3
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        4
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        6
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        8
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        9
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        13
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        14
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        15
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        18
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        19
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        21
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        22
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        23
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        24
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        25
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        26
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        27
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        28
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        31,
+        29
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    }
+  ]
+}

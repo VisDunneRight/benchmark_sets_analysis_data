@@ -781,6 +781,71 @@ def read_facebook100():
             with open(r"data\social network\clean\facebook100\\"+ gfile.replace(".mat", ".json"), 'w') as f:
                 json.dump(graph, f, indent=2)  
 
+def read_vanDeBunt():
+    dir_path = r"data\social network\vanDeBunt\\"
+    nodes = []
+     
+    #VARS.DAT is a single file with node attr for all adjencencies over time
+    with open(dir_path + "VARS.DAT") as f:
+        """
+        From Original data:
+        gender (1 = F, 2 = M),
+        program (2-year, 3-year, 4-year), 
+        and smoking (1 = yes, 2 = no)
+        """
+        
+        i = 0
+        for ln in f.readlines():
+            row = re.split("\s+", ln.strip())
+           
+            gender = {1: "F", 2: "M"}
+            nodes.append({
+                "id": i,
+                "gender": gender[int(row[0])], 
+                "program (num years)": int(row[1]),
+                "smoking": bool(-(int(row[2]) - 2))
+            })
+            
+            i +=1
+    """
+    The networks are coded as 0 = unknown, 1 = best friend, 2 = friend, 3 = friendly relation, 4 = neutral,
+    5 = troubled relation, 6 = item non-response, 9 = actor non-response. Note that 6 and 9 are missing data codes.
+    """
+
+    key_vals = {1: "bestfriend", 
+               2: "friend", 
+               3: "friendly relation", 
+               4: "neutral", 
+               5: "troubled relation", 
+               6: "item-non response", 
+               9: "actor non-response"}
+    
+    for gfile in os.listdir(dir_path):
+        if os.path.splitext(gfile)[1] == ".DAT" and gfile != "VARS.DAT":
+            graph = {"nodes": nodes, "links": []}
+            with open(dir_path + gfile) as f:
+
+                i = 0
+                for ln in f.readlines():
+                    # self reported data is directed, we remove unknowns from the network but keep 6, 9s as info may be valuable
+                    # we do remove self loops whenever thry are 9
+                    row = re.split("\s+", ln.strip())
+                    
+                    for j in range(len(row)):
+                        if not (row[i] == row[j] and int(row[j]) == 9):
+                            if int(row[j]) != 0:
+                                graph["links"].append({
+                                    "nodes": [i, j], 
+                                    "realtionship" : key_vals[int(row[j])], 
+                                    "directed": True
+                                })
+                    i += 1
+            
+            
+            with open(r"data\social network\clean\vanDeBunt\\" + gfile.replace(".DAT", ".json"), 'w') as f:
+                json.dump(graph, f, indent=2)  
+            
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -810,6 +875,7 @@ if __name__ == '__main__':
 	# read_tweets()
 	# read_contacts()
 	# read_facebook100()
+	read_vanDeBunt()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):

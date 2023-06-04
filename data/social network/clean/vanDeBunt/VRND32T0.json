@@ -1,0 +1,278 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 1,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 2,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 3,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 4,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 5,
+      "gender": "F",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 6,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 7,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 8,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 9,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 10,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 11,
+      "gender": "M",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 12,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 13,
+      "gender": "M",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 14,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 15,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 16,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 17,
+      "gender": "F",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 18,
+      "gender": "M",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 19,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 20,
+      "gender": "M",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 21,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": false
+    },
+    {
+      "id": 22,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": false
+    },
+    {
+      "id": 23,
+      "gender": "F",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 24,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 25,
+      "gender": "M",
+      "program (num years)": 3,
+      "smoking": true
+    },
+    {
+      "id": 26,
+      "gender": "M",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 27,
+      "gender": "M",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 28,
+      "gender": "M",
+      "program (num years)": 2,
+      "smoking": false
+    },
+    {
+      "id": 29,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": false
+    },
+    {
+      "id": 30,
+      "gender": "F",
+      "program (num years)": 4,
+      "smoking": true
+    },
+    {
+      "id": 31,
+      "gender": "F",
+      "program (num years)": 3,
+      "smoking": false
+    }
+  ],
+  "links": [
+    {
+      "nodes": [
+        0,
+        8
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        0,
+        14
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        0,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        1,
+        15
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        5,
+        23
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        8,
+        20
+      ],
+      "realtionship": "neutral",
+      "directed": true
+    },
+    {
+      "nodes": [
+        15,
+        1
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        16,
+        30
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        20,
+        0
+      ],
+      "realtionship": "troubled relation",
+      "directed": true
+    },
+    {
+      "nodes": [
+        30,
+        16
+      ],
+      "realtionship": "friendly relation",
+      "directed": true
+    }
+  ]
+}
