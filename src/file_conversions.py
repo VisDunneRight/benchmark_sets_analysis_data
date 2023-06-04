@@ -627,18 +627,21 @@ def read_blogs():
                             graph["nodes"].append({"id": topic, 
                                                   "category": categories[i-2]})
 			     
-                for i in range(len(topics_per_line)):
-                    for j in range(i + 1, len(topics_per_line)):
-                        if file == files[2]:
-                            source = "wikinews"
-                        else:
-                            source = ln[0]
-                        graph["links"].append({
-                            "nodes": [topics_per_line[i], topics_per_line[j]],
-                            "source": source, 
-                            "time": ln[1],
-                            "directed": False
-                        })
+                #For space sake we save as a hypergraph as opposed to creating 
+                #cliques per line
+                
+                if file == files[2]:
+                    source = "wikinews"
+                else:
+                    source = ln[0]
+                    
+                graph["links"].append({
+                    "nodes": topics_per_line,
+                    "source": source, 
+                    "time": ln[1],
+                    "directed": False, 
+                    "hyperedge": True
+                })
                         
             with open(r"data\blogposts-tweets-forum\clean\Blogposts\{}.json".format(file), 'w') as f:
                 json.dump(graph, f, indent=2)
@@ -741,7 +744,7 @@ if __name__ == '__main__':
 	# read_codecommits()
 	# read_pi()
 
-	# read_blogs() <-- Havent run having problems
+	read_blogs() 
 	# read_mooc()
 	# read_tweets()
 
