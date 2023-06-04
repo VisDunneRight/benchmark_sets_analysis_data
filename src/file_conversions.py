@@ -717,6 +717,33 @@ def read_tweets():
                 
         with open(r"data\blogposts-tweets-forum\clean\tweets\\pro12_mentions.json", 'w') as f:
             json.dump(graph, f, indent=2)   
+	    
+def read_contacts():
+    dir_path = "data\social network\Contacts"
+    for gfile in os.listdir(dir_path):
+        if os.path.splitext(gfile)[1] == ".txt":
+            with open(dir_path + "\\"+ gfile) as f:
+                graph = {"nodes": [], "links": []}
+                nodes_seen = set()
+                rdr = csv.reader(f, delimiter = "\t")
+                next(rdr)
+                
+                for ln in rdr:
+                    for user in [ln[1], ln[2]]:
+                        if user not in nodes_seen:
+                            nodes_seen.add(user)
+                            graph["nodes"].append({"id": user})
+
+                    graph["links"].append({"nodes": [ln[1], ln[2]], 
+                                            "timestamp": ln[0],
+                                            "directed": False
+                                            })
+
+            with open("data\social network\clean\Contacts\\" + gfile.replace(".txt", ".json"), 'w') as f:
+                json.dump(graph, f, indent=2)   
+
+
+    
                
     
 if __name__ == '__main__':
@@ -743,10 +770,10 @@ if __name__ == '__main__':
 	# read_collaborations()
 	# read_codecommits()
 	# read_pi()
-
-	read_blogs() 
+	# read_blogs() 
 	# read_mooc()
 	# read_tweets()
+	read_contacts()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):
