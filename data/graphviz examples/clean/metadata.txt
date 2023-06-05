@@ -1,0 +1,2 @@
+Node-link structure extracted from the .gv files directly from Graphviz using NetworkX's "node_link_data()" and NetworkX's "read_dot()".
+Empty node-link files were then removed.
