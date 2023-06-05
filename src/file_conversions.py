@@ -13,6 +13,7 @@ from scipy.io import loadmat
 from scipy.sparse import find
 import numpy as np
 
+
 def read_storyline():
 	for sname in os.listdir("../data/Storylines"):
 		if os.path.splitext(sname)[1] == ".txt":
@@ -27,7 +28,8 @@ def read_storyline():
 						for nm in gp:
 							graph["nodes"].append({"id": nm + "_" + str(tstep), "group": gidx + 1})
 							if nm in name_tsteps and name_tsteps[nm] == tstep - 1:
-								graph["links"].append({"nodes": [nm + "_" + str(tstep-1), nm + "_" + str(tstep)], "directed": True})
+								graph["links"].append(
+									{"nodes": [nm + "_" + str(tstep - 1), nm + "_" + str(tstep)], "directed": True})
 							name_tsteps[nm] = tstep
 					tstep += 1
 			with open(f"../data/Storylines/clean/{sname.replace('.txt', '.json')}", 'w') as f:
@@ -50,15 +52,17 @@ def read_scotch():
 					for ln in f.readlines():
 						sep = re.split(r'[\t ]', ln.removesuffix('\n'))
 						if len(sep) > 2:
-							ndict = {"id": sep[0], "value": sep[1], "x": positions[sep[0]][0], "y": positions[sep[0]][1]}
+							ndict = {"id": sep[0], "value": sep[1], "x": positions[sep[0]][0],
+									 "y": positions[sep[0]][1]}
 							if len(positions[sep[0]]) == 3:
 								ndict["z"] = positions[sep[0]][2]
 							graph["nodes"].append(ndict)
 							for i in range(int(sep[2])):
-								lk = (sep[0], sep[2*i + 4])
+								lk = (sep[0], sep[2 * i + 4])
 								if (lk[1], lk[0]) not in link_seen:
 									link_seen.add(lk)
-									graph["links"].append({"nodes": [lk[0], lk[1]], "value": sep[2*i + 3], "directed": False})
+									graph["links"].append(
+										{"nodes": [lk[0], lk[1]], "value": sep[2 * i + 3], "directed": False})
 			else:
 				graph = {"nodes": [], "links": []}
 				link_seen = set()
@@ -71,7 +75,8 @@ def read_scotch():
 								lk = (sep[0], sep[2 * i + 4])
 								if (lk[1], lk[0]) not in link_seen:
 									link_seen.add(lk)
-									graph["links"].append({"nodes": [lk[0], lk[1]], "value": sep[2 * i + 3], "directed": False})
+									graph["links"].append(
+										{"nodes": [lk[0], lk[1]], "value": sep[2 * i + 3], "directed": False})
 			with open(f"../data/scotch/clean/{sname.replace('.src', '.json')}", 'w') as f:
 				json.dump(graph, f, indent=2)
 
@@ -123,7 +128,10 @@ def read_kegg():
 						product = reaction.find('product').text
 						reversible = False if reaction.find('reversible').text == "false" else True
 						subsystem = reaction.find('subsystem').text
-						graph["links"].append({"nodes": [reactant, product], "directed": True if reversible == "false" else False, "reaction_id": id, "reaction_name": name, "reversible": reversible, "subsystem": subsystem})
+						graph["links"].append(
+							{"nodes": [reactant, product], "directed": True if reversible == "false" else False,
+							 "reaction_id": id, "reaction_name": name, "reversible": reversible,
+							 "subsystem": subsystem})
 			with open(f"../data/KEGG pathways/clean/{kfile.replace('.xml', '.json')}", 'w') as f:
 				json.dump(graph, f, indent=2)
 
@@ -167,7 +175,7 @@ def read_chess():
 			for j, move in enumerate(chessline):
 				graph["nodes"].append({"id": idct, "piece": move["level"], "move_count": move["type"]})
 				if j > 0:
-					graph["links"].append({"nodes": [idct-1, idct], "directed": True})
+					graph["links"].append({"nodes": [idct - 1, idct], "directed": True})
 				idct += 1
 	with open(f"../data/chess/clean/chess.json", 'w') as f:
 		json.dump(graph, f, indent=2)
@@ -187,14 +195,18 @@ def read_mid():
 				graph["nodes"].append({"id": ln[1]})
 				seen_people.add(ln[1])
 			if int(ln[0]) != cur_disp:
-				graph["links"].append({"nodes": [nd for subl in last_disp_people for nd in subl], "sideA": last_disp_people[0], "sideB": last_disp_people[1], "directed": True, "start": last_disp_dates[0], "end": last_disp_dates[1]})
+				graph["links"].append(
+					{"nodes": [nd for subl in last_disp_people for nd in subl], "sideA": last_disp_people[0],
+					 "sideB": last_disp_people[1], "directed": True, "start": last_disp_dates[0],
+					 "end": last_disp_dates[1]})
 				last_disp_people = [[], []]
 			if int(ln[9]) == 1:
 				last_disp_people[0].append(ln[1])
 			else:
 				last_disp_people[1].append(ln[1])
 			cur_disp = int(ln[0])
-			last_disp_dates = [f"{ln[4] if ln[4] != str(-9) else '?'}/{ln[3] if ln[3] != str(-9) else '?'}/{ln[5]}", f"{ln[7] if ln[7] != str(-9) else '?'}/{ln[6] if ln[6] != str(-9) else '?'}/{ln[8]}"]
+			last_disp_dates = [f"{ln[4] if ln[4] != str(-9) else '?'}/{ln[3] if ln[3] != str(-9) else '?'}/{ln[5]}",
+							   f"{ln[7] if ln[7] != str(-9) else '?'}/{ln[6] if ln[6] != str(-9) else '?'}/{ln[8]}"]
 	with open(f"../data/MID/clean/midb.json", 'w') as f:
 		json.dump(graph, f, indent=2)
 	with open("../data/MID/MIDIP_5.01.csv") as f:
@@ -210,14 +222,18 @@ def read_mid():
 				graph["nodes"].append({"id": ln[2]})
 				seen_people.add(ln[2])
 			if int(ln[1]) != cur_disp:
-				graph["links"].append({"nodes": [nd for subl in last_disp_people for nd in subl], "sideA": last_disp_people[0], "sideB": last_disp_people[1], "directed": True, "start": last_disp_dates[0], "end": last_disp_dates[1], "dispute_id": ln[0]})
+				graph["links"].append(
+					{"nodes": [nd for subl in last_disp_people for nd in subl], "sideA": last_disp_people[0],
+					 "sideB": last_disp_people[1], "directed": True, "start": last_disp_dates[0],
+					 "end": last_disp_dates[1], "dispute_id": ln[0]})
 				last_disp_people = [[], []]
 			if int(ln[10]) == 1:
 				last_disp_people[0].append(ln[2])
 			else:
 				last_disp_people[1].append(ln[2])
 			cur_disp = int(ln[1])
-			last_disp_dates = [f"{ln[5] if ln[5] != str(-9) else '?'}/{ln[4] if ln[4] != str(-9) else '?'}/{ln[6]}", f"{ln[8] if ln[8] != str(-9) else '?'}/{ln[7] if ln[7] != str(-9) else '?'}/{ln[9]}"]
+			last_disp_dates = [f"{ln[5] if ln[5] != str(-9) else '?'}/{ln[4] if ln[4] != str(-9) else '?'}/{ln[6]}",
+							   f"{ln[8] if ln[8] != str(-9) else '?'}/{ln[7] if ln[7] != str(-9) else '?'}/{ln[9]}"]
 	with open(f"../data/MID/clean/midip.json", 'w') as f:
 		json.dump(graph, f, indent=2)
 
@@ -245,9 +261,9 @@ def read_tree_of_life():
 		for child in node:
 			if child.tag == "clade":
 				node_info['children'].append(traverse(child))
-				# cname = child.find("name")
-				# if cname is not None:
-				# 	graph["links"].append({"nodes": [node_info['value'], cname.text], "directed": True})
+			# cname = child.find("name")
+			# if cname is not None:
+			# 	graph["links"].append({"nodes": [node_info['value'], cname.text], "directed": True})
 			elif child.tag == "name":
 				xname = child.text
 				while xname in found_names:
@@ -256,8 +272,8 @@ def read_tree_of_life():
 					elif xname[-1] == 'e':
 						xname += '#2'
 					else:
-						nex = str(int(xname[xname.index('#')+1:]) + 1)
-						xname = xname[:xname.index('#')+1]
+						nex = str(int(xname[xname.index('#') + 1:]) + 1)
+						xname = xname[:xname.index('#') + 1]
 						xname += nex
 				found_names.add(xname)
 				node_info["value"] = xname
@@ -293,7 +309,7 @@ def create_complete_bipartite_graphs():
 	for i in range(5, 41):
 		for ip in range(5, 41):
 			graph = {"nodes": [], "links": []}
-			for j in range(i+ip):
+			for j in range(i + ip):
 				graph["nodes"].append({"id": j})
 			for k in range(i):
 				for kip in range(ip):
@@ -306,7 +322,7 @@ def create_knowncr():
 	# Ci x Cj
 	for i in range(3, 8):
 		j = i
-		while i*j <= 250:
+		while i * j <= 250:
 			graph = {"nodes": [], "links": []}
 			for ip in range(i):
 				for jp in range(j):
@@ -337,15 +353,15 @@ def create_knowncr():
 		if os.path.splitext(gfile)[1] == ".graph6":
 			gr = nx.read_graph6(f"../data/knownCR/{gfile}")
 			gr_num = gfile[gfile.index('_') + 1:gfile.index('.')]
-			graph = {"nodes": [], "links": []}
 			for j in range(3, 50):
+				graph = {"nodes": [], "links": []}
 				for ig in range(5):
-					for ij in range(j+1):
+					for ij in range(j + 1):
 						graph["nodes"].append({"id": f"{ig}_{ij}"})
 				for ig in range(5):
 					for ij in range(j):
-						graph["links"].append({"nodes": [f"{ig}_{ij}", f"{ig}_{ij+1}"], "directed": False})
-				for ij in range(j+1):
+						graph["links"].append({"nodes": [f"{ig}_{ij}", f"{ig}_{ij + 1}"], "directed": False})
+				for ij in range(j + 1):
 					for e1, e2 in gr.edges():
 						graph["links"].append({"nodes": [f"{e1}_{ij}", f"{e2}_{ij}"], "directed": False})
 				with open(f"../data/knownCR/clean/G{gr_num}_x_P{j}.json", 'w') as f:
@@ -356,14 +372,14 @@ def create_knowncr():
 		if os.path.splitext(gfile)[1] == ".graph6":
 			gr = nx.read_graph6(f"../data/knownCR/{gfile}")
 			gr_num = gfile[gfile.index('_') + 1:gfile.index('.')]
-			graph = {"nodes": [], "links": []}
 			for j in range(3, 51):
+				graph = {"nodes": [], "links": []}
 				for ig in range(5):
 					for ij in range(j):
 						graph["nodes"].append({"id": f"{ig}_{ij}"})
 				for ig in range(5):
 					for ij in range(j):
-						graph["links"].append({"nodes": [f"{ig}_{ij}", f"{ig}_{(ij+1) % j}"], "directed": False})
+						graph["links"].append({"nodes": [f"{ig}_{ij}", f"{ig}_{(ij + 1) % j}"], "directed": False})
 				for ij in range(j):
 					for e1, e2 in gr.edges():
 						graph["links"].append({"nodes": [f"{e1}_{ij}", f"{e2}_{ij}"], "directed": False})
@@ -521,12 +537,12 @@ def read_california():
 		for ln in f.readlines():
 			ln_lst = ln.split()
 			if ln_lst[0] == 'n':
-				graph["nodes"].append({"id": ln_lst[1], "url":ln_lst[2]})
+				graph["nodes"].append({"id": ln_lst[1], "url": ln_lst[2]})
 			elif ln_lst[0] == 'e':
 				link = (ln_lst[1], ln_lst[2])
 				if link not in link_seen:
 					link_seen.add(link)
-					graph["links"].append({"nodes": [ln_lst[1], ln_lst[2]],  "directed": False})
+					graph["links"].append({"nodes": [ln_lst[1], ln_lst[2]], "directed": False})
 	with open(f"data\california\clean\california.json", 'w') as f:
 		json.dump(graph, f, indent=2)
 
@@ -544,8 +560,10 @@ def read_collaborations():
 				if auth not in auth_seen:
 					graph1["nodes"].append({"id": auth})
 					auth_seen.add(auth)
-				for auth2 in auths[i+1:]:
-					graph1["links"].append({"nodes": [auth, auth2], "directed": False, "paper_title": ln[2], "DOI": ln[3], "conference": ln[0], "year": ln[1]})
+				for auth2 in auths[i + 1:]:
+					graph1["links"].append(
+						{"nodes": [auth, auth2], "directed": False, "paper_title": ln[2], "DOI": ln[3],
+						 "conference": ln[0], "year": ln[1]})
 			cites = re.split(r'[;|,]', ln[12])
 			graph2["nodes"].append({"id": ln[3], "paper_title": ln[2], "conference": ln[0], "year": ln[1]})
 			if ln[12] != "":
@@ -581,287 +599,306 @@ def read_codecommits():
 		with open("../data/code/clean/" + cfile, 'w') as fd:
 			json.dump(graph, fd, indent=2)
 
+
 def read_pi():
-    seen_nodes = set() # nodes are proteins
-    
-    graph = {"nodes": [], "links": []}
-    with open("data\protein interactions\FriesCards.tsv") as f:
-        rdr = csv.reader(f, delimiter="\t")
-        next(rdr)
-        
-        for ln in rdr:
-            proteins = re.split(r';', ln[5])
-            for protein in proteins:
-                if protein not in seen_nodes:
-                    seen_nodes.add(protein)
-                    graph["nodes"].append({"id": protein})
-            
-            graph["links"].append({"nodes": [proteins[0], proteins[1]], 
-                              "year": ln[1], 
-                              "type": ln[2], 
-                              "publication title": ln[3], 
-                              "evidence": ln[4], 
-							  "directed": True}) 
-            
-    with open("data\protein interactions\clean\protein_interactions_publications.json", 'w') as f:
-        json.dump(graph, f, indent=2)    
-	
+	seen_nodes = set()  # nodes are proteins
+
+	graph = {"nodes": [], "links": []}
+	with open("data\protein interactions\FriesCards.tsv") as f:
+		rdr = csv.reader(f, delimiter="\t")
+		next(rdr)
+
+		for ln in rdr:
+			proteins = re.split(r';', ln[5])
+			for protein in proteins:
+				if protein not in seen_nodes:
+					seen_nodes.add(protein)
+					graph["nodes"].append({"id": protein})
+
+			graph["links"].append({"nodes": [proteins[0], proteins[1]],
+								   "year": ln[1],
+								   "type": ln[2],
+								   "publication title": ln[3],
+								   "evidence": ln[4],
+								   "directed": True})
+
+	with open("data\protein interactions\clean\protein_interactions_publications.json", 'w') as f:
+		json.dump(graph, f, indent=2)
+
+
 def read_blogs():
-    files = ["corpus_ner_geo", "huffington", "wikinews"]
-    categories = ["person", "location", "organization", "miscellaneous"]
-    for file in files:
-        graph = {"nodes": [], "links": []}
-        seen_nodes = set() # nodes are all topics across four categories
-        
-        with open(r"data\blogposts-tweets-forum\Blogposts\\"+ file + ".tsv",  encoding="utf-8") as f:
-            rdr = csv.reader(f, delimiter="\t")
-            next(rdr)
-            
-            for ln in rdr:
-                topics_per_line = []
-                
-                for i in range(2, 5): # columns corresponding to categories
-                    topics_by_cat = re.split(r'\|', ln[i])
-                    topics_per_line += topics_by_cat
-                    for topic in topics_by_cat:
-                        if topic not in seen_nodes:
-                            seen_nodes.add(topic)
-                            graph["nodes"].append({"id": topic, 
-                                                  "category": categories[i-2]})
-			     
-                #For space sake we save as a hypergraph as opposed to creating 
-                #cliques per line
-                
-                if file == files[2]:
-                    source = "wikinews"
-                else:
-                    source = ln[0]
-                    
-                graph["links"].append({
-                    "nodes": topics_per_line,
-                    "source": source, 
-                    "time": ln[1],
-                    "directed": False, 
-                    "hyperedge": True
-                })
-                        
-            with open(r"data\blogposts-tweets-forum\clean\Blogposts\{}.json".format(file), 'w') as f:
-                json.dump(graph, f, indent=2)
-def read_mooc(): #bipartite user - target
-    graph = {"nodes": [], "links": []}
-    nodes_seen = set()
-    
-    with open(r"data\blogposts-tweets-forum\MOOC\mooc_actions.tsv",  encoding="utf-8") as f:
-        rdr = csv.reader(f, delimiter="\t")
-        next(rdr)
+	files = ["corpus_ner_geo", "huffington", "wikinews"]
+	categories = ["person", "location", "organization", "miscellaneous"]
+	for file in files:
+		graph = {"nodes": [], "links": []}
+		seen_nodes = set()  # nodes are all topics across four categories
 
-        for ln in rdr:
-            user = "user" + ln[1]
-            target = "target" + ln[2]
-            
-            for elem in [user, target]:
-                if elem not in nodes_seen:
-                    nodes_seen.add(elem)
-                    graph["nodes"].append({"id": elem})
-        
-            graph["links"].append({
-                            "nodes": [user, target], 
-                            "timestamp": ln[-1],
-                            "actionID": ln[0], 
-                            "directed": False
-                        })
-            
-    with open(r"data\blogposts-tweets-forum\clean\MOOC\mooc.json", 'w') as f:
-        json.dump(graph, f, indent=2)   
-	
+		with open(r"data\blogposts-tweets-forum\Blogposts\\" + file + ".tsv", encoding="utf-8") as f:
+			rdr = csv.reader(f, delimiter="\t")
+			next(rdr)
+
+			for ln in rdr:
+				topics_per_line = []
+
+				for i in range(2, 5):  # columns corresponding to categories
+					topics_by_cat = re.split(r'\|', ln[i])
+					topics_per_line += topics_by_cat
+					for topic in topics_by_cat:
+						if topic not in seen_nodes:
+							seen_nodes.add(topic)
+							graph["nodes"].append({"id": topic,
+												   "category": categories[i - 2]})
+
+				# For space sake we save as a hypergraph as opposed to creating
+				# cliques per line
+
+				if file == files[2]:
+					source = "wikinews"
+				else:
+					source = ln[0]
+
+				graph["links"].append({
+					"nodes": topics_per_line,
+					"source": source,
+					"time": ln[1],
+					"directed": False,
+					"hyperedge": True
+				})
+
+				for i in range(len(topics_per_line)):
+					for j in range(i + 1, len(topics_per_line)):
+						if file == files[2]:
+							source = "wikinews"
+						else:
+							source = ln[0]
+						graph["links"].append({
+							"nodes": [topics_per_line[i], topics_per_line[j]],
+							"source": source,
+							"time": ln[1],
+							"directed": False
+						})
+
+			with open(r"data\blogposts-tweets-forum\clean\Blogposts\{}.json".format(file), 'w') as f:
+				json.dump(graph, f, indent=2)
+
+
+def read_mooc():  # bipartite user - target
+	graph = {"nodes": [], "links": []}
+	nodes_seen = set()
+
+	with open(r"data\blogposts-tweets-forum\MOOC\mooc_actions.tsv", encoding="utf-8") as f:
+		rdr = csv.reader(f, delimiter="\t")
+		next(rdr)
+
+		for ln in rdr:
+			user = "user" + ln[1]
+			target = "target" + ln[2]
+
+			for elem in [user, target]:
+				if elem not in nodes_seen:
+					nodes_seen.add(elem)
+					graph["nodes"].append({"id": elem})
+
+			graph["links"].append({
+				"nodes": [user, target],
+				"timestamp": ln[-1],
+				"actionID": ln[0],
+				"directed": False
+			})
+
+	with open(r"data\blogposts-tweets-forum\clean\MOOC\mooc.json", 'w') as f:
+		json.dump(graph, f, indent=2)
+
+
 def read_tweets():
-    for gfile in os.listdir(r"data\blogposts-tweets-forum\tweets"):
-        if os.path.splitext(gfile)[1] == ".wdnet":
-            with open(r"data\blogposts-tweets-forum\tweets\\" + gfile) as f:
-                graph = {"nodes": [], "links": []}
-                nodes_seen = set()
-                rdr = csv.reader(f, delimiter=" ")
+	for gfile in os.listdir(r"data\blogposts-tweets-forum\tweets"):
+		if os.path.splitext(gfile)[1] == ".wdnet":
+			with open(r"data\blogposts-tweets-forum\tweets\\" + gfile) as f:
+				graph = {"nodes": [], "links": []}
+				nodes_seen = set()
+				rdr = csv.reader(f, delimiter=" ")
 
-                for ln in rdr:
-                    for i, elem in enumerate(ln[1:-1]): # elems consist of hashtags or user mentions 
-                        if elem not in nodes_seen:
-                            nodes_seen.add(elem)
-                            graph["nodes"].append({"id": elem})
-                            
-                        for elem2 in ln[i+2:-1]:
-                            graph["links"].append({
-                                            "nodes": [elem, elem2], 
-                                            "timestamp": ln[0],
-                                            "weight": ln[-1], 
-                                            "directed": False
-                                        })
+				for ln in rdr:
+					for i, elem in enumerate(ln[1:-1]):  # elems consist of hashtags or user mentions
+						if elem not in nodes_seen:
+							nodes_seen.add(elem)
+							graph["nodes"].append({"id": elem})
 
-                with open(r"data\blogposts-tweets-forum\clean\tweets\\" + gfile.replace(".wdnet", ".json"), 'w') as f:
-                    json.dump(graph, f, indent=2)   
-            
-        with open(r"data\blogposts-tweets-forum\tweets\rugby tweets\pro12_mentions.csv",  encoding="utf-8") as f:
-            graph = {"nodes": [], "links": []}
-            nodes_seen = set()
+						for elem2 in ln[i + 2:-1]:
+							graph["links"].append({
+								"nodes": [elem, elem2],
+								"timestamp": ln[0],
+								"weight": ln[-1],
+								"directed": False
+							})
 
-            rdr = csv.reader(f)
-            next(rdr)
+				with open(r"data\blogposts-tweets-forum\clean\tweets\\" + gfile.replace(".wdnet", ".json"), 'w') as f:
+					json.dump(graph, f, indent=2)
 
-            for ln in rdr:
-                for user in [ln[1], ln[2]]:
-                    if user not in nodes_seen:
-                        nodes_seen.add(user)
-                        graph["nodes"].append({"id": user})
+		with open(r"data\blogposts-tweets-forum\tweets\rugby tweets\pro12_mentions.csv", encoding="utf-8") as f:
+			graph = {"nodes": [], "links": []}
+			nodes_seen = set()
 
-                graph["links"].append({"nodes": [ln[1], ln[2]], 
-                                        "timestamp": ln[0],
-                                        "directed": True
-                                        })
-                
-        with open(r"data\blogposts-tweets-forum\clean\tweets\\pro12_mentions.json", 'w') as f:
-            json.dump(graph, f, indent=2)   
-	    
+			rdr = csv.reader(f)
+			next(rdr)
+
+			for ln in rdr:
+				for user in [ln[1], ln[2]]:
+					if user not in nodes_seen:
+						nodes_seen.add(user)
+						graph["nodes"].append({"id": user})
+
+				graph["links"].append({"nodes": [ln[1], ln[2]],
+									   "timestamp": ln[0],
+									   "directed": True
+									   })
+
+		with open(r"data\blogposts-tweets-forum\clean\tweets\\pro12_mentions.json", 'w') as f:
+			json.dump(graph, f, indent=2)
+
+
 def read_contacts():
-    dir_path = "data\social network\Contacts"
-    for gfile in os.listdir(dir_path):
-        if os.path.splitext(gfile)[1] == ".txt":
-            with open(dir_path + "\\"+ gfile) as f:
-                graph = {"nodes": [], "links": []}
-                nodes_seen = set()
-                rdr = csv.reader(f, delimiter = "\t")
-                next(rdr)
-                
-                for ln in rdr:
-                    for user in [ln[1], ln[2]]:
-                        if user not in nodes_seen:
-                            nodes_seen.add(user)
-                            graph["nodes"].append({"id": user})
+	dir_path = "data\social network\Contacts"
+	for gfile in os.listdir(dir_path):
+		if os.path.splitext(gfile)[1] == ".txt":
+			with open(dir_path + "\\" + gfile) as f:
+				graph = {"nodes": [], "links": []}
+				nodes_seen = set()
+				rdr = csv.reader(f, delimiter="\t")
+				next(rdr)
 
-                    graph["links"].append({"nodes": [ln[1], ln[2]], 
-                                            "timestamp": ln[0],
-                                            "directed": False
-                                            })
+				for ln in rdr:
+					for user in [ln[1], ln[2]]:
+						if user not in nodes_seen:
+							nodes_seen.add(user)
+							graph["nodes"].append({"id": user})
 
-            with open("data\social network\clean\Contacts\\" + gfile.replace(".txt", ".json"), 'w') as f:
-                json.dump(graph, f, indent=2)   
+					graph["links"].append({"nodes": [ln[1], ln[2]],
+										   "timestamp": ln[0],
+										   "directed": False
+										   })
+
+			with open("data\social network\clean\Contacts\\" + gfile.replace(".txt", ".json"), 'w') as f:
+				json.dump(graph, f, indent=2)
+
 
 def read_facebook100():
-    dir_path = r"data\social network\facebook100\\"
-    for gfile in os.listdir(dir_path):
+	dir_path = r"data\social network\facebook100\\"
+	for gfile in os.listdir(dir_path):
 
-        if os.path.splitext(gfile)[1] == ".mat" and not os.path.isfile(r"data\social network\clean\facebook100\\"+ gfile.replace(".mat", ".json")):
-            graph = {"nodes": [], "links": []}
-            mat_data = loadmat(dir_path + gfile, squeeze_me=True)
-            
-            """
+		if os.path.splitext(gfile)[1] == ".mat" and not os.path.isfile(
+				r"data\social network\clean\facebook100\\" + gfile.replace(".mat", ".json")):
+			graph = {"nodes": [], "links": []}
+			mat_data = loadmat(dir_path + gfile, squeeze_me=True)
+
+			"""
             "local_info" variable, one row per node: a student/faculty status
             flag, gender, major, second major/minor (if applicable), dorm/house,
             year, and high school. Missing data is coded 0.
             """
-            all_features = mat_data["local_info"]
-            adj = mat_data["A"]            
-        
-            for i, n_att in enumerate(all_features):
-                n_att = [int(n_att[x]) for x in range(len(n_att))]
-                graph["nodes"].append({"id": i, 
-                                      "student/faculty flag": n_att[0], 
-                                      "gender": n_att[1], 
-                                      "major": n_att[2], 
-                                      "second major": n_att[3], 
-                                      "dorm": n_att[4],
-                                      "year": n_att[5],
-                                      "highschool ID": n_att[6]})
+			all_features = mat_data["local_info"]
+			adj = mat_data["A"]
 
-            row, col, val = find(adj)
-            
-            for i in range(len(row)):
-                graph["links"].append({"nodes": [int(row[i]), int(col[i])], 
-                                        "directed": False
-                                        })
-            
-            with open(r"data\social network\clean\facebook100\\"+ gfile.replace(".mat", ".json"), 'w') as f:
-                json.dump(graph, f, indent=2)  
+			for i, n_att in enumerate(all_features):
+				n_att = [int(n_att[x]) for x in range(len(n_att))]
+				graph["nodes"].append({"id": i,
+									   "student/faculty flag": n_att[0],
+									   "gender": n_att[1],
+									   "major": n_att[2],
+									   "second major": n_att[3],
+									   "dorm": n_att[4],
+									   "year": n_att[5],
+									   "highschool ID": n_att[6]})
+
+			row, col, val = find(adj)
+
+			for i in range(len(row)):
+				graph["links"].append({"nodes": [int(row[i]), int(col[i])],
+									   "directed": False
+									   })
+
+			with open(r"data\social network\clean\facebook100\\" + gfile.replace(".mat", ".json"), 'w') as f:
+				json.dump(graph, f, indent=2)
+
 
 def read_vanDeBunt():
-    dir_path = r"data\social network\vanDeBunt\\"
-    nodes = []
-     
-    #VARS.DAT is a single file with node attr for all adjencencies over time
-    with open(dir_path + "VARS.DAT") as f:
-        """
+	dir_path = r"data\social network\vanDeBunt\\"
+	nodes = []
+
+	# VARS.DAT is a single file with node attr for all adjencencies over time
+	with open(dir_path + "VARS.DAT") as f:
+		"""
         From Original data:
         gender (1 = F, 2 = M),
         program (2-year, 3-year, 4-year), 
         and smoking (1 = yes, 2 = no)
         """
-        
-        i = 0
-        for ln in f.readlines():
-            row = re.split("\s+", ln.strip())
-           
-            gender = {1: "F", 2: "M"}
-            nodes.append({
-                "id": i,
-                "gender": gender[int(row[0])], 
-                "program (num years)": int(row[1]),
-                "smoking": bool(-(int(row[2]) - 2))
-            })
-            
-            i +=1
-    """
+
+		i = 0
+		for ln in f.readlines():
+			row = re.split("\s+", ln.strip())
+
+			gender = {1: "F", 2: "M"}
+			nodes.append({
+				"id": i,
+				"gender": gender[int(row[0])],
+				"program (num years)": int(row[1]),
+				"smoking": bool(-(int(row[2]) - 2))
+			})
+
+			i += 1
+	"""
     The networks are coded as 0 = unknown, 1 = best friend, 2 = friend, 3 = friendly relation, 4 = neutral,
     5 = troubled relation, 6 = item non-response, 9 = actor non-response. Note that 6 and 9 are missing data codes.
     """
 
-    key_vals = {1: "bestfriend", 
-               2: "friend", 
-               3: "friendly relation", 
-               4: "neutral", 
-               5: "troubled relation", 
-               6: "item-non response", 
-               9: "actor non-response"}
-    
-    for gfile in os.listdir(dir_path):
-        if os.path.splitext(gfile)[1] == ".DAT" and gfile != "VARS.DAT":
-            graph = {"nodes": nodes, "links": []}
-            with open(dir_path + gfile) as f:
+	key_vals = {1: "bestfriend",
+				2: "friend",
+				3: "friendly relation",
+				4: "neutral",
+				5: "troubled relation",
+				6: "item-non response",
+				9: "actor non-response"}
 
-                i = 0
-                for ln in f.readlines():
-                    # self reported data is directed, we remove unknowns from the network but keep 6, 9s as info may be valuable
-                    # we do remove self loops whenever thry are 9
-                    row = re.split("\s+", ln.strip())
-                    
-                    for j in range(len(row)):
-                        if not (row[i] == row[j] and int(row[j]) == 9):
-                            if int(row[j]) != 0:
-                                graph["links"].append({
-                                    "nodes": [i, j], 
-                                    "realtionship" : key_vals[int(row[j])], 
-                                    "directed": True
-                                })
-                    i += 1
-            
-            
-            with open(r"data\social network\clean\vanDeBunt\\" + gfile.replace(".DAT", ".json"), 'w') as f:
-                json.dump(graph, f, indent=2)  
-            
+	for gfile in os.listdir(dir_path):
+		if os.path.splitext(gfile)[1] == ".DAT" and gfile != "VARS.DAT":
+			graph = {"nodes": nodes, "links": []}
+			with open(dir_path + gfile) as f:
+
+				i = 0
+				for ln in f.readlines():
+					# self reported data is directed, we remove unknowns from the network but keep 6, 9s as info may be valuable
+					# we do remove self loops whenever thry are 9
+					row = re.split("\s+", ln.strip())
+
+					for j in range(len(row)):
+						if not (row[i] == row[j] and int(row[j]) == 9):
+							if int(row[j]) != 0:
+								graph["links"].append({
+									"nodes": [i, j],
+									"realtionship": key_vals[int(row[j])],
+									"directed": True
+								})
+					i += 1
+
+			with open(r"data\social network\clean\vanDeBunt\\" + gfile.replace(".DAT", ".json"), 'w') as f:
+				json.dump(graph, f, indent=2)
+
+
 def add_karate():
-    graph = {"nodes": [], "links": []}
-    karate = nx.karate_club_graph()
-    
+	graph = {"nodes": [], "links": []}
+	karate = nx.karate_club_graph()
 
-    for nd in karate.nodes:
-        graph["nodes"].append({"id":nd, 
-                              "club": karate.nodes[nd]["club"]})
-    for u, v in karate.edges:
-        #print(karate[u][v]) <- docs said there were weights, but I cannot seem to find them
-        graph["links"].append({"nodes": [u, v], 
-                               "directed": False })
-        
-    
-    
-    with open(r"data\social network\clean\karate\karate.json", 'w') as f:
-        json.dump(graph, f, indent=2)
+	for nd in karate.nodes:
+		graph["nodes"].append({"id": nd,
+							   "club": karate.nodes[nd]["club"]})
+	for u, v in karate.edges:
+		# print(karate[u][v]) <- docs said there were weights, but I cannot seem to find them
+		graph["links"].append({"nodes": [u, v],
+							   "directed": False})
+
+	with open(r"data\social network\clean\karate\karate.json", 'w') as f:
+		json.dump(graph, f, indent=2)
 
 
 if __name__ == '__main__':
@@ -888,7 +925,7 @@ if __name__ == '__main__':
 	# read_collaborations()
 	# read_codecommits()
 	# read_pi()
-	# read_blogs() 
+	# read_blogs()
 	# read_mooc()
 	# read_tweets()
 	# read_contacts()
