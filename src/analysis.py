@@ -151,7 +151,7 @@ def single_graph_charts(path_to_folder, binned=True):
 				chart |= base.encode(x=alt.X(f"Component Size:Q").bin(minstep=1), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0F7B6C")).transform_filter(alt.FieldEqualPredicate(field='Node Degree', equal=-1))
 				chart |= base.encode(x=alt.X(f"Node Degree:Q").bin(minstep=1), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0B6E99")).transform_filter(alt.FieldEqualPredicate(field='Component Size', equal=-1))
 			else:
-				base = alt.Chart().mark_bar().encode()
+				base = alt.Chart().mark_bar(size=20).encode()
 				chart = alt.hconcat(data=alt.Data(values=data))
 				chart |= base.encode(x=alt.X(f"Component Size:Q"), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0F7B6C")).transform_filter(alt.FieldEqualPredicate(field='Node Degree', equal=-1))
 				chart |= base.encode(x=alt.X(f"Node Degree:Q"), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0B6E99")).transform_filter(alt.FieldEqualPredicate(field='Component Size', equal=-1))
@@ -175,7 +175,7 @@ def just_degree_distr(path_to_folder, binned=True, multigraph=False):
 			if binned:
 				chart = alt.Chart(data=alt.Data(values=data), title=gfile).mark_bar().encode(x=alt.X(f"Node Degree:Q").bin(minstep=1), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0F7B6C"))
 			else:
-				chart = alt.Chart(data=alt.Data(values=data)).mark_bar().encode(x=alt.X(f"Node Degree:Q"), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0B6E99"))
+				chart = alt.Chart(data=alt.Data(values=data)).mark_bar(size=20).encode(x=alt.X(f"Node Degree:Q"), y=alt.Y('count()', axis=alt.Axis(title=None)), color=alt.value("#0B6E99"))
 			chart.save(path_to_folder + f"/charts/degree_distr{'' if ct == 0 else ct}.svg", embed_options={'renderer': 'svg'})
 			ct += 1
 
@@ -215,11 +215,11 @@ def convert_all_nonmultigraph_to_nx_json(path_to_folder):
 
 
 if __name__ == '__main__':
-	collection = "../data/knownCR"
-	collection_distributions_4in1(collection, tree_coll=False)
+	collection = "../data/graphviz examples"
+	# collection_distributions_4in1(collection, tree_coll=False)
 	# single_graph_charts(collection, binned=False)
 	# just_degree_distr(collection, binned=True, multigraph=True)
-	# convert_all_nonmultigraph_to_nx_json(collection)
+	convert_all_nonmultigraph_to_nx_json(collection)
 
 	# with open("../data/investment interdependence/clean_nx_json/investment_obstacles.json") as fds:
 	# 	grz = json.load(fds)
