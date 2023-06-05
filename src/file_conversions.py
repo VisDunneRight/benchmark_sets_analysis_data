@@ -901,6 +901,53 @@ def add_karate():
 		json.dump(graph, f, indent=2)
 
 
+def read_worldmaps():
+    dir_path = r"data\world maps\\"
+    subfolders = [r"NL\\", r"USA\\", r"WORLD\\"]
+    
+    for subfolder in subfolders:
+        nodes = {}
+        links = []
+        for gfile in os.listdir(dir_path + subfolder):
+            name, extension = os.path.splitext(gfile)
+            file_id = re.split("_", name)[1]
+            
+            # get nodes and edges first
+            if extension == ".tsv":
+                if file_id in ["adjacencies", "locs"]:
+                    with open(dir_path + subfolder + gfile) as f:
+                        rdr = csv.reader(f, delimiter="\t")
+                        header = next(rdr)
+
+                        for ln in rdr:
+                            if file_id == "adjacencies":
+                                links.append({"nodes": [ln[0], ln[1]], 
+                                              "directed": False
+                                             }) 
+                            if file_id == "locs":
+                                nodes[ln[0]] = {header[i]: ln[i] for i in range(1,len(ln))}
+            
+        # make graphs for each "Mixed" file also filling in other attributes from above
+        for gfile in os.listdir(dir_path + subfolder):
+            name, extension = os.path.splitext(gfile)
+            file_id = re.split("_", name)[1]
+            if extension == ".tsv" and file_id not in ["adjacencies", "locs"]:
+                graph = {"nodes": [], "links": links}
+
+                with open(dir_path + subfolder + gfile) as f:
+                    rdr = csv.reader(f, delimiter="\t")
+                    header = next(rdr)
+
+                    for ln in rdr:
+                        nodes[ln[0]].update({header[i]: ln[i] for i in range(1,len(ln))})
+
+                    for k in nodes.keys(): #convert node dict to list of dicts per node
+                        nodes[k].update({"id": k})
+                    graph["nodes"] += (list(nodes.values()))
+
+                with open( r"data\world maps\clean\\"+ subfolder + gfile.replace(".tsv", ".json"), 'w') as f:
+                    json.dump(graph, f, indent=2)  
+
 if __name__ == '__main__':
 	# read_storyline()
 	# read_scotch()
@@ -931,7 +978,8 @@ if __name__ == '__main__':
 	# read_contacts()
 	# read_facebook100()
 	# read_vanDeBunt()
-	add_karate()
+	# add_karate()
+	read_worldmaps()
 
 	# direct = "../data/investment interdependence/clean"
 	# for fle in os.listdir(direct):

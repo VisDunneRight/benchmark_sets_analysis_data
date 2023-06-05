@@ -1,0 +1,2305 @@
+{
+  "nodes": [
+    {
+      "COMPUTE_CENTROID_x": "389.9106285345388",
+      "COMPUTE_CENTROID_y": "491.42892679567916",
+      "name": "Michigan",
+      "DrugFatalities_2010": "1394",
+      "GDP_2010": "386625.9",
+      "GeneralElectionTurnout_2010": "0.445",
+      "Population_2011": "9884117",
+      "id": "MI",
+      "DrugFatalities_2012": "1308",
+      "GDP_2012": "418857.4",
+      "GeneralElectionTurnout_2012": "0.647",
+      "Population_2012": "9877535",
+      "DrugFatalities_2014": "1762",
+      "GDP_2014": "448964.4",
+      "GeneralElectionTurnout_2014": "0.42700000000000005",
+      "Population_2014": "9896930"
+    },
+    {
+      "COMPUTE_CENTROID_x": "350.79857581563186",
+      "COMPUTE_CENTROID_y": "492.12160415202516",
+      "name": "Wisconsin",
+      "DrugFatalities_2010": "512",
+      "GDP_2010": "254354.1",
+      "GeneralElectionTurnout_2010": "0.52",
+      "Population_2011": "5687282",
+      "id": "WI",
+      "DrugFatalities_2012": "692",
+      "GDP_2012": "274343.9",
+      "GeneralElectionTurnout_2012": "0.7290000000000001",
+      "Population_2012": "5690479",
+      "DrugFatalities_2014": "853",
+      "GDP_2014": "293519.4",
+      "GeneralElectionTurnout_2014": "0.5660000000000001",
+      "Population_2014": "5719855"
+    },
+    {
+      "COMPUTE_CENTROID_x": "314.21128476059255",
+      "COMPUTE_CENTROID_y": "511.2542551342278",
+      "name": "Minnesota",
+      "DrugFatalities_2010": "397",
+      "GDP_2010": "271821.2",
+      "GeneralElectionTurnout_2010": "0.5539999999999999",
+      "Population_2011": "5303925",
+      "id": "MN",
+      "DrugFatalities_2012": "482",
+      "GDP_2012": "294296.6",
+      "GeneralElectionTurnout_2012": "0.76",
+      "Population_2012": "5310843",
+      "DrugFatalities_2014": "517",
+      "GDP_2014": "319338.9",
+      "GeneralElectionTurnout_2014": "0.504",
+      "Population_2014": "5376550"
+    },
+    {
+      "COMPUTE_CENTROID_x": "360.8473269771434",
+      "COMPUTE_CENTROID_y": "438.0266109828734",
+      "name": "Illinois",
+      "DrugFatalities_2010": "1288",
+      "GDP_2010": "662637.8",
+      "GeneralElectionTurnout_2010": "0.424",
+      "Population_2011": "12831572",
+      "id": "IL",
+      "DrugFatalities_2012": "1628",
+      "GDP_2012": "720702.3",
+      "GeneralElectionTurnout_2012": "0.589",
+      "Population_2012": "12840762",
+      "DrugFatalities_2014": "1705",
+      "GDP_2014": "765910.2",
+      "GeneralElectionTurnout_2014": "0.402",
+      "Population_2014": "12884119"
+    },
+    {
+      "COMPUTE_CENTROID_x": "321.51006092985756",
+      "COMPUTE_CENTROID_y": "461.26934091651486",
+      "name": "Iowa",
+      "DrugFatalities_2010": "253",
+      "GDP_2010": "141482.0",
+      "GeneralElectionTurnout_2010": "0.499",
+      "Population_2011": "3046872",
+      "id": "IA",
+      "DrugFatalities_2012": "259",
+      "GDP_2012": "157250.8",
+      "GeneralElectionTurnout_2012": "0.703",
+      "Population_2012": "3050767",
+      "DrugFatalities_2014": "264",
+      "GDP_2014": "171512.5",
+      "GeneralElectionTurnout_2014": "0.498",
+      "Population_2014": "3076097"
+    },
+    {
+      "COMPUTE_CENTROID_x": "387.356595981056",
+      "COMPUTE_CENTROID_y": "438.6052533165032",
+      "name": "Indiana",
+      "DrugFatalities_2010": "927",
+      "GDP_2010": "280120.7",
+      "GeneralElectionTurnout_2010": "0.371",
+      "Population_2011": "6484061",
+      "id": "IN",
+      "DrugFatalities_2012": "1011",
+      "GDP_2012": "297552.7",
+      "GeneralElectionTurnout_2012": "0.552",
+      "Population_2012": "6490436",
+      "DrugFatalities_2014": "1172",
+      "GDP_2014": "325040.6",
+      "GeneralElectionTurnout_2014": "0.278",
+      "Population_2014": "6537640"
+    },
+    {
+      "COMPUTE_CENTROID_x": "418.2756870089542",
+      "COMPUTE_CENTROID_y": "446.7582754525679",
+      "name": "Ohio",
+      "DrugFatalities_2010": "1835",
+      "GDP_2010": "497208.2",
+      "GeneralElectionTurnout_2010": "0.449",
+      "Population_2011": "11536757",
+      "id": "OH",
+      "DrugFatalities_2012": "2125",
+      "GDP_2012": "540819.3",
+      "GeneralElectionTurnout_2012": "0.645",
+      "Population_2012": "11539327",
+      "DrugFatalities_2014": "2744",
+      "GDP_2014": "593030.0",
+      "GeneralElectionTurnout_2014": "0.35100000000000003",
+      "Population_2014": "11548369"
+    },
+    {
+      "COMPUTE_CENTROID_x": "399.0535408494511",
+      "COMPUTE_CENTROID_y": "411.49225175798176",
+      "name": "Kentucky",
+      "DrugFatalities_2010": "1007",
+      "GDP_2010": "164605.5",
+      "GeneralElectionTurnout_2010": "0.424",
+      "Population_2011": "4339333",
+      "id": "KY",
+      "DrugFatalities_2012": "1078",
+      "GDP_2012": "176302.3",
+      "GeneralElectionTurnout_2012": "0.557",
+      "Population_2012": "4348200",
+      "DrugFatalities_2014": "1077",
+      "GDP_2014": "186694.5",
+      "GeneralElectionTurnout_2014": "0.442",
+      "Population_2014": "4386381"
+    },
+    {
+      "COMPUTE_CENTROID_x": "263.92232229234384",
+      "COMPUTE_CENTROID_y": "490.68055600650433",
+      "name": "South Dakota",
+      "DrugFatalities_2010": "45",
+      "GDP_2010": "37484.4",
+      "GeneralElectionTurnout_2010": "0.529",
+      "Population_2011": "814198",
+      "id": "SD",
+      "DrugFatalities_2012": "42",
+      "GDP_2012": "43444.6",
+      "GeneralElectionTurnout_2012": "0.593",
+      "Population_2012": "816165",
+      "DrugFatalities_2014": "63",
+      "GDP_2014": "46057.0",
+      "GeneralElectionTurnout_2014": "0.44299999999999995",
+      "Population_2014": "833496"
+    },
+    {
+      "COMPUTE_CENTROID_x": "265.7352126315916",
+      "COMPUTE_CENTROID_y": "455.8813985760883",
+      "name": "Nebraska",
+      "DrugFatalities_2010": "117",
+      "GDP_2010": "91812.8",
+      "GeneralElectionTurnout_2010": "0.375",
+      "Population_2011": "1826305",
+      "id": "NE",
+      "DrugFatalities_2012": "146",
+      "GDP_2012": "102269.0",
+      "GeneralElectionTurnout_2012": "0.603",
+      "Population_2012": "1829536",
+      "DrugFatalities_2014": "125",
+      "GDP_2014": "111330.7",
+      "GeneralElectionTurnout_2014": "0.405",
+      "Population_2014": "1853323"
+    },
+    {
+      "COMPUTE_CENTROID_x": "264.3978452439981",
+      "COMPUTE_CENTROID_y": "525.9465240657181",
+      "name": "North Dakota",
+      "DrugFatalities_2010": "23",
+      "GDP_2010": "35426.3",
+      "GeneralElectionTurnout_2010": "0.462",
+      "Population_2011": "672576",
+      "id": "ND",
+      "DrugFatalities_2012": "21",
+      "GDP_2012": "51345.1",
+      "GeneralElectionTurnout_2012": "0.598",
+      "Population_2012": "674710",
+      "DrugFatalities_2014": "43",
+      "GDP_2014": "58547.4",
+      "GeneralElectionTurnout_2014": "0.43799999999999994",
+      "Population_2014": "701116"
+    },
+    {
+      "COMPUTE_CENTROID_x": "440.6290000742052",
+      "COMPUTE_CENTROID_y": "429.4408341272365",
+      "name": "West Virginia",
+      "DrugFatalities_2010": "916",
+      "GDP_2010": "65274.1",
+      "GeneralElectionTurnout_2010": "0.368",
+      "Population_2011": "1853001",
+      "id": "WV",
+      "DrugFatalities_2012": "558",
+      "GDP_2012": "69399.0",
+      "GeneralElectionTurnout_2012": "0.46299999999999997",
+      "Population_2012": "1854214",
+      "DrugFatalities_2014": "627",
+      "GDP_2014": "72027.1",
+      "GeneralElectionTurnout_2014": "0.312",
+      "Population_2014": "1856764"
+    },
+    {
+      "COMPUTE_CENTROID_x": "331.89491353682104",
+      "COMPUTE_CENTROID_y": "416.95154175196006",
+      "name": "Missouri",
+      "DrugFatalities_2010": "998",
+      "GDP_2010": "258544.1",
+      "GeneralElectionTurnout_2010": "0.445",
+      "Population_2011": "5988952",
+      "id": "MO",
+      "DrugFatalities_2012": "942",
+      "GDP_2012": "268761.5",
+      "GeneralElectionTurnout_2012": "0.622",
+      "Population_2012": "5995976",
+      "DrugFatalities_2014": "1067",
+      "GDP_2014": "284729.4",
+      "GeneralElectionTurnout_2014": "0.317",
+      "Population_2014": "6024081"
+    },
+    {
+      "COMPUTE_CENTROID_x": "199.6231136138799",
+      "COMPUTE_CENTROID_y": "479.28966344003396",
+      "name": "Wyoming",
+      "DrugFatalities_2010": "630",
+      "GDP_2010": "37401.2",
+      "GeneralElectionTurnout_2010": "0.455",
+      "Population_2011": "563773",
+      "id": "WY",
+      "DrugFatalities_2012": "98",
+      "GDP_2012": "38431.7",
+      "GeneralElectionTurnout_2012": "0.586",
+      "Population_2012": "564483",
+      "DrugFatalities_2014": "109",
+      "GDP_2014": "39372.3",
+      "GeneralElectionTurnout_2014": "0.39",
+      "Population_2014": "576270"
+    },
+    {
+      "COMPUTE_CENTROID_x": "189.81158776417408",
+      "COMPUTE_CENTROID_y": "529.073527413826",
+      "name": "Montana",
+      "DrugFatalities_2010": "118",
+      "GDP_2010": "38054.6",
+      "GeneralElectionTurnout_2010": "0.475",
+      "Population_2011": "989409",
+      "id": "MT",
+      "DrugFatalities_2012": "118",
+      "GDP_2012": "42005.8",
+      "GeneralElectionTurnout_2012": "0.625",
+      "Population_2012": "990722",
+      "DrugFatalities_2014": "125",
+      "GDP_2014": "44529.2",
+      "GeneralElectionTurnout_2014": "0.469",
+      "Population_2014": "1003754"
+    },
+    {
+      "COMPUTE_CENTROID_x": "461.35159962411393",
+      "COMPUTE_CENTROID_y": "460.58922830604",
+      "name": "Pennsylvania",
+      "DrugFatalities_2010": "1916",
+      "GDP_2010": "599312.8",
+      "GeneralElectionTurnout_2010": "0.41700000000000004",
+      "Population_2011": "12702873",
+      "id": "PA",
+      "DrugFatalities_2012": "2365",
+      "GDP_2012": "641317.3",
+      "GeneralElectionTurnout_2012": "0.595",
+      "Population_2012": "12711158",
+      "DrugFatalities_2014": "2732",
+      "GDP_2014": "690675.4",
+      "GeneralElectionTurnout_2014": "0.361",
+      "Population_2014": "12766827"
+    },
+    {
+      "COMPUTE_CENTROID_x": "459.1862952674709",
+      "COMPUTE_CENTROID_y": "420.37926366791885",
+      "name": "Virginia",
+      "DrugFatalities_2010": "63",
+      "GDP_2010": "422902.0",
+      "GeneralElectionTurnout_2010": "0.387",
+      "Population_2011": "8001055",
+      "id": "VA",
+      "DrugFatalities_2012": "733",
+      "GDP_2012": "444950.0",
+      "GeneralElectionTurnout_2012": "0.6609999999999999",
+      "Population_2012": "8023680",
+      "DrugFatalities_2014": "980",
+      "GDP_2014": "463781.7",
+      "GeneralElectionTurnout_2014": "0.366",
+      "Population_2014": "8185229"
+    },
+    {
+      "COMPUTE_CENTROID_x": "211.9450900974784",
+      "COMPUTE_CENTROID_y": "429.5055434460539",
+      "name": "Colorado",
+      "DrugFatalities_2010": "654",
+      "GDP_2010": "255140.5",
+      "GeneralElectionTurnout_2010": "0.506",
+      "Population_2011": "5029316",
+      "id": "CO",
+      "DrugFatalities_2012": "807",
+      "GDP_2012": "273519.5",
+      "GeneralElectionTurnout_2012": "0.6990000000000001",
+      "Population_2012": "5048281",
+      "DrugFatalities_2014": "899",
+      "GDP_2014": "306362.0",
+      "GeneralElectionTurnout_2014": "0.537",
+      "Population_2014": "5193721"
+    },
+    {
+      "COMPUTE_CENTROID_x": "392.0399857259476",
+      "COMPUTE_CENTROID_y": "390.98077801102653",
+      "name": "Tennessee",
+      "DrugFatalities_2010": "1080",
+      "GDP_2010": "255935.8",
+      "GeneralElectionTurnout_2010": "0.34600000000000003",
+      "Population_2011": "6346286",
+      "id": "TN",
+      "DrugFatalities_2012": "1131",
+      "GDP_2012": "283721.8",
+      "GeneralElectionTurnout_2012": "0.519",
+      "Population_2012": "6355301",
+      "DrugFatalities_2014": "1269",
+      "GDP_2014": "304150.4",
+      "GeneralElectionTurnout_2014": "0.28600000000000003",
+      "Population_2014": "6451281"
+    },
+    {
+      "COMPUTE_CENTROID_x": "475.64688488919313",
+      "COMPUTE_CENTROID_y": "489.22388004306043",
+      "name": "New York",
+      "DrugFatalities_2010": "1557",
+      "GDP_2010": "1213946.9",
+      "GeneralElectionTurnout_2010": "0.355",
+      "Population_2011": "19378124",
+      "id": "NY",
+      "DrugFatalities_2012": "2106",
+      "GDP_2012": "1322447.9",
+      "GeneralElectionTurnout_2012": "0.531",
+      "Population_2012": "19400080",
+      "DrugFatalities_2014": "2300",
+      "GDP_2014": "1427812.7",
+      "GeneralElectionTurnout_2014": "0.282",
+      "Population_2014": "19574549"
+    },
+    {
+      "COMPUTE_CENTROID_x": "277.6066911595661",
+      "COMPUTE_CENTROID_y": "418.98380211565535",
+      "name": "Kansas",
+      "DrugFatalities_2010": "269",
+      "GDP_2010": "127744.8",
+      "GeneralElectionTurnout_2010": "0.41700000000000004",
+      "Population_2011": "2853126",
+      "id": "KS",
+      "DrugFatalities_2012": "318",
+      "GDP_2012": "140477.8",
+      "GeneralElectionTurnout_2012": "0.569",
+      "Population_2012": "2858213",
+      "DrugFatalities_2014": "332",
+      "GDP_2014": "148276.1",
+      "GeneralElectionTurnout_2014": "0.425",
+      "Population_2014": "2885361"
+    },
+    {
+      "COMPUTE_CENTROID_x": "156.7040286416008",
+      "COMPUTE_CENTROID_y": "441.16670413578765",
+      "name": "Utah",
+      "DrugFatalities_2010": "129",
+      "GDP_2010": "117960.5",
+      "GeneralElectionTurnout_2010": "0.363",
+      "Population_2011": "2763891",
+      "id": "UT",
+      "DrugFatalities_2012": "601",
+      "GDP_2012": "128721.0",
+      "GeneralElectionTurnout_2012": "0.555",
+      "Population_2012": "2775334",
+      "DrugFatalities_2014": "603",
+      "GDP_2014": "141342.9",
+      "GeneralElectionTurnout_2014": "0.297",
+      "Population_2014": "2853467"
+    },
+    {
+      "COMPUTE_CENTROID_x": "284.0460071957148",
+      "COMPUTE_CENTROID_y": "384.02535227749763",
+      "name": "Oklahoma",
+      "DrugFatalities_2010": "717",
+      "GDP_2010": "152911.4",
+      "GeneralElectionTurnout_2010": "0.38799999999999996",
+      "Population_2011": "3751583",
+      "id": "OK",
+      "DrugFatalities_2012": "771",
+      "GDP_2012": "173483.7",
+      "GeneralElectionTurnout_2012": "0.49200000000000005",
+      "Population_2012": "3759632",
+      "DrugFatalities_2014": "777",
+      "GDP_2014": "195689.0",
+      "GeneralElectionTurnout_2014": "0.299",
+      "Population_2014": "3818600"
+    },
+    {
+      "COMPUTE_CENTROID_x": "200.28037230148757",
+      "COMPUTE_CENTROID_y": "375.8526909285225",
+      "name": "New Mexico",
+      "DrugFatalities_2010": "478",
+      "GDP_2010": "83989.2",
+      "GeneralElectionTurnout_2010": "0.428",
+      "Population_2011": "2059180",
+      "id": "NM",
+      "DrugFatalities_2012": "492",
+      "GDP_2012": "87601.6",
+      "GeneralElectionTurnout_2012": "0.546",
+      "Population_2012": "2064588",
+      "DrugFatalities_2014": "547",
+      "GDP_2014": "92495.9",
+      "GeneralElectionTurnout_2014": "0.354",
+      "Population_2014": "2087549"
+    },
+    {
+      "COMPUTE_CENTROID_x": "142.54463610974744",
+      "COMPUTE_CENTROID_y": "505.795555120488",
+      "name": "Idaho",
+      "DrugFatalities_2010": "178",
+      "GDP_2010": "55170.7",
+      "GeneralElectionTurnout_2010": "0.423",
+      "Population_2011": "1567657",
+      "id": "ID",
+      "DrugFatalities_2012": "181",
+      "GDP_2012": "57764.4",
+      "GeneralElectionTurnout_2012": "0.598",
+      "Population_2012": "1570773",
+      "DrugFatalities_2014": "212",
+      "GDP_2014": "63614.9",
+      "GeneralElectionTurnout_2014": "0.39299999999999996",
+      "Population_2014": "1595441"
+    },
+    {
+      "COMPUTE_CENTROID_x": "146.62214533923375",
+      "COMPUTE_CENTROID_y": "382.1940894827591",
+      "name": "Arizona",
+      "DrugFatalities_2010": "1098",
+      "GDP_2010": "248210.0",
+      "GeneralElectionTurnout_2010": "0.41",
+      "Population_2011": "6392288",
+      "id": "AZ",
+      "DrugFatalities_2012": "1134",
+      "GDP_2012": "268288.8",
+      "GeneralElectionTurnout_2012": "0.526",
+      "Population_2012": "6407774",
+      "DrugFatalities_2014": "1211",
+      "GDP_2014": "284573.8",
+      "GeneralElectionTurnout_2014": "0.33399999999999996",
+      "Population_2014": "6556629"
+    },
+    {
+      "COMPUTE_CENTROID_x": "332.9065000577969",
+      "COMPUTE_CENTROID_y": "375.4880431129426",
+      "name": "Arkansas",
+      "DrugFatalities_2010": "350",
+      "GDP_2010": "101690.0",
+      "GeneralElectionTurnout_2010": "0.375",
+      "Population_2011": "2916028",
+      "id": "AR",
+      "DrugFatalities_2012": "373",
+      "GDP_2012": "108745.2",
+      "GeneralElectionTurnout_2012": "0.507",
+      "Population_2012": "2921978",
+      "DrugFatalities_2014": "356",
+      "GDP_2014": "117339.1",
+      "GeneralElectionTurnout_2014": "0.401",
+      "Population_2014": "2952109"
+    },
+    {
+      "COMPUTE_CENTROID_x": "112.37208715690149",
+      "COMPUTE_CENTROID_y": "450.7588268440975",
+      "name": "Nevada",
+      "DrugFatalities_2010": "578",
+      "GDP_2010": "123598.1",
+      "GeneralElectionTurnout_2010": "0.413",
+      "Population_2011": "2700679",
+      "id": "NV",
+      "DrugFatalities_2012": "602",
+      "GDP_2012": "128043.0",
+      "GeneralElectionTurnout_2012": "0.564",
+      "Population_2012": "2702464",
+      "DrugFatalities_2014": "545",
+      "GDP_2014": "135026.5",
+      "GeneralElectionTurnout_2014": "0.293",
+      "Population_2014": "2744566"
+    },
+    {
+      "COMPUTE_CENTROID_x": "264.7104414447389",
+      "COMPUTE_CENTROID_y": "335.0116782697608",
+      "name": "Texas",
+      "DrugFatalities_2010": "2399",
+      "GDP_2010": "1237196.8",
+      "GeneralElectionTurnout_2010": "0.321",
+      "Population_2011": "25146114",
+      "id": "TX",
+      "DrugFatalities_2012": "2447",
+      "GDP_2012": "1411378.7",
+      "GeneralElectionTurnout_2012": "0.496",
+      "Population_2012": "25242679",
+      "DrugFatalities_2014": "2601",
+      "GDP_2014": "1565390.2",
+      "GeneralElectionTurnout_2014": "0.28300000000000003",
+      "Population_2014": "26089620"
+    },
+    {
+      "COMPUTE_CENTROID_x": "92.89574858144715",
+      "COMPUTE_CENTROID_y": "512.2844629638842",
+      "name": "Oregon",
+      "DrugFatalities_2010": "503",
+      "GDP_2010": "163827.6",
+      "GeneralElectionTurnout_2010": "0.527",
+      "Population_2011": "3831075",
+      "id": "OR",
+      "DrugFatalities_2012": "490",
+      "GDP_2012": "174493.1",
+      "GeneralElectionTurnout_2012": "0.631",
+      "Population_2012": "3837532",
+      "DrugFatalities_2014": "522",
+      "GDP_2014": "189344.3",
+      "GeneralElectionTurnout_2014": "0.509",
+      "Population_2014": "3899118"
+    },
+    {
+      "COMPUTE_CENTROID_x": "104.08836390753662",
+      "COMPUTE_CENTROID_y": "551.3550127296055",
+      "name": "Washington",
+      "DrugFatalities_2010": "558",
+      "GDP_2010": "365551.9",
+      "GeneralElectionTurnout_2010": "0.532",
+      "Population_2011": "6724540",
+      "id": "WA",
+      "DrugFatalities_2012": "985",
+      "GDP_2012": "400863.3",
+      "GeneralElectionTurnout_2012": "0.648",
+      "Population_2012": "6742902",
+      "DrugFatalities_2014": "979",
+      "GDP_2014": "442442.4",
+      "GeneralElectionTurnout_2014": "0.41200000000000003",
+      "Population_2014": "6892876"
+    },
+    {
+      "COMPUTE_CENTROID_x": "458.7934388702119",
+      "COMPUTE_CENTROID_y": "396.09033993535155",
+      "name": "North Carolina",
+      "DrugFatalities_2010": "1093",
+      "GDP_2010": "415206.4",
+      "GeneralElectionTurnout_2010": "0.392",
+      "Population_2011": "9535736",
+      "id": "NC",
+      "DrugFatalities_2012": "1298",
+      "GDP_2012": "439571.0",
+      "GeneralElectionTurnout_2012": "0.648",
+      "Population_2012": "9574293",
+      "DrugFatalities_2014": "1358",
+      "GDP_2014": "475227.2",
+      "GeneralElectionTurnout_2014": "0.408",
+      "Population_2014": "9749123"
+    },
+    {
+      "COMPUTE_CENTROID_x": "491.0120820516947",
+      "COMPUTE_CENTROID_y": "458.45217798418923",
+      "name": "New Jersey",
+      "DrugFatalities_2010": "868",
+      "GDP_2010": "495149.0",
+      "GeneralElectionTurnout_2010": "0.364",
+      "Population_2011": "8791962",
+      "id": "NJ",
+      "DrugFatalities_2012": "1222",
+      "GDP_2012": "519745.8",
+      "GeneralElectionTurnout_2012": "0.615",
+      "Population_2012": "8799624",
+      "DrugFatalities_2014": "1253",
+      "GDP_2014": "546831.5",
+      "GeneralElectionTurnout_2014": "0.311",
+      "Population_2014": "8845483"
+    },
+    {
+      "COMPUTE_CENTROID_x": "361.89690985925023",
+      "COMPUTE_CENTROID_y": "351.2602578804681",
+      "name": "Mississippi",
+      "DrugFatalities_2010": "334",
+      "GDP_2010": "95208.4",
+      "GeneralElectionTurnout_2010": "0.37",
+      "Population_2011": "2968118",
+      "id": "MS",
+      "DrugFatalities_2012": "310",
+      "GDP_2012": "99614.6",
+      "GeneralElectionTurnout_2012": "0.593",
+      "Population_2012": "2970536",
+      "DrugFatalities_2014": "336",
+      "GDP_2014": "103658.1",
+      "GeneralElectionTurnout_2014": "0.29",
+      "Population_2014": "2983767"
+    },
+    {
+      "COMPUTE_CENTROID_x": "81.27559290283345",
+      "COMPUTE_CENTROID_y": "431.88681718531234",
+      "name": "California",
+      "DrugFatalities_2010": "4057",
+      "GDP_2010": "1974614.5",
+      "GeneralElectionTurnout_2010": "0.44",
+      "Population_2011": "37254523",
+      "id": "CA",
+      "DrugFatalities_2012": "4040",
+      "GDP_2012": "2144497.3",
+      "GeneralElectionTurnout_2012": "0.551",
+      "Population_2012": "37320903",
+      "DrugFatalities_2014": "4521",
+      "GDP_2014": "2396552.1",
+      "GeneralElectionTurnout_2014": "0.299",
+      "Population_2014": "37960782"
+    },
+    {
+      "COMPUTE_CENTROID_x": "473.2098174886269",
+      "COMPUTE_CENTROID_y": "440.8524305734975",
+      "name": "Maryland",
+      "DrugFatalities_2010": "650",
+      "GDP_2010": "316451.5",
+      "GeneralElectionTurnout_2010": "0.46399999999999997",
+      "Population_2011": "5773798",
+      "id": "MD",
+      "DrugFatalities_2012": "831",
+      "GDP_2012": "334821.6",
+      "GeneralElectionTurnout_2012": "0.6659999999999999",
+      "Population_2012": "5788642",
+      "DrugFatalities_2014": "1070",
+      "GDP_2014": "352524.3",
+      "GeneralElectionTurnout_2014": "0.41700000000000004",
+      "Population_2014": "5887072"
+    },
+    {
+      "COMPUTE_CENTROID_x": "390.40067393238775",
+      "COMPUTE_CENTROID_y": "353.4646611232423",
+      "name": "Alabama",
+      "DrugFatalities_2010": "547",
+      "GDP_2010": "174753.0",
+      "GeneralElectionTurnout_2010": "0.43",
+      "Population_2011": "4780138",
+      "id": "AL",
+      "DrugFatalities_2012": "562",
+      "GDP_2012": "186299.0",
+      "GeneralElectionTurnout_2012": "0.586",
+      "Population_2012": "4785448",
+      "DrugFatalities_2014": "723",
+      "GDP_2014": "194059.7",
+      "GeneralElectionTurnout_2014": "0.32899999999999996",
+      "Population_2014": "4815564"
+    },
+    {
+      "COMPUTE_CENTROID_x": "503.66989980570764",
+      "COMPUTE_CENTROID_y": "478.60155864501735",
+      "name": "Connecticut",
+      "DrugFatalities_2010": "363",
+      "GDP_2010": "237653.4",
+      "GeneralElectionTurnout_2010": "0.45899999999999996",
+      "Population_2011": "3574147",
+      "id": "CT",
+      "DrugFatalities_2012": "439",
+      "GDP_2012": "243801.0",
+      "GeneralElectionTurnout_2012": "0.613",
+      "Population_2012": "3579125",
+      "DrugFatalities_2014": "623",
+      "GDP_2014": "248954.2",
+      "GeneralElectionTurnout_2014": "0.423",
+      "Population_2014": "3594395"
+    },
+    {
+      "COMPUTE_CENTROID_x": "423.6468995459305",
+      "COMPUTE_CENTROID_y": "355.537212894347",
+      "name": "Georgia",
+      "DrugFatalities_2010": "1054",
+      "GDP_2010": "416883.8",
+      "GeneralElectionTurnout_2010": "0.39799999999999996",
+      "Population_2011": "9688709",
+      "id": "GA",
+      "DrugFatalities_2012": "1056",
+      "GDP_2012": "444132.2",
+      "GeneralElectionTurnout_2012": "0.59",
+      "Population_2012": "9711810",
+      "DrugFatalities_2014": "1206",
+      "GDP_2014": "484915.4",
+      "GeneralElectionTurnout_2014": "0.382",
+      "Population_2014": "9901496"
+    },
+    {
+      "COMPUTE_CENTROID_x": "338.71543315450305",
+      "COMPUTE_CENTROID_y": "330.0232168230932",
+      "name": "Louisiana",
+      "DrugFatalities_2010": "591",
+      "GDP_2010": "225677.0",
+      "GeneralElectionTurnout_2010": "0.389",
+      "Population_2011": "4533485",
+      "id": "LA",
+      "DrugFatalities_2012": "566",
+      "GDP_2012": "233623.1",
+      "GeneralElectionTurnout_2012": "0.602",
+      "Population_2012": "4544532",
+      "DrugFatalities_2014": "777",
+      "GDP_2014": "237876.9",
+      "GeneralElectionTurnout_2014": "0.439",
+      "Population_2014": "4600814"
+    },
+    {
+      "COMPUTE_CENTROID_x": "509.9728753240902",
+      "COMPUTE_CENTROID_y": "488.2358807222311",
+      "name": "Massachusetts",
+      "DrugFatalities_2010": "738",
+      "GDP_2010": "409762.5",
+      "GeneralElectionTurnout_2010": "0.489",
+      "Population_2011": "6547790",
+      "id": "MA",
+      "DrugFatalities_2012": "859",
+      "GDP_2012": "444329.8",
+      "GeneralElectionTurnout_2012": "0.659",
+      "Population_2012": "6566431",
+      "DrugFatalities_2014": "1289",
+      "GDP_2014": "473454.4",
+      "GeneralElectionTurnout_2014": "0.441",
+      "Population_2014": "6663158"
+    },
+    {
+      "COMPUTE_CENTROID_x": "497.4133616990364",
+      "COMPUTE_CENTROID_y": "506.8545938211094",
+      "name": "Vermont",
+      "DrugFatalities_2010": "433",
+      "GDP_2010": "27108.4",
+      "GeneralElectionTurnout_2010": "0.494",
+      "Population_2011": "625744",
+      "id": "VT",
+      "DrugFatalities_2012": "70",
+      "GDP_2012": "28887.4",
+      "GeneralElectionTurnout_2012": "0.607",
+      "Population_2012": "625880",
+      "DrugFatalities_2014": "83",
+      "GDP_2014": "29714.4",
+      "GeneralElectionTurnout_2014": "0.389",
+      "Population_2014": "626063"
+    },
+    {
+      "COMPUTE_CENTROID_x": "513.2611415281026",
+      "COMPUTE_CENTROID_y": "482.1505865223421",
+      "name": "Rhode Island",
+      "DrugFatalities_2010": "167",
+      "GDP_2010": "49571.8",
+      "GeneralElectionTurnout_2010": "0.44799999999999995",
+      "Population_2011": "1052957",
+      "id": "RI",
+      "DrugFatalities_2012": "196",
+      "GDP_2012": "51642.0",
+      "GeneralElectionTurnout_2012": "0.58",
+      "Population_2012": "1053938",
+      "DrugFatalities_2014": "247",
+      "GDP_2014": "54573.3",
+      "GeneralElectionTurnout_2014": "0.41700000000000004",
+      "Population_2014": "1054601"
+    },
+    {
+      "COMPUTE_CENTROID_x": "486.9087007671974",
+      "COMPUTE_CENTROID_y": "442.1647480376441",
+      "name": "Delaware",
+      "DrugFatalities_2010": "145",
+      "GDP_2010": "57447.4",
+      "GeneralElectionTurnout_2010": "0.475",
+      "Population_2011": "897934",
+      "id": "DE",
+      "DrugFatalities_2012": "141",
+      "GDP_2012": "61975.8",
+      "GeneralElectionTurnout_2012": "0.623",
+      "Population_2012": "899595",
+      "DrugFatalities_2014": "189",
+      "GDP_2014": "67178.9",
+      "GeneralElectionTurnout_2014": "0.34299999999999997",
+      "Population_2014": "915188"
+    },
+    {
+      "COMPUTE_CENTROID_x": "507.6493957630815",
+      "COMPUTE_CENTROID_y": "504.9563312108479",
+      "name": "New Hampshire",
+      "DrugFatalities_2010": "160",
+      "GDP_2010": "64151.6",
+      "GeneralElectionTurnout_2010": "0.457",
+      "Population_2011": "1316464",
+      "id": "NH",
+      "DrugFatalities_2012": "173",
+      "GDP_2012": "67689.2",
+      "GeneralElectionTurnout_2012": "0.7020000000000001",
+      "Population_2012": "1316777",
+      "DrugFatalities_2014": "334",
+      "GDP_2014": "72368.7",
+      "GeneralElectionTurnout_2014": "0.47600000000000003",
+      "Population_2014": "1323962"
+    },
+    {
+      "COMPUTE_CENTROID_x": "446.40915208712465",
+      "COMPUTE_CENTROID_y": "374.0048097779223",
+      "name": "South Carolina",
+      "DrugFatalities_2010": "678",
+      "GDP_2010": "163856.8",
+      "GeneralElectionTurnout_2010": "0.397",
+      "Population_2011": "4625381",
+      "id": "SC",
+      "DrugFatalities_2012": "587",
+      "GDP_2012": "175374.8",
+      "GeneralElectionTurnout_2012": "0.563",
+      "Population_2012": "4635656",
+      "DrugFatalities_2014": "701",
+      "GDP_2014": "191967.4",
+      "GeneralElectionTurnout_2014": "0.348",
+      "Population_2014": "4717112"
+    },
+    {
+      "COMPUTE_CENTROID_x": "439.5557423562654",
+      "COMPUTE_CENTROID_y": "309.2462110209438",
+      "name": "Florida",
+      "DrugFatalities_2010": "3061",
+      "GDP_2010": "737791.1",
+      "GeneralElectionTurnout_2010": "0.41700000000000004",
+      "Population_2011": "18804580",
+      "id": "FL",
+      "DrugFatalities_2012": "2597",
+      "GDP_2012": "769309.1",
+      "GeneralElectionTurnout_2012": "0.628",
+      "Population_2012": "18845785",
+      "DrugFatalities_2014": "2634",
+      "GDP_2014": "839706.0",
+      "GeneralElectionTurnout_2014": "0.428",
+      "Population_2014": "19326230"
+    },
+    {
+      "COMPUTE_CENTROID_x": "521.9381945606854",
+      "COMPUTE_CENTROID_y": "529.0785998746504",
+      "name": "Maine",
+      "DrugFatalities_2010": "135",
+      "GDP_2010": "51710.7",
+      "GeneralElectionTurnout_2010": "0.552",
+      "Population_2011": "1328369",
+      "id": "ME",
+      "DrugFatalities_2012": "150",
+      "GDP_2012": "52874.0",
+      "GeneralElectionTurnout_2012": "0.682",
+      "Population_2012": "1327632",
+      "DrugFatalities_2014": "216",
+      "GDP_2014": "55875.1",
+      "GeneralElectionTurnout_2014": "0.581",
+      "Population_2014": "1327691"
+    }
+  ],
+  "links": [
+    {
+      "nodes": [
+        "DE",
+        "MD"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "DE",
+        "NJ"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TX",
+        "AR"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TX",
+        "LA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TX",
+        "OK"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TX",
+        "NM"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "FL",
+        "GA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "FL",
+        "AL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NV",
+        "OR"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NV",
+        "AZ"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NV",
+        "ID"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NV",
+        "CA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NV",
+        "UT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WA",
+        "OR"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WA",
+        "ID"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NY",
+        "CT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NY",
+        "PA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NY",
+        "MA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NY",
+        "NJ"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NY",
+        "VT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "SC",
+        "NC"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "SC",
+        "GA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "SD",
+        "MN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "SD",
+        "WY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "SD",
+        "ND"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "SD",
+        "MT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "SD",
+        "NE"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "SD",
+        "IA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WI",
+        "MN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WI",
+        "IL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WI",
+        "IA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WI",
+        "MI"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MA",
+        "CT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MA",
+        "RI"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MA",
+        "NH"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MA",
+        "NY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MA",
+        "VT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MD",
+        "PA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MD",
+        "DE"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MD",
+        "VA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MD",
+        "WV"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IA",
+        "SD"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IA",
+        "MO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IA",
+        "WI"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IA",
+        "IL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IA",
+        "NE"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "ME",
+        "NH"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OH",
+        "PA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OH",
+        "IN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OH",
+        "MI"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OH",
+        "KY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OH",
+        "WV"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "GA",
+        "SC"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "GA",
+        "NC"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "GA",
+        "FL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "GA",
+        "AL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "ID",
+        "WY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "ID",
+        "OR"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "ID",
+        "MT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "ID",
+        "NV"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "ID",
+        "WA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "ID",
+        "UT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MI",
+        "WI"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MI",
+        "IN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MI",
+        "OH"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OK",
+        "AR"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OK",
+        "MO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OK",
+        "TX"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OK",
+        "KS"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OK",
+        "CO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OK",
+        "NM"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CA",
+        "OR"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CA",
+        "NV"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CA",
+        "AZ"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WV",
+        "PA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WV",
+        "MD"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WV",
+        "OH"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WV",
+        "VA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WV",
+        "KY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "UT",
+        "WY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "UT",
+        "NV"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "UT",
+        "AZ"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "UT",
+        "ID"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "UT",
+        "CO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MN",
+        "SD"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MN",
+        "WI"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MN",
+        "ND"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MO",
+        "AR"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MO",
+        "IL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MO",
+        "NE"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MO",
+        "KS"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MO",
+        "IA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MO",
+        "TN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MO",
+        "OK"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MO",
+        "KY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WY",
+        "SD"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WY",
+        "NE"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WY",
+        "MT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WY",
+        "ID"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WY",
+        "CO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "WY",
+        "UT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IL",
+        "MO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IL",
+        "WI"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IL",
+        "IN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IL",
+        "IA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IL",
+        "KY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OR",
+        "NV"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OR",
+        "WA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OR",
+        "ID"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "OR",
+        "CA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IN",
+        "IL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IN",
+        "OH"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IN",
+        "MI"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "IN",
+        "KY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MS",
+        "AR"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MS",
+        "LA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MS",
+        "TN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MS",
+        "AL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MT",
+        "SD"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MT",
+        "WY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MT",
+        "ND"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "MT",
+        "ID"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KS",
+        "MO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KS",
+        "NE"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KS",
+        "CO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KS",
+        "OK"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "VA",
+        "NC"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "VA",
+        "MD"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "VA",
+        "TN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "VA",
+        "KY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "VA",
+        "WV"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AL",
+        "MS"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AL",
+        "FL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AL",
+        "TN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AL",
+        "GA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CO",
+        "WY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CO",
+        "NE"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CO",
+        "KS"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CO",
+        "OK"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CO",
+        "UT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CO",
+        "NM"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KY",
+        "MO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KY",
+        "IL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KY",
+        "IN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KY",
+        "OH"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KY",
+        "TN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KY",
+        "VA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "KY",
+        "WV"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "PA",
+        "DE"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "PA",
+        "MD"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "PA",
+        "OH"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "PA",
+        "NY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "PA",
+        "NJ"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "PA",
+        "WV"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AR",
+        "MO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AR",
+        "TX"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AR",
+        "LA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AR",
+        "MS"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AR",
+        "TN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AR",
+        "OK"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CT",
+        "MA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CT",
+        "RI"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "CT",
+        "NY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NC",
+        "SC"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NC",
+        "TN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NC",
+        "GA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NC",
+        "VA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "LA",
+        "AR"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "LA",
+        "TX"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "LA",
+        "MS"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "ND",
+        "SD"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "ND",
+        "MN"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "ND",
+        "MT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NE",
+        "SD"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NE",
+        "WY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NE",
+        "MO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NE",
+        "KS"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NE",
+        "IA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NE",
+        "CO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "RI",
+        "CT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "RI",
+        "MA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AZ",
+        "NV"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AZ",
+        "CA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AZ",
+        "UT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "AZ",
+        "NM"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TN",
+        "AR"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TN",
+        "MO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TN",
+        "NC"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TN",
+        "MS"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TN",
+        "AL"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TN",
+        "VA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "TN",
+        "KY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NH",
+        "MA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NH",
+        "ME"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NH",
+        "VT"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NJ",
+        "PA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NJ",
+        "DE"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NJ",
+        "NY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "VT",
+        "MA"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "VT",
+        "NH"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "VT",
+        "NY"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NM",
+        "TX"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NM",
+        "AZ"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NM",
+        "CO"
+      ],
+      "directed": false
+    },
+    {
+      "nodes": [
+        "NM",
+        "OK"
+      ],
+      "directed": false
+    }
+  ]
+}
