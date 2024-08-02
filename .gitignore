@@ -5,3 +5,209 @@ data/scotch/clean/fe_144.json
 data/scotch/clean/fe_bcsstk32.json
 data/scotch/clean/fe_bcsstk30.json
 zipfiles
+zipfiles_extras
+zipfiles_gexf
+zipfiles_gml
+zipfiles_graphml
+
+data/airlines-migration-air traffic/airlines-migration-air traffic
+data/airlines-migration-air traffic/airlines-migration-air traffic_gexf
+data/airlines-migration-air traffic/airlines-migration-air traffic_gml
+data/airlines-migration-air traffic/airlines-migration-air traffic_graphml
+data/airlines-migration-air traffic/charts
+data/airlines-migration-air traffic/clean
+data/airlines-migration-air traffic/clean_nx_json
+data/autonomous system network/autonomous system network
+data/autonomous system network/autonomous system network_gexf
+data/autonomous system network/autonomous system network_gml
+data/autonomous system network/autonomous system network_graphml
+data/blogposts-tweets-forum/blogposts-tweets-forum
+data/blogposts-tweets-forum/blogposts-tweets-forum_gexf
+data/blogposts-tweets-forum/blogposts-tweets-forum_gml
+data/blogposts-tweets-forum/blogposts-tweets-forum_graphml
+data/blogposts-tweets-forum/charts
+data/blogposts-tweets-forum/clean
+data/blogposts-tweets-forum/clean_nx_json
+data/california/california
+data/california/california_gexf
+data/california/california_gml
+data/california/california_graphml
+data/california/charts
+data/california/clean
+data/california/clean_nx_json
+data/chess/charts
+data/chess/chess
+data/chess/chess_gexf
+data/chess/chess_gml
+data/chess/chess_graphml
+data/chess/clean
+data/chess/clean_nx_json
+data/code/charts
+data/code/clean
+data/code/clean_nx_json
+data/code/code
+data/code/code_gexf
+data/code/code_gml
+data/code/code_graphml
+data/collaborations/charts
+data/collaborations/clean
+data/collaborations/clean_nx_json
+data/collaborations/collaborations
+data/collaborations/collaborations_gexf
+data/collaborations/collaborations_gml
+data/collaborations/collaborations_graphml
+data/complete graphs/charts
+data/complete graphs/clean
+data/complete graphs/clean_nx_json
+data/complete graphs/complete graphs
+data/complete graphs/complete graphs_gexf
+data/complete graphs/complete graphs_gml
+data/complete graphs/complete graphs_graphml
+data/dblp/dblp
+data/dblp/dblp_gexf
+data/dblp/dblp_gml
+data/dblp/dblp_graphml
+data/debates/debates
+data/debates/debates_gexf
+data/debates/debates_gml
+data/debates/debates_graphml
+data/Enron/Enron
+data/Enron/Enron_gexf
+data/Enron/Enron_gml
+data/Enron/Enron_graphml
+data/evolution/charts
+data/evolution/clean
+data/evolution/clean_nx_json
+data/evolution/evolution
+data/evolution/evolution_gexf
+data/evolution/evolution_gml
+data/evolution/evolution_graphml
+data/graphviz examples/charts
+data/graphviz examples/clean
+data/graphviz examples/clean_nx_json
+data/graphviz examples/graphviz examples
+data/graphviz examples/graphviz examples_gexf
+data/graphviz examples/graphviz examples_gml
+data/graphviz examples/graphviz examples_graphml
+data/investment interdependence/charts
+data/investment interdependence/clean
+data/investment interdependence/clean_nx_json
+data/investment interdependence/investment interdependence
+data/investment interdependence/investment interdependence_gexf
+data/investment interdependence/investment interdependence_gml
+data/investment interdependence/investment interdependence_graphml
+data/KEGG pathways/charts
+data/KEGG pathways/clean
+data/KEGG pathways/clean_nx_json
+data/KEGG pathways/KEGG pathways
+data/KEGG pathways/KEGG pathways_gexf
+data/KEGG pathways/KEGG pathways_gml
+data/KEGG pathways/KEGG pathways_graphml
+data/knownCR/charts
+data/knownCR/clean
+data/knownCR/clean_nx_json
+data/knownCR/knownCR
+data/knownCR/knownCR_gexf
+data/knownCR/knownCR_gml
+data/knownCR/knownCR_graphml
+data/MID/charts
+data/MID/clean
+data/MID/clean_nx_json
+data/MID/data
+data/MID/MID
+data/MID/MID_gexf
+data/MID/MID_gml
+data/MID/MID_graphml
+data/north/charts
+data/north/clean
+data/north/clean_nx_json
+data/north/north
+data/north/north_gexf
+data/north/north_gml
+data/north/north_graphml
+data/protein interactions/charts
+data/protein interactions/clean
+data/protein interactions/clean_nx_json
+data/protein interactions/protein interactions
+data/protein interactions/protein interactions_gexf
+data/protein interactions/protein interactions_gml
+data/protein interactions/protein interactions_graphml
+data/randDAG/charts
+data/randDAG/clean
+data/randDAG/clean_nx_json
+data/randDAG/randDAG
+data/randDAG/randDAG_gexf
+data/randDAG/randDAG_gml
+data/randDAG/randDAG_graphml
+data/rome/charts
+data/rome/clean
+data/rome/clean_nx_json
+data/rome/rome
+data/rome/rome_gexf
+data/rome/rome_gml
+data/rome/rome_graphml
+data/scotch/charts
+data/scotch/clean
+data/scotch/clean_nx_json
+data/scotch/scotch
+data/scotch/scotch_gexf
+data/scotch/scotch_gml
+data/scotch/scotch_graphml
+data/steinlib/charts
+data/steinlib/clean
+data/steinlib/clean_nx_json
+data/steinlib/steinlib
+data/steinlib/steinlib_gexf
+data/steinlib/steinlib_gml
+data/steinlib/steinlib_graphml
+data/Storylines/charts
+data/Storylines/clean
+data/Storylines/clean_nx_json
+data/Storylines/Storylines
+data/Storylines/Storylines_gexf
+data/Storylines/Storylines_gml
+data/Storylines/Storylines_graphml
+data/Trade data/charts
+data/Trade data/clean
+data/Trade data/clean_nx_json
+data/Trade data/Trade data
+data/Trade data/Trade data_gexf
+data/Trade data/Trade data_gml
+data/Trade data/Trade data_graphml
+data/transportation/charts
+data/transportation/clean_nx_json
+data/transportation/transportation
+data/transportation/transportation_gexf
+data/transportation/transportation_gml
+data/transportation/transportation_graphml
+data/Tree of Life/charts
+data/Tree of Life/clean
+data/Tree of Life/clean_nx_json
+data/Tree of Life/Tree of Life
+data/Tree of Life/Tree of Life_gexf
+data/Tree of Life/Tree of Life_gml
+data/Tree of Life/Tree of Life_graphml
+data/webcompute/charts
+data/webcompute/clean
+data/webcompute/clean_nx_json
+data/webcompute/webcompute
+data/webcompute/webcompute_gexf
+data/webcompute/webcompute_gml
+data/webcompute/webcompute_graphml
+data/world-greenhouse-gas-emissions/charts
+data/world-greenhouse-gas-emissions/clean
+data/world-greenhouse-gas-emissions/clean_nx_json
+data/world-greenhouse-gas-emissions/world-greenhouse-gas-emissions
+data/world-greenhouse-gas-emissions/world-greenhouse-gas-emissions_gexf
+data/world-greenhouse-gas-emissions/world-greenhouse-gas-emissions_gml
+data/world-greenhouse-gas-emissions/world-greenhouse-gas-emissions_graphml
+data/world maps/charts
+data/world maps/clean
+data/world maps/clean_nx_json
+data/world maps/world maps
+data/world maps/world maps_gexf
+data/world maps/world maps_gml
+data/world maps/world maps_graphml
+data/Storylines/EpiSimS/README.txt
+data/Storylines/Matrix/README.txt
+data/Tree of Life/clean_nx_json/tree_of_life.json
