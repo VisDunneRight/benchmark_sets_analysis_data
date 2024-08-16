@@ -1,6 +1,6 @@
 # Benchmark Datasets
 
-A collection of datasets used in graph visualization research.
+A collection of datasets used in graph visualization research, as well as graph format conversion code and analysis code. See <https://osf.io/j7ucv/> for more details on the related publication and supplemental materials.
 
 Authors: [Connor Wilson](https://vis.khoury.northeastern.edu/people/Connor-Wilson/) (corresponding author) and [Eduardo Puerta](https://vis.khoury.northeastern.edu/people/Eduardo-Puerta/)
 
